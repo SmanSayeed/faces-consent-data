@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Sugaring",
+                        "disclaimer": "This consent form is intended to ensure you fully understand the sugaring hair removal treatment, its purpose, potential benefits, possible risks, aftercare requirements, and available alternatives. Please read carefully before signing. If anything is unclear, your practitioner will be happy to explain further before you proceed.\n\nSugaring is a natural hair removal technique that uses a paste made of sugar, lemon juice, and water to remove hair from the root. It is an effective and gentle alternative to traditional waxing, suitable for various areas of the body, including the legs, arms, face, and bikini line. The paste is applied to the skin in the direction of hair growth and then quickly removed in the opposite direction, pulling hair from the follicle.\n\nThe benefits of sugaring include smoother skin, reduced hair growth over time, and the use of natural ingredients that are less likely to irritate the skin compared to other hair removal methods. Sugaring can also be less painful than waxing, as the paste does not stick to the skin but only to the hair, making it a more comfortable option for many people. Sugaring also exfoliates the skin, leaving it soft and rejuvenated.\n\nAs with all hair removal treatments, there are risks. Common side effects include redness, irritation, or slight discomfort at the treated area, which typically resolves within a few hours. Less common risks include allergic reactions to the ingredients, skin sensitivity, bruising, ingrown hairs, or infections. It is important to avoid applying the paste to broken or irritated skin, as this can lead to further complications. If you have any concerns regarding your skin's reaction, you should contact your practitioner immediately.\n\nAlternatives to sugaring include other hair removal methods such as waxing, shaving, laser hair removal, or epilation. Each method has its pros and cons, depending on the area of treatment, hair type, and personal preference. Your practitioner will discuss the most suitable option based on your skin and hair characteristics.\n\nAftercare is important to ensure the best results and reduce the risk of complications. You should avoid sun exposure, hot showers, and tight clothing in the treated area for 24 hours after treatment. Exfoliating the skin regularly can help prevent ingrown hairs. It is also recommended to avoid using deodorants, perfumes, or any harsh skin products on the treated areas for a few days after sugaring. You should avoid strenuous activities that may cause excessive sweating in the treated area to prevent irritation.\n\nYou must provide complete and accurate medical history, including any skin conditions, allergies, or medications, to ensure sugaring is safe for you.\n\nInformed Consent and Photography\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice. This includes advice about:\n\nthe aims/motivations for having the procedure and the desired outcome\n\nthe risks inherent in the procedure\n\nthe risks inherent in refusing the procedure\n\nthe risks specific to me\n\nthe expected benefits of the treatment\n\nthe potential disadvantages of the treatment\n\nalternative procedures and their pros and cons – including the option of no treatment at all\n\nany uncertainties about and the likelihood of success of the procedure\n\nany follow-up treatment that may be required\n\nClinical Photographs and Videos: I agree to and authorise the taking of clinical photographs and videos. I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision. I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

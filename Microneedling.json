@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Microneedling",
+                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of microneedling. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment.\n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\n\nMicroneedling is a skin treatment used to rejuvenate the skin and improve the skins surface. It can be used to improve the appearance of fine lines, expression lines, wrinkles, enlarged pores, and acne scars, hyperpigmentation and stretch marks. As the microneedling device moves across the skin, it makes multiple small needle punctures in the skin’s outer epidermis layer, creating very minor micro injuries. In response to the perceived injury, new collagen synthesis is triggered and the micro holes created allow passage of healing serums. These treatment effects aim to produce overall skin rejuvenation. \n\nThe microneedling device is used to make multiple small micro needle punctures in the skin. Prior to the procedure, topical anaesthetic cream is applied to improve your comfort. Basic micro needling treatment includes the application of healing gels and serums during the procedure. When microneedling is administered as a part of the vampire facial, the patient's own blood-derived growth factors and platelet rich plasma (PRP) are applied during the procedure. The entire procedure is normally completed within 30-60 minutes depending on the required treatment and the anatomical site. \n\nMore than one treatment will likely be required to achieve or maintain results, but this depends on the treatment aim and client response to treatment. Results can be seen at 2-3 weeks after treatment, but peak results are usually seen at 4-6 weeks. The duration of results varies between clients and there is no guarantee that you will achieve desired results. Microneedling does not prevent recurrence of the condition being treated.\n\nI understand that several appointments may be necessary to produce optimal results and I will be notified, in advance of each session of treatment, about the location where the next treatment session is going to take place and the identity of who is going to be involved in my care at each stage.  I also understand that I will be kept informed of progress and that I can change my mind at any point.\n\nAfter treatment, you should minimise exposure of the treated area to excessive sun or UV lamp exposure and extreme cold weather until any initial swelling or redness has gone away.\n\n\n\nRISKS AND SIDE EFFECTS: As with any procedure there are possible risks associated, it is important that you are aware of all the possible risks and fully discuss these with your practitioner before proceeding. \n\nCommon side effects of microneedling include discomfort or pain during and after the procedure (often described as a stinging sensation). Pain is worse particularly in areas of bony prominence or where the skin is thinner. Immediately following the procedure, the skin may feel tight, swollen, and sensitive to the touch. It will also look red and feel sunburned. The sensitivity and redness will likely diminish significantly within 24 hours and should fully resolve by 7 days. Sometimes people can faint or feel faint with needles, you must tell your practitioner as soon as possible if you feel unwell during the treatment.\n\n\nOther common short-term side effects include itching, discomfort, pinpoint bleeding or bruising, scabbing, and darkening of the treated area. \n\nUncommon side effects include skin infection (cellulitis), reactivation of cold sores (herpes simplex outbreak), hyperpigmentation (darkening of the skin), and hypopigmentation (lightening of the skin). Darkening or lightening of the skin usually fades within 6 months, but in rare cases, could be permanent. This reaction is more common in patients who tan or who have darker skin tones and can be exacerbated by sun exposure. The risk of pigmentation changes can be minimised by avoiding sun exposure for 4 weeks before and after treatment, using appropriate sunscreen/ SPF cream and by adhering to the pre and post treatment instructions. \n\nRare side effects of microneedling include skin scarring which may be permanent.\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records. \n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

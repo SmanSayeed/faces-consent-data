@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Dermaplaning",
+                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform  you of the potential benefits and risks of dermaplaning. It is important that you read this  information carefully and discuss fully with your practitioner before proceeding with treatment. \n\nIt is also important that you take as much time as you need to consider the treatment carefully,  weighing up all your options before reaching an informed decision. It is essential that you ar e  aware of your right to have a second opinion and you are encouraged to ask any questions that  come to mind throughout the entirety of the process. \n\nDermaplaning is a skin treatment that involves the use of a scalpel blade to exfoliate the  superficial skin layers leaving the skin looking smoother and more youthful afterwards. Dead cells from the epidermis are removed as well as unwanted vellus hair (peach fuzz).  Dermaplaning may also give additional improvements such as reduction in the appearance of  fine lines & temporary fading of pigmentation in some cases. As with any exfoliation treatment  dermaplaning reduces natural skin barriers that often allow skin products to work more  effectively afterwards. \n\nI acknowledge that there are no specific guarantees concerning the expected result. I  understand that the degree of improvement is variable between clients and there is a risk of  treatment failure or unsatisfactory results. In the event of unsatisfactory results, I may require  additional treatments or a different modality of skin treatment. Dermaplaning can be safely done  every 4-6 weeks.  \n\nI understand that several appointments may be necessary to produce optimal results and I will  be notified, in advance of each session of treatment, about the location where the next  treatment session is going to take place and the identity of who is going to be involved in my  care at each stage. I also understand that I will be kept informed of progress and that I can  change my mind at any point. \n\nI understand that this procedure uses a dermaplaning blade, which is mildly abrasive therefore I  will follow the explicit aftercare instructions of my skincare therapist.  \n\nRISKS AND SIDE EFFECTS: Although dermaplaning is a low risk and safe treatment, as with  any procedure there are potential risks and complications. It is important you are aware of these  and fully discuss with your practitioner before going ahead.  \n\nCommon side effects of dermaplaning include mild skin discomfort and a red appearance to the  skin which usually resolves within 24 hours. Some people may develop whitehead spots within  a few days after treatment. \n\nRare side effects include skin infection (cellulitis) requiring medical attention or skin scarring  which may be permanent despite treatment. Another rare side effect is a change in skin  pigmentation to either lighter or darker. This will often improve aver 6 months but occasionally  pigmentation changes can be permanent. \n\nI have been advised of the relevant information associated with this treatment and I confirm that  I fully understand this advice. This includes advice about: \n\n• the aims/motivations for having the procedure and the desired outcome • the risks inherent in the procedure \n• the risks inherent in refusing the procedure \n• the risks specific to me \n• the expected benefits of the treatment \n• the potential disadvantages of the treatment \n• alternative procedures and their pros and cons - including the option of no treatment at all \n• any uncertainties about and the likelihood of success of the procedure \n• any follow-up treatment that may be required \n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs  and videos. I understand that these clinical photographs and videos will form part of and will be  kept with my confidential medical records.\" \n\nI have been asked what information I want and would need in order to make an informed  decision. I have been given the opportunity to discuss my desired outcome fully in order for me  to make an informed decision. \n\nI certify by signing this form that you have read the information in this document and completely  understand it. I choose to proceed based entirely on the information provided in this informed  consent document. You have been given all necessary opportunities for discussion and all your  questions regarding dermaplaning have been answered. I therefore and hereby consent to the  care or treatment described herein. \n\nAny discrepancies must be taken up with the practitioner within 1 month of treatment. I certify that I have read the above consent and that I fully understand it. I have been given  ample opportunity for discussion and all my questions have been answered to my satisfaction.  No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and  supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of injection?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you taken a Botox treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
