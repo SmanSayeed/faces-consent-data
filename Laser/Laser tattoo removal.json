@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Tattoo Removal",
+                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of laser tattoo removal. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment. \n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\n\nLaser tattoo removal is a treatment that aims to remove unwanted tattoos gradually over a series of appointments. The energy from the laser breaks down the ink within the tattoo which are then naturally removed from the body. On the day of treatment you will get eye protection goggles to wear and a topical anaesthetic cream may be applied to help reduce discomfort. The tattoo should gradually become lighter and more faded with each treatment.\n\nIt is important to understand that a series of treatments are required to gradually remove the tattoo for example 10 plus sessions may be required. There is no guarantee that the tattoo will be completely removed after the series of sessions, often some ink is left behind. Treatment results vary between clients, the size of tattoo and the colours of ink within the tattoo. For example black, blue and red inks are more easily removed compared to yellow, green and purple inks.\n\nI understand that several appointments may be necessary to produce optimal results and I will be notified, in advance of each session of treatment, about the location where the next treatment session is going to take place and the identity of who is going to be involved in my care at each stage.  I also understand that I will be kept informed of progress and that I can change my mind at any point.\n\n\nRISKS AND SIDE EFFECTS: As with any procedure there are potential risks and complications associated. Laser tattoo removal is a safe and low risk procedure, but you must be aware of the following possible risks before proceeding. You must fully discuss any questions with your practitioner. \n\nCommon side effects include pain and discomfort during the procedure, laser is often described as feeling like an elastic band snapping against the skin. Following the treatment your skin may be red, swollen and tender this should resolve within 48 hours but may last longer. You may well have skin bleeding and scabbing, Vaseline or aloe vera cream can aid healing. Your skin will be more sensitive to sunlight after treatment and you will need to use regular SPF sunscreen for 1 week afterwards.\n\nUncommon and rare complications include allergy to leaked tattoo inks, skin infection (cellulitis), reactivation of cold sores (herpes simplex infection) and changes in skin pigmentation. Pigmentation changes may be lighter or darker, they should resolve within 6 months but can persist or be permanent in occasional cases. Permanent skin discolouration can also occur due to leakage of iron oxide or titanium oxide pigments within the tattoo ink when broken down. In some occasional cases clients may develop bruising, swelling blistering, purpura or crusting of the skin. If you experience any of these skin changes you should contact your practitioner as soon as possible. There is a slight chance of permanent skin scarring from laser tattoo removal, 3 in 100 people develop a scar. There is no evidence that laser tattoo removal can cause skin cancer. \n\nCompliance with the aftercare guidelines is crucial for your comfort, healing, prevention of scarring, and hyperpigmentation. \n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records. \n\n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nMy questions regarding the procedure have been answered satisfactorily. I understand the details of the procedure and completely accept all risks.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
