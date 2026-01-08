@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Lip Blush",
+                        "disclaimer": "Treatment Description:\n\nLip blush is a semi-permanent makeup procedure that enhances the natural colour, shape, and definition of the lips. The procedure involves the application of custom-coloured pigment to the lips using a small needle, which is gently inserted into the skin. This creates a soft, natural blush effect that can last for 1-3 years, depending on the individual’s skin type, lifestyle, and aftercare.\n\nBenefits of Lip Blush:\nEnhances Lip Colour: Adds a natural, healthy tint to the lips, ideal for individuals with pale or uneven lip colour.\n\nImproves Lip Definition: Defines the lip border, giving the lips a fuller and more symmetrical appearance.\n\nLong-Lasting: Results can last from 1 to 3 years, depending on factors like skin type, lifestyle, and aftercare.\n\nLow Maintenance: After the initial procedure and healing period, minimal upkeep is required compared to traditional lipstick.\n\nNon-Invasive: Unlike surgical procedures, lip blush is a non-invasive treatment with no downtime for recovery.\n\nRisks and Potential Complications:\nWhile lip blush is generally safe, there are some potential risks and complications:\n\nAllergic Reaction: Some individuals may be allergic to the pigment or numbing agents used during the procedure. Symptoms of an allergic reaction include redness, swelling, itching, and rash.\n\nInfection: If proper aftercare is not followed, there is a risk of infection at the treatment site.\n\nSwelling and Bruising: Temporary swelling and bruising may occur immediately after the procedure, which should subside within a few hours to a couple of days.\n\nUneven Pigment Distribution: Occasionally, the pigment may heal unevenly, requiring a touch-up appointment to achieve desired results.\n\nHyperpigmentation or Hypopigmentation: In rare cases, the treated area may become darker (hyperpigmentation) or lighter (hypopigmentation) than expected.\n\nScarring: While rare, scarring can occur if the skin is not properly cared for or if there is an allergic reaction or infection.\n\nColour Fading: The pigment will fade over time, and additional touch-up sessions may be required to maintain the desired colour.\n\nHerpes Outbreak: If you have a history of cold sores or herpes simplex virus, you may experience an outbreak following the procedure. Antiviral medications are recommended prior to the procedure for individuals with this history.\n\nSide Effects:\nRedness and Swelling: Mild redness and swelling are common immediately after the procedure. This should subside within a few hours to a couple of days.\n\nTenderness: The lips may feel tender or sore following the procedure, but this should diminish within a few days.\n\nDryness and Flaking: As the lips heal, they may dry out and begin to peel or flake. This is a normal part of the healing process.\n\nItching: The lips may feel slightly itchy as they heal, but you should avoid scratching or picking at the treated area to prevent scarring or infection.\n\nHealing Time: Full healing takes about 7-10 days, during which the lips may appear darker than the final result.\n\nContraindications:\nYou should not undergo a lip blush procedure if you:\n\nAre pregnant or breastfeeding.\n\nHave active cold sores or herpes simplex virus on or near the lips.\n\nHave a history of keloid scarring or hypertrophic scarring.\n\nAre allergic to any of the pigments, numbing agents, or topical products used.\n\nAre undergoing chemotherapy or have autoimmune disorders (consult your doctor first).\n\nHave severe or untreated skin conditions (e.g., eczema, psoriasis, dermatitis) in or around the lip area.\n\nAre taking blood-thinning medication or have any conditions that affect blood clotting.\n\nPre-Treatment Guidelines:\nAvoid Sun Exposure: Avoid sun exposure for at least 48 hours prior to the procedure to prevent increased sensitivity and potential skin damage.\n\nNo Alcohol: Refrain from drinking alcohol 24 hours before the procedure to prevent excess swelling and bruising.\n\nAvoid Caffeine: Avoid consuming caffeine on the day of the procedure, as it can increase swelling and sensitivity.\n\nDiscontinue Lip Products: Do not apply lipstick, lip gloss, or other lip products on the day of your appointment.\n\nCold Sore Prevention: If you have a history of cold sores, please inform your practitioner. You may be advised to take antiviral medication before the procedure.\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records. \n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

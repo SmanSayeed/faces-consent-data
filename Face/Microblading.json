@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Microblading",
+                        "disclaimer": "This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of microblading. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment. \n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\n\nINTRODUCTION: Microblading is an eyebrow tattooing technique that falls under the category of semi-permanent make up (cosmetics). The procedure uses a hand-held tool that contains multiple small needles which is used to apply small amounts of semi-permanent pigment into the skin. Microblading is used for eyebrows to enhance or restore fullness, colour, shape and hair stroke appearance. Microblading deposits pigment into the superficial layers of the dermis and therefore fades more quickly, unlike permanent tattooing methods which deposit pigment deeper into the dermis. \n\nTREATMENT: Before your treatment appointment you will receive a consultation. At this appointment your practitioner will ascertain your goals and desired expectations, help choose a pigment with you that matches your skin tone, they will check you are medically safe to have the treatment and draw up a mock shape of your new eyebrows in pencil. This way you can agree on the shape and style before going ahead. I accept the responsibility for determining the color, shape and position of the microbladed eyebrows as agreed during consultation.\n\nMicroblading can be painful, you will have a local anaesthetic cream applied before the procedure which will help minimise any discomfort. The procedure will take on average of 30-60 minutes, but it could last for longer or shorter time periods depending on complexity and individual factors. I have been informed that the highest standards of hygiene are met and that sterile, disposable needles and pigment containers are used for each individual client, procedure and visit.\n\nPATCH TEST: Occasionally clients may develop an allergic reaction to the microblading pigment used. Your practitioner will organise a patch test for you at least 48 hours before treatment. This involves you putting a small amount of the pigment onto your skin and observing if there is any rash or skin irritation. If there is any reaction the product should not be used on you. A normal patch test is a good indicator that you will not react to the pigment, but it cannot exclude all severe allergic reactions or anaphylaxis. I hereby consent to a patch test before treatment. \n\nRESULTS: I am aware that results vary between clients and results are dependent on many individual factors. I understand and accept that each procedure is a process requiring multiple applications of pigment to achieve desired results and that 100% success cannot be guaranteed during the first procedure. More than one treatment is usually required to achieve or maintain desired results, most people require at least 2 treatments. I understand that there is a possibility that I may never achieve my desired results. \n\nI understand that several appointments may be necessary to produce optimal results and I will be notified, in advance of each session of treatment, about the location where the next treatment session is going to take place and the identity of who is going to be involved in my care at each stage.  I also understand that I will be kept informed of progress and that I can change my mind at any point.\n\n\nI have been advised that the true colour will be seen about 1 month after each procedure, and that the pigment may vary per skin tones, skin type, age and skin condition. I understand that some skin types accept pigment more readily and no guarantee on exact colour can be given. I understand the actual colour of the pigment may be modified slightly, due to the tone and colour of my skin.\n\nI fully understand and accept that non-toxic pigments are used during the procedure and that the result achieved may fade over a period of 1-3 years. Even once the colour fades, pigment itself may stay in the skin indefinitely. There are no guarantees however on the success or longevity of microblading treatment. \n\n\nRISKS AND SIDE EFFECTS: As with any procedure there are potential risks and complications associated. You must be aware of all the following risks before proceeding with microblading treatment. You must fully discuss any questions with your practitioner. \n\nCommon complications and risks include: pain or discomfort either during or after the procedure. It is common for the skin of the eyebrow area to appear red and swollen afterwards, you also may have some minor bleeding, bruising or scabbing, these effects can last up to 14 days but may last longer, it takes up to 30 days for microblading to heal. \n\n\nUncommon complications and risks include: Skin infection (cellulitis) which can present as hot, red, shiny skin, there may be pus and you may also feel generally unwell. Infection is uncommon especially if you follow the aftercare advice. In the event of infection, you must see your doctor as soon as possible. Some people may faint or feel faint with needles, if you feel unwell during treatment you must inform your practitioner as soon as possible. Other uncommon risks include poor cosmetic result, lack of result, rapid fading of colour, inconsistent colour and fanning or spreading of pigment. Cosmetic tattoo pigments can often be permanent, despite the term semi-permanent makeup. They are not easily removed and in the event of poor cosmetic result you may require correctional treatment or even tattoo removal such as laser.  You must also inform your doctor or radiologist if you require an MRI scan following microblading as problems can occur with tattooed skin during the scan. \n\n\nRare complications and risks include: unsightly hypertrophic or keloid scarring, delayed inflammatory nodule (granuloma) formation, skin reaction to local anaesthetic cream and allergic reaction. Despite a normal patch test, allergic reactions are still possible to the microblading pigments. Allergy can present as swelling, red rash and sometimes blistering, however rarely anaphylactic reactions can occur. In the event of an anaphylactic reaction, you would need emergency medical attention. In the case of severe allergic or inflammatory reaction permanent scarring may result. \n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records. \n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully for me to make an informed decision.\n\n\nTo my knowledge, I do not have any physical, mental or medical impairment or disability that might affect my well-being as a direct or indirect result of my decision to have the procedure done now. I agree to follow all pre-procedure and post-procedure instructions as provided and explained to me by the technician. Failure to do so may jeopardise my chances for a successful procedure. I can confirm that I have received a copy of aftercare details. I have been informed of the nature, risks, and possible complications and consequences of permanent skin pigmentation.\n\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
