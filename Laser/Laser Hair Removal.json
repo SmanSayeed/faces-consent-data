@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Hair Removal",
+                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of laser hair removal. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment. \n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\nLaser hair removal is a cosmetic hair removal procedure that uses laser energy to heat and destroy unwanted hair follicles. You will need regular sessions to prevent hair from regrowing as results are not permanent. On average a session to remove facial hair is usually done every 4 weeks whereas body hair every 6-8 weeks. Treatment courses are usually required to achieve desired results.\n\nI am aware that results vary between clients and results are dependent on many individual factors. I am aware that there is no guarantee that I will achieve my desired results and that multiple treatment courses are needed to maintain results. It is also important to note that laser hair removal works better on clients with fair skin and darker hair. I understand that for my own benefit I must follow the aftercare instructions given to me by my practitioner. On the day you will be offered eye protection and possibly a cooling spray may be applied to the skin before treatment. \n\nI understand that several appointments may be necessary to produce optimal results and I will be notified, in advance of each session of treatment, about the location where the next treatment session is going to take place and the identity of who is going to be involved in my care at each stage.  I also understand that I will be kept informed of progress and that I can change my mind at any point.\n\n  \n\nRISKS AND SIDE EFFECTS: As with any procedure there are potential risks and complications associated. Laser hair removal is a safe and low risk procedure, but you must be aware of the following possible risks before proceeding. You must fully discuss any questions with your practitioner. \n\nCommon side effects include pain and discomfort during the procedure, laser is often described as feeling like an elastic band snapping against the skin. Following the treatment your skin may be red, swollen and tender this should resolve within 48 hours but may last longer. Your skin will be more sensitive to sunlight after treatment and you will need to use regular SPF sunscreen for 4 weeks afterwards.\n\nUncommon complications include skin infection (cellulitis) and changes in skin pigmentation to lighter or darker. Pigmentation changes should resolve within 6 months but can persist or become permanent in occasional cases. In some occasional cases clients may develop bruising, swelling blistering or crusting of the skin. If you experience any of these skin changes you should contact your practitioner as soon as possible. \n\nRare complications include skin scarring which may be permanent in some cases despite treatment. Skin burns from the laser heat can rarely occur which can lead to permanent scarring. There is no evidence that laser hair removal can cause skin cancer. \n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision. \n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
