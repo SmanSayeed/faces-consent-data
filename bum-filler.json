@@ -1,0 +1,125 @@
+
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Bum Filler",
+                        "disclaimer": "Procedure Purpose\nThis treatment uses injectable fillers to enhance the volume and shape of the buttocks for cosmetic improvement.\n\nRisks and Complications\nI understand that all medical procedures carry risks. Specific to this treatment, potential complications include, but are not limited to:\n\n- Pain, swelling, or bruising\n- Asymmetry\n- Infection\n- Allergic reactions\n- Lumps or nodules under the skin\n- Abscess formation\n- Skin discoloration or texture changes\n- Need for additional corrective procedures\n- Rare but serious events such as vascular occlusion, tissue necrosis, blindness, or stroke\n\nNo guarantees are provided regarding outcomes, as individual responses vary and medicine is not an exact science.\n\nI have had the opportunity to ask questions about the procedure, its alternatives, risks, and complications. All my questions have been answered to my satisfaction.\n\nI confirm that I am not pregnant, trying to become pregnant, or breastfeeding.\n\nI have received and fully understand information about:\n- My goals and expected results\n- Risks of the procedure and of declining it\n- Risks specific to my health\n- Benefits and potential drawbacks\n- Alternative options (including no treatment)\n- Likelihood of success and uncertainties\n- Possible follow-up care\n\nClinical Photographs and Videos\nI consent to the taking of clinical photos and videos, which will be stored confidentially in my medical records.\n\nI have discussed my desired outcome fully and received all information needed to make an informed decision.\n\nI confirm that I have read and understood this consent form, had ample opportunity for discussion, and no new information has affected my decision. I freely consent to the procedure. This constitutes full disclosure and supersedes any previous verbal or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has enough information been given to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been given freely?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disorder (e.g., multiple sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have known allergies or a history of anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an active infection at the planned treatment site?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other relevant medical or social history we should know about? (Please provide details.)",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals, motivations, and desired outcomes for this procedure? (Please provide details.)",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If yes, did you experience any issues? (Please provide details.)",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? (Please provide details.)",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? (Please provide details.)",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I agree to retain this information throughout my treatment and refer to it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
+
