@@ -1,0 +1,64 @@
+{
+    "data": {
+        "getAftercareDocumentTemplateList": {
+            "success": true,
+            "message": "List of Aftercare documents",
+            "data": {
+                "aftercareDocs": [
+                    {
+                        "aftercareDocId": 4784234,
+                        "aftercareDocName": "AcceleDent",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4784042,
+                        "aftercareDocName": "Accent Prime",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4784235,
+                        "aftercareDocName": "AccuLift",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4783854,
+                        "aftercareDocName": "Accutane",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4784270,
+                        "aftercareDocName": "AccuTite",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4784230,
+                        "aftercareDocName": "Acoustic Wave Therapy",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4510179,
+                        "aftercareDocName": "Acupuncture",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4784283,
+                        "aftercareDocName": "Adam's Apple Reduction",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4685882,
+                        "aftercareDocName": "Aessoa",
+                        "aftercareDocStatus": "hidden"
+                    },
+                    {
+                        "aftercareDocId": 4784179,
+                        "aftercareDocName": "Affirm Laser",
+                        "aftercareDocStatus": "hidden"
+                    }
+                ],
+                "total": 747,
+                "totalPages": 75
+            }
+        }
+    }
+}
