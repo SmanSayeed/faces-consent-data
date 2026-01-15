@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Reflexology",
+                        "disclaimer": "It is important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\n\nReflexology is a type of massage that involves applying pressure to certain points on the hands and feet and sometimes other body areas. It is an alternative medicine practice that claims to help multiple health conditions. Reflexology is not a substitute for medical care. Please contact your medical doctor first about any specific medical problems. It is claimed that reflexology might help with reducing stress and anxiety, elevate mood and reduce pain. \n\nReflexology is safe, non-invasive and comfortable. There are no clear or obvious serious risks or side effects. However, if you suffer from circulatory problems, diabetic foot diseases, deep vein thrombosis, foot infections, foot ulcers or if you have any wounds or injuries to your feet or hands then you should see your doctor before proceeding. You should also seek medical advice before proceeding if you are pregnant. \n\nRISKS AND SIDE EFFECTS: After reflexology some people may experience mild lightheadedness, feel emotional or have mild discomfort in their hands or feet. These mild side effects should only last a couple of hours at most.\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\n\nBy signing this form, I give my consent to a Reflexology session. I understand that I may discontinue a session or sessions at any time. If I have been diagnosed by a licensed health professional as having any disease, injury or other physical or mental condition, I understand that I should inform the person who made the diagnosis, about the session I will be receiving, and whether I intend to discontinue any treatment or therapy which had been previously ordered, prescribed or recommended by a licensed health professional. I understand that by discontinuing any such treatment or therapy, I assume responsibility for any negative outcome resulting from discontinuing that medical treatment or therapy. \n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision. \n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
