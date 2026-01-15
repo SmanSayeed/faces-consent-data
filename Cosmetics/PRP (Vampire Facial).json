@@ -1,0 +1,124 @@
+{
+    "comment": "PRP(Vampire Facial)= Whats app, PRP = Faces app",
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "PRP",
+                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of PRP (platelet rich plasma) treatment. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment.\n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\n\nPlatelet Rich Plasma (PRP) is a cosmetic skin rejuvenation procedure that involves microneedle injection of some of the client’s own blood components back into the skin. It is commonly known as a Vampire facial and involves the following steps. A small blood sample is drawn with a needle system from the patients arm, the same as having a blood test (phlebotomy), the blood sample is then placed into a syringe. The blood is spun in a special centrifuge to separate its components (Red Blood Cells, Platelet Rich Plasma (PRP), Platelet Poor Plasma and White Blood Cells). The PRP component is then separated and injected into the clients skin (e.g. a facial) using a microneedling technique. The PRP is rich in growth factors which promote skin rejuvenation. PRP can be used to improve the appearance of tired and aged skin, fine lines and wrinkles, enlarged pores, acne scars, hyperpigmentation and stretch marks.\n\nPRP is autologous (using your own blood) therefore this virtually eliminates the potential for allergic reactions. PRP has been shown to have tissue regenerating effects. Other benefits include minimal down time, good safety profile and short recovery time. \n\nThe entire procedure is normally completed within 30-60 minutes, your practitioner will offer you a topical anaesthetic cream to help minimise any discomfort during the treatment.\n\nMore than one treatment will likely be required to achieve or maintain results, but this depends on the treatment aim and client response to treatment. Results can be seen at 2-3 weeks after treatment, but peak results are usually seen at 4-6 weeks. The duration of results varies between clients and there is no guarantee that you will achieve desired results. PRP does not prevent recurrence of the condition being treated. Treatment responses vary between clients and there is no guarantee that you will achieve your desired results.\n\nI understand that several appointments may be necessary to produce optimal results and I will be notified, in advance of each session of treatment, about the location where the next treatment session is going to take place and the identity of who is going to be involved in my care at each stage.  I also understand that I will be kept informed of progress and that I can change my mind at any point.\n\n\nRISKS AND SIDE EFFECTS: As with any procedure there are possible risks associated, it is important that you are aware of all the possible risks and fully discuss these with your practitioner before proceeding. \n\nCommon side effects of PRP include discomfort or pain during and after the procedure (often described as a stinging sensation). Pain is worse particularly in areas of bony prominence or where the skin is thinner. Immediately following the procedure, the skin may feel tight, swollen, and sensitive to the touch. It will also look red and feel sunburned. The sensitivity and redness will likely diminish significantly within 24 hours and should be resolved within 7 days.\n\nOther common short-term side effects include itching, discomfort, pinpoint bleeding or bruising, scabbing, and darkening of the treated area. \n\nUncommon side effects include skin infection (cellulitis), reactivation of cold sores (herpes simplex outbreak), hyperpigmentation (darkening of the skin), and hypopigmentation (lightening of the skin). Darkening or lightening of the skin usually fades within 6 months, but in rare cases, could be permanent. The risk of pigmentation changes can be minimised by avoiding sun exposure for 4 weeks before and after treatment, using appropriate sunscreen/ SPF cream and by adhering to the pre and post treatment instructions. \n\nRare side effects of microneedling include skin scarring which may be permanent. There is also a theoretical risk of allergic reaction, but this is extremely unlikely given the PRP is sourced from the clients own blood.\n\nThere are also complications and risks of having your blood taken (phlebotomy), you must read these also before proceeding with PRP treatment. \n\nCommon side effects of phlebotomy include pain during the procedure, tenderness over the injection site after the procedure, bruising and bleeding. Some people feel faint when they have a blood test, it is important that you tell your practitioner if you feel faint during the procedure and lay down flat as soon as possible if this occurs. Some people can have difficult veins to draw blood from, if this is the case your practitioner may require more than one attempt to draw the blood successfully. Rarely your practitioner may fail to draw blood and abandon any further attempts. \n\nRare risks of phlebotomy include more extensive bruising (haematoma), skin infection (cellulitis), vein inflammation (thrombophlebitis), accidental arterial puncture causing pain and bruising, nerve injury causing temporary pins and needles or numbness to the affected area in the hand or arm.\n\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information you have been provided?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been freely given?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

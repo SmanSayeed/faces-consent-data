@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Mesotherapy",
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of mesotherapy. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nMesotherapy is a technique that involves injecting customized blends of vitamins, herbal extracts, enzymes, amino acids, and/or other medications just beneath the skin's surface using fine needles. It is used for cosmetic purposes such as skin rejuvenation, as well as for reducing localized fat and cellulite.\n\nApplications of mesotherapy include reducing cellulite, removing fat from various body areas, body contouring, skin rejuvenation and tightening, treating fine lines and wrinkles, and addressing areas of hyperpigmentation.\n\nVarious formulas exist for the substances injected during mesotherapy; your practitioner will discuss the options available. If any formulas contain prescription-only medications, your practitioner will arrange a consultation with a prescribing doctor or nurse. If your practitioner is a qualified prescriber, this step may not be necessary. It is important that you complete all the questions below and inform your practitioner of any allergies and medical conditions you have.\n\nI understand that results vary between individuals and depend on many personal factors. The time it takes to see visible results and the duration of those results also vary and depend on factors such as the treatment goal. I am aware there is no guarantee I will achieve my desired results and that multiple treatment courses may be needed to attain or maintain them. I also acknowledge that this treatment is cosmetic and is not intended to cure any medical condition or serve as a substitute for medical care. For any medical issues, I have consulted my doctor for diagnosis and management. I understand the treatment is most effective when combined with a healthy diet and regular exercise. Results of fat reduction will only be maintained if you avoid gaining additional body fat after the treatment course.\n\nI understand that several appointments may be necessary for optimal results. I will be notified in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept informed of my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are potential risks and complications. You must be aware of all the following risks before proceeding and discuss any questions fully with your practitioner.\n\nCommon risks include mild pain or discomfort. The skin may appear red or swollen afterward, which should normally subside within 48 hours. You may experience minor bleeding or bruising that will resolve naturally. You may also have mild irritation at the treatment site. Some individuals may feel faint during needle-based procedures; you must inform your practitioner immediately if you feel unwell.\n\nLess common risks include skin infection (cellulitis), reactivation of cold sores (herpes simplex), temporary changes in skin pigmentation (lightening or darkening) that usually resolve within six months, and temporary bumps or unevenness at the treatment site.\n\nRare risks include permanent skin pigmentation changes, permanent scarring, and allergic reactions to a component of the mesotherapy formula. Allergic reactions typically present as swelling and a red rash; however, in extremely rare cases, a severe anaphylactic reaction could occur. This is life-threatening and would require emergency medical attention.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
