@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Hair Styling",
-                        "disclaimer": "Hair styling is a cosmetic procedure that involves the use of professional hair products, tools, and techniques to achieve the desired hairstyle. This may include cutting, blow-drying, curling, straightening, braiding, updos, and chemical or heat treatments such as perms or keratin treatments.\n\nYour stylist will assess your hair type, condition, and preferences before proceeding with the styling process. Recommendations for maintenance and aftercare will be provided to ensure long-lasting results and hair health.\n\nPOTENTIAL BENEFITS\n\nEnhanced hair appearance, shape, and volume\n\nCustomised styling to suit personal preference and occasion\n\nUse of professional techniques and products for a polished finish\n\nTemporary or long-lasting results, depending on the chosen styling method\n\nImproved hair manageability\n\nPOTENTIAL RISKS & SIDE EFFECTS\n\nAlthough hair styling is generally safe, potential risks and side effects may include:\n\nTemporary scalp irritation, redness, or sensitivity due to styling products\n\nHair breakage or dryness from excessive heat exposure\n\nAllergic reactions to hair products, including styling sprays, gels, or treatments\n\nUnintended colour changes or fading due to heat or product use\n\nPossible dissatisfaction with the final result, requiring adjustments\n\nThese effects are usually mild and temporary. If you have sensitive skin, a patch test is recommended before using new products.\n\nCONTRAINDICATIONS\n\nHair styling may not be suitable for individuals who:\n\nHave scalp conditions such as psoriasis, eczema, or open wounds\n\nHave severe hair damage or excessive hair loss\n\nHave known allergies to specific hair products or ingredients\n\nAre sensitive to heat styling tools\n\nPlease inform your stylist of any concerns before the procedure.\n\nDISCLAIMER & LIMITATION OF LIABILITY\n\nHair styling results may vary depending on hair type, texture, and condition.\n\nThe stylist will take necessary precautions to minimise damage, but I understand that excessive heat, chemical use, or mechanical styling can affect hair health over time.\n\nI confirm that I have disclosed all relevant hair and scalp conditions to the stylist.\n\nI accept full responsibility for any allergic reactions or sensitivities that may occur.\n\nI acknowledge that hair styling is a cosmetic procedure, and results may not be permanent.\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records. \n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                        "disclaimer": "Hair styling is a cosmetic service that employs professional hair care products, tools, and methods to create a desired hairstyle. This may encompass cutting, blow-drying, curling, straightening, braiding, updos, and the application of chemical or heat-based treatments such as perms or keratin smoothing.\n\nYour stylist will evaluate your hair type, condition, and personal preferences before beginning. Recommendations for ongoing maintenance and aftercare will be provided to help sustain results and promote hair health.\n\nANTICIPATED ADVANTAGES\nImproved hair appearance, structure, and body\nPersonalized styling tailored to individual taste and occasion\nUtilization of professional methods and high-quality products for a refined finish\nResults that may be temporary or longer-lasting, depending on the technique chosen\nEnhanced ease of hair management\n\nPOSSIBLE RISKS & SIDE EFFECTS\nAlthough hair styling is generally considered safe, potential risks and side effects may include:\nTemporary scalp irritation, redness, or sensitivity caused by styling products\nHair breakage or dryness resulting from excessive heat application\nAllergic responses to hair products, such as sprays, gels, or treatment formulas\nUnintended color alteration or fading due to heat or product interaction\nPossible dissatisfaction with the final look, which may necessitate adjustments\nThese effects are typically mild and short-lived. If you have sensitive skin, a patch test is advised before using new products.\n\nCONTRAINDICATIONS\nHair styling may not be suitable for individuals who:\nHave scalp conditions like psoriasis, eczema, or open sores\nExperience severe hair damage or significant hair loss\nHave known allergies to specific hair product ingredients\nAre particularly sensitive to heat from styling tools\nPlease inform your stylist of any concerns prior to the service.\n\nDISCLAIMER & LIABILITY LIMITATION\nResults from hair styling can vary based on hair type, texture, and condition.\nThe stylist will take appropriate measures to minimize damage, but I understand that repeated use of high heat, chemicals, or mechanical stress can impact hair health over time.\nI confirm that I have disclosed all relevant hair and scalp conditions to the stylist.\nI accept full responsibility for any allergic reactions or sensitivities that may occur.\nI acknowledge that hair styling is an aesthetic service and results may not be permanent.\n\nI confirm that I have been informed about all relevant aspects of this service and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the service and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative options and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo the service or provide my consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed with the practitioner."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

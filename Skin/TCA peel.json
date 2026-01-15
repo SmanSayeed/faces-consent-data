@@ -2,108 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "TCA Peel",
-                        "disclaimer": "A TCA peel is a non-surgical treatment that uses trichloroacetic acid to exfoliate the outer layers of the skin. It helps reduce the appearance of fine lines, pigmentation, acne scars, and uneven skin texture, promoting smoother and more radiant skin.\n\nRisks and Complications\nCommon side effects include redness, swelling, peeling, tightness, and sensitivity. Temporary or permanent changes in skin pigmentation, scarring, or infection are rare but possible. Individuals with darker skin tones may have an increased risk of pigmentation changes.\n\nPre-Treatment Requirements\nInform your practitioner of your full medical history, current medications, allergies, and recent skin treatments. Avoid sun exposure, waxing, or use of retinoids at least 1 week prior to the peel. A patch test may be done to assess skin sensitivity.\n\nPost-Treatment Aftercare\nFollowing the peel, the skin will appear red and begin peeling over several days. Avoid picking or peeling flaking skin. Apply only recommended moisturisers and sun protection. Avoid direct sun exposure, strenuous exercise, and the use of harsh products for at least one week.\n\nInformed Consent and Photography\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice. This includes advice about:\n\nthe aims/motivations for having the procedure and the desired outcome\nthe risks inherent in the procedure\nthe risks inherent in refusing the procedure\nthe risks specific to me\nthe expected benefits of the treatment\nthe potential disadvantages of the treatment\nalternative procedures and their pros and cons – including the option of no treatment at all\nany uncertainties about and the likelihood of success of the procedure\nany follow-up treatment that may be required\n\nClinical Photographs and Videos: I agree to and authorise the taking of clinical photographs and videos. I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision. I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                        "disclaimer": "A TCA peel is a non-surgical cosmetic treatment that utilizes trichloroacetic acid to exfoliate the skin's superficial layers. It aims to diminish the appearance of fine lines, discoloration, acne scarring, and uneven texture, encouraging a smoother and more luminous complexion.\n\nPotential Risks and Complications\nCommon reactions include redness, swelling, peeling, tightness, and increased sensitivity. Rare but possible adverse events encompass temporary or lasting alterations in skin pigmentation, scarring, or infection. Individuals with darker complexions may have a heightened risk of pigmentation changes.\n\nPre-Procedure Requirements\nDisclose your complete medical history, current medications, allergies, and recent skin treatments to your practitioner. Avoid sun exposure, waxing, and retinoid use for at least one week before the peel. A patch test may be conducted to evaluate skin tolerance.\n\nPost-Procedure Aftercare\nFollowing the peel, the skin will appear red and will begin to flake over several days. Refrain from picking or manually peeling the skin. Use only recommended moisturizers and high-SPF sunscreen. Avoid direct sunlight, intense physical activity, and harsh skincare products for a minimum of one week.\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to this procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed upon with the practitioner."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

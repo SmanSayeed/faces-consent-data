@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Salicylic Peel",
-                        "disclaimer": "Salicylic Peel is a chemical exfoliation treatment that uses salicylic acid, a beta hydroxy acid (BHA), to target acne, oiliness, and congestion. It works by penetrating into the pores and dissolving sebum and dead skin cells, helping to reduce breakouts and improve skin texture. Salicylic acid also has anti-inflammatory properties, making it well-suited for individuals with acne-prone or oily skin.\n\nThe procedure typically involves cleansing the skin, applying the salicylic acid solution for a set period, and then neutralising or removing it. The concentration of salicylic acid can vary depending on the severity of the skin concern and the desired depth of exfoliation.\n\nRisks inherent in having a salicylic peel include redness, dryness, temporary flaking, mild irritation, increased sensitivity to sunlight, and in some cases, post-inflammatory hyperpigmentation or allergic reaction. Risks inherent in refusing treatment include persistence or worsening of acne, clogged pores, uneven skin texture, and oiliness. Risks specific to me may include heightened sensitivity or irritation depending on my skin type, history of dermatitis, or current skincare regimen.\n\nThe expected benefits of a salicylic peel include clearer pores, reduced acne lesions, improvement in skin texture, decreased oiliness, and a brighter overall complexion. Potential disadvantages include the need for multiple sessions for best results, a short downtime period with possible peeling, and the necessity of diligent sun protection.\n\nAlternative treatments include other chemical peels (such as glycolic or lactic acid), microdermabrasion, laser treatments, prescription topical retinoids, or no treatment at all. Each alternative has its own advantages, limitations, and risks.\n\nThere are uncertainties regarding the degree of improvement, as results depend on skin condition, peel strength, and adherence to aftercare. Follow-up treatments may be needed to maintain results or address new breakouts.\n\nInformed Consent and Photography\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice. This includes advice about:\n\nthe aims/motivations for having a Salicylic Peel and the desired outcome\n\nthe risks inherent in having a Salicylic Peel\n\nthe risks inherent in refusing a Salicylic Peel\n\nthe risks specific to me\n\nthe expected benefits of a Salicylic Peel\n\nthe potential disadvantages of a Salicylic Peel\n\nalternative treatments and their pros and cons – including the option of no treatment at all\n\nany uncertainties about and the likelihood of success of a Salicylic Peel\n\nany follow-up treatment that may be required\n\nClinical Photographs and Videos: I agree to and authorise the taking of clinical photographs and videos. I understand that these will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision. I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the procedure or my decision to consent. I hereby consent to the procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                        "disclaimer": "A Salicylic Peel is a chemical exfoliation procedure that employs salicylic acid, a beta hydroxy acid (BHA), to address acne, excess oil, and clogged pores. It functions by penetrating into the pores to dissolve oil and dead skin cells, helping to diminish breakouts and refine skin texture. Salicylic acid also possesses anti-inflammatory characteristics, making it particularly suitable for those with acne-prone or oily skin.\n\nThe process generally involves cleansing the skin, applying the salicylic acid solution for a designated time, and then neutralizing or removing it. The acid concentration can be adjusted based on the severity of the skin issue and the intended depth of exfoliation.\n\nRisks involved in undergoing a Salicylic Peel include redness, dryness, temporary flaking, mild irritation, increased sun sensitivity, and in some instances, post-inflammatory darkening of the skin or an allergic response. Risks associated with declining treatment may include ongoing or worsening acne, persistent clogged pores, uneven skin texture, and excess oil production. Risks specific to my situation may include increased sensitivity or irritation depending on my skin type, any history of skin inflammation, or my current skincare routine.\n\nThe anticipated benefits of a Salicylic Peel include clearer pores, fewer acne blemishes, improved skin smoothness, reduced oiliness, and a more radiant overall appearance. Potential drawbacks include the possible need for multiple sessions for optimal results, a brief recovery period with potential peeling, and the requirement for strict sun protection.\n\nAlternative options include other chemical peels (such as glycolic or lactic acid), microdermabrasion, laser therapies, prescription topical retinoids, or choosing no treatment. Each alternative carries its own set of benefits, limitations, and potential risks.\n\nThere are uncertainties regarding the extent of improvement, as outcomes depend on individual skin condition, peel strength, and compliance with aftercare instructions. Follow-up treatments may be necessary to sustain results or manage new breakouts.\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing a Salicylic Peel and the desired results\n- The inherent risks of undergoing a Salicylic Peel\n- The risks associated with declining a Salicylic Peel\n- Any risks specific to my personal health and skin\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to the procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed upon with the practitioner."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

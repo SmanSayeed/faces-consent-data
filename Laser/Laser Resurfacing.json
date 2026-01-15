@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Laser Resurfacing",
-                        "disclaimer": "Laser resurfacing is a cosmetic procedure that uses laser technology to improve the appearance of the skin by reducing wrinkles, fine lines, scars, pigmentation, and sun damage. The treatment works by removing layers of skin with precision, encouraging the growth of new, healthier skin cells.\n\nPotential Risks and Complications\nI understand that, as with all procedures, laser resurfacing carries certain risks and side effects, including but not limited to:\n\nRedness and swelling\n\nSkin sensitivity or irritation\n\nBurning or stinging sensation\n\nHyperpigmentation or hypopigmentation\n\nInfection\n\nScarring\n\nProlonged healing time\n\nAcne flare-ups\n\nReactivation of cold sores (herpes simplex virus)\n\nUnsatisfactory results or the need for further treatments\n\nPre-Treatment Considerations\nI confirm I have disclosed all relevant medical conditions, including skin disorders, history of herpes simplex, keloid scarring, recent cosmetic treatments, and use of retinoids or photosensitising medications. I understand the importance of following all pre-treatment instructions provided by the practitioner.\n\nAftercare Instructions\nAvoid sun exposure and wear high-factor SPF daily for at least 4 weeks post-treatment\n\nKeep the treated area clean and avoid touching or picking the skin\n\nApply only products recommended by your practitioner\n\nAvoid the use of exfoliants, acids, or harsh products for 7–10 days\n\nRefrain from using makeup until the skin has fully healed (unless advised otherwise)\n\nAvoid saunas, hot baths, and strenuous exercise for 3–5 days\n\nAttend any follow-up appointments as scheduled\n\nInformed Consent and Photography\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice. This includes advice about:\n\nthe aims/motivations for having the procedure and the desired outcome\nthe risks inherent in the procedure\nthe risks inherent in refusing the procedure\nthe risks specific to me\nthe expected benefits of the treatment\nthe potential disadvantages of the treatment\nalternative procedures and their pros and cons – including the option of no treatment at all\nany uncertainties about and the likelihood of success of the procedure\nany follow-up treatment that may be required\n\nClinical Photographs and Videos: I agree to and authorise the taking of clinical photographs and videos. I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision. I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                        "disclaimer": "Laser resurfacing is a cosmetic skin treatment that employs laser technology to enhance the skin's appearance by diminishing wrinkles, fine lines, scars, discoloration, and sun-induced damage. The procedure works by precisely ablating or heating outer skin layers to promote the regeneration of new, healthier skin cells.\n\nPotential Risks and Complications\nI understand that, as with any medical or cosmetic procedure, laser resurfacing carries certain risks and potential side effects, which may include but are not limited to:\nRedness and swelling\nSkin sensitivity or irritation\nBurning or stinging sensations\nHyperpigmentation (darkening) or hypopigmentation (lightening) of the skin\nInfection\nScarring\nExtended healing duration\nAcne outbreaks\nReactivation of cold sores (herpes simplex virus)\nUnsatisfactory results or the necessity for additional treatments\n\nPre-Treatment Considerations\nI confirm that I have disclosed all relevant medical conditions, including any skin disorders, history of herpes simplex, tendency for keloid scarring, recent cosmetic treatments, and the use of retinoids or photosensitizing medications. I understand the importance of adhering to all pre-treatment guidelines provided by the practitioner.\n\nAftercare Instructions\nAvoid direct sun exposure and apply a high-SPF sunscreen daily for a minimum of 4 weeks following treatment\nKeep the treated area clean and refrain from touching or picking at the skin\nUse only products recommended by your practitioner\nAvoid exfoliants, acids, or harsh skincare products for 7–10 days post-treatment\nRefrain from wearing makeup until the skin has fully healed, unless otherwise advised\nAvoid saunas, hot baths, and vigorous exercise for 3–5 days\nAttend any scheduled follow-up appointments\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to this procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

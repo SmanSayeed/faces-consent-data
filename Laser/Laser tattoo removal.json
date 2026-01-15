@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Laser Tattoo Removal",
-                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of laser tattoo removal. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment. \n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\n\nLaser tattoo removal is a treatment that aims to remove unwanted tattoos gradually over a series of appointments. The energy from the laser breaks down the ink within the tattoo which are then naturally removed from the body. On the day of treatment you will get eye protection goggles to wear and a topical anaesthetic cream may be applied to help reduce discomfort. The tattoo should gradually become lighter and more faded with each treatment.\n\nIt is important to understand that a series of treatments are required to gradually remove the tattoo for example 10 plus sessions may be required. There is no guarantee that the tattoo will be completely removed after the series of sessions, often some ink is left behind. Treatment results vary between clients, the size of tattoo and the colours of ink within the tattoo. For example black, blue and red inks are more easily removed compared to yellow, green and purple inks.\n\nI understand that several appointments may be necessary to produce optimal results and I will be notified, in advance of each session of treatment, about the location where the next treatment session is going to take place and the identity of who is going to be involved in my care at each stage.  I also understand that I will be kept informed of progress and that I can change my mind at any point.\n\n\nRISKS AND SIDE EFFECTS: As with any procedure there are potential risks and complications associated. Laser tattoo removal is a safe and low risk procedure, but you must be aware of the following possible risks before proceeding. You must fully discuss any questions with your practitioner. \n\nCommon side effects include pain and discomfort during the procedure, laser is often described as feeling like an elastic band snapping against the skin. Following the treatment your skin may be red, swollen and tender this should resolve within 48 hours but may last longer. You may well have skin bleeding and scabbing, Vaseline or aloe vera cream can aid healing. Your skin will be more sensitive to sunlight after treatment and you will need to use regular SPF sunscreen for 1 week afterwards.\n\nUncommon and rare complications include allergy to leaked tattoo inks, skin infection (cellulitis), reactivation of cold sores (herpes simplex infection) and changes in skin pigmentation. Pigmentation changes may be lighter or darker, they should resolve within 6 months but can persist or be permanent in occasional cases. Permanent skin discolouration can also occur due to leakage of iron oxide or titanium oxide pigments within the tattoo ink when broken down. In some occasional cases clients may develop bruising, swelling blistering, purpura or crusting of the skin. If you experience any of these skin changes you should contact your practitioner as soon as possible. There is a slight chance of permanent skin scarring from laser tattoo removal, 3 in 100 people develop a scar. There is no evidence that laser tattoo removal can cause skin cancer. \n\nCompliance with the aftercare guidelines is crucial for your comfort, healing, prevention of scarring, and hyperpigmentation. \n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records. \n\n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nMy questions regarding the procedure have been answered satisfactorily. I understand the details of the procedure and completely accept all risks.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of laser tattoo removal. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, evaluating all your options before reaching an informed decision. It is important you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nLaser tattoo removal is a treatment designed to gradually fade and remove unwanted tattoos over a series of sessions. The laser's energy breaks down the ink particles within the skin, which are then naturally eliminated by the body's immune system. During treatment, you will be provided with protective eyewear, and a topical anesthetic cream may be applied to help minimize discomfort. The tattoo should become progressively lighter with each session.\n\nIt is important to understand that a series of treatments is required for gradual removal; for example, 10 or more sessions may be needed. There is no guarantee that the tattoo will be completely removed after the treatment course, as some residual ink often remains. Results vary between individuals and depend on factors such as tattoo size and ink colors. For instance, black, blue, and red inks are generally more responsive to removal than yellow, green, and purple inks.\n\nI understand that several appointments may be necessary for optimal results. I will be notified in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept informed of my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are potential risks and complications. Laser tattoo removal is generally considered safe and low-risk, but you must be aware of the following possibilities before proceeding. You must discuss any questions fully with your practitioner.\n\nCommon side effects include discomfort during the procedure, often described as a snapping sensation similar to a rubber band against the skin. Following treatment, the skin may be red, swollen, and tender; these effects usually resolve within 48 hours but can last longer. You may experience minor bleeding and scabbing; application of petroleum jelly or aloe vera cream can aid healing. Your skin will be more sensitive to sunlight after treatment, and you must use a high-SPF sunscreen regularly for at least one week afterward.\n\nLess common and rare complications include allergic reactions to fragmented ink particles, skin infection (cellulitis), reactivation of cold sores (herpes simplex), and changes in skin pigmentation. Pigmentation changes may involve lightening or darkening of the skin; they often resolve within 6 months but can occasionally persist or become permanent. Permanent skin discoloration can also occur due to the release of components like iron oxide or titanium oxide from certain tattoo inks when broken down. In some cases, clients may develop bruising, swelling, blistering, purpura (small blood spots), or crusting of the skin. If you experience any of these skin changes, you should contact your practitioner promptly. There is a slight risk of permanent skin scarring from laser tattoo removal; approximately 3 in 100 people may develop a scar. There is no evidence that laser tattoo removal causes skin cancer.\n\nAdherence to the provided aftercare instructions is essential for your comfort, proper healing, and to minimize the risks of scarring and pigment changes.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nMy questions about the procedure have been answered to my satisfaction. I understand the process and fully accept all associated risks.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }
