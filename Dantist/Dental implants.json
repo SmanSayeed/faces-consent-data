@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Dental Implants",
-                        "disclaimer": "Treatment Overview\nDental implants are a permanent solution for replacing missing teeth. A titanium post is surgically inserted into the jawbone to serve as a root, followed by placement of a crown, bridge, or denture once healing is complete.\n\nIntended Benefits\nPermanent replacement of missing teeth\n\nImproved function (chewing, speaking)\n\nPreservation of jawbone and facial structure\n\nEnhanced aesthetics and self-confidence\n\nImproved comfort compared to removable dentures\n\nPotential Risks and Complications\nInfection at the implant site\n\nImplant failure or rejection\n\nNerve damage causing pain, numbness, or tingling\n\nSinus issues (for upper jaw implants)\n\nGum recession or inflammation around the implant\n\nBone loss or insufficient bone to support the implant\n\nProlonged healing or discomfort\n\nNeed for further surgical or corrective procedures\n\nContraindications\nYou may not be suitable for dental implants if you:\n\nHave uncontrolled diabetes or bleeding disorders\n\nAre undergoing radiation therapy to the jaw\n\nSmoke heavily (which increases risk of failure)\n\nHave insufficient bone density without willingness to undergo grafting\n\nHave untreated gum disease\n\nAre pregnant (surgery may be postponed)\n\nPre-Treatment Instructions\nMaintain good oral hygiene before the procedure\n\nArrange for transport after the surgery (if sedation is used)\n\nFast for 6–8 hours before surgery if advised\n\nInform your practitioner of all medications, allergies, and medical conditions\n\nDiscontinue any medications as advised prior to surgery\n\nPost-Treatment Aftercare\nAvoid disturbing the surgical area for the first few days\n\nDo not rinse, spit, or use straws for 24 hours\n\nUse prescribed mouthwash or saltwater rinses as directed\n\nTake antibiotics and pain medication as prescribed\n\nAvoid smoking and alcohol during healing\n\nStick to soft foods for several days\n\nMaintain excellent oral hygiene without brushing directly on the implant for the first few days\n\nAttend all scheduled follow-up appointments\n\nInformed Consent and Photography\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice. This includes advice about:\n\nthe aims/motivations for having the procedure and the desired outcome\nthe risks inherent in the procedure\nthe risks inherent in refusing the procedure\nthe risks specific to me\nthe expected benefits of the treatment\nthe potential disadvantages of the treatment\nalternative procedures and their pros and cons – including the option of no treatment at all\nany uncertainties about and the likelihood of success of the procedure\nany follow-up treatment that may be required\n\nClinical Photographs and Videos: I agree to and authorise the taking of clinical photographs and videos. I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision. I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                        "disclaimer": "Procedure Summary\nDental implants are a lasting method to replace missing teeth. A titanium fixture is surgically placed into the jawbone to act as an artificial tooth root. After a healing period, a custom-made crown, bridge, or denture is attached to complete the restoration.\n\nAnticipated Advantages\nPermanent restoration of missing teeth\nEnhanced oral function for chewing and speech\nPreservation of jawbone integrity and facial contours\nImproved appearance and personal confidence\nGreater comfort compared to removable dental appliances\n\nPotential Risks and Adverse Events\nInfection at the surgical site\nImplant failure or non-integration with the bone\nNerve injury resulting in pain, numbness, or altered sensation\nSinus complications (particularly for implants in the upper jaw)\nGum recession or inflammation around the implant (peri-implantitis)\nInsufficient bone volume or bone loss affecting implant stability\nExtended healing time or persistent discomfort\nNeed for additional surgical or corrective interventions\n\nContraindications\nYou may not be an ideal candidate for dental implants if you:\nHave unmanaged diabetes or clotting disorders\nAre receiving radiation treatment to the jaw area\nAre a heavy smoker (which raises the risk of implant failure)\nHave inadequate bone density and are unwilling to undergo bone grafting\nHave active, untreated periodontal (gum) disease\nAre currently pregnant (surgery may be deferred)\n\nPre-Procedure Guidelines\nMaintain thorough oral hygiene prior to surgery\nArrange for transportation home following the procedure if sedation is used\nRefrain from eating or drinking for 6–8 hours before surgery if instructed\nDisclose all medications, allergies, and medical conditions to your practitioner\nDiscontinue specific medications as advised before the operation\n\nPost-Procedure Care\nAvoid disturbing the surgical area for the initial few days\nDo not rinse vigorously, spit forcefully, or use drinking straws for the first 24 hours\nUse any prescribed antimicrobial mouthwash or warm saltwater rinses as directed\nTake any prescribed antibiotics and pain relief medication\nAbstain from smoking and alcohol consumption during the healing phase\nConsume only soft foods for several days post-surgery\nMaintain excellent oral hygiene, but avoid brushing directly on the implant site initially\nAttend all scheduled follow-up visits\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this procedure and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to this procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed upon with the practitioner."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

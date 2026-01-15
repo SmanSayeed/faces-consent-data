@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Brow Lamination",
-                        "disclaimer": "PATIENT CONSENT: This is an informed consent form that has been prepared to help inform you of the potential benefits and risks of brow lamination. It is important that you read this information carefully and discuss fully with your practitioner before proceeding with treatment. \n\nIt is also important that you take as much time as you need to consider the treatment carefully, weighing up all your options before reaching an informed decision.  It is essential that you are aware of your right to have a second opinion and you are encouraged to ask any questions that come to mind throughout the entirety of the process.\n\nBrow lamination in simple terms is like a perm for your eyebrows. It is a two-step process by which a chemical solution is used to relax bonds between the hairs and straighten them, then a setting lotion is used to shape and often lift the eyebrow hairs into a set position. Lamination acts to give the eyebrows a more aesthetically desirable shape and appearance. Results usually last up to 6-8 weeks but they can last for longer or shorter time periods. \n\nBrow lamination is painless and is a great alternative to microblading. Brow lamination is a low-risk procedure with few complications however as with any treatment some risks are possible.  Brow lamination can occasionally cause dryness and damage to the eyebrow hairs and rarely loss of hairs. This is more likely to happen if the procedure is repeated too often or sooner than 6-week intervals. \n\nRarely eye irritation or infection could occur if any of the lamination chemicals come into contact with the eyes. If severe injury occurs, then corneal scarring could lead to blindness in extremely rare cases. If you sustain an eye infection or injury then you should seek urgent medical attention. It is important to keep your eyes closed during the treatment to protect them from any accidental contact with products used. As with any chemical used on the skin there is a risk of allergic reaction. In extremely rare circumstances you could develop an anaphylactic reaction which would require emergency medical care. \n\nA patch test should be done 48 hours before each brow lamination. Also, a separate patch test should be conducted if you are having a brow tint at the same time. The patch test is deigned to predict those who might develop a severe allergic reaction to the product.\n\nThe technician and the business performing the service on me will not be liable for any damages caused to me or my eyebrows in any way caused by any reason including allergic reaction, reaction to previous procedure such as henna/tint in the brow hair, skin sensitivity and my failure to follow the aftercare instructions.\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks associated with brow lamination. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, evaluating all your options before reaching an informed decision. It is important you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nBrow lamination is essentially a perming process for eyebrow hairs. It involves a two-step chemical treatment where a solution relaxes the bonds in the hairs to straighten them, followed by a setting solution that shapes and often lifts the hairs into a fixed position. Lamination aims to create a more desirable shape and fuller appearance for the eyebrows. Results typically last 6 to 8 weeks, though duration can vary.\n\nBrow lamination is generally painless and serves as an alternative to microblading. It is considered a low-risk procedure with few complications; however, as with any treatment, some risks exist. Brow lamination can occasionally cause dryness and damage to the eyebrow hairs, and in rare cases, hair loss. This risk is higher if treatments are repeated too frequently or at intervals shorter than 6 weeks.\n\nRarely, eye irritation or infection could occur if any of the chemical products come into contact with the eyes. In extremely rare instances, severe injury could lead to corneal scarring and potential vision loss. Should you experience any eye infection or injury, you should seek urgent medical attention. It is crucial to keep your eyes closed throughout the treatment to protect them from accidental product contact. As with any chemical applied to the skin, there is a risk of allergic reaction. In exceedingly rare circumstances, a severe anaphylactic reaction could occur, requiring emergency medical care.\n\nA patch test should be performed at least 48 hours before each brow lamination treatment. A separate patch test is also necessary if a brow tint is to be done concurrently. The purpose of the patch test is to identify individuals who may have a severe allergic reaction to the product.\n\nThe technician and the business performing this service will not be held responsible for any damages to me or my eyebrows resulting from any cause, including allergic reactions, reactions to previous treatments (such as henna or tint), skin sensitivity, or my failure to adhere to aftercare instructions.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

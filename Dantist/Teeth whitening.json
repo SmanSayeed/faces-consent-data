@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Teeth Whitening",
-                        "disclaimer": "This document serves as your consent to proceed with the dental teeth whitening treatment. Please read through the information below carefully and sign the document to confirm your understanding.\n\nTreatment Overview:\nTeeth whitening is a common dental procedure designed to lighten the colour of your teeth using a bleaching agent, usually containing carbamide peroxide or hydrogen peroxide. This treatment can be performed in the office under a dentist's supervision or at home using take-home trays.\n\nBenefits:\nTeeth whitening can significantly improve the appearance of discoloured or stained teeth. This can boost self-esteem and confidence, creating a positive impact on social interactions and personal well-being.\n\nPotential Risks and Side Effects:\nSensitivity: Teeth may become sensitive during or after treatment. This is typically temporary and decreases over time.\n\nGum Irritation: The whitening solution may irritate your gums, causing inflammation or redness.\n\nUneven Whitening: If you have fillings, crowns, or veneers, these will not change colour during whitening, potentially leading to uneven tooth colour.\n\nOverbleaching: Overuse of whitening products can damage the tooth enamel or gum tissue.\n\nAlternatives:\nAlternatives to teeth whitening include veneers, dental crowns, bonding, or simply choosing not to lighten the colour of your teeth. Each option has its own set of risks, benefits, and costs, which should be discussed with your dentist.\n\nBy signing below, you affirm that:\n\nYou have read and understood the information provided above.\nYou have had an opportunity to ask questions and all your questions have been answered to your satisfaction.\nYou understand the risks and benefits of the teeth whitening treatment and agree to proceed with the treatment.\nYou agree to follow all post-care instructions given by your dental care provider.\nYou are not allergic to any of the ingredients used in the whitening gel.\n\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice.  This includes advice about:\n\n- the aims/motivations for having the procedure and the desired outcome\n- the risks inherent in the procedure\n- the risks inherent in refusing the procedure\n- the risks specific to me\n- the expected benefits of the treatment\n- the potential disadvantages of the treatment\n- alternative procedures and their pros and cons - including the option of no treatment at all\n- any uncertainties about and the likelihood of success of the procedure\n- any follow-up treatment that may be required\n\nCLINICAL PHOTOS AND VIDEOS: I agree to and authorise the taking of clinical photographs and videos.  I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision.  I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures."
+                        "disclaimer": "This document constitutes your agreement to proceed with the dental teeth whitening procedure. Please review the following details thoroughly and sign to confirm your understanding and acceptance.\n\nTreatment Summary:\nTeeth whitening is a widely used cosmetic dental treatment aimed at lightening the natural shade of teeth through the application of a bleaching agent, typically containing carbamide peroxide or hydrogen peroxide. This can be administered in a dental clinic under professional supervision or via custom take-home trays for personal use.\n\nAdvantages:\nTeeth whitening can markedly enhance the look of teeth affected by discoloration or stains. This improvement may increase self-assurance and confidence, positively influencing social engagement and personal satisfaction.\n\nPossible Risks and Side Effects:\nSensitivity: Teeth may develop temporary heightened sensitivity to temperature or pressure during or after the procedure, which generally subsides over time.\nGum Irritation: The whitening solution may cause temporary inflammation, redness, or mild irritation of the gum tissue.\nUneven Results: Existing dental restorations such as fillings, crowns, or veneers will not respond to the whitening agent, which could result in a non-uniform appearance.\nOver-bleaching: Excessive or improper use of whitening products may harm tooth enamel or aggravate gum tissue.\n\nAlternative Options:\nAlternatives to professional teeth whitening include porcelain veneers, dental crowns, composite bonding, or opting not to alter tooth color. Each alternative carries its own considerations regarding risks, benefits, and expenses, which should be discussed with your dental practitioner.\n\nBy signing, you acknowledge that:\nYou have read and comprehended the information provided.\nYou have been given the opportunity to ask questions, and all inquiries have been addressed to your satisfaction.\nYou are aware of the potential risks and benefits associated with teeth whitening and agree to proceed with the treatment.\nYou commit to following all aftercare instructions provided by your dental professional.\nYou do not have a known allergy to any components in the whitening gel.\n\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

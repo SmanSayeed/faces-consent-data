@@ -2,114 +2,114 @@
     "data": {
         "getWalkInConsentFormQuestions": {
             "success": true,
-            "message": "List of consent form questions fetched successfully.",
+            "message": "Consent form questions retrieved successfully.",
             "data": {
                 "disclaimerData": [
                     {
                         "consentFormName": "Porcelain Veneers",
-                        "disclaimer": "Treatment Overview\nPorcelain veneers are thin, custom-made ceramic shells designed to cover the front surface of the teeth to improve their appearance. This is a cosmetic dental procedure intended to enhance tooth shape, colour, and alignment.\n\nIntended Benefits\nAesthetic improvement of tooth colour, shape, and size\n\nCorrection of minor misalignments or gaps\n\nRestoration of worn, chipped, or discoloured teeth\n\nLong-lasting cosmetic enhancement\n\nPotential Risks and Complications\nTooth sensitivity to hot or cold due to enamel removal\n\nVeneer dislodgement, cracking, or chipping\n\nChanges in bite or discomfort\n\nGum irritation or inflammation\n\nIrreversible removal of natural tooth enamel\n\nPossibility of needing root canal treatment\n\nRequirement of replacement after several years\n\nAllergic reaction to bonding agents or materials (rare)\n\nContraindications\nInsufficient tooth enamel for bonding\n\nActive gum disease or decay\n\nPoor oral hygiene or high risk of dental caries\n\nBruxism (teeth grinding)\n\nUnrealistic expectations\n\nPre-Treatment Instructions\nEnsure teeth and gums are healthy prior to the procedure\n\nDiscuss desired shade and shape in detail\n\nNotify your dentist of any allergies or sensitivities\n\nFollow all recommendations regarding oral hygiene prior to the appointment\n\nPost-Treatment Aftercare\nAvoid biting hard foods or objects (e.g., ice, pens)\n\nMaintain excellent oral hygiene with regular brushing and flossing\n\nWear a nightguard if you grind your teeth\n\nAttend regular dental check-ups and hygiene appointments\n\nAvoid heavily pigmented food and drinks (e.g., coffee, red wine) for 48 hours post-procedure\n\nFollow practitioner’s recommendations for veneer maintenance\n\nInformed Consent and Photography\nI have been advised of the relevant information associated with this treatment and I confirm that I fully understand this advice. This includes advice about:\n\nthe aims/motivations for having the procedure and the desired outcome\nthe risks inherent in the procedure\nthe risks inherent in refusing the procedure\nthe risks specific to me\nthe expected benefits of the treatment\nthe potential disadvantages of the treatment\nalternative procedures and their pros and cons – including the option of no treatment at all\nany uncertainties about and the likelihood of success of the procedure\nany follow-up treatment that may be required\n\nClinical Photographs and Videos: I agree to and authorise the taking of clinical photographs and videos. I understand that these clinical photographs and videos will form part of and will be kept with my confidential medical records.\n\nI have been asked what information I want and would need in order to make an informed decision. I have been given the opportunity to discuss my desired outcome fully in order for me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been given ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has become available that affects my decision to have the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and supersedes any previous verbal or written disclosures.\n\nAll deposits and booking fees are non-refundable unless agreed to with the practitioner."
+                        "disclaimer": "Procedure Summary\nPorcelain veneers are thin, custom-crafted ceramic covers designed to adhere to the front surfaces of teeth to enhance their look. This is an aesthetic dental treatment aimed at improving tooth color, form, and positioning.\n\nAnticipated Advantages\nEnhanced appearance of tooth color, contour, and dimensions\nCorrection of slight irregularities or spaces between teeth\nRepair of teeth that are worn, damaged, or stained\nDurable cosmetic improvement\n\nPotential Risks and Adverse Events\nTooth sensitivity to temperature changes following enamel preparation\nVeneer becoming loose, fracturing, or chipping\nAlterations in bite alignment or subsequent discomfort\nGum tenderness or swelling\nPermanent reduction of the natural tooth's protective enamel layer\nPotential future need for root canal therapy\nLikelihood of requiring replacement after several years\nAllergic response to adhesive materials or components (rare)\n\nContraindications\nInadequate natural tooth enamel for secure bonding\nActive periodontal disease or tooth decay\nInsufficient oral hygiene or elevated risk of cavities\nHabitual teeth grinding (bruxism)\nUnrealistic aesthetic expectations\n\nPre-Procedure Guidelines\nEnsure teeth and gums are in a healthy state before treatment\nDiscuss preferred tooth shade and shape in detail\nInform your dentist of any allergies or sensitivities\nAdhere to all pre-appointment oral care instructions\n\nPost-Procedure Care\nRefrain from biting on hard items (e.g., ice, fingernails)\nMaintain meticulous oral hygiene with consistent brushing and flossing\nUse a protective night guard if you grind your teeth\nAttend routine dental examinations and professional cleanings\nAvoid strongly colored foods and beverages (like coffee, red wine) for at least 48 hours after placement\nFollow the practitioner's specific guidance for long-term veneer care\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to this procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed upon with the practitioner."
                     }
                 ],
                 "questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you understand the information you have been provided?",
+                        "content": "Do you comprehend the details that have been given to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you feel sufficient information has been provided to you, to enable you to consent?",
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Has your consent been freely given?",
+                        "content": "Have you given your consent voluntarily?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any medical conditions?",
+                        "content": "Are there any health issues you currently have?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or nursing a child?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have a neuromuscular disease (e.g. MS, ALS, motor neuropathy myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune condition?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any skin conditions?",
+                        "content": "Do you experience any skin problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or have ever had anaphylaxis?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any active infection at the intended site of procedure?",
+                        "content": "Is there an active infection at the area where the procedure is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you taking antibiotics or other prescription medications?",
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical and/or Social History that we should know? If so, please provide full detail here.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your aims/motivations for having the procedure and the desired outcome? Please provide full details here.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you had this or a similar treatment before? If so, did you experience any problems? Please provide full details here.",
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "content": "Do you have any concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "content": "Is there anything else we need to know? Please provide full information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }
