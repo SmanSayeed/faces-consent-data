@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "PMU",
+                        "disclaimer": "This document is intended to inform you about the potential benefits and risks of Permanent Makeup (PMU). Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nOVERVIEW: Permanent Makeup (PMU) is an aesthetic practice that includes micropigmentation and cosmetic tattooing. These techniques require a specialized tattoo machine to deposit pigment into the dermal layer of the skin. These treatments produce lasting cosmetic results, and pigments fade more slowly than semi-permanent methods like microblading. Common areas treated with PMU include:\n- Scalp micropigmentation: to recreate the appearance of hair stubble for individuals experiencing hair loss.\n- Eyebrow tattoo: to enhance or restore color, fullness, shape, and hair-like strokes.\n- Lip blush: to add subtle color and shading to the lips, reducing the need for lipstick.\n- Shaded eyeliner: to define and color the eyelid margin, minimizing the use of eyeliner.\n- Areolar tattoo: to restore the appearance of the nipple-areolar complex, often after breast cancer surgery.\n\nTREATMENT PROCESS: Prior to your treatment, you will have a consultation. During this session, your practitioner will discuss your goals and expectations, help select a pigment matching your skin tone, ensure you are medically suitable, and may create a preliminary sketch (e.g., for eyebrows) for your approval. I accept responsibility for agreeing to the final color, shape, and placement of my PMU as determined during the consultation.\n\nPMU can cause discomfort. A topical anesthetic cream will be applied beforehand to help minimize this. The procedure duration varies based on complexity, body area, treatment goal, and individual factors. I have been assured that the highest hygiene standards are maintained, using sterile, single-use needles and pigment containers for each client and session.\n\nPATCH TEST: Occasionally, clients may develop an allergic reaction to the tattoo pigment. Your practitioner will arrange a patch test at least 48 hours before treatment. This involves applying a small amount of pigment to your skin and observing for any rash or irritation. If a reaction occurs, the product should not be used. While a normal patch test is a good indicator, it cannot completely exclude the possibility of a severe allergic reaction or anaphylaxis. I hereby consent to a patch test prior to treatment.\n\nRESULTS: I understand that results vary significantly between individuals and depend on many personal factors. I understand and accept that PMU is a process typically requiring multiple sessions to achieve desired outcomes, and perfect results cannot be guaranteed after the first procedure. Most people require at least two treatments as a minimum to attain or maintain results. I acknowledge there is a possibility I may never achieve my ideal results.\n\nI understand that several appointments may be necessary for optimal results. I will be notified in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept informed of my progress and that I may withdraw my consent at any time.\n\nI have been advised that the true, settled color will be visible approximately one month after each procedure, and that pigment appearance can vary based on skin tone, type, age, and condition. I understand that some skin types retain pigment better than others, and no exact color guarantee can be given. I acknowledge that my skin's natural tone may slightly alter the final pigment color.\n\nI fully understand and accept that non-toxic pigments are used and that the results will gradually fade over a period of 1 to 3 years. Even after visible fading, pigment particles may remain in the skin indefinitely. There are no guarantees regarding the success or longevity of the PMU treatment.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are potential risks and complications. You must be aware of all the following risks before proceeding. You must discuss any questions fully with your practitioner.\n\nCommon reactions include pain or discomfort during or after the procedure. It is common for the treated skin to appear red and swollen afterward, with possible minor bleeding, bruising, or scabbing. These effects can last up to 14 days or longer, and complete healing can take 6 to 8 weeks for PMU tattoos.\n\nLess common complications include skin infection (cellulitis), presenting as hot, red, shiny skin, possibly with pus and general malaise. Infection is uncommon if aftercare advice is followed, but if suspected, you must see a doctor promptly. For lip blush tattoos, the procedure may sometimes trigger a reactivation of cold sores (herpes simplex). Some individuals may feel faint during needle-based procedures; you must inform your practitioner immediately if you feel unwell. Other uncommon risks include unsatisfactory cosmetic results, lack of results, rapid color fading, inconsistent pigment, and pigment spreading or 'fanning.' PMU pigments are permanent and not easily removed; poor results may require corrective treatments or tattoo removal (e.g., laser). You must also inform any doctor or radiologist if you need an MRI scan after PMU, as tattooed skin can pose issues during scanning.\n\nRare complications include unsightly hypertrophic or keloid scarring, delayed inflammatory nodule (granuloma) formation, skin reactions to the topical anesthetic, and allergic reactions. Despite a normal patch test, allergic reactions to pigments are still possible, presenting as swelling, a red rash, or blistering. Very rarely, an anaphylactic reaction could occur, requiring emergency medical attention. Severe allergic or inflammatory reactions may result in permanent scarring.\n\nFor eyeliner PMU procedures, there is a rare risk of eye injury, including corneal abrasions or scarring (potentially leading to visual impairment). Eye infection or inflammation is also possible. Should any eye complications arise, you must seek urgent medical care. Eye drops may be used before and after treatment to help protect your eyes.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nCONSENT: To my knowledge, I do not have any physical, mental, or medical condition that might adversely affect my well-being as a result of deciding to undergo this procedure now. I agree to follow all pre- and post-procedure instructions provided by the technician. Failure to do so may compromise my chances of a successful outcome. I confirm I have received a copy of the aftercare details. I have been informed of the nature, risks, possible complications, and consequences of permanent skin pigmentation.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

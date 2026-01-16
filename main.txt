@@ -6,14 +6,15 @@ If you don't understand anything please let me know.
 
 ■Cosmetics 
 Anti-wrinkle injections --- Not found
-Dermal fillers (lips, cheeks, jawline, chin)---Complete
+Dermal fillers (lips, cheeks, jawline, chin)---Completed
 Skin boosters (e.g. hyaluronic acid) ---Found but there are some varients of it
 Polynucleotides--- Not found
-Lumi Eye --- Complete
+Lumi Eye --- Completed
 PRP (Vampire Facial)--- Found but not in vampire facial, Found in other varients
 Fat dissolving injections---Found in other varients but not with injections
 Mesotherapy --- Completed
-
+Profhilo---Completed
+Bum filler---Completed
 
 ■Beauty 
 Deep cleansing facial---Not found
@@ -26,35 +27,42 @@ Oxygen facial---Not found
 Carbon laser facial--- (Found as Carbon Laser Peel)
 Waxing (face & body)---Completed
 Threading---Two varients: Lip threading and eyebrow threading
-
+Microneedling---Completed
+Dermaplaning---Completed
+Sugaring---Completed
 
 ■Hair
-Blow dry
-Hair treatments
-Scalp detox
-Hair botox / keratin (beauty-based)
+Blow dry--- Not found
+Hair treatments---Hair treatments found as Prescription Hair Loss Treatment for Females
+Scalp detox---Not found
+Hair botox / keratin (beauty-based)---Not found
 
 
 ■Face 
-Airbrush makeup
-Permanent makeup (PMU):
-Powder brows
-Eyeliner
-Eyebrow shaping
-Eyebrow tinting
-Brow lamination
-Lash tint
-Eyelash extensions (classic, hybrid, volume)
-Under-eye treatments
+Airbrush makeup---Not found
+Permanent makeup (PMU):---Completed
+Powder brows---Not found
+Eyeliner---Not found
+Eyebrow shaping--- Eyebrow shaping found as some varients
+Eyebrow tinting---Not found
+Brow lamination---Completed
+Lash tint--- Lash tint found as Lash and Brow Tint
+Eyelash extensions (classic, hybrid, volume)--- Completed
+Under-eye treatments--- Not found
+Lash lift---Completed
+Lip blush--- Completed
+Microblading---Completed
 
 Body 
 
 ■Laser 
-Laser hair reduction
-Beard shaping (laser)
-Bikini / Brazilian laser
-Full-body laser hair removal
-Ingrown hair reduction (laser)
+(Laser Hair Removal)---Completed
+Laser hair removal ,face & body---Not found
+Laser hair reduction---Not found
+Beard shaping (laser)---Not found                       
+Bikini / Brazilian laser---Not found
+Full-body laser hair removal---Not found
+Ingrown hair reduction (laser)---Not found
 
 (Laser Skin Rejuvenation)
 Laser skin rejuvenation
@@ -102,6 +110,7 @@ Neck tightening
 Eye area tightening
 Body skin tightening
 
+(Laser Resurfacing)
 Ablative laser resurfacing
 Non-ablative laser resurfacing
 Fractional laser resurfacing
@@ -110,6 +119,7 @@ Er:YAG laser resurfacing
 Laser skin renewal
 
 (Tattoo & PMU Removal)
+Laser tattoo removal
 Multi-colour tattoo removal
 Eyebrow tattoo removal
 Microblading removal (laser)
@@ -173,7 +183,9 @@ Root canal treatment
 Temporary fillings
 
 (Cosmetic Dentistry)
+Teeth whitening (in-clinic / take-home)
 Composite bonding
+Porcelain veneers
 Smile makeovers
 Tooth reshaping / contouring
 Cosmetic crowns
@@ -181,10 +193,12 @@ Cosmetic crowns
 (Orthodontics)
 Traditional metal braces
 Ceramic braces
+Lingual braces
 Clear aligners (e.g. Invisalign-style systems)
 Retainers
 
 (Implant Dentistry)
+Dental implants
 Implant-supported crowns
 Implant-supported bridges
 Full-arch implant solutions (e.g. All-on-4)
@@ -202,6 +216,7 @@ Pocket reduction therapy
 Tooth extractions
 Surgical extractions
 Wisdom tooth removal
+Cyst removal
 Biopsies
 Minor oral surgery
 
@@ -247,8 +262,12 @@ Superficial peels
 Medium-depth peels
 Deep peels
 Glycolic peel
+Salicylic peel
 Lactic peel
 Mandelic peel
+TCA peel
+Jessner peel
+Carbon laser peel
 
 
 ■Massage 
@@ -257,3 +276,4 @@ Deep tissue massage
 Aromatherapy massage
 Hot stone massage
 Head, neck & shoulder massage
+Reflexology

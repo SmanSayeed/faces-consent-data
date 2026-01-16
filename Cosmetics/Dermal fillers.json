@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Dermal Filler",
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of dermal filler injections. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nOVERVIEW \n\nDermal filler injections aim to soften facial lines and wrinkles, add volume to tissues (such as the lips), and enhance facial contours. Most dermal fillers are hyaluronic acid-based and may contain lidocaine, a local anesthetic, to help manage discomfort.\n\nRESULTS\n\nHyaluronic acid dermal fillers have been demonstrated to be safe and effective, with results lasting up to 12 months or longer. After the initial treatment, allow approximately two weeks for the filler to settle and for any residual bruising and swelling to diminish. At this two-week point, a minor touch-up may be needed if slight unevenness persists. There is no guarantee that additional treatment will not be required to achieve your desired outcome. Often, more than one session is needed to attain optimal results. The dermal filler procedure is temporary, and periodic maintenance treatments are necessary to sustain results. I am aware that the duration of effect and results depend on many factors. I understand the post-treatment instructions; following them will reduce the risk of complications and improve my comfort after the procedure.\n\nI understand that several appointments may be necessary for optimal results. I will be notified in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept informed of my progress and that I may withdraw my consent at any time.\n\nRISKS AND COMPLICATIONS Understanding the risks of dermal filler injections is essential to making an informed decision about your treatment. No procedure is entirely without risk, and all potential risks must be explained before proceeding. Below are the relevant risks and complications associated with dermal fillers.\n\nCommon complications include pain, bleeding, and bruising at the injection site. Afterward, the area may feel tender but should not be severely painful. If you experience significant pain following the injection, you must contact your practitioner promptly for assessment. Bruising is common; its severity depends on several factors. Bruising is often mild but can occasionally be more noticeable. It can take up to two weeks to fully resolve but should improve significantly after one week. In rarer cases, severe bruising can lead to a hematoma (a collection of clotted blood), which may take at least two weeks to resolve naturally; your practitioner will provide appropriate aftercare guidance. Swelling is another common side effect, usually mild to moderate but occasionally more pronounced. Swelling often peaks 2-3 days post-injection, should resolve within two weeks, and be substantially improved after five days. Some individuals may feel faint during injections; you must inform your practitioner immediately if you feel unwell.\n\nLess common complications include skin infection (cellulitis), presenting as hot, red, shiny skin, possibly with general malaise. If you suspect an infection, you should contact your practitioner and seek medical assessment promptly, as antibiotics may be needed. Occasionally, an infection may form an abscess, requiring urgent medical attention. If you are prone to cold sores (herpes simplex), lip filler injections may trigger a reactivation. Dermal fillers can sometimes cause lumps, nodules, unevenness, or an unsatisfactory cosmetic result. You may not achieve your desired look, especially after a single session. Filler can occasionally migrate over time, leading to an undesirable appearance; dissolving injections may be required if migration is noticeable or persistent. Occasionally, an unwanted inflammatory reaction to the filler can cause delayed nodule formation called granulomas, which may appear months later. Several treatment options exist for granulomas, and you may need medical evaluation. If filler is inadvertently injected too superficially, it can cause a bluish skin discoloration (Tyndall effect). If this occurs, dissolving injections are typically needed to remove the misplaced filler.\n\nRare complications include allergic reactions to the dermal filler or the lidocaine anesthetic, if present. Very rarely, an anaphylactic reaction could occur, requiring emergency medical care and hospital transfer. Rarely, dermal filler can be injected into an artery, blocking blood flow to the treated tissue (vascular occlusion). If untreated, this can lead to tissue death (necrosis), potentially requiring reconstructive surgery. In such a rare event, it would be treated emergently with injections of Hyaluronidase, an enzyme that dissolves the filler and usually fully reverses the occlusion without long-term harm. Your practitioner is trained to use Hyaluronidase in an emergency; however, if unsuccessful, you would require urgent medical or specialist aesthetic doctor assessment.\n\nThe rarest complication is filler-induced blindness, where a small amount of filler enters a blood vessel, travels (embolizes), and blocks the artery or vein supplying the retina. Fewer than 200 cases have been reported worldwide, but you must be aware of this risk, particularly with nasal or glabella (between the eyebrows) fillers. Filler blindness is usually irreversible. Should this complication occur, you should seek urgent assessment at the nearest eye hospital or specialized medical eye unit.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

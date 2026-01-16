@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Eyelash Extension",
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of eyelash extensions. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nEyelash extensions are semi-permanent, individual synthetic lashes that are attached one by one to your natural eyelashes using a specialized adhesive. The goal is to create longer, more voluminous-looking eyelashes while maintaining a natural appearance.\n\nI understand that results vary between individuals and depend on many personal factors. I am aware there is no guarantee I will achieve my desired results and that repeat treatments are required to maintain results. Semi-permanent lashes typically last 6 to 8 weeks on average, but duration can vary. You may need a lash infill treatment after 2 to 3 weeks, which is a top-up procedure where new extensions are added to natural lashes that were too short to be bonded initially. Infill treatments help maintain a full and natural look.\n\nI understand that several appointments may be necessary for optimal results. I will be notified in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept informed of my progress and that I may withdraw my consent at any time.\n\nI understand that it is my responsibility to keep my eyes closed and remain still throughout the entire procedure until instructed otherwise by the technician. This is because fumes from the adhesive can irritate the eyes and cause watering if the eyes are opened. I agree to disclose any allergies I may have to latex, surgical tapes, cyanoacrylate, or petroleum jelly.\n\nRISKS AND POSSIBLE REACTIONS: Occasionally, clients may develop an allergic reaction to the adhesive used. Your technician will arrange a patch test at least 48 hours before treatment. This involves applying a small amount of adhesive to your skin and observing for any rash or irritation. If a reaction occurs, the product should not be used. While a normal patch test is a good indicator, it cannot completely exclude the possibility of a severe allergic reaction or anaphylaxis.\n\nAs with any procedure, there are potential risks and complications. Eyelash extensions are generally safe and low-risk, but you must be aware of the following possibilities before proceeding. You must discuss any questions fully with your practitioner.\n\nCommon side effects include eye or eyelid redness, inflammation, itching, swelling, or irritation. These effects should subside within 2 to 3 days. It is important to keep your eyes closed during the procedure, as adhesive vapors can irritate the eyes. You must inform your practitioner immediately if you experience any burning or discomfort during the procedure.\n\nLess commonly, you may experience an allergic reaction to the adhesive, presenting as swelling and an itchy red rash. Very rarely, a severe anaphylactic reaction could occur, requiring emergency medical attention. Eyelash extensions can also cause natural lashes to fall out, break, or become thinner. You should avoid rubbing or pulling the extensions to help prevent this.\n\nRarely, you may develop an eye infection (conjunctivitis) or an eyelid infection (blepharitis) afterward, presenting as a painful, red, inflamed eye or lid margin. In the event of an eye infection, you should contact your practitioner and seek medical advice.\n\nExtremely rarely, if adhesive accidentally comes into contact with the eye, it could cause a burn or injury to the eyelid or cornea. In severe cases, corneal scarring could lead to visual impairment. If you sustain an eye infection or injury following lash extensions, you should seek urgent medical attention.\n\nEyelash extensions can be safely and easily removed by your practitioner if complications arise that necessitate their removal.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
