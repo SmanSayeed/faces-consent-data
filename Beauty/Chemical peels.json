@@ -1,0 +1,127 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Chemical Peel",
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of a chemical peel. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nA chemical peel involves applying a chemical solution to the skin to remove its outermost layers. The new skin that grows back is typically smoother and has an improved cosmetic appearance. Chemical peels can be used to enhance the look of lines and wrinkles, dull skin, minor scars, acne, and areas of discoloration.\n\nThere are three main types of chemical peels: light, medium, and deep. These classifications refer to the depth of skin layer removal. Deeper peels require a longer healing period but often yield more pronounced results. Light peels are gentler but may need to be performed more frequently to achieve desired outcomes. A deep chemical peel should only be done once, as repeated deep peels could harm the skin.\n\nMultiple sessions of lighter peels are often needed for optimal results, spaced appropriately. Due to variables like age, skin condition, sun exposure, smoking, skincare routine, climate, lifestyle, and general health, you acknowledge that there are no guarantees, warranties, or assurances of satisfaction with your results. The skin can take up to 14 days to heal after a chemical peel, and repeat peels should not be performed within this two-week period. Subsequent peels are typically scheduled at 4 to 6-week intervals.\n\nI understand that several appointments may be necessary for optimal results. I will be notified in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept informed of my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and complications involved. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include mild to moderate discomfort or pain following the procedure, slight redness or swelling of the skin, increased sun sensitivity, and general heightened skin sensitivity. These effects can last up to 14 days, which is the typical skin healing time post-peel. Occasionally, skin redness may persist longer than 14 days. Less commonly, changes in skin pigmentation may occur; the skin may become lighter or darker. In some cases, these pigment changes can be permanent.\n\nRare complications include allergic reactions to the chemical product, which could include a severe anaphylactic reaction requiring emergency medical care. Bacterial skin infection (cellulitis) or reactivation of herpes virus infections are also possible. Permanent scarring is another rare possibility.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I freely assume those risks. Before receiving treatment, I have been candid in disclosing any condition that may have a bearing on this procedure.\n\nI confirm I have been advised of all relevant information regarding this treatment and fully understand it. This advice includes details about:\n- My reasons for seeking treatment and desired outcome\n- The inherent risks of the procedure\n- The risks of refusing the procedure\n- Any risks specific to me\n- The expected benefits\n- Potential disadvantages\n- Alternative treatments and their pros and cons, including the option of no treatment\n- Any uncertainties and the likelihood of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
+                    },
+                    {
+                        "consentFormName": "Laser Acne Treatment",
+                        "disclaimer": "Procedure Summary\n\nThe laser acne treatment is a medical procedure that utilizes specific light wavelengths to target and reduce acne-causing bacteria. It may also help lessen inflammation and prevent future breakouts. The procedure involves directing focused light energy onto the skin to treat active acne.\n\nTreatment Process\n\nThe treatment will involve the following steps:\n\nPre-Treatment Skin Evaluation:\n\nA comprehensive skin assessment will be conducted to evaluate acne severity, skin type, and any potential contraindications. This ensures the laser treatment is appropriate for your skin.\n\nSkin Cleansing:\n\nYour skin will be thoroughly cleansed to remove any dirt, oil, or makeup, maximizing treatment effectiveness.\n\nLaser Application:\n\nA topical gel or cooling agent may be applied to enhance comfort.\nThe laser device will deliver precise light energy to the targeted skin areas. The treatment is generally well-tolerated, though some individuals may feel a mild sensation such as warmth, tingling, or slight prickling.\n\nPost-Treatment Care:\n\nSoothing products may be applied post-treatment to reduce any redness or irritation. A post-care ointment or cream may be provided to help calm the skin.\nDetailed aftercare instructions will be reviewed, including how to properly care for the treated skin.\n\nFollow-Up Sessions:\n\nMultiple sessions may be required depending on your acne's severity. Follow-up appointments will be scheduled based on the initial results and your skin's response.\n\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
