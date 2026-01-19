@@ -1,0 +1,117 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Glycolic Acid Peel",
+                        "disclaimer": "A glycolic acid peel is a chemical exfoliation treatment that employs glycolic acid, an alpha hydroxy acid (AHA), to remove dead skin cells, promote exfoliation, and encourage skin renewal. It is used to enhance skin tone, texture, and clarity, diminish fine lines, mild discoloration, and acne. The concentration and application time are customized according to your skin type and treatment objectives.\n\nRisks and Side Effects:\n\nTemporary redness, stinging, flaking, dryness, and increased skin sensitivity are typical. Rare risks include scarring, infection, darkening (hyperpigmentation), or lightening (hypopigmentation) of the skin. Skin may become more susceptible to sun damage post-treatment, raising the risk of sunburn. Individuals with darker complexions have a somewhat elevated risk of pigment alterations.\n\nContraindications:\n\nNot suitable for those with active skin infections, open sores, eczema, psoriasis, sunburn, or recent facial procedures. Caution is recommended for individuals using retinoids, isotretinoin (Accutane) within the past 6 to 12 months, or those who are pregnant or breastfeeding unless approved by a healthcare provider.\n\nAftercare:\n\nAvoid direct sun exposure and apply a high-SPF sunscreen daily. Do not pick or peel flaking skin. Refrain from using retinoids, exfoliants, and other potentially irritating products for at least one week following treatment. Keep skin moisturized and adhere to all aftercare guidelines provided by your practitioner.\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to this procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed upon with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

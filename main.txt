@@ -258,16 +258,16 @@ Calming / barrier-repair facial--- Not found
 Oxygen facial---Not found
 Enzyme peels---Not found
 Chemical peels:---Completed
-Superficial peels
-Medium-depth peels
-Deep peels
-Glycolic peel
-Salicylic peel
-Lactic peel
-Mandelic peel
-TCA peel
-Jessner peel
-Carbon laser peel
+Superficial peels---Not found
+Medium-depth peels---Not found
+Deep peels---Not found
+Glycolic peel---Completed
+Salicylic peel---Completed
+Lactic peel---Not found
+Mandelic peel---Not found
+TCA peel---Completed
+Jessner peel---Completed
+Carbon laser peel---Completed
 
 
 ■Massage 

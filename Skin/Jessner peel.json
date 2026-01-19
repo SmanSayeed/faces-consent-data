@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "disclaimerData": [
+                "paraphrased_disclaimerData": [
                     {
                         "consentFormName": "Jessner Peel",
-                        "disclaimer": "A Jessner peel is a medium-depth chemical exfoliation treatment that utilizes a blend of salicylic acid, lactic acid, and resorcinol in an ethanol solution to remove the outer layers of skin. It is employed to enhance skin tone, texture, and clarity, and can assist in managing acne, pigmentation irregularities, fine lines, and sun-induced damage. The procedure works by eliminating impaired skin cells, encouraging collagen synthesis, and fostering the development of new, healthier skin.\n\nPotential risks may include redness, swelling, irritation, flaking, crust formation, alterations in skin color (either darkening or lightening), scarring, infection, allergic responses, increased sun sensitivity, and extended recovery time.\n\nPotential benefits may include improved skin smoothness, decreased acne occurrences, lightening of discolored areas, reduction in the visibility of fine lines, and a more uniform skin complexion.\n\nAlternative options may include other chemical peels of different strengths, microdermabrasion, laser skin resurfacing, microneedling, topical skincare regimens, or choosing to forgo treatment.\n\nInformed Consent and Photography\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nClinical Photographs and Videos: I authorize the capture of clinical photographs and videos. I understand these images will become a part of my confidential medical file and will be stored accordingly.\n\nI have been asked what details I require to make an informed choice and have had the chance to discuss my desired outcome thoroughly.\n\nI certify that I have read this consent document and understand it completely. I have been provided sufficient opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that alters my decision to undergo the procedure or to provide my consent. I hereby consent to this procedure. This document serves as the complete disclosure and replaces any prior verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless otherwise agreed upon with the practitioner."
+                        "paraphrased_disclaimer": "A Jessner peel is a medium-strength chemical exfoliation procedure that uses a combination of salicylic acid, lactic acid, and resorcinol in an ethanol base to slough off the surface layers of the skin. It is used to improve skin tone, smoothness, and clarity, and can help treat acne, uneven pigmentation, fine lines, and sun damage. The treatment functions by removing damaged skin cells, stimulating collagen production, and promoting the growth of fresh, healthy skin.\n\nPossible side effects can involve redness, swelling, sensitivity, peeling, scabbing, changes in skin color (hyperpigmentation or hypopigmentation), scarring, infection, allergic reactions, heightened sensitivity to sunlight, and a prolonged healing period.\n\nPotential improvements may include smoother skin texture, fewer acne breakouts, fading of dark spots, diminished appearance of fine lines, and a more even skin tone.\n\nOther available choices might include different types of chemical peels with varying strengths, microdermabrasion, laser treatments, microneedling, prescription or over-the-counter topical products, or deciding not to have any treatment.\n\nInformed Consent and Use of Photography\nI affirm that I have been advised of all pertinent information regarding this treatment and that I fully understand these details. This encompasses explanations concerning:\n- The purpose of the procedure and what I hope to achieve\n- The potential risks involved in undergoing the treatment\n- The risks of choosing not to have the procedure\n- Any personal health-related risks specific to me\n- The expected positive outcomes\n- Possible negative effects or downsides\n- Other treatment options and their pros and cons, including the option of no treatment\n- Any areas of uncertainty and the likelihood of a successful result\n- Any necessary aftercare or follow-up appointments\n\nClinical Photographs and Videos: I grant permission for the taking of medical photographs and videos. I acknowledge these will be included in my private health record and stored securely.\n\nI have been invited to specify what information I need and have had ample opportunity to discuss my treatment goals in detail.\n\nI declare that I have read this consent form and comprehend it entirely. I have been given adequate time for questions, and all my queries have been answered to my complete satisfaction. No new facts have arisen that would change my decision to proceed with the treatment or to grant my consent. I hereby give my consent for this procedure. This document constitutes the full and final agreement and overrides any previous discussions or correspondence.\n\nAll deposits and booking fees are final and non-refundable unless a specific exception has been arranged with your provider."
                     }
                 ],
-                "questions": [
+                "paraphrased_questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you comprehend the details that have been given to you?",
+                        "paraphrased_content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "paraphrased_content": "Do you feel you have received sufficient information to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you given your consent voluntarily?",
+                        "paraphrased_content": "Are you providing your consent willingly and without pressure?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are there any health issues you currently have?",
+                        "paraphrased_content": "Do you have any current medical conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you currently pregnant or nursing a child?",
+                        "paraphrased_content": "Are you pregnant or breastfeeding at this time?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "paraphrased_content": "Do you have a neuromuscular disease (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune condition?",
+                        "paraphrased_content": "Do you have an autoimmune disorder?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you experience any skin problems?",
+                        "paraphrased_content": "Do you currently have any skin conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "paraphrased_content": "Do you have any known allergies or a history of life-threatening allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "paraphrased_content": "Is there a current infection in the area to be treated?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "paraphrased_content": "Are you currently taking any antibiotics or prescription drugs?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "paraphrased_content": "Is there any other relevant Medical or Social History we should know? If yes, please describe in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "paraphrased_content": "What are your objectives and what outcomes are you hoping for from this procedure? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "paraphrased_content": "Have you had this or a similar treatment in the past? If yes, were there any complications? Please provide specifics.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please describe them.",
+                        "paraphrased_content": "Do you have any apprehensions or worries? If so, please explain.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "paraphrased_content": "Is there any other important information we should be aware of? Please provide a complete account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "paraphrased_content": "I will retain this information throughout my treatment course and refer to it as required.",
                         "answer": -1,
                         "comment": ""
                     }

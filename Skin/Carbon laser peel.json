@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "disclaimerData": [
+                "paraphrased_disclaimerData": [
                     {
                         "consentFormName": "Carbon Laser Peel",
-                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of carbon laser treatment. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nA carbon laser facial is a treatment designed to rejuvenate the skin. It can address various concerns including dull or aging skin, pigmentation issues, acne, and enlarged pores. The procedure involves two steps: first, a carbon lotion is applied and then targeted with a laser to generate heat. This heat stimulates skin remodeling and collagen production, promoting rejuvenation. The second step uses the laser to remove the carbon lotion, which also has an exfoliating effect.\n\nRISKS AND POSSIBLE REACTIONS: A carbon laser peel is generally safe; however, there are some minor potential risks you should be aware of. You may experience mild discomfort during the treatment, such as a slight pinprick sensation or a warming feeling. These sensations are usually mild and well-tolerated.\n\nAfter the treatment, it is common to notice some redness and mild swelling, which should subside within two weeks. Rare side effects include blistering, hyperpigmentation (darkening of the skin), infection, or scarring. If you experience any of these, you must contact your practitioner and may require medical evaluation.\n\nI confirm that I have been informed about all relevant aspects of this treatment and that I fully comprehend this advice. This includes information regarding:\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure itself\n- The risks associated with declining the procedure\n- Any risks specific to my personal health\n- The anticipated benefits of the treatment\n- Potential drawbacks or disadvantages\n- Alternative treatments and their advantages and disadvantages, including the choice to have no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any follow-up care that might be necessary\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I require to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete disclosure and supersedes any prior verbal or written information."
+                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to provide you with information about the possible advantages and risks of the carbon laser procedure. Please review this information carefully and have a detailed conversation with your provider about any queries before deciding to proceed.\n\nYou should allow yourself adequate time to think about this treatment carefully, evaluating all your alternatives before making an informed choice. It is important you understand you have the right to obtain another professional opinion, and you are welcome to ask questions at any point during the process.\n\nA carbon laser facial is a skin revitalization procedure. It can help improve concerns such as tired or aged-looking skin, discoloration, acne, and large pores. The treatment consists of two phases: first, a carbon solution is applied to the skin and then heated with a laser. This heat encourages skin renewal and collagen synthesis, aiding rejuvenation. The second phase uses the laser to eliminate the carbon solution, which also provides an exfoliating benefit.\n\nRISKS AND POSSIBLE SIDE EFFECTS: A carbon laser peel is typically low-risk; however, there are some minor potential adverse effects you should know about. You might feel mild discomfort during the session, like a slight stinging or warm sensation. These feelings are generally minimal and easily managed.\n\nFollowing the treatment, some redness and mild puffiness are normal and should fade within two weeks. Less common reactions include blistering, skin darkening (hyperpigmentation), infection, or scarring. If you notice any of these, you should get in touch with your provider immediately, as you may need medical assessment.\n\nI confirm that I have been advised about all relevant details of this treatment and that I fully understand this guidance. This includes information concerning:\n- The purpose for having the procedure and the results I hope to see\n- The natural risks involved in the procedure\n- The risks linked to deciding against the procedure\n- Any personal health-related risks specific to me\n- The expected benefits of the treatment\n- Potential negative aspects or downsides\n- Other treatment choices and their benefits and drawbacks, including opting for no treatment\n- Any unknowns and the chances of a favorable outcome\n- Any aftercare or follow-up that may be needed\n\nMEDICAL PHOTOGRAPHY: I give permission for clinical photos and videos to be taken. I understand these will be added to my confidential medical file.\n\nI have been asked what details I need to make an informed choice and have had the chance to discuss my objectives thoroughly.\n\nI attest that I have read this consent form, understand it completely, have been given plenty of time for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that influences my decision to have the treatment or to give my consent. I hereby agree to this procedure. This document represents the full and final agreement and replaces any previous verbal or written statements."
                     }
                 ],
-                "questions": [
+                "paraphrased_questions": [
                     {
                         "questionId": 0,
-                        "content": "Do you comprehend the details that have been given to you?",
+                        "paraphrased_content": "Do you understand the information that has been presented to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "paraphrased_content": "Do you feel that sufficient information has been provided for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you given your consent voluntarily?",
+                        "paraphrased_content": "Have you provided your consent of your own free will?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are there any health issues you currently have?",
+                        "paraphrased_content": "Do you have any current medical problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you currently pregnant or nursing a child?",
+                        "paraphrased_content": "Are you pregnant or breastfeeding currently?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "paraphrased_content": "Do you have a neuromuscular disorder (for instance, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have an autoimmune condition?",
+                        "paraphrased_content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you experience any skin problems?",
+                        "paraphrased_content": "Do you currently have any skin issues?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "paraphrased_content": "Do you have any known allergies or a history of serious allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "paraphrased_content": "Is there an active infection in the area where the treatment is intended?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "paraphrased_content": "Is there any other relevant Medical or Social History we should know about? If yes, please describe fully.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "paraphrased_content": "What are your aims and what outcomes do you hope to achieve from this procedure? Please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any problems? Please give specifics.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Do you have any concerns? If so, please describe them.",
+                        "paraphrased_content": "Do you have any reservations or worries? If so, please outline them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "paraphrased_content": "Is there any additional information we should be aware of? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "paraphrased_content": "I will hold onto this information throughout my treatment period and refer to it when necessary.",
                         "answer": -1,
                         "comment": ""
                     }
