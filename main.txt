@@ -5,10 +5,10 @@ If you don't understand anything please let me know.
 
 
 ■Cosmetics 
-Anti-wrinkle injections --- Not found
+Anti-wrinkle injections --- Not found---Completed
 Dermal fillers (lips, cheeks, jawline, chin)---Completed
 Skin boosters (e.g. hyaluronic acid) ---Found but there are some varients of it
-Polynucleotides--- Not found
+Polynucleotides--- Not found---Completed
 Lumi Eye --- Completed
 PRP (Vampire Facial)--- Found but not in vampire facial, Found in other varients
 Fat dissolving injections---Found in other varients but not with injections
@@ -17,13 +17,13 @@ Profhilo---Completed
 Bum filler---Completed
 
 ■Beauty 
-Deep cleansing facial---Not found
-Hydrating facial---Not found
-Anti-ageing facial---Not found
-Acne treatment facial---Not found
+Deep cleansing facial---Not found---Completed   
+Hydrating facial---Not found---Completed
+Anti-ageing facial---Not found---Completed
+Acne treatment facial---Not found---Completed
 Chemical peels (superficial / medium)---Completed
 LED light therapy---(LED Light therapy found as named only Light therapy)
-Oxygen facial---Not found
+Oxygen facial---Not found---Completed
 Carbon laser facial--- (Found as Carbon Laser Peel)
 Waxing (face & body)---Completed
 Threading---Two varients: Lip threading and eyebrow threading
@@ -39,16 +39,16 @@ Hair botox / keratin (beauty-based)---Not found
 
 
 ■Face 
-Airbrush makeup---Not found
+Airbrush makeup---Not found---Completed
 Permanent makeup (PMU):---Completed
-Powder brows---Not found
-Eyeliner---Not found
+Powder brows---Not found---Completed
+Eyeliner---Not found---Completed
 Eyebrow shaping--- Eyebrow shaping found as some varients
-Eyebrow tinting---Not found
+Eyebrow tinting---Not found---Completed
 Brow lamination---Completed
 Lash tint--- Lash tint found as Lash and Brow Tint
 Eyelash extensions (classic, hybrid, volume)--- Completed
-Under-eye treatments--- Not found
+Under-eye treatments--- Not found---Completed
 Lash lift---Completed
 Lip blush--- Completed
 Microblading---Completed

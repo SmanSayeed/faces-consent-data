@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "paraphrased_disclaimerData": [
+                    {
+                        "consentFormName": "Polynucleotides",
+                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form is designed to inform you about the potential benefits and risks of polynucleotides treatment. Please read this information thoroughly and discuss any questions completely with your provider before proceeding.\n\nYou should allow yourself the necessary time to consider this treatment carefully, evaluating all your options before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nPolynucleotides are chains of nucleotides obtained from purified sources like salmon DNA, used as an injectable bio-stimulator to encourage skin regeneration, hydration, and renewal. They stimulate fibroblast cells to increase collagen and elastin production, improve skin firmness, reduce inflammation, and help repair damaged tissue, addressing concerns such as fine lines, under-eye areas, and overall skin texture.\n\nThe procedure involves a series of small injections into the skin's dermal layer, with a recommended course of 2-4 sessions spaced 2-4 weeks apart for best results. Effects accumulate gradually over weeks to months and can last 6-12 months with follow-up treatments. Due to factors such as age, skin condition, lifestyle, metabolism, and general health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that multiple appointments may be needed for optimal results. I will be informed in advance of each session about the treatment area and the identity of the practitioner providing my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include mild redness, swelling, bruising, tenderness, or small lumps at the injection points, which usually clear up within 24-72 hours. Temporary itching or skin sensitivity may happen. Less frequently, extended swelling or hematoma formation may occur.\n\nRare complications include infection, allergic reactions (although biocompatible, severe anaphylaxis is possible), granuloma formation, or vascular occlusion if injected incorrectly. Changes in pigmentation or scarring are very rare. Since polynucleotides occur naturally, the risk of adverse reactions is low when administered properly.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential downsides\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of success\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it fully, have had ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "paraphrased_questions": [
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you understand the information that has been presented to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you provided your consent willingly and without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any current health problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you pregnant or breastfeeding at this time?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you currently experience any skin issues?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there an active infection in the area where the treatment is intended?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please describe in full detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "What are your objectives and what results are you hoping to achieve from this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other important information we need to know? Please provide comprehensive details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "I will keep this information for the length of my treatment and refer to it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

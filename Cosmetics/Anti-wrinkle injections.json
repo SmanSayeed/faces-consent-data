@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "paraphrased_disclaimerData": [
+                    {
+                        "consentFormName": "Anti-wrinkle injections",
+                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the possible benefits and risks associated with anti-wrinkle injections. Please read this information attentively and address any questions comprehensively with your provider before moving forward.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your choices before making an informed decision. It is crucial that you know you have the right to seek a second professional opinion, and you are welcome to ask any questions that come up during any part of the process.\n\nAnti-wrinkle injections use botulinum toxin type A, a purified substance that temporarily relaxes the muscles that cause expression lines. This treatment is frequently applied to smooth fine lines and wrinkles on the forehead, around the eyes (crow's feet), and between the eyebrows (glabellar lines).\n\nThe procedure is minimally invasive, consisting of a number of small injections into specific facial muscles. Effects usually start to show within 3-7 days, reach their peak around 10-14 days, and last for 3-6 months depending on individual factors. Maintenance treatments are needed to sustain the results.\n\nDue to factors such as age, skin quality, muscle tone, lifestyle, metabolism, and overall health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome. I understand that multiple sessions may be required for best results. I will be informed ahead of each appointment about the treatment site and the identity of the practitioner administering my care. I also understand I will be updated on my progress and that I may withdraw my consent at any point.\n\nRISKS AND POSSIBLE REACTIONS: As with any medical procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include mild bruising, swelling, redness, or soreness at the injection points, headache, temporary eyelid drooping, or facial asymmetry. These typically subside within a few days to weeks. Less frequently, flu-like symptoms or dry mouth may occur.\n\nRare complications include allergic reactions, which could be serious and require medical intervention; infection; unintended weakening of nearby muscles affecting functions like smiling or eyelid movement; or spread of the toxin's effects leading to difficulty swallowing or breathing (extremely rare). Diffusion of the product or the development of antibodies may reduce its effectiveness in future treatments.\n\nI understand that the treatment may carry risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been honest in disclosing any condition that could impact this procedure.\n\nI confirm I have been provided with all relevant information about this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and desired results\n- The inherent risks of the procedure\n- The risks of declining the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary aftercare or follow-up\n\nMEDICAL IMAGERY: I grant permission for the taking of clinical photographs and videos. I understand these will become part of my confidential medical file.\n\nI have been asked what details I need to make an informed decision and have had the chance to discuss my objectives in depth.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that influences my decision to undergo treatment or to give my consent. I hereby consent to this procedure. This document represents the complete and final agreement and overrides any previous verbal or written information."
+                    }
+                ],
+                "paraphrased_questions": [
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you believe sufficient information has been shared to enable you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you provided your consent of your own free will?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any current health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have a neuromuscular disorder (for instance, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you currently have any skin issues?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any known allergies or a history of serious allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there an active infection in the area where the injections are planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you currently taking any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please describe in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "What are your aims and what results do you hope to achieve from this procedure? Please explain fully.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you had this or a similar treatment before? If yes, were there any problems? Please provide specifics.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any concerns or apprehensions? If so, please outline them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any additional information we should know? Please provide a complete account.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "I will retain this information throughout my treatment period and refer to it as necessary.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

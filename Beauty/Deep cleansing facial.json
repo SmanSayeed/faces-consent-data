@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "paraphrased_disclaimerData": [
+                    {
+                        "consentFormName": "Deep cleansing facial",
+                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form is designed to inform you about the possible benefits and risks of a deep cleansing facial. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allow yourself the time you need to consider this treatment carefully, weighing all your alternatives before reaching an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any point in the process.\n\nA deep cleansing facial is a non-invasive skincare procedure aimed at thoroughly purifying the skin by removing dirt, excess oil, dead cells, and blocked pores through a sequence of steps including cleansing, exfoliation, extractions, steaming, and masking. Its goals are to improve skin texture, reduce acne and blemishes, enhance product penetration, boost hydration, and leave the skin looking clear, glowing, and revitalized.\n\nThe session typically takes 60-90 minutes and includes steps like double cleansing, exfoliation, steaming to widen pores, manual removal of blackheads and whiteheads, application of masks or serums, and moisturizing. Results are often immediate, with skin appearing smoother and brighter, though a series of monthly sessions may be advised for ongoing maintenance. Due to factors such as skin type, condition, lifestyle, and overall health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that several appointments may be necessary for best results. I will be informed in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include temporary redness, mild sensitivity, slight puffiness, or dryness right after the treatment, which usually fade within hours to a day. Some discomfort during extractions is typical. Less frequently, minor bruising from extractions or breakouts if the skin becomes overly agitated.\n\nRare complications include infection due to unsterile tools or incorrect technique, allergic reactions to products used, prolonged redness or irritation particularly in sensitive skin, or worsening of conditions like rosacea, eczema, or active acne. Scarring is possible if extractions are performed too forcefully. People with highly sensitive skin, recent chemical peels, or on certain medications should avoid this treatment.\n\nI understand that the treatment may carry risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been honest in disclosing any condition that could impact this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "paraphrased_questions": [
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you given your consent of your own free will?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any current medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there an active infection in the area where the facial is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "What are your aims and what results do you hope to achieve from this facial? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any problems? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any reservations or concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other information we need to know? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "I will retain this information throughout my treatment period and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
