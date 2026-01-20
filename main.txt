@@ -56,13 +56,13 @@ Microblading---Completed
 Body 
 
 ■Laser 
-(Laser Hair Removal)---Completed
-Laser hair removal ,face & body---Not found
-Laser hair reduction---Not found
-Beard shaping (laser)---Not found                       
-Bikini / Brazilian laser---Not found
-Full-body laser hair removal---Not found
-Ingrown hair reduction (laser)---Not found
+(Laser Hair Removal)
+Laser hair removal ,face & body---Not found---Completed
+Laser hair reduction---Not found---Completed
+Beard shaping (laser)---Not found---Completed                     
+Bikini / Brazilian laser---Not found---Completed
+Full-body laser hair removal---Not found---Completed
+Ingrown hair reduction (laser)---Not found---Completed
 
 (Laser Skin Rejuvenation)
 Laser skin rejuvenation
