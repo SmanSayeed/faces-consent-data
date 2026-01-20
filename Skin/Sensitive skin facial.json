@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "paraphrased_disclaimerData": [
+                    {
+                        "consentFormName": "Sensitive skin facial",
+                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of a sensitive skin facial. Please read this information carefully and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment thoroughly, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nA sensitive skin facial is a mild, personalized treatment utilizing calming ingredients such as chamomile, aloe vera, centella asiatica, and hyaluronic acid, combined with gentle massage, hydrating masks, and LED therapy to soothe irritation, fortify the skin's protective barrier, reduce redness, and deliver deep moisture without exfoliation or active ingredients that might trigger reactions.\n\nThe session lasts 45-60 minutes with non-invasive steps that avoid steam, extractions, or acids, making it suitable for rosacea, eczema-prone, or easily irritated skin. Results include immediate soothing and hydration lasting days to weeks; monthly treatments help maintain skin equilibrium. Due to factors such as skin condition, individual triggers, and overall health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that multiple appointments may be required for optimal results. I will be informed ahead of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects are very slight, possibly including mild warmth or tingling from massage/LED, which subsides quickly.\n\nRare complications include reactions to even gentle ingredients causing redness or itching, or infection from improperly sanitized tools. Considered extremely low-risk when appropriately tailored; not recommended for open wounds or active severe dermatitis.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "paraphrased_questions": [
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you given your consent willingly and without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any current health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there an active infection in the area where the facial is intended?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this facial? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any other information we need to know? Please provide a comprehensive account.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "I will retain this information during my treatment period and refer to it as necessary.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

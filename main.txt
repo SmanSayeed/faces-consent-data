@@ -253,18 +253,18 @@ Hydrating facial---Not found---Two Copy
 Brightening facial---Not found---Completed
 Anti-ageing facial---Not found---Two Copy
 Acne control facial---Not found---Completed
-Sensitive skin facial--- Not found
-Calming / barrier-repair facial--- Not found
-Oxygen facial---Not found
-Enzyme peels---Not found
+Sensitive skin facial--- Not found---Completed
+Calming / barrier-repair facial--- Not found---Completed
+Oxygen facial---Not found---Two Copy
+Enzyme peels---Not found---Completed
 Chemical peels:---Completed
-Superficial peels---Not found
-Medium-depth peels---Not found
-Deep peels---Not found
+Superficial peels---Not found---Completed
+Medium-depth peels---Not found---Completed
+Deep peels---Not found---Completed
 Glycolic peel---Completed
 Salicylic peel---Completed
-Lactic peel---Not found
-Mandelic peel---Not found
+Lactic peel---Not found---Completed
+Mandelic peel---Not found---Completed
 TCA peel---Completed
 Jessner peel---Completed
 Carbon laser peel---Completed
