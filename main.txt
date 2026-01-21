@@ -103,17 +103,17 @@ Stretch mark reduction (laser)Not found---Completed
 Keloid scar management (laser-assisted)---Not found---Completed
 
 (Laser Skin Tightening & Lifting)
-Non-surgical skin tightening (laser)
-Laser skin firming
-Jawline tightening
-Neck tightening
-Eye area tightening
-Body skin tightening
+Non-surgical skin tightening (laser)---Not found---Completed
+Laser skin firming---Not found---Completed
+Jawline tightening---Not found---Completed
+Neck tightening---Not found---Completed
+Eye area tightening---Not found---Completed
+Body skin tightening---Not found---Completed
 
 (Laser Resurfacing)
-Ablative laser resurfacing
-Non-ablative laser resurfacing
-Fractional laser resurfacing
+Ablative laser resurfacing---Completed
+Non-ablative laser resurfacing---Completed
+Fractional laser resurfacing---Not found---Completed
 CO₂ laser resurfacing
 Er:YAG laser resurfacing
 Laser skin renewal

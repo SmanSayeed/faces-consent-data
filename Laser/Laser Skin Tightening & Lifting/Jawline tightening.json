@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Jawline Tightening",
+                        "disclaimer": "PATIENT AGREEMENT: This form is designed to provide you with information about the possible advantages and risks associated with the jawline tightening procedure. Please read this material thoroughly and have a comprehensive discussion with your skincare professional before proceeding.\n\nYou should take all the time necessary to carefully consider the treatment, evaluating all your options before arriving at an informed decision. It is crucial that you know you have the right to seek a second opinion, and you are encouraged to ask any questions you may have at any stage of the process.\n\nJawline tightening is a non-surgical cosmetic treatment using laser or radiofrequency energy to firm and contour the lower face by stimulating collagen production and contracting skin tissues along the jawline, mandible, and submental area. Non-invasive lasers like Nd:YAG, fractional lasers, or intraoral treatments (SmoothLase/Fotona) heat dermal layers to remodel collagen and elastin, reducing jowls, defining the jaw contour, and improving skin laxity without incisions. The procedure involves skin preparation, protective eyewear, application of cooling gel, and targeted energy delivery to jawline areas, typically lasting 30-60 minutes.\n\nPatients may experience warmth, tingling, or mild snapping sensations during treatment, managed with cooling mechanisms. Multiple sessions (3-6), spaced 4-6 weeks apart, yield gradual tightening visible over 2-6 months, with results lasting 1-2 years. Effectiveness varies by skin laxity degree, age, and maintenance; optimal for mild-moderate sagging.\n\nI understand that multiple appointments may be required for the best outcome. I will be informed before each session about the location and the practitioner who will be overseeing my care. I also understand that I will be updated on my progress and that I may withdraw my consent at any time.\n\nAfter the procedure, mild redness, swelling, or tenderness may occur for 24-72 hours. Avoid sun exposure, heat sources, saunas, and irritants for 1 week; use gentle skincare, moisturizers, and broad-spectrum SPF 50+ sunscreen. Limit strenuous facial movements or pressure on treated areas until resolved.\n\nRISKS AND POSSIBLE REACTIONS: As with any medical or cosmetic procedure, there are associated risks. It is important you are aware of these and discuss them fully with your practitioner.\n\nCommon side effects include temporary redness, swelling, warmth, dryness, or slight bruising along the jawline, resolving within days. Temporary asymmetry or tightness sensation may occur.\n\nLess common effects include prolonged swelling, blistering, crusting, hyperpigmentation/hypopigmentation, or textural changes. Intraoral treatments risk temporary soreness or sensitivity.\n\nRare complications involve burns, nerve irritation, fat loss, paradoxical bulging, eye injury without protection, or infection. Risks increase with darker skin tones, recent tanning, photosensitive medications, or connective tissue disorders.\n\nI confirm I have been advised of all relevant information regarding this treatment and that I fully understand it. This advice covers:\n\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits of the treatment\n- Potential disadvantages\n- Alternative treatments and their advantages and drawbacks, including the option of no treatment\n- Any uncertainties and the likelihood of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed choice and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form and understand it completely. I have been given sufficient time for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that changes my decision to undergo treatment or to give my consent. I hereby consent to this procedure. This document represents the complete disclosure and replaces any prior discussions or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems, such as active acne, eczema, psoriasis, rosacea, or infections?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
