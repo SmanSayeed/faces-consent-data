@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Stretch Mark Reduction (Laser)",
+                        "disclaimer": "PATIENT AGREEMENT: This form is designed to provide you with information about the possible advantages and risks associated with the stretch mark reduction laser procedure. Please read this material thoroughly and have a comprehensive discussion with your skincare professional before proceeding.\n\nYou should take all the time necessary to carefully consider the treatment, evaluating all your options before arriving at an informed decision. It is crucial that you know you have the right to seek a second opinion, and you are encouraged to ask any questions you may have at any stage of the process.\n\nStretch mark reduction using laser is a cosmetic skin treatment designed to improve the appearance of striae distensae (stretch marks) caused by rapid skin stretching during pregnancy, growth spurts, weight changes, or hormonal factors. Fractional lasers (ablative like CO2 or non-ablative like 1540nm) create controlled micro-injuries to stimulate collagen and elastin production, gradually filling in depressed marks and blending them with surrounding skin. The procedure involves cleansing, numbing cream if needed, protective eyewear, and laser application over affected areas (abdomen, thighs, hips, breasts), typically lasting 30-60 minutes per session.\n\nYou may feel heat, prickling, or a rubber band snap sensation during treatment. Multiple sessions (4-8), spaced 4-6 weeks apart, are required, with gradual improvements visible over 3-6 months. Newer red/purple marks respond better than mature white/silver ones; expect 20-75% improvement in texture, color, and width, though complete removal cannot be guaranteed.\n\nI understand that multiple appointments may be required for the best outcome. I will be informed before each session about the location and the practitioner who will be overseeing my care. I also understand that I will be updated on my progress and that I may withdraw my consent at any time.\n\nAfter treatment, expect redness, swelling, warmth, or pinpoint crusting lasting 3-7 days (longer with ablative lasers). Avoid sun exposure, tanning, saunas, hot baths, and irritants for 2 weeks; use gentle cleansers, prescribed healing ointments, and broad-spectrum SPF 50+ daily. No picking at crusts or makeup until healed.\n\nRISKS AND POSSIBLE REACTIONS: As with any medical or cosmetic procedure, there are associated risks. It is important you are aware of these and discuss them fully with your practitioner.\n\nCommon side effects include temporary redness, swelling, itching, dryness, peeling, bruising, or darkening/lightening of treated areas, resolving within 1-2 weeks. Skin may feel tight or sensitive.\n\nLess common effects include prolonged swelling, blistering, infection, milia, acne flares, or textural unevenness. Pigment changes are more likely in darker skin tones or with sun exposure.\n\nRare complications involve burns, scarring, herpes simplex reactivation, eye injury, or unsatisfactory results requiring additional treatments. Risks increase with recent tanning, photosensitizing medications, smoking, or poor wound healing history.\n\nI confirm I have been advised of all relevant information regarding this treatment and that I fully understand it. This advice covers:\n\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits of the treatment\n- Potential disadvantages\n- Alternative treatments and their advantages and drawbacks, including the option of no treatment\n- Any uncertainties and the likelihood of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed choice and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form and understand it completely. I have been given sufficient time for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that changes my decision to undergo treatment or to give my consent. I hereby consent to this procedure. This document represents the complete disclosure and replaces any prior discussions or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems, such as active acne, eczema, psoriasis, rosacea, or infections?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
