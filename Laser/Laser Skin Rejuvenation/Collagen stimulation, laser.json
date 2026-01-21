@@ -1,0 +1,81 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Collagen Stimulation, Laser",
+                        "disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser collagen stimulation treatment. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser collagen stimulation employs fractional or non-ablative lasers to create controlled microthermal zones in the dermis, activating fibroblasts and promoting the production of new collagen (neocollagenesis), elastin, and hyaluronic acid. The treatment enhances skin firmness, elasticity, fine lines, texture, and mild laxity without removing the surface layer. Multiple sessions spaced 4-6 weeks apart optimize cumulative collagen remodeling over 3-6 months.\n\nResults vary according to age, skin type, extent of collagen depletion, lifestyle factors including smoking and sun exposure. No guarantees can be given as individual healing responses differ; maintenance sessions are typically needed annually. Redness and sensitivity following treatment may last up to 14 days.\n\nI will be informed in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, pinpoint crusting, mild discomfort, dryness for up to 14 days. Heightened photosensitivity requires diligent sun protection.\n\nLess common: hyperpigmentation/hypopigmentation, milia, prolonged redness, acne-like eruptions.\n\nRare complications: burns, scarring, infection, herpes reactivation. Allergic reactions to topical anesthetics or cooling agents are possible.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent willingly and without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any current health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding at present?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you currently have any skin concerns?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

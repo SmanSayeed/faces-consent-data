@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Oxygen facial",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form is designed to inform you about the potential benefits and risks of an oxygen facial. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allow yourself the time you need to consider this treatment carefully, weighing all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any point in the process.\n\nAn oxygen facial is a non-invasive procedure that administers pressurized oxygen combined with vitamins, enzymes, and nutrients directly into the skin to encourage detoxification, hydration, collagen synthesis, and skin renewal. It helps eliminate acne-causing bacteria, reduces inflammation, enhances blood flow, and results in a brighter, smoother complexion with no recovery time, making it suitable for all skin types, including sensitive skin or as a pre-event treatment.\n\nThe session typically lasts 30-60 minutes, involving cleansing, pressurized oxygen infusion, serum application, and lymphatic drainage massage. Results are immediate, with a healthy glow lasting days to weeks; a series of 4-6 sessions is recommended for best outcomes. Due to factors such as skin condition, lifestyle, and general health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your results.\n\nI understand that multiple appointments may be needed for optimal results. I will be informed ahead of each session about the location and the identity of the practitioner providing my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include temporary redness, slight puffiness, or mild sensitivity from the pressurized oxygen or serums, which usually fade within hours. No downtime is anticipated.\n\nRare complications include allergic reactions to infused ingredients causing itching or swelling, irritation in very sensitive skin, or minor inflammation. It is not recommended for active infections, severe rosacea, or known allergies to treatment components; generally considered very low risk.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I want\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                        "disclaimer": "PATIENT AGREEMENT: This form is designed to inform you about the potential benefits and risks of an oxygen facial. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allow yourself the time you need to consider this treatment carefully, weighing all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any point in the process.\n\nAn oxygen facial is a non-invasive procedure that administers pressurized oxygen combined with vitamins, enzymes, and nutrients directly into the skin to encourage detoxification, hydration, collagen synthesis, and skin renewal. It helps eliminate acne-causing bacteria, reduces inflammation, enhances blood flow, and results in a brighter, smoother complexion with no recovery time, making it suitable for all skin types, including sensitive skin or as a pre-event treatment.\n\nThe session typically lasts 30-60 minutes, involving cleansing, pressurized oxygen infusion, serum application, and lymphatic drainage massage. Results are immediate, with a healthy glow lasting days to weeks; a series of 4-6 sessions is recommended for best outcomes. Due to factors such as skin condition, lifestyle, and general health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your results.\n\nI understand that multiple appointments may be needed for optimal results. I will be informed ahead of each session about the location and the identity of the practitioner providing my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include temporary redness, slight puffiness, or mild sensitivity from the pressurized oxygen or serums, which usually fade within hours. No downtime is anticipated.\n\nRare complications include allergic reactions to infused ingredients causing itching or swelling, irritation in very sensitive skin, or minor inflammation. It is not recommended for active infections, severe rosacea, or known allergies to treatment components; generally considered very low risk.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I want\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel sufficient information has been shared for you to give informed consent?",
+                        "content": "Do you feel sufficient information has been shared for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent of your own free will?",
+                        "content": "Have you given your consent of your own free will?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current medical conditions?",
+                        "content": "Do you have any current medical conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding currently?",
+                        "content": "Are you pregnant or breastfeeding currently?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for instance, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for instance, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the area where the facial is intended?",
+                        "content": "Is there an active infection in the area where the facial is intended?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this facial? Please elaborate.",
+                        "content": "What are your aims and what results are you hoping to achieve from this facial? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any problems? Please provide details.",
+                        "content": "Have you had this or a similar treatment before? If so, were there any problems? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "content": "Do you have any worries or concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other information we need to know? Please provide a comprehensive account.",
+                        "content": "Is there any other information we need to know? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will retain this information throughout my treatment period and refer to it as necessary.",
+                        "content": "I will retain this information throughout my treatment period and refer to it as necessary.",
                         "answer": -1,
                         "comment": ""
                     }

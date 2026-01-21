@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Laser Facial",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser facial treatment. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser facial treatment utilizes non-ablative or fractional lasers to address facial skin concerns including fine lines, pigmentation, texture irregularities, enlarged pores, and mild acne scarring. The procedure stimulates collagen production and skin renewal while maintaining the surface layer for minimal recovery time. Multiple sessions spaced 4-6 weeks apart typically produce optimal results.\n\nEffectiveness varies based on skin type, severity of the condition, and sun exposure history. Most suitable for Fitzpatrick skin types I-IV; darker skin tones require adjusted settings. No assurances of complete resolution can be given; skin sensitivity or redness may persist for up to 14 days following treatment.\n\nI will be informed in advance of each session about the location and the identity of the practitioner involved in my care. I understand I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, a mild warm sensation, dryness, flaking for up to 14 days. Heightened sensitivity to sunlight necessitates strict sunscreen use.\n\nLess common: hyperpigmentation/hypopigmentation (greater risk in olive or dark skin), milia formation, acne flare-ups, prolonged redness.\n\nRare complications: burns, scarring, infection, herpes simplex reactivation. Allergic reactions to cooling gels or post-care products are possible.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about: my reasons for seeking treatment, inherent risks, personal risks, expected benefits, alternatives including no treatment, uncertainties, follow-up care.\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail. I certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                        "disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser facial treatment. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser facial treatment utilizes non-ablative or fractional lasers to address facial skin concerns including fine lines, pigmentation, texture irregularities, enlarged pores, and mild acne scarring. The procedure stimulates collagen production and skin renewal while maintaining the surface layer for minimal recovery time. Multiple sessions spaced 4-6 weeks apart typically produce optimal results.\n\nEffectiveness varies based on skin type, severity of the condition, and sun exposure history. Most suitable for Fitzpatrick skin types I-IV; darker skin tones require adjusted settings. No assurances of complete resolution can be given; skin sensitivity or redness may persist for up to 14 days following treatment.\n\nI will be informed in advance of each session about the location and the identity of the practitioner involved in my care. I understand I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, a mild warm sensation, dryness, flaking for up to 14 days. Heightened sensitivity to sunlight necessitates strict sunscreen use.\n\nLess common: hyperpigmentation/hypopigmentation (greater risk in olive or dark skin), milia formation, acne flare-ups, prolonged redness.\n\nRare complications: burns, scarring, infection, herpes simplex reactivation. Allergic reactions to cooling gels or post-care products are possible.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about: my reasons for seeking treatment, inherent risks, personal risks, expected benefits, alternatives including no treatment, uncertainties, follow-up care.\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail. I certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "content": "Do you feel enough information has been shared for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent willingly and without pressure?",
+                        "content": "Have you given your consent willingly and without pressure?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current health conditions?",
+                        "content": "Do you have any current health conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "content": "Are you pregnant or breastfeeding at present?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the facial area where the treatment is planned?",
+                        "content": "Is there an active infection in the facial area where the treatment is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this procedure? Please elaborate.",
+                        "content": "What are your aims and what results are you hoping to achieve from this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
+                        "content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "content": "Do you have any worries or concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other information we need to know? Please provide a comprehensive account.",
+                        "content": "Is there any other information we need to know? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will retain this information during my treatment period and refer to it as necessary.",
+                        "content": "I will retain this information during my treatment period and refer to it as necessary.",
                         "answer": -1,
                         "comment": ""
                     }

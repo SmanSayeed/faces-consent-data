@@ -4,88 +4,88 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Laser Skin Rejuvenation",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser skin rejuvenation. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser skin rejuvenation employs controlled light energy to stimulate collagen production, enhance skin texture, diminish fine lines, wrinkles, pigmentation, and acne scars. Non-ablative or fractional lasers target deeper skin layers while preserving the surface, encouraging natural healing and renewal. Multiple sessions are typically required for optimal results, spaced 4-6 weeks apart based on skin response.\n\nResults vary according to skin type, age, extent of sun damage, lifestyle factors. No guarantees of perfection can be given; maintenance treatments may be necessary. Skin sensitivity and redness may persist for up to 14 days post-treatment.\n\nI will be informed in advance of each session about the location and practitioner. I understand I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, mild discomfort, dryness, flaking or peeling for up to 14 days. Heightened sensitivity to sunlight requires strict sun protection.\n\nLess common: hyperpigmentation/hypopigmentation (particularly in darker skin tones), milia, acne flare-ups, prolonged redness.\n\nRare complications: burns, scarring, infection, reactivation of herpes cold sores. Allergic reactions to topical agents are possible.\n\nI understand that treatment involves risks from both known and unknown causes and I accept them. I have disclosed my complete medical history, including photosensitivity medications and recent tanning.\n\nI confirm I have been provided with all relevant information: reasons for treatment, inherent risks, personal risks, expected benefits, alternatives including no treatment, uncertainties, likelihood of success, follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photographs and videos to be taken as part of my confidential medical records.\n\nI have discussed my objectives in detail; all my questions have been answered satisfactorily. No new information influences my decision. I consent to this procedure. This document constitutes the complete disclosure and supersedes any prior information."
+                        "disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser skin rejuvenation. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser skin rejuvenation employs controlled light energy to stimulate collagen production, enhance skin texture, diminish fine lines, wrinkles, pigmentation, and acne scars. Non-ablative or fractional lasers target deeper skin layers while preserving the surface, encouraging natural healing and renewal. Multiple sessions are typically required for optimal results, spaced 4-6 weeks apart based on skin response.\n\nResults vary according to skin type, age, extent of sun damage, lifestyle factors. No guarantees of perfection can be given; maintenance treatments may be necessary. Skin sensitivity and redness may persist for up to 14 days post-treatment.\n\nI will be informed in advance of each session about the location and practitioner. I understand I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, mild discomfort, dryness, flaking or peeling for up to 14 days. Heightened sensitivity to sunlight requires strict sun protection.\n\nLess common: hyperpigmentation/hypopigmentation (particularly in darker skin tones), milia, acne flare-ups, prolonged redness.\n\nRare complications: burns, scarring, infection, reactivation of herpes cold sores. Allergic reactions to topical agents are possible.\n\nI understand that treatment involves risks from both known and unknown causes and I accept them. I have disclosed my complete medical history, including photosensitivity medications and recent tanning.\n\nI confirm I have been provided with all relevant information: reasons for treatment, inherent risks, personal risks, expected benefits, alternatives including no treatment, uncertainties, likelihood of success, follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photographs and videos to be taken as part of my confidential medical records.\n\nI have discussed my objectives in detail; all my questions have been answered satisfactorily. No new information influences my decision. I consent to this procedure. This document constitutes the complete disclosure and supersedes any prior information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "content": "Do you feel enough information has been shared for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent willingly and without pressure?",
+                        "content": "Have you given your consent willingly and without pressure?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current health conditions?",
+                        "content": "Do you have any current health conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "content": "Are you pregnant or breastfeeding at present?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the area where the treatment is planned?",
+                        "content": "Is there an active infection in the area where the treatment is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     }

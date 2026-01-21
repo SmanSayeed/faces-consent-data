@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Beard Shaping (Laser)",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser beard shaping. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should take the necessary time to consider this treatment carefully, weighing all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser beard shaping employs targeted laser energy to precisely remove or reduce unwanted facial hair, sculpting the beard line for a well-defined shape. The procedure focuses on melanin in hair follicles in areas such as cheeks, neckline, sideburns, or jawline to achieve the desired beard contours. Multiple sessions are generally needed because hair grows in cycles.\n\nMost effective for darker hair on lighter skin; results vary based on hair and skin type, hormonal factors, medications. No guarantees of permanent results due to potential regrowth. Treatments are spaced 4-8 weeks apart; skin sensitivity may persist for up to 14 days after the procedure.\n\nI will be informed of each session's practitioner and location. I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common: temporary redness, swelling, mild discomfort (similar to a rubber band snap), heightened sensitivity to sunlight for up to 14 days.\n\nLess common: blistering, crusting, temporary pigment changes (darkening or lightening of the skin) which may last longer or, rarely, become permanent. Facial treatments require proper eye protection.\n\nRare: burns, scarring, infection, paradoxical hypertrichosis (increased hair growth in the treated area). Allergic reactions to cooling or topical agents are possible.\n\nI understand risks from both known and unknown causes and I accept them. I have disclosed my complete medical history.\n\nI confirm I have been provided with advice regarding the reasons for treatment, risks (general and personal), benefits, alternatives including no treatment, uncertainties, probability of success, and follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photographs and videos to be taken for my confidential medical records.\n\nI have discussed my objectives; all my questions have been answered to my satisfaction. No new information influences my decision. I consent to this procedure. This document supersedes any previous information."
+                        "disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of laser beard shaping. Please read this information attentively and discuss any questions fully with your provider before proceeding.\n\nYou should take the necessary time to consider this treatment carefully, weighing all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nLaser beard shaping employs targeted laser energy to precisely remove or reduce unwanted facial hair, sculpting the beard line for a well-defined shape. The procedure focuses on melanin in hair follicles in areas such as cheeks, neckline, sideburns, or jawline to achieve the desired beard contours. Multiple sessions are generally needed because hair grows in cycles.\n\nMost effective for darker hair on lighter skin; results vary based on hair and skin type, hormonal factors, medications. No guarantees of permanent results due to potential regrowth. Treatments are spaced 4-8 weeks apart; skin sensitivity may persist for up to 14 days after the procedure.\n\nI will be informed of each session's practitioner and location. I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common: temporary redness, swelling, mild discomfort (similar to a rubber band snap), heightened sensitivity to sunlight for up to 14 days.\n\nLess common: blistering, crusting, temporary pigment changes (darkening or lightening of the skin) which may last longer or, rarely, become permanent. Facial treatments require proper eye protection.\n\nRare: burns, scarring, infection, paradoxical hypertrichosis (increased hair growth in the treated area). Allergic reactions to cooling or topical agents are possible.\n\nI understand risks from both known and unknown causes and I accept them. I have disclosed my complete medical history.\n\nI confirm I have been provided with advice regarding the reasons for treatment, risks (general and personal), benefits, alternatives including no treatment, uncertainties, probability of success, and follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photographs and videos to be taken for my confidential medical records.\n\nI have discussed my objectives; all my questions have been answered to my satisfaction. No new information influences my decision. I consent to this procedure. This document supersedes any previous information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "content": "Do you feel enough information has been shared for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent willingly and without pressure?",
+                        "content": "Have you given your consent willingly and without pressure?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current health conditions?",
+                        "content": "Do you have any current health conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "content": "Are you pregnant or breastfeeding at present?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the area where the treatment is planned?",
+                        "content": "Is there an active infection in the area where the treatment is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this procedure? Please elaborate.",
+                        "content": "What are your aims and what results are you hoping to achieve from this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
+                        "content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "content": "Do you have any worries or concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other information we need to know? Please provide a comprehensive account.",
+                        "content": "Is there any other information we need to know? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will retain this information during my treatment period and refer to it as necessary.",
+                        "content": "I will retain this information during my treatment period and refer to it as necessary.",
                         "answer": -1,
                         "comment": ""
                     }

@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Anti-ageing facial",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of an anti-ageing facial. Please read this information attentively and discuss any questions completely with your practitioner before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your choices before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that come to mind at any stage of the process.\n\nAn anti-ageing facial is a customized skincare procedure that combines cleansing, exfoliation, massage, and application of powerful serums, masks, and technologies such as LED light therapy or microcurrent to boost collagen synthesis, improve skin elasticity, reduce fine lines and wrinkles, even out skin tone, and restore a youthful radiance. It addresses signs of ageing like sagging, dullness, and pigmentation through tailored approaches.\n\nThe session typically lasts 60-90 minutes, often including active ingredients like peptides, retinoids, antioxidants, and hyaluronic acid for deep nourishment and skin repair. Results develop gradually, with improved firmness and glow accumulating over multiple sessions; monthly follow-up treatments are advised for maintenance. Due to factors such as age, skin condition, lifestyle, and general health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that several appointments may be required for optimal results. I will be informed in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include temporary redness, mild tingling or sensitivity from active ingredients or exfoliation, slight peeling as skin renews, usually subsiding within 24-48 hours. Some might experience temporary purging of underlying congestion.\n\nRare complications include allergic reactions to products, irritation or chemical-type burns from potent actives like AHAs or retinoids, worsening of rosacea or eczema, infection from unclean tools, or hyperpigmentation in darker skin if not properly managed. It is not recommended for active skin infections or recent aggressive treatments.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it fully, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of an anti-ageing facial. Please read this information attentively and discuss any questions completely with your practitioner before proceeding.\n\nYou should allocate sufficient time to consider this treatment carefully, evaluating all your choices before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that come to mind at any stage of the process.\n\nAn anti-ageing facial is a customized skincare procedure that combines cleansing, exfoliation, massage, and application of powerful serums, masks, and technologies such as LED light therapy or microcurrent to boost collagen synthesis, improve skin elasticity, reduce fine lines and wrinkles, even out skin tone, and restore a youthful radiance. It addresses signs of ageing like sagging, dullness, and pigmentation through tailored approaches.\n\nThe session typically lasts 60-90 minutes, often including active ingredients like peptides, retinoids, antioxidants, and hyaluronic acid for deep nourishment and skin repair. Results develop gradually, with improved firmness and glow accumulating over multiple sessions; monthly follow-up treatments are advised for maintenance. Due to factors such as age, skin condition, lifestyle, and general health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that several appointments may be required for optimal results. I will be informed in advance of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include temporary redness, mild tingling or sensitivity from active ingredients or exfoliation, slight peeling as skin renews, usually subsiding within 24-48 hours. Some might experience temporary purging of underlying congestion.\n\nRare complications include allergic reactions to products, irritation or chemical-type burns from potent actives like AHAs or retinoids, worsening of rosacea or eczema, infection from unclean tools, or hyperpigmentation in darker skin if not properly managed. It is not recommended for active skin infections or recent aggressive treatments.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it fully, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been shared with you?",
+                        "content": "Do you understand the information that has been shared with you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you believe sufficient information has been provided for you to give informed consent?",
+                        "content": "Do you believe sufficient information has been provided for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent of your own free will?",
+                        "content": "Have you given your consent of your own free will?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current medical conditions?",
+                        "content": "Do you have any current medical conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding currently?",
+                        "content": "Are you pregnant or breastfeeding currently?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for instance, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for instance, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the area where the facial is planned?",
+                        "content": "Is there an active infection in the area where the facial is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this facial? Please elaborate.",
+                        "content": "What are your aims and what results are you hoping to achieve from this facial? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any problems? Please provide details.",
+                        "content": "Have you had this or a similar treatment before? If so, were there any problems? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "content": "Do you have any worries or concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other information we need to know? Please provide a comprehensive account.",
+                        "content": "Is there any other information we need to know? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will keep this information throughout my treatment period and consult it as needed.",
+                        "content": "I will keep this information throughout my treatment period and consult it as needed.",
                         "answer": -1,
                         "comment": ""
                     }

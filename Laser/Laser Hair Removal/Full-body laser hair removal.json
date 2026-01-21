@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Full-Body Laser Hair Removal",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of full-body laser hair removal. Please read this information carefully and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment thoroughly, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nFull-body laser hair removal targets unwanted hair across all areas including legs, arms, back, chest, underarms, bikini, face, and other regions using concentrated light to disable hair follicles. The laser focuses on melanin to achieve long-term hair reduction. Multiple sessions (6-8 or more) are required due to hair growth cycles; treatments are spaced 4-8 weeks apart depending on the area.\n\nResults vary according to skin and hair type, hormonal factors, medications, sun exposure. Most effective for dark hair on light skin; no guarantees of complete or permanent removal can be given. Comprehensive treatment increases cumulative time and exposure; skin sensitivity may persist for up to 14 days after each session.\n\nI will be informed in advance of each session's location and practitioner. I understand I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, discomfort (similar to a rubber band snap sensation), heightened sensitivity to sunlight lasting up to 14 days across extensive areas.\n\nLess common: blistering, crusting, temporary pigment changes (darkening or lightening of the skin) which may last longer or, rarely, become permanent, particularly with extensive treatment.\n\nRare complications: burns, scarring, infection, paradoxical hypertrichosis (increased hair growth). Eye protection is required for facial areas. Allergic reactions to cooling gels or topical agents are possible.\n\nI understand that treatment involves risks from both known and unknown causes and I accept them. I have disclosed my complete medical history, including conditions affecting multiple body areas.\n\nI confirm I have been provided with all relevant information: reasons for treatment and desired outcomes, inherent risks, risks of refusal, personal risks, expected benefits, disadvantages, alternatives including no treatment options, uncertainties and likelihood of success, follow-up care.\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos as part of my confidential medical records.\n\nI have discussed my goals in detail and had the opportunity to ask questions. I certify I have read and understood this consent form fully, all questions have been answered satisfactorily, and no new information affects my decision. I hereby consent to this procedure. This constitutes the complete disclosure and supersedes any prior information."
+                        "disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of full-body laser hair removal. Please read this information carefully and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment thoroughly, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nFull-body laser hair removal targets unwanted hair across all areas including legs, arms, back, chest, underarms, bikini, face, and other regions using concentrated light to disable hair follicles. The laser focuses on melanin to achieve long-term hair reduction. Multiple sessions (6-8 or more) are required due to hair growth cycles; treatments are spaced 4-8 weeks apart depending on the area.\n\nResults vary according to skin and hair type, hormonal factors, medications, sun exposure. Most effective for dark hair on light skin; no guarantees of complete or permanent removal can be given. Comprehensive treatment increases cumulative time and exposure; skin sensitivity may persist for up to 14 days after each session.\n\nI will be informed in advance of each session's location and practitioner. I understand I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include temporary redness, swelling, discomfort (similar to a rubber band snap sensation), heightened sensitivity to sunlight lasting up to 14 days across extensive areas.\n\nLess common: blistering, crusting, temporary pigment changes (darkening or lightening of the skin) which may last longer or, rarely, become permanent, particularly with extensive treatment.\n\nRare complications: burns, scarring, infection, paradoxical hypertrichosis (increased hair growth). Eye protection is required for facial areas. Allergic reactions to cooling gels or topical agents are possible.\n\nI understand that treatment involves risks from both known and unknown causes and I accept them. I have disclosed my complete medical history, including conditions affecting multiple body areas.\n\nI confirm I have been provided with all relevant information: reasons for treatment and desired outcomes, inherent risks, risks of refusal, personal risks, expected benefits, disadvantages, alternatives including no treatment options, uncertainties and likelihood of success, follow-up care.\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos as part of my confidential medical records.\n\nI have discussed my goals in detail and had the opportunity to ask questions. I certify I have read and understood this consent form fully, all questions have been answered satisfactorily, and no new information affects my decision. I hereby consent to this procedure. This constitutes the complete disclosure and supersedes any prior information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "content": "Do you feel enough information has been shared for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent willingly and without pressure?",
+                        "content": "Have you given your consent willingly and without pressure?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current health conditions?",
+                        "content": "Do you have any current health conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding at present?",
+                        "content": "Are you pregnant or breastfeeding at present?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the area where the treatment is planned?",
+                        "content": "Is there an active infection in the area where the treatment is planned?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription medications?",
+                        "content": "Are you currently taking any antibiotics or other prescription medications?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in full detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this procedure? Please elaborate.",
+                        "content": "What are your aims and what results are you hoping to achieve from this procedure? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
+                        "content": "Have you had this or a similar treatment before? If so, were there any complications? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "content": "Do you have any worries or concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other information we need to know? Please provide a comprehensive account.",
+                        "content": "Is there any other information we need to know? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will retain this information during my treatment period and refer to it as necessary.",
+                        "content": "I will retain this information during my treatment period and refer to it as necessary.",
                         "answer": -1,
                         "comment": ""
                     }

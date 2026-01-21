@@ -67,21 +67,21 @@ Ingrown hair reduction (laser)---Not found---Completed
 (Laser Skin Rejuvenation)
 Laser skin rejuvenation---Not found---Completed
 Laser facial---Not found---Completed
-Collagen stimulation, laser
-Skin texture refinement
-Pore reduction, laser
-Fine line & wrinkle reduction
+Collagen stimulation, laser---Not found---Completed
+Skin texture refinement---Not found---Completed
+Pore reduction, laser---Not found---Completed
+Fine line & wrinkle reduction---Not found---Comleted
 
 (Pigmentation & Sun Damage)
-Laser pigmentation removal
-Age spot removal
-Sun spot treatment
-Freckle reduction
-Melasma management (laser-assisted)
-Uneven skin tone correction
+Laser pigmentation removal---Completed
+Age spot removal---Not found---Completed
+Sun spot treatment---Not Found---Completed
+Freckle reduction---Not found---Completed
+Melasma management (laser-assisted)---Not found---Completed
+Uneven skin tone correction---Not found---Completed
 
 (Vascular & Redness Treatments)
-Laser thread vein removal
+Laser thread vein removal---Completed
 Spider vein treatment
 Broken capillary removal
 Facial redness reduction

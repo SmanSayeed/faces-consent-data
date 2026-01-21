@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Reflexology",
-                        "paraphrased_disclaimer": "You should take the necessary time to think through this treatment carefully, considering all your alternatives before making a well-informed decision. It is vital that you know you have the right to get a second professional opinion and you are invited to ask any questions that occur to you at any stage.\n\nReflexology is a therapy involving targeted pressure applied to specific reflex points on the hands, feet, and occasionally other body areas. It is regarded as a complementary or alternative practice that some people find helpful for various wellness concerns. Reflexology does not substitute for standard medical treatment. You should discuss any particular health matters with your main doctor. It is thought that reflexology may aid in lowering stress and anxiety, enhancing mood, and easing certain kinds of aches.\n\nReflexology is typically safe, non-invasive, and calming. There are no commonly acknowledged significant risks or side effects. However, if you have circulation problems, diabetic foot issues, deep vein thrombosis, foot infections, foot sores, or any open cuts or injuries on your hands or feet, you should talk to your physician before starting. You should also consult a doctor before treatment if you are pregnant.\n\nRISKS AND POSSIBLE REACTIONS: After a reflexology session, some people might feel mild dizziness, emotional release, or slight soreness in the hands or feet. These mild responses usually last only a few hours at most.\n\nI confirm that I have been informed about all relevant aspects of this therapy and that I fully understand this guidance. This includes information regarding:\n- The reasons for having the session and the results I am seeking\n- The natural risks involved in the session\n- The risks related to choosing not to have the session\n- Any personal health-related risks specific to me\n- The expected benefits of the therapy\n- Potential downsides or disadvantages\n- Other therapy options and their pros and cons, including choosing no therapy\n- Any uncertainties and the likelihood of a positive outcome\n- Any follow-up care that might be needed\n\nBy signing this document, I give my consent to receive a Reflexology session. I understand I may end a session at any time. If a licensed healthcare provider has diagnosed me with any illness, injury, or other physical or mental condition, I understand I should inform that provider about the session I will be having and if I plan to stop any previously prescribed treatment or therapy. I acknowledge that by discontinuing any such medical treatment or therapy, I take full responsibility for any negative outcomes that might arise from that choice.\n\nI have been asked what information I need to make an informed choice and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form and understand it entirely. I have been given ample time for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that changes my decision to undergo the therapy or to give my consent. I hereby consent to this session. This document represents the full agreement and overrides any prior verbal or written discussions."
+                        "disclaimer": "You should take the necessary time to think through this treatment carefully, considering all your alternatives before making a well-informed decision. It is vital that you know you have the right to get a second professional opinion and you are invited to ask any questions that occur to you at any stage.\n\nReflexology is a therapy involving targeted pressure applied to specific reflex points on the hands, feet, and occasionally other body areas. It is regarded as a complementary or alternative practice that some people find helpful for various wellness concerns. Reflexology does not substitute for standard medical treatment. You should discuss any particular health matters with your main doctor. It is thought that reflexology may aid in lowering stress and anxiety, enhancing mood, and easing certain kinds of aches.\n\nReflexology is typically safe, non-invasive, and calming. There are no commonly acknowledged significant risks or side effects. However, if you have circulation problems, diabetic foot issues, deep vein thrombosis, foot infections, foot sores, or any open cuts or injuries on your hands or feet, you should talk to your physician before starting. You should also consult a doctor before treatment if you are pregnant.\n\nRISKS AND POSSIBLE REACTIONS: After a reflexology session, some people might feel mild dizziness, emotional release, or slight soreness in the hands or feet. These mild responses usually last only a few hours at most.\n\nI confirm that I have been informed about all relevant aspects of this therapy and that I fully understand this guidance. This includes information regarding:\n- The reasons for having the session and the results I am seeking\n- The natural risks involved in the session\n- The risks related to choosing not to have the session\n- Any personal health-related risks specific to me\n- The expected benefits of the therapy\n- Potential downsides or disadvantages\n- Other therapy options and their pros and cons, including choosing no therapy\n- Any uncertainties and the likelihood of a positive outcome\n- Any follow-up care that might be needed\n\nBy signing this document, I give my consent to receive a Reflexology session. I understand I may end a session at any time. If a licensed healthcare provider has diagnosed me with any illness, injury, or other physical or mental condition, I understand I should inform that provider about the session I will be having and if I plan to stop any previously prescribed treatment or therapy. I acknowledge that by discontinuing any such medical treatment or therapy, I take full responsibility for any negative outcomes that might arise from that choice.\n\nI have been asked what information I need to make an informed choice and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form and understand it entirely. I have been given ample time for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that changes my decision to undergo the therapy or to give my consent. I hereby consent to this session. This document represents the full agreement and overrides any prior verbal or written discussions."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been shared with you?",
+                        "content": "Do you understand the information that has been shared with you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you believe enough details have been provided for you to give informed consent?",
+                        "content": "Do you believe enough details have been provided for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you giving your consent of your own free will?",
+                        "content": "Are you giving your consent of your own free will?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current health conditions?",
+                        "content": "Do you have any current health conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or breastfeeding?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection in the area where the session is to be performed?",
+                        "content": "Is there an active infection in the area where the session is to be performed?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotics or other prescription drugs?",
+                        "content": "Are you currently taking any antibiotics or other prescription drugs?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should be aware of? If yes, please describe in detail.",
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please describe in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results are you hoping to achieve from this session? Please elaborate.",
+                        "content": "What are your aims and what results are you hoping to achieve from this session? Please elaborate.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar therapy in the past? If so, were there any difficulties? Please provide details.",
+                        "content": "Have you had this or a similar therapy in the past? If so, were there any difficulties? Please provide details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries? If so, please describe them.",
+                        "content": "Do you have any worries? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there anything else we need to know? Please provide complete information.",
+                        "content": "Is there anything else we need to know? Please provide complete information.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will keep this information during my course of treatment and refer to it as required.",
+                        "content": "I will keep this information during my course of treatment and refer to it as required.",
                         "answer": -1,
                         "comment": ""
                     }

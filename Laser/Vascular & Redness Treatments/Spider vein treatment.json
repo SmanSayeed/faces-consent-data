@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Spider vein treatment",
+                        "disclaimer": "Introduction:\nThis consent form is intended to provide the patient with information about the thread vein treatment procedure. Please review it thoroughly and raise any questions you may have.\n\nProcedure Information:\nThread vein treatment, also referred to as sclerotherapy or laser therapy, aims to collapse or remove small, superficial veins often found on the face or legs. The treatment may necessitate multiple sessions for best outcomes.\n\nRisks and Side Effects:\nPotential risks and side effects may include, but are not limited to:\n\nTemporary bruising or swelling\nDiscoloration or changes in pigmentation\nBurning or stinging sensations\nInfection\nAllergic reaction to treatment substances\nBlood clot formation\n\nI have been informed of the pertinent details related to this treatment and I confirm that I fully comprehend this guidance. This includes information about:\n\nthe objectives and motivations for undergoing the procedure and the anticipated outcome\nthe inherent risks of the procedure\nthe inherent risks of declining the procedure\nthe risks specific to my personal circumstances\nthe expected advantages of the treatment\nthe potential drawbacks of the treatment\nalternative procedures and their benefits and disadvantages - including the choice of no treatment at all\nany uncertainties regarding and the probability of the procedure's success\nany follow-up treatment that might be necessary\n\nCLINICAL PHOTOS AND VIDEOS: I consent to and authorize the capture of clinical photographs and videos. I understand that these clinical photographs and videos will become part of and will be stored with my confidential medical records.\n\nI have been asked what information I desire and require to make an informed decision. I have been given the opportunity to thoroughly discuss my desired outcome to enable me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been provided ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has emerged that influences my decision to undergo the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and overrides any previous verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless an agreement is reached with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been shared to enable you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been given freely and voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g., MS, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disorder?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the planned treatment site?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription drugs?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History we should be aware of? If yes, please provide complete details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your objectives and motivations for undergoing this procedure, and what outcome do you desire? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment previously? If so, did you encounter any issues? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If yes, please provide complete details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other information we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information throughout my treatment course and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

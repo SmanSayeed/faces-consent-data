@@ -4,112 +4,112 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "TCA Peel",
-                        "paraphrased_disclaimer": "A TCA peel is a non-invasive cosmetic procedure that uses trichloroacetic acid to remove the outer layers of skin. This treatment seeks to reduce the visibility of wrinkles, age spots, acne marks, and irregular skin texture, promoting a more even, radiant skin surface.\n\nPotential Side Effects and Risks\nTypical responses involve skin redness, puffiness, flaking, a feeling of tightness, and heightened skin sensitivity. Less common but serious complications can involve short-term or permanent changes in skin color, the formation of scars, or infections. People with more melanin in their skin may be at greater risk for color changes.\n\nPreparation Before the Procedure\nYou must inform your provider about your full medical background, all current drugs, any allergies, and recent skin procedures. Stay out of the sun, avoid waxing, and stop using retinoid products for at least seven days prior. A skin test might be performed to assess how your skin reacts.\n\nCare After the Procedure\nAfter the peel, your skin will look red and will start to shed over the next few days. Do not pull or pick at the peeling skin. Apply only the suggested hydrating creams and a strong sunscreen (high SPF). Avoid sun exposure, strenuous exercise, and aggressive skincare for at least one week.\n\nConsent and Use of Images\nI acknowledge that I have received and understood all necessary information about this treatment, including details about:\n- The purpose of the procedure and expected outcomes\n- The potential risks involved in the treatment\n- The risks of not having the procedure\n- Any personal health-related risks\n- The expected advantages\n- Possible downsides or negative effects\n- Other available options and their pros and cons, including opting for no treatment\n- Any areas of uncertainty and the likelihood of success\n- Any necessary aftercare or follow-up\n\nMedical Photos and Videos: I give permission for clinical photos and videos to be taken. I understand these will be added to my private medical records and stored securely.\n\nI have been given the chance to specify what information I need and to talk in detail about my goals for this treatment.\n\nI confirm I have read and fully understand this consent form. I have had adequate time for questions, and all my inquiries have been answered. No new facts have come to light that change my decision to proceed. I hereby give my consent for this procedure. This document represents the full agreement and supersedes any previous discussions or writings.\n\nBooking fees and deposits are non-refundable unless a specific arrangement has been made with your provider."
+                        "disclaimer": "A TCA peel is a non-invasive cosmetic procedure that uses trichloroacetic acid to remove the outer layers of skin. This treatment seeks to reduce the visibility of wrinkles, age spots, acne marks, and irregular skin texture, promoting a more even, radiant skin surface.\n\nPotential Side Effects and Risks\nTypical responses involve skin redness, puffiness, flaking, a feeling of tightness, and heightened skin sensitivity. Less common but serious complications can involve short-term or permanent changes in skin color, the formation of scars, or infections. People with more melanin in their skin may be at greater risk for color changes.\n\nPreparation Before the Procedure\nYou must inform your provider about your full medical background, all current drugs, any allergies, and recent skin procedures. Stay out of the sun, avoid waxing, and stop using retinoid products for at least seven days prior. A skin test might be performed to assess how your skin reacts.\n\nCare After the Procedure\nAfter the peel, your skin will look red and will start to shed over the next few days. Do not pull or pick at the peeling skin. Apply only the suggested hydrating creams and a strong sunscreen (high SPF). Avoid sun exposure, strenuous exercise, and aggressive skincare for at least one week.\n\nConsent and Use of Images\nI acknowledge that I have received and understood all necessary information about this treatment, including details about:\n- The purpose of the procedure and expected outcomes\n- The potential risks involved in the treatment\n- The risks of not having the procedure\n- Any personal health-related risks\n- The expected advantages\n- Possible downsides or negative effects\n- Other available options and their pros and cons, including opting for no treatment\n- Any areas of uncertainty and the likelihood of success\n- Any necessary aftercare or follow-up\n\nMedical Photos and Videos: I give permission for clinical photos and videos to be taken. I understand these will be added to my private medical records and stored securely.\n\nI have been given the chance to specify what information I need and to talk in detail about my goals for this treatment.\n\nI confirm I have read and fully understand this consent form. I have had adequate time for questions, and all my inquiries have been answered. No new facts have come to light that change my decision to proceed. I hereby give my consent for this procedure. This document represents the full agreement and supersedes any previous discussions or writings.\n\nBooking fees and deposits are non-refundable unless a specific arrangement has been made with your provider."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel you have received sufficient information to provide informed consent?",
+                        "content": "Do you feel you have received sufficient information to provide informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you giving your consent of your own free will?",
+                        "content": "Are you giving your consent of your own free will?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any existing medical conditions?",
+                        "content": "Do you have any existing medical conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently pregnant or breastfeeding?",
+                        "content": "Are you currently pregnant or breastfeeding?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disease (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disease (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current skin conditions?",
+                        "content": "Do you have any current skin conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any known allergies or a history of serious allergic reactions (anaphylaxis)?",
+                        "content": "Do you have any known allergies or a history of serious allergic reactions (anaphylaxis)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an infection present in the area where the treatment is to be performed?",
+                        "content": "Is there an infection present in the area where the treatment is to be performed?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently taking any antibiotic or prescription medication?",
+                        "content": "Are you currently taking any antibiotic or prescription medication?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other Medical or Social History we should know about? If yes, please describe fully.",
+                        "content": "Is there any other Medical or Social History we should know about? If yes, please describe fully.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what results do you hope to achieve from this procedure? Please explain.",
+                        "content": "What are your aims and what results do you hope to achieve from this procedure? Please explain.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If yes, were there any problems? Please give details.",
+                        "content": "Have you had this or a similar treatment before? If yes, were there any problems? Please give details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any worries or concerns? If so, please describe them.",
+                        "content": "Do you have any worries or concerns? If so, please describe them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any other relevant information we should be aware of? Please provide complete details.",
+                        "content": "Is there any other relevant information we should be aware of? Please provide complete details.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will retain this information for the length of my treatment and refer back to it as necessary.",
+                        "content": "I will retain this information for the length of my treatment and refer back to it as necessary.",
                         "answer": -1,
                         "comment": ""
                     }

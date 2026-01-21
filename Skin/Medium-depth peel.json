@@ -4,58 +4,58 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Medium-depth peel",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of a medium-depth peel. Please read this information carefully and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment thoroughly, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nA medium-depth chemical peel uses agents such as 35% TCA or Jessner's solution + TCA to penetrate the papillary dermis, eliminating damaged skin layers to address moderate wrinkles, acne scars, pigmentation, and sun damage, promoting collagen restructuring for smoother texture and more even skin tone. Results are substantial but necessitate 7-10 days of recovery time.\n\nThe session lasts 30-60 minutes under local anesthesia or sedation, with frosting indicating the depth of penetration, followed by 5-7 days of peeling. One to three sessions spaced 4-8 weeks apart may be required. Due to factors such as skin type, condition, lifestyle, and overall health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that multiple appointments may be needed for optimal results. I will be informed ahead of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include severe redness, swelling, burning sensation, crusting, and peeling for 7-14 days, extended redness lasting up to months, visible demarcation lines, milia formation, and heightened sun sensitivity.\n\nRare complications include infection (herpetic, bacterial), scarring (hypertrophic/keloid), permanent lightening or darkening of the skin, textural irregularities, cardiac toxicity with phenol-containing peels, or distinct lines of demarcation. Higher risk for individuals with darker skin tones; not recommended for active infections, isotretinoin use within the past 12 months, pregnancy, or a history of keloids.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
+                        "disclaimer": "PATIENT AGREEMENT: This form aims to inform you about the potential benefits and risks of a medium-depth peel. Please read this information carefully and discuss any questions fully with your provider before proceeding.\n\nYou should allocate sufficient time to consider this treatment thoroughly, evaluating all your alternatives before making an informed decision. It is essential that you know you have the right to seek a second opinion, and you are encouraged to ask any questions that occur to you at any stage of the process.\n\nA medium-depth chemical peel uses agents such as 35% TCA or Jessner's solution + TCA to penetrate the papillary dermis, eliminating damaged skin layers to address moderate wrinkles, acne scars, pigmentation, and sun damage, promoting collagen restructuring for smoother texture and more even skin tone. Results are substantial but necessitate 7-10 days of recovery time.\n\nThe session lasts 30-60 minutes under local anesthesia or sedation, with frosting indicating the depth of penetration, followed by 5-7 days of peeling. One to three sessions spaced 4-8 weeks apart may be required. Due to factors such as skin type, condition, lifestyle, and overall health, you acknowledge that there are no guarantees, warranties, or promises of satisfaction with your outcome.\n\nI understand that multiple appointments may be needed for optimal results. I will be informed ahead of each session about the location and the identity of the practitioner involved in my care. I also understand I will be kept updated on my progress and that I may withdraw my consent at any time.\n\nRISKS AND POSSIBLE REACTIONS: As with any procedure, there are risks and potential complications. It is important that you are aware of these before proceeding. I am aware of the following potential risks/complications:\n\nCommon side effects include severe redness, swelling, burning sensation, crusting, and peeling for 7-14 days, extended redness lasting up to months, visible demarcation lines, milia formation, and heightened sun sensitivity.\n\nRare complications include infection (herpetic, bacterial), scarring (hypertrophic/keloid), permanent lightening or darkening of the skin, textural irregularities, cardiac toxicity with phenol-containing peels, or distinct lines of demarcation. Higher risk for individuals with darker skin tones; not recommended for active infections, isotretinoin use within the past 12 months, pregnancy, or a history of keloids.\n\nI understand that the treatment may involve risks of complication or injury from both known and unknown causes, and I voluntarily accept those risks. Before receiving treatment, I have been open in disclosing any condition that could affect this procedure.\n\nI confirm I have been provided with all relevant information regarding this treatment and fully comprehend it. This information includes details about:\n- My reasons for seeking treatment and the results I desire\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits\n- Potential drawbacks\n- Alternative treatments and their advantages and disadvantages, including the option of no treatment\n- Any uncertainties and the probability of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed decision and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form, understand it completely, have been given ample opportunity for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that affects my decision to undergo treatment or provide consent. I hereby consent to this procedure. This document constitutes the complete and final disclosure and supersedes any prior verbal or written information."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been provided to you?",
+                        "content": "Do you understand the information that has been provided to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel enough information has been shared for you to give informed consent?",
+                        "content": "Do you feel enough information has been shared for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you given your consent willingly and without pressure?",
+                        "content": "Have you given your consent willingly and without pressure?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current health conditions?",
+                        "content": "Do you have any current health conditions?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding currently?",
+                        "content": "Are you pregnant or breastfeeding currently?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "content": "Do you have a neuromuscular disorder (for example, Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin concerns?",
+                        "content": "Do you currently have any skin concerns?",
                         "answer": -1,
                         "comment": ""
                     }

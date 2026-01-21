@@ -4,106 +4,106 @@
             "success": true,
             "message": "Consent form questions retrieved successfully.",
             "data": {
-                "paraphrased_disclaimerData": [
+                "disclaimerData": [
                     {
                         "consentFormName": "Lactic Peel",
-                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This document is intended to provide you with essential information regarding the advantages and potential risks associated with a Lactic Acid Peel. We encourage you to read this carefully and discuss any specific concerns with your practitioner before starting the session.\n\nA lactic peel is a gentle Alpha Hydroxy Acid (AHA) treatment derived from milk. It is specifically designed to exfoliate the surface of the skin while simultaneously providing hydrating benefits, making it ideal for sensitive or dry skin types. The procedure consists of two phases: first, the lactic acid solution is applied to the skin to break down the bonds between dead skin cells and stimulate moisture retention; second, the solution is neutralized and removed to reveal a brighter, smoother complexion. This treatment helps improve skin tone, minor hyperpigmentation, and fine lines.\n\nRISKS AND POSSIBLE SIDE EFFECTS: Lactic peels are considered very low-risk; however, some potential adverse effects exist. During application, you may feel a mild tingling, itching, or warming sensation. These feelings are generally very light and resolve quickly once the peel is neutralized.\n\nFollowing the treatment, mild redness or slight dryness is normal and usually subsides within 24 to 48 hours. Less common reactions include localized swelling, temporary darkening of pigment, or irritation. If you notice any persistent blistering or severe redness, you should contact your provider immediately. It is vital to use sun protection following this treatment as your skin will be more sensitive to UV rays.\n\nI confirm that I have been informed about the nature of this treatment and fully understand the following:\n- The purpose of the lactic peel and the brightening results I hope to see\n- The common risks such as temporary redness and increased sun sensitivity\n- The risks linked to deciding against the procedure\n- Any personal health or skin history specific to me\n- The expected benefits of improved hydration and skin texture\n- Alternative treatment choices and their benefits and drawbacks\n- The requirement to follow all post-treatment aftercare instructions\n\nMEDICAL PHOTOGRAPHY: I grant permission for clinical photos and videos to be taken. I understand these will be added to my confidential medical file.\n\nI attest that I have read this consent form, understand it completely, and have had all my questions answered to my satisfaction. I hereby agree to this procedure. This document represents the full and final agreement."
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to provide you with essential information regarding the advantages and potential risks associated with a Lactic Acid Peel. We encourage you to read this carefully and discuss any specific concerns with your practitioner before starting the session.\n\nA lactic peel is a gentle Alpha Hydroxy Acid (AHA) treatment derived from milk. It is specifically designed to exfoliate the surface of the skin while simultaneously providing hydrating benefits, making it ideal for sensitive or dry skin types. The procedure consists of two phases: first, the lactic acid solution is applied to the skin to break down the bonds between dead skin cells and stimulate moisture retention; second, the solution is neutralized and removed to reveal a brighter, smoother complexion. This treatment helps improve skin tone, minor hyperpigmentation, and fine lines.\n\nRISKS AND POSSIBLE SIDE EFFECTS: Lactic peels are considered very low-risk; however, some potential adverse effects exist. During application, you may feel a mild tingling, itching, or warming sensation. These feelings are generally very light and resolve quickly once the peel is neutralized.\n\nFollowing the treatment, mild redness or slight dryness is normal and usually subsides within 24 to 48 hours. Less common reactions include localized swelling, temporary darkening of pigment, or irritation. If you notice any persistent blistering or severe redness, you should contact your provider immediately. It is vital to use sun protection following this treatment as your skin will be more sensitive to UV rays.\n\nI confirm that I have been informed about the nature of this treatment and fully understand the following:\n- The purpose of the lactic peel and the brightening results I hope to see\n- The common risks such as temporary redness and increased sun sensitivity\n- The risks linked to deciding against the procedure\n- Any personal health or skin history specific to me\n- The expected benefits of improved hydration and skin texture\n- Alternative treatment choices and their benefits and drawbacks\n- The requirement to follow all post-treatment aftercare instructions\n\nMEDICAL PHOTOGRAPHY: I grant permission for clinical photos and videos to be taken. I understand these will be added to my confidential medical file.\n\nI attest that I have read this consent form, understand it completely, and have had all my questions answered to my satisfaction. I hereby agree to this procedure. This document represents the full and final agreement."
                     }
                 ],
-                "paraphrased_questions": [
+                "questions": [
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you understand the information that has been presented to you?",
+                        "content": "Do you understand the information that has been presented to you?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you feel that sufficient information has been provided for you to give informed consent?",
+                        "content": "Do you feel that sufficient information has been provided for you to give informed consent?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you provided your consent of your own free will?",
+                        "content": "Have you provided your consent of your own free will?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any current medical problems?",
+                        "content": "Do you have any current medical problems?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you pregnant or breastfeeding currently?",
+                        "content": "Are you pregnant or breastfeeding currently?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "content": "Do you have an autoimmune disease?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have a known allergy to milk or dairy products?",
+                        "content": "Do you have a known allergy to milk or dairy products?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you currently have any skin issues (e.g., active eczema, sunburn, or open wounds)?",
+                        "content": "Do you currently have any skin issues (e.g., active eczema, sunburn, or open wounds)?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Are you currently using any prescription topical creams like Tretinoin (Retin-A) or other exfoliants?",
+                        "content": "Are you currently using any prescription topical creams like Tretinoin (Retin-A) or other exfoliants?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you used Accutane (Isotretinoin) in the last 6 months?",
+                        "content": "Have you used Accutane (Isotretinoin) in the last 6 months?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there an active infection or cold sore in the area where the treatment is intended?",
+                        "content": "Is there an active infection or cold sore in the area where the treatment is intended?",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "What are your aims and what outcomes do you hope to achieve from this procedure? Please explain in detail.",
+                        "content": "What are your aims and what outcomes do you hope to achieve from this procedure? Please explain in detail.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any problems? Please give specifics.",
+                        "content": "Have you had this or a similar treatment before? If so, were there any problems? Please give specifics.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Do you have any reservations or worries? If so, please outline them.",
+                        "content": "Do you have any reservations or worries? If so, please outline them.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "Is there any additional information we should be aware of? Please provide a comprehensive account.",
+                        "content": "Is there any additional information we should be aware of? Please provide a comprehensive account.",
                         "answer": -1,
                         "comment": ""
                     },
                     {
                         "questionId": 0,
-                        "paraphrased_content": "I will hold onto this information throughout my treatment period and refer to it when necessary.",
+                        "content": "I will hold onto this information throughout my treatment period and refer to it when necessary.",
                         "answer": -1,
                         "comment": ""
                     }

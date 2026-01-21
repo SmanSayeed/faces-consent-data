@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Pigmentation removal",
+                        "disclaimer": "Procedure Overview\nLaser pigmentation removal uses advanced laser technology to address areas of uneven skin color by targeting melanin. The laser emits a specific light wavelength that fragments pigmentation into smaller particles, which the body naturally eliminates over time. This treatment is appropriate for:\n\nSunspots and age spots.\nFreckles.\nMelasma (in certain instances).\nPost-inflammatory hyperpigmentation (PIH).\n\nExpected Results\nInitial Response: Following treatment, pigmentation may temporarily darken before peeling or lightening.\nTimeline: Noticeable improvement is often visible after 1-2 weeks, but several sessions (typically 2-6) may be necessary depending on the severity and nature of the pigmentation.\nLongevity: Outcomes can be enduring if appropriate sun protection and skincare are consistently maintained.\n\nHow the Procedure Works\nThe treatment area is cleaned, and protective eyewear is supplied.\nThe laser is adjusted according to your skin type and the specific pigmentation being addressed.\nThe laser device is applied to the skin, delivering brief pulses of light energy.\nYou may experience a mild sensation of warmth or a rubber band snap during the session.\n\nContraindications\nThis procedure is not suitable for individuals who:\n\nAre pregnant or nursing.\nHave active skin infections, cold sores, or open wounds.\nHave a history of photosensitivity or are taking photosensitizing medications.\nHave a recent tan, including from artificial tanning products.\nAre undergoing isotretinoin (Accutane) therapy or have used it within the past 6 months.\n\nPre-Treatment Instructions\nTo achieve the best results and minimize potential side effects:\n\nAvoid sun exposure, tanning beds, and tanning products for at least 2 weeks before the treatment.\nDiscontinue the use of retinoids, AHAs, BHAs, and exfoliating agents 7 days prior to the procedure.\nRefrain from waxing, plucking, or using hair removal creams on the treatment area for at least 1 week.\nInform your practitioner of any changes in medication, health status, or recent cosmetic procedures.\n\nPossible Side Effects and Risks\nCommon: Redness, swelling, or mild discomfort, usually subsiding within 24-48 hours.\nTemporary Pigment Changes: Treated areas may appear darker or lighter as the skin heals.\nRare: Blistering, scarring, or infection if post-treatment care instructions are not followed.\nAllergic Reactions: Rare sensitivity to the laser or numbing cream, if applied.\n\nPost-Treatment Care\nTo safeguard your skin and maximize results:\n\nAvoid sun exposure and apply a broad-spectrum SPF 30+ daily.\nKeep the treated area clean and avoid applying heavy makeup or other products for 24 hours.\nAvoid saunas, hot showers, or strenuous exercise for 48 hours.\nDo not pick, scratch, or exfoliate the treated area.\nAdhere to any additional guidance provided by your practitioner.\n\nTreatment Limitations\nIndividual outcomes may differ based on skin type, depth of pigmentation, and compliance with aftercare.\nCertain pigmentation types, such as melasma, may need supplementary or alternative treatments.\nMaintenance sessions may be required for sustained results.\n\nI have been informed of the pertinent details related to this treatment and I confirm that I fully comprehend this guidance. This includes information about:\n\n- the objectives and motivations for undergoing the procedure and the anticipated outcome\n- the inherent risks of the procedure\n- the inherent risks of declining the procedure\n- the risks specific to my personal circumstances\n- the expected advantages of the treatment\n- the potential drawbacks of the treatment\n- alternative procedures and their benefits and disadvantages - including the choice of no treatment at all\n- any uncertainties regarding and the probability of the procedure's success\n- any follow-up treatment that might be necessary\n\nCLINICAL PHOTOS AND VIDEOS: I consent to and authorize the capture of clinical photographs and videos. I understand that these clinical photographs and videos will become part of and will be stored with my confidential medical records.\n\nI have been asked what information I desire and require to make an informed decision. I have been given the opportunity to thoroughly discuss my desired outcome to enable me to make an informed decision.\n\nI certify that I have read the above consent and that I fully understand it. I have been provided ample opportunity for discussion and all my questions have been answered to my satisfaction. No new information has emerged that influences my decision to undergo the treatment or my decision to consent. I hereby consent to this procedure. This constitutes the full disclosure and overrides any previous verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless an agreement is reached with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you understand the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you feel sufficient information has been shared to enable you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been given freely and voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any medical conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you pregnant or breastfeeding?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have a neuromuscular disease (e.g., MS, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune disorder?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any skin conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of anaphylaxis?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the planned treatment site?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you taking antibiotics or other prescription drugs?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical and/or Social History we should be aware of? If yes, please provide complete details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your objectives and motivations for undergoing this procedure, and what outcome do you desire? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you had this or a similar treatment previously? If so, did you encounter any issues? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If yes, please provide complete details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other information we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information throughout my treatment course and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
