@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Cherry Angioma Removal",
+                        "disclaimer": "PATIENT AGREEMENT: This document is intended to inform you about the potential benefits and risks of laser cherry angioma removal treatment. Please read this information carefully and discuss any questions fully with your practitioner before proceeding.\n\nYou should take the time you need to consider this treatment thoroughly, weighing all your options before reaching an informed decision. It is essential that you are aware of your right to seek a second opinion, and you are encouraged to ask any questions that arise at any stage of the process.\n\nCherry angioma removal uses pulsed dye laser (595nm), Nd:YAG (1064nm), KTP (532nm), or IPL to target dilated capillary loops within benign vascular proliferations appearing as bright red papules on trunk, arms, legs. Laser energy coagulates vessels causing angioma involution within 1-2 weeks. Single treatment typically clears lesions <3mm; larger/multiple may require 2 sessions spaced 4 weeks apart.\n\nBenign lesions common after age 30; new angiomas develop naturally. Fitzpatrick I-VI safe; minimal scarring risk. Temporary crusting/scabbing resolves within 14 days; sun protection recommended during healing.\n\nI will be notified in advance of each session about the location and practitioner. Consent may be withdrawn anytime.\n\nRISKS AND POSSIBLE REACTIONS: Common: crusting, scabbing, redness up to 14 days. Bruising possible with PDL.\n\nLess common: hypopigmentation/hyperpigmentation, textural change.\n\nRare: burns, scarring, incomplete clearance, recurrence. Bleeding risk if traumatized pre-treatment.\n\nI understand lesions benign/cosmetic treatment only. Full history disclosed including bleeding disorders, anticoagulant use.\n\nI confirm advice received: single-session efficacy (90%+ clearance), permanent removal unless new develop, alternatives (cryotherapy, electrocautery, shave excision).\n\nMEDICAL IMAGERY: I authorize clinical photographs/videos for confidential records.\n\nGoals discussed; questions answered satisfactorily. No new information affects decision. I consent to procedure. This supersedes prior information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
