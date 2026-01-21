@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Acne Bacteria Reduction (Laser)",
+                        "disclaimer": "PATIENT AGREEMENT: This form is designed to provide you with information about the possible advantages and risks associated with the acne bacteria reduction laser procedure. Please read this material thoroughly and have a comprehensive discussion with your skincare professional before proceeding.\n\nYou should take all the time necessary to carefully consider the treatment, evaluating all your options before arriving at an informed decision. It is crucial that you know you have the right to seek a second opinion, and you are encouraged to ask any questions you may have at any stage of the process.\n\nAcne bacteria reduction using laser is a cosmetic skin treatment intended to target and reduce acne-causing bacteria, calm inflammation, and improve the appearance of active acne and overall skin clarity. During the procedure, specific laser or light energy is directed at the skin to heat and destroy acne-causing bacteria within the pores. This process may also help regulate oil production and support gradual improvement in skin texture.\n\nA typical treatment involves cleansing the skin, applying eye protection, and then passing the laser or light device over the treatment areas. You may feel warmth, tingling, or a mild snapping sensation during the procedure. Sessions usually take between 15 and 45 minutes, depending on the size of the area being treated. Multiple sessions are often required, spaced over several weeks, to achieve and maintain the best results.\n\nResults vary from person to person and cannot be guaranteed. Some patients notice an improvement over several days to weeks as inflammation settles and breakouts reduce. Maintenance treatments or additional acne therapies may still be needed, as this procedure does not cure acne or prevent new breakouts indefinitely.\n\nI understand that multiple appointments may be required for the best outcome. I will be informed before each session about the location and the practitioner who will be overseeing my care. I also understand that I will be updated on my progress and that I may withdraw my consent at any time.\n\nAfter the procedure, the treated area may appear red, warm, or slightly swollen, similar to mild sunburn. You should avoid direct sun exposure, tanning beds, and very hot environments (such as saunas or steam rooms) until any initial redness or swelling has settled. You should follow all aftercare instructions given, including gentle cleansing and the use of recommended skincare and sunscreen.\n\nRISKS AND POSSIBLE REACTIONS: As with any medical or cosmetic procedure, there are associated risks. It is important you are aware of these and discuss them fully with your practitioner.\n\nCommon side effects include temporary redness, swelling, warmth, tightness, or mild discomfort in the treated area. The skin may feel dry or slightly sensitive for a few days. These effects usually improve within hours to several days.\n\nOther possible effects may include temporary darkening or lightening of the skin, flaking, crusting, minor bruising, or small surface burns or blisters. There is a small risk of skin infection, especially if the treated area is picked, scratched, or not cared for as advised.\n\nLess common but more serious risks include persistent changes in skin color, scarring, or worsening of existing skin conditions. People with darker skin tones or those who have had recent sun exposure may be at higher risk of pigmentary changes. It is important to inform your practitioner of your full medical history, medications, and any past reactions to laser or light-based treatments.\n\nI confirm I have been advised of all relevant information regarding this treatment and that I fully understand it. This advice covers:\n\n- The reasons for undergoing the procedure and the desired results\n- The inherent risks of the procedure\n- The risks of not having the procedure\n- Any risks specific to my personal health\n- The expected benefits of the treatment\n- Potential disadvantages\n- Alternative treatments and their advantages and drawbacks, including the option of no treatment\n- Any uncertainties and the likelihood of a successful outcome\n- Any necessary follow-up care\n\nMEDICAL IMAGERY: I authorize the taking of clinical photographs and videos. I understand these will become part of my confidential medical records.\n\nI have been asked what information I need to make an informed choice and have had the opportunity to discuss my goals in detail.\n\nI certify that I have read this consent form and understand it completely. I have been given sufficient time for discussion, and all my questions have been answered to my satisfaction. No new information has come to light that changes my decision to undergo treatment or to give my consent. I hereby consent to this procedure. This document represents the complete disclosure and replaces any prior discussions or written information."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you experience any skin problems, such as active severe acne, eczema, psoriasis, rosacea, or infections?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

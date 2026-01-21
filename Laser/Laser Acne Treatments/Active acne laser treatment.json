@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Acne Treatment",
+                        "disclaimer": "Summary of Treatment\n\nThis medical procedure employs targeted light energy to address the bacteria that cause acne. It is designed to lessen inflammation and help prevent new breakouts. The process works by applying specific light wavelengths to the skin's surface.\n\nSteps of the Procedure\n\nThe treatment session will follow these stages:\n\nEvaluation of Skin Before Treatment:\n\nAn assessment of your skin will be conducted to determine acne severity, skin type, and any conditions that might make the treatment unsuitable. This step confirms the laser is appropriate for you.\n\nSkin Preparation:\n\nThe treatment area will be cleaned to remove any impurities, oil, or cosmetics, optimizing the effectiveness of the procedure.\n\nAdministration of Laser:\n\nA cooling gel or topical agent may be used to improve comfort during the process.\nThe laser equipment will deliver focused light energy to the designated areas on your skin. While typically not painful, some individuals may experience a slight warming or tingling sensation.\n\nGuidance for Aftercare:\n\nSoothing products may be applied post-treatment to minimize redness or sensitivity. You may also be given a cream or ointment to help calm the skin.\nDetailed aftercare instructions will be provided, covering how to care for the treated area properly.\n\nSubsequent Sessions:\n\nDepending on your acne's initial severity, multiple treatments may be necessary. Follow-up appointments will be planned based on your skin's reaction and the results observed.\n\nI acknowledge that I have been informed about all relevant aspects of this treatment and confirm my complete understanding. This encompasses information regarding:\n\n- the objectives and expected results of the procedure\n- the potential risks involved in undergoing the treatment\n- the potential risks involved in declining the treatment\n- any risks that are particular to my personal situation\n- the anticipated advantages of the treatment\n- the possible drawbacks or disadvantages\n- other available treatment options and their respective benefits and risks - including the choice to not proceed with any treatment\n- any areas of uncertainty and the probable success rate of the procedure\n- any additional treatments that might be needed afterward\n\nMEDICAL IMAGERY: I consent to and authorize the capture of clinical photographs and video recordings. I understand that this imagery will be incorporated into and stored with my private medical file.\n\nI have been consulted on the information I require to make a knowledgeable choice. I have had adequate time to discuss my goals to ensure my decision is fully informed.\n\nI confirm that I have reviewed the consent information above and comprehend it entirely. I have been given sufficient time for consultation, and all my inquiries have been addressed to my complete satisfaction. No new information has arisen that changes my decision to undergo this treatment or to provide my consent. I hereby give my consent for this procedure. This document represents the complete disclosure and overrides any prior discussions or written information.\n\nAll deposits and fees for booking are non-refundable, except where otherwise expressly agreed with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the information that has been provided to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe you have been given enough information to provide informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you providing your consent voluntarily, without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently managing any health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing an infant?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you been diagnosed with a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any existing skin issues?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergic reactions or a history of anaphylactic shock?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any active infection present in the area to be treated?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently using antibiotics or any other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other relevant Medical or Social History we should be aware of? If yes, please describe in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your primary goals and desired results for undergoing this procedure? Please describe in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you undergone this or a comparable treatment in the past? If so, were there any complications? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any specific worries or concerns? If yes, please describe in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any additional information we should know? Please provide full details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will keep this information for reference throughout my treatment course as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
