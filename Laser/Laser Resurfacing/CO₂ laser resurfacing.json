@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "CO2 Laser",
+                        "disclaimer": "Procedure Overview\nCO2 (Carbon Dioxide) laser resurfacing is a skin renewal technique that employs laser technology to precisely eliminate skin layers, encouraging collagen formation and resulting in smoother, firmer, and more uniformly toned skin. It is frequently utilized to address wrinkles, acne scars, sun damage, and various skin irregularities.\n\nExpected Benefits\nEnhanced skin texture and tone\n\nDiminished fine lines, wrinkles, and acne scarring\n\nSkin firmness and revitalization\n\nBalanced pigmentation and reduced sun-related damage\n\nRisks and Potential Side Effects\nAlthough most clients achieve favorable outcomes, possible risks and side effects may include:\n\nPost-treatment redness, swelling, and discomfort\n\nSkin darkening (hyperpigmentation) or lightening (hypopigmentation)\n\nScarring or infection risk\n\nExtended healing duration or heightened sensitivity\n\nReactivation of herpes simplex virus (in predisposed individuals)\n\nMilia formation or minor white bumps during recovery\n\nIrregular skin texture\n\nUnsatisfactory aesthetic outcome\n\nThese risks will be thoroughly discussed before treatment, with precautions implemented to reduce their likelihood.\n\nContraindications\nYou must disclose to the practitioner if you have experienced or currently have any of the following:\n\nActive skin infection or inflammation in the treatment area\n\nHistory of keloid or excessive scarring\n\nRecent isotretinoin (Accutane) use\n\nPregnancy or breastfeeding status\n\nImmune system deficiencies\n\nTendency toward impaired wound healing\n\nPre-Treatment Guidelines\nAvoid sun exposure and apply SPF 50+ sunscreen for at least 2 weeks prior\n\nCease use of retinoids or exfoliants 5–7 days before treatment\n\nEnsure any cold sores have completely resolved\n\nAdhere to all skincare and medication instructions provided by your practitioner\n\nPost-Treatment Care Instructions\nApply prescribed healing ointments and moisturizers\n\nDo not pick, scratch, or peel treated skin\n\nAvoid sun exposure and consistently use high-SPF sunscreen\n\nElevate your head while sleeping to minimize swelling\n\nRefrain from vigorous activities and saunas for 7–10 days\n\nAttend all scheduled follow-up appointments for progress evaluation\n\nComplete skin recovery may require 7–14 days or longer, depending on treatment depth\n\nInformed Consent and Documentation\nI confirm that I have been informed about all relevant aspects of this treatment and fully understand this information. This includes comprehensive details regarding:\n\ntreatment objectives and desired results\ninherent procedural risks\nrisks associated with declining treatment\npersonalized risks specific to my health profile\nexpected treatment benefits\npotential limitations or disadvantages\nalternative treatment options and their advantages/disadvantages - including the choice of no intervention\nuncertainties and probability of successful outcomes\nany necessary follow-up treatments\n\nClinical Photography: I authorize the capture of clinical photographs and videos. I understand these records will become part of my confidential medical documentation.\n\nI have been consulted regarding information necessary for informed decision-making and have had adequate opportunity to discuss my treatment goals comprehensively.\n\nI certify that I have read and completely comprehend this consent information. I have been provided sufficient time for discussion, and all my inquiries have been satisfactorily addressed. No new information has emerged that alters my decision to proceed with treatment or provide consent. I hereby authorize this procedure. This document represents complete disclosure and supersedes all previous verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless mutually agreed upon with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the information that has been presented to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe adequate information has been provided for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been provided voluntarily and without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently managing any health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any neuromuscular disorders (such as MS, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you been diagnosed with an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any existing skin concerns or conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or history of severe allergic reactions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any active infection present in the intended treatment area?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently using any prescribed medications, including antibiotics?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other medical or social history we should be aware of? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your primary goals and expected outcomes for this procedure? Please describe thoroughly.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you previously undergone similar treatments? If yes, did you experience any issues? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any specific concerns about the treatment? If yes, please describe thoroughly.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any additional information we should know? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will maintain access to this information throughout my treatment and reference it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "paraphrased_disclaimerData": [
+                    {
+                        "consentFormName": "Laser Skin Renewal",
+                        "paraphrased_disclaimer": "PATIENT AGREEMENT: This form aims to provide you with information about the possible advantages and risks of the laser skin renewal procedure. Please review this information carefully and have a detailed conversation with your provider about any queries before deciding to proceed.\n\nYou should allow yourself adequate time to think about this treatment carefully, evaluating all your alternatives before making an informed choice. It is important you understand you have the right to obtain another professional opinion, and you are welcome to ask questions at any point during the process.\n\nLaser skin renewal is a skin revitalization procedure designed to improve skin texture and appearance. It can help improve concerns such as fine lines, wrinkles, sun damage, and minor scarring. The treatment consists of two phases: first, the laser energy is applied to the target area to create controlled micro-injuries or heat the deeper layers of the skin; second, this energy triggers the body's natural healing response, stimulating the production of new collagen and elastin for rejuvenation.\n\nRISKS AND POSSIBLE SIDE EFFECTS: Laser skin renewal is generally safe; however, there are some minor potential adverse effects you should know about. You might feel mild discomfort during the session, like a slight snapping sensation or warmth. These feelings are generally minimal and easily managed.\n\nFollowing the treatment, some redness, swelling, and a sensation similar to a mild sunburn are normal and should fade within a few days to a week. Less common reactions include blistering, temporary or permanent skin color changes (pigmentation issues), infection, or scarring. If you notice any of these, you should get in touch with your provider immediately, as you may need medical assessment.\n\nI confirm that I have been advised about all relevant details of this treatment and that I fully understand this guidance. This includes information concerning:\n- The purpose for having the procedure and the results I hope to see\n- The natural risks involved in the procedure\n- The risks linked to deciding against the procedure\n- Any personal health-related risks specific to me\n- The expected benefits of the treatment\n- Potential negative aspects or downsides\n- Other treatment choices and their benefits and drawbacks, including opting for no treatment\n- Any unknowns and the chances of a favorable outcome\n- Any aftercare or follow-up that may be needed\n\nMEDICAL PHOTOGRAPHY: I give permission for clinical photos and videos to be taken. I understand these will be added to my confidential medical file.\n\nI have been asked what details I need to make an informed choice and have had the chance to discuss my objectives thoroughly.\n\nI attest that I have read this consent form, understand it completely, have been given plenty of time for discussion, and all my questions have been answered to my satisfaction. No new information has emerged that influences my decision to have the treatment or to give my consent. I hereby agree to this procedure. This document represents the full and final agreement and replaces any previous verbal or written statements."
+                    }
+                ],
+                "paraphrased_questions": [
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you understand the information that has been presented to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you feel that sufficient information has been provided for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you provided your consent of your own free will?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any current medical problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you pregnant or breastfeeding currently?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have a history of seizures or light-triggered migraines?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have an autoimmune disease?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you currently have any skin issues in the treatment area (e.g., active tan, dermatitis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any known allergies or a history of serious allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there an active infection or cold sore in the area where the treatment is intended?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Are you currently taking any photosensitizing medications (e.g., certain antibiotics or St. John's Wort)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you used Accutane (Isotretinoin) in the last 6-12 months?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "What are your aims and what outcomes do you hope to achieve from this procedure? Please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Have you had this or a similar treatment before? If so, were there any problems? Please give specifics.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Do you have any reservations or worries? If so, please outline them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "Is there any additional information we should be aware of? Please provide a comprehensive account.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "paraphrased_content": "I will hold onto this information throughout my treatment period and refer to it when necessary.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

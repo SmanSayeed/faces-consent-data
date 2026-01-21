@@ -111,12 +111,12 @@ Eye area tightening---Not found---Completed
 Body skin tightening---Not found---Completed
 
 (Laser Resurfacing)
-Ablative laser resurfacing---Completed
-Non-ablative laser resurfacing---Completed
-Fractional laser resurfacing---Not found---Completed
-CO₂ laser resurfacing
-Er:YAG laser resurfacing
-Laser skin renewal
+Ablative laser resurfacing---Not found---Completed
+Non-ablative laser resurfacing---Not found---Completed
+Fractional laser resurfacing---Completed
+CO₂ laser resurfacing---Completed
+Er:YAG laser resurfacing---Completed
+Laser skin renewal---Not found---Completed
 
 (Tattoo & PMU Removal)
 Laser tattoo removal
