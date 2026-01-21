@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Tattoo Removal",
+                        "disclaimer": "PATIENT ACKNOWLEDGMENT: This informed consent document has been prepared to help you understand the potential benefits and risks associated with laser tattoo removal. Please read this information thoroughly and engage in comprehensive discussion with your practitioner before proceeding with treatment.\n\nIt is essential that you take adequate time to consider this treatment carefully, evaluating all available options before reaching an informed decision. You should be aware of your right to seek a second medical opinion and are encouraged to ask any questions that arise throughout the entire process.\n\nLaser tattoo removal is a gradual process that aims to eliminate unwanted tattoos over multiple treatment sessions. The laser energy breaks down tattoo ink particles, which are then naturally cleared from the body. During treatment, protective eyewear will be provided, and topical anesthetic cream may be applied to minimize discomfort. The tattoo should progressively fade with each session.\n\nIt is important to understand that multiple treatments are typically required—often 10 or more sessions—for gradual tattoo removal. Complete removal cannot be guaranteed, as residual ink may remain even after a full treatment series. Results vary depending on individual factors, tattoo size, and ink colors. Darker pigments like black, blue, and red generally respond better than lighter shades such as yellow, green, and purple.\n\nI understand that several appointments may be necessary to achieve optimal results, and I will receive advance notification regarding treatment location and practitioner involvement at each stage. I also understand that I will receive regular progress updates and retain the right to reconsider my decision at any point.\n\nTREATMENT RISKS AND SIDE EFFECTS: Similar to all medical procedures, laser tattoo removal carries potential risks and complications. While generally considered safe with low risk, you must be aware of the following possibilities before proceeding. Please discuss any concerns thoroughly with your practitioner.\n\nCommon side effects include procedural discomfort, often described as resembling elastic band snaps against skin. Post-treatment reactions may involve redness, swelling, and tenderness, typically resolving within 48 hours but potentially lasting longer. Minor bleeding and scabbing may occur; petroleum jelly or aloe vera can aid healing. Treated skin becomes more sun-sensitive, requiring regular SPF sunscreen application for at least one week.\n\nLess frequent complications include allergic reactions to released ink particles, skin infections (cellulitis), cold sore reactivation (herpes simplex), and pigment changes. These pigment alterations may involve lightening or darkening of skin, usually resolving within six months but occasionally becoming permanent. Permanent discoloration can also result from breakdown of iron oxide or titanium oxide pigments in certain inks. Some individuals may develop bruising, blistering, purpura, or crusting—any such changes should be reported promptly to your practitioner. Scarring occurs in approximately 3% of cases. Current evidence indicates no association between laser tattoo removal and skin cancer development.\n\nAdherence to aftercare instructions is crucial for comfort, healing, and prevention of scarring or pigment changes.\n\nI confirm that I have been fully informed about all relevant aspects of this treatment and completely understand this information. This includes comprehensive details regarding:\n\n- treatment objectives and desired outcomes\n- inherent procedural risks\n- risks associated with declining treatment\n- personalized risks specific to my health profile\n- expected treatment benefits\n- potential limitations or disadvantages\n- alternative treatment options and their advantages/disadvantages - including the choice of no intervention\n- uncertainties and probability of successful outcomes\n- any necessary follow-up treatments\n\nCLINICAL DOCUMENTATION: I authorize the capture of clinical photographs and videos. I understand these visual records will become part of my confidential medical documentation.\n\nI have been consulted regarding information necessary for informed decision-making and have had adequate opportunity to discuss my treatment goals comprehensively.\n\nAll my procedural questions have been satisfactorily addressed. I understand the treatment details and fully accept all associated risks.\n\nI certify that I have read and completely comprehend this consent information. I have been provided sufficient opportunity for discussion, and all my inquiries have been satisfactorily addressed. No new information has emerged that alters my decision to proceed with treatment or provide consent. I hereby authorize this procedure. This document constitutes complete disclosure and supersedes all previous verbal or written communications."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the information that has been presented to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe adequate information has been provided for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been provided voluntarily and without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently managing any health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any neuromuscular disorders (such as MS, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you been diagnosed with an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any existing skin concerns or conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or history of severe allergic reactions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any active infection present in the intended treatment area?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently using any prescribed medications, including antibiotics?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other medical or social history we should be aware of? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your primary goals and expected outcomes for this procedure? Please describe thoroughly.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you previously undergone similar treatments? If yes, did you experience any issues? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any specific concerns about the treatment? If yes, please describe thoroughly.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any additional information we should know? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will maintain access to this information throughout my treatment and reference it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
