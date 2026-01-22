@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "List of consent form questions fetched successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Hyperhidrosis",
+                        "disclaimer": "Treatment Overview:\nLaser treatment for hyperhidrosis utilizes advanced technology to target and reduce sweat gland activity in specific areas. This procedure is designed to manage excessive sweating, commonly in underarms, hands, feet, and facial regions. The treatment delivers laser energy that penetrates skin layers to deactivate sweat glands, significantly decreasing or eliminating perspiration over time.\n\nTreatment Procedure:\nPreparation Phase:\nThe treatment area will be meticulously cleansed to remove oils, debris, or personal care products. Topical anesthetic may be applied to enhance comfort.\nA marking grid may be used to ensure precise and uniform treatment coverage.\n\nLaser Application:\nA specialized laser device will be systematically guided over the treatment area. You may experience mild warmth or tingling sensations during the procedure.\nDepending on treatment area size, the session typically lasts 30-60 minutes.\nDiscomfort is generally minimal and well-tolerated by most individuals.\n\nCooling Application:\nPost-treatment cooling methods may be employed to alleviate irritation and minimize swelling.\n\nPost-Treatment Observation:\nThe treated area will be monitored for immediate reactions such as redness, swelling, or discomfort.\nComprehensive aftercare instructions will be provided for home management and side effect mitigation.\n\nPotential Risks and Complications: By providing consent below, you acknowledge and accept the following potential risks and side effects associated with laser hyperhidrosis treatment:\nLocalized redness, swelling, or bruising\nTemporary discomfort or tingling sensations\nSkin irritation or minor thermal reactions\nInfection or allergic response\nTemporary or permanent pigment changes\nScar formation (rare occurrence)\nPossible sweat reduction persistence or recurrence\n\nPre-Treatment Guidelines:\nAvoid shaving or waxing treatment areas 24-48 hours before the procedure.\nDisclose all allergies, medications, and relevant health conditions.\nInform the clinician about pregnancy, planned pregnancy, or breastfeeding status.\nMinimize sun exposure in the days preceding your appointment.\n\nPost-Treatment Care:\nAvoid hot showers, saunas, and vigorous exercise for 24-48 hours post-treatment.\nMaintain cleanliness and dryness in treated areas.\nApply sunscreen to protect treated skin from UV exposure.\nUse recommended topical products to soothe treated skin.\nFollow-up appointments may be scheduled to evaluate results and determine if additional treatments are necessary.\n\nI confirm that I have been fully informed about all relevant aspects of this treatment and completely understand this information. This includes comprehensive details regarding:\n\n- treatment objectives and desired outcomes\n- inherent procedural risks\n- risks associated with declining treatment\n- personalized risks specific to my health profile\n- expected treatment benefits\n- potential limitations or disadvantages\n- alternative treatment options and their advantages/disadvantages - including the choice of no intervention\n- uncertainties and probability of successful outcomes\n- any necessary follow-up treatments\n\nCLINICAL DOCUMENTATION: I authorize the capture of clinical photographs and videos. I understand these visual records will become part of my confidential medical documentation.\n\nI have been consulted regarding information necessary for informed decision-making and have had adequate opportunity to discuss my treatment goals comprehensively.\n\nI certify that I have read and thoroughly comprehend this consent information. I have been provided sufficient opportunity for discussion, and all my inquiries have been satisfactorily addressed. No new information has emerged that alters my decision to proceed with treatment or provide consent. I hereby authorize this procedure. This document constitutes complete disclosure and supersedes all previous verbal or written communications.\n\nAll deposits and booking fees are non-refundable unless mutually agreed upon with the practitioner."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the information that has been presented to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you believe adequate information has been provided for you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Has your consent been provided voluntarily and without pressure?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently managing any health conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently pregnant or nursing?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any neuromuscular disorders (such as MS, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you been diagnosed with an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any existing skin concerns or conditions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any known allergies or history of severe allergic reactions?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any active infection present in the intended treatment area?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Are you currently using any prescribed medications, including antibiotics?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any other medical or social history we should be aware of? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "What are your primary goals and expected outcomes for this procedure? Please describe thoroughly.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Have you previously undergone similar treatments? If yes, did you experience any issues? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Do you have any specific concerns about the treatment? If yes, please describe thoroughly.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "Is there any additional information we should know? Please provide complete details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 0,
+                        "content": "I will maintain access to this information throughout my treatment and reference it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
