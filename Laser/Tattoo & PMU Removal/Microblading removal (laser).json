@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Microblading Removal (Laser)",
+                        "disclaimer": "PATIENT AGREEMENT: This form provides information about laser removal of microblading, a semi-permanent eyebrow tattoo technique using fine hair strokes. Read thoroughly and discuss with your practitioner.\n\nConsider options carefully, seek second opinions, ask questions. Laser (Q-switched or Pico) targets pigment in the superficial dermal layer, fragmenting it for immune clearance; numbing applied first. Sessions 15-30 minutes, 4-10+ treatments 6-8 weeks apart; complete removal not guaranteed, varies by pigment (iron oxide may darken), skin type, age.\n\nGradual fading; avoid sun 4 weeks pre/post with SPF 50+, no makeup/picking scabs. Informed of practitioner/location per session, withdraw consent anytime.\n\nRISKS AND POSSIBLE REACTIONS: Common: pain (snap sensation), redness, swelling, blistering, crusting, scabbing, itching (1-2 weeks). Less common: infection (poor aftercare), hypersensitivity/allergic to pigments (mercury/cobalt/chromium), pigment oxidation (darkening gray/black), hyper/hypopigmentation (darker skin higher risk).\n\nRare: scarring, textural changes, hair follicle damage/thinning, eye irritation if unprotected. Contraindications: active infection, recent sun/Accutane (6 months), photosensitizers, keloid history.\n\nI understand procedure reasons, risks (of doing/not), personal risks, benefits, alternatives (saline, cover-up), uncertainties, follow-up.\n\nMEDICAL IMAGERY: Authorize photos/videos for records.\n\nCertify read/understood form, questions answered, consent given."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 1,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 2,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 3,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 4,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 5,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 6,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 7,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 8,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 9,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 10,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 11,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 12,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 13,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 14,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 15,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 16,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

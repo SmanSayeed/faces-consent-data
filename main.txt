@@ -122,24 +122,24 @@ Laser skin renewal---Not found---Completed
 Laser tattoo removal---Completed
 Multi-colour tattoo removal---Not found---Completed
 Eyebrow tattoo removal---Not found---Completed
-Microblading removal (laser)
-Lip blush tattoo removal
-Permanent makeup removal
+Microblading removal (laser)---Not found---Completed
+Lip blush tattoo removal---Not found---Completed
+Permanent makeup removal---Not found---Completed
 
 (Medical / Dermatological Laser Treatments)
-Laser mole removal (assessment required)
-Laser wart removal
-Laser skin tag removal
-Benign lesion removal
-Nail fungus treatment (laser)
-Psoriasis laser therapy
-Vitiligo laser therapy
+Laser mole removal (assessment required)----Do the assessment concern to me?
+Laser wart removal---Only wart removal found
+Laser skin tag removal---Only skin tag remobal found
+Benign lesion removal---Not found---Completed
+Nail fungus treatment (laser)---Not found---Completed
+Psoriasis laser therapy---Not found---Completed
+Vitiligo laser therapy---Not found---Completd
 
 (Body Contouring & Fat Reduction) 
-Laser lipolysis
-Laser-assisted fat reduction
-Cellulite laser treatment
-Skin tightening post-fat reduction
+Laser lipolysis---Not found---Completed
+Laser-assisted fat reduction---Not found---Completed
+Cellulite laser treatment---Not found---Completed
+Skin tightening post-fat reduction---Not found---Completed
 
 (Specialist / Advanced Laser) Applications
 Laser sweat reduction (hyperhidrosis)

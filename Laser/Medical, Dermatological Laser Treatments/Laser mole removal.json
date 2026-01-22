@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Mole Removal",
+                        "disclaimer": "PATIENT AGREEMENT: This form provides information about the advantages and risks of laser mole removal. Read thoroughly and discuss with your skincare professional before proceeding.\n\nTake time to consider all options, seek second opinions, and ask questions. Laser mole removal uses focused high-intensity light (CO2, Q-switched Nd:YAG, or Erbium lasers) to target and vaporize or fragment melanin clusters in benign moles, promoting natural skin renewal without incisions. A numbing cream is applied first; sessions typically last 5-20 minutes depending on mole size/location. Most benign, superficial moles require 1-3 sessions spaced 4-6 weeks apart; deeper/raised moles may need excision instead.\n\nResults vary by mole type, skin tone, depth; complete removal isn't guaranteed and recurrence possible if not fully ablated. Multiple sessions may be needed; you'll be informed of practitioner/location each time and may withdraw consent anytime. Protect area from sun 2-4 weeks pre/post with SPF 50+, avoid picking crusts.\n\nRISKS AND POSSIBLE REACTIONS: Common side effects include redness, swelling, tenderness, crusting/scabbing resolving in 7-14 days. Less common: blistering, hypopigmentation/hyperpigmentation (higher risk darker skin tones), temporary textural changes. Rare: infection, burns/scarring (minimized with proper settings), bleeding.\n\nContraindications include suspected cancerous/pre-cancerous moles (require biopsy/excision), active infections, recent isotretinoin (6 months), photosensitizing medications, keloid scarring history. Laser unsuitable for suspicious lesions.\n\nI confirm understanding of procedure reasons, risks (including not treating), personal health risks, expected benefits, alternatives (surgical excision, cryotherapy), uncertainties, follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photographs/videos for confidential records.\n\nI certify reading/understanding this form, sufficient discussion time, all questions answered, and consent to procedure."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 1,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 2,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 3,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 4,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 5,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 6,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 7,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 8,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 9,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 10,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 11,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 12,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 13,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 14,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 15,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 16,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

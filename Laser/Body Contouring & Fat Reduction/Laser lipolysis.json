@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser Lipolysis",
+                        "disclaimer": "PATIENT AGREEMENT: This form provides information about the advantages and risks of laser lipolysis (laser-assisted liposuction). Read thoroughly and discuss with your practitioner before proceeding.\n\nTake time to consider all options, seek second opinions, and ask questions. Laser lipolysis uses fiber-optic laser energy delivered through tiny incisions to liquefy targeted subcutaneous fat cells in areas like abdomen, thighs, arms, or chin, followed by gentle aspiration. Local anesthesia used; sessions last 30-90 minutes depending on areas treated. Promotes skin tightening via collagen stimulation; results visible in 1-3 months with final contour at 6 months. Not for weight loss or obesity; multiple sessions may be needed.\n\nWear compression garments 2-4 weeks post-treatment; avoid strenuous activity 1-2 weeks. Informed of practitioner each session; withdraw consent anytime.\n\nRISKS AND POSSIBLE REACTIONS: Common: swelling, bruising, tenderness, numbness (resolves 2-4 weeks). Less common: infection, seroma (fluid collection), uneven contours, skin burns, hyperpigmentation.\n\nRare: fat embolism, organ perforation, prolonged pain, paradoxical adipose hyperplasia. Contraindications: pregnancy, active infection, blood clotting disorders, uncontrolled diabetes, liver/heart disease, obesity BMI>30.\n\nI confirm understanding of procedure reasons, risks (including not treating), personal health risks, benefits, alternatives (traditional liposuction, CoolSculpting, diet/exercise), uncertainties, follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photos/videos for confidential records.\n\nI certify reading/understanding this form, questions answered satisfactorily, and consent to procedure."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 1,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 2,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 3,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 4,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 5,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 6,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 7,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 8,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 9,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 10,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 11,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 12,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 13,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 14,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 15,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 16,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}

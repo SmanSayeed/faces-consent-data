@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Lip Blush Tattoo Removal",
+                        "disclaimer": "PATIENT AGREEMENT: This form provides information about the advantages and risks of lip blush tattoo removal using Q-switched or Pico laser technology. Read thoroughly and discuss with your practitioner before proceeding.\n\nTake time to consider all options, seek second opinions, and ask questions. The procedure targets lip blush pigment (often containing titanium dioxide) with specific laser wavelengths (532nm reds, 1064nm darker inks), fragmenting particles via photothermolysis for immune system clearance. Topical numbing applied first; sessions 15-30 minutes, 4-10+ treatments spaced 6-8 weeks apart required. Complete removal not guaranteed; pigment may oxidize/turn dark initially, especially titanium-based inks; results vary by depth, color, skin type.\n\nExpect gradual fading; avoid sun 4 weeks pre/post (SPF 50+ lips), no picking blisters/scabs, cold compresses for swelling. Informed of practitioner/location per session; withdraw consent anytime.\n\nRISKS AND POSSIBLE REACTIONS: Common: pain (rubber band snap intensified on lips), redness, significant swelling (1-3 days), blistering, crusting, temporary darkening/lightening, cold sore reactivation. Less common: infection (poor aftercare), allergic reactions to fragmented pigments, hyper/hypopigmentation (higher in darker tones), pigment oxidation.\n\nRare: scarring, lip border blurring, prolonged sensitivity, textural changes. Contraindications: active herpes/cold sores, recent fillers (wait 4 weeks), Accutane (6 months), photosensitizing meds, active lip infections.\n\nI confirm understanding of procedure reasons, risks (including not treating), personal health risks, benefits, alternatives (saline removal), uncertainties, follow-up care.\n\nMEDICAL IMAGERY: I authorize clinical photos/videos for confidential records.\n\nI certify reading and understanding this form, questions answered, no new information changes decision, and consent to procedure."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 1,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 2,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 3,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 4,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 5,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 6,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 7,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 8,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 9,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 10,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 11,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 12,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 13,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, were there any issues? Please provide details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 14,
+                        "content": "Do you have any concerns? If so, please describe them.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 15,
+                        "content": "Is there anything else we need to know? Please provide full information.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 16,
+                        "content": "I will keep this information for the duration of my treatment and consult it as needed.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
