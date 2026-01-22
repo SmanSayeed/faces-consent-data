@@ -1,0 +1,123 @@
+{
+    "data": {
+        "getWalkInConsentFormQuestions": {
+            "success": true,
+            "message": "Consent form questions retrieved successfully.",
+            "data": {
+                "disclaimerData": [
+                    {
+                        "consentFormName": "Laser + Chemical Peel Protocols",
+                        "disclaimer": "PATIENT AGREEMENT: This document provides information regarding the benefits and potential risks of combined laser and chemical peel treatments for skin rejuvenation. Please read this material thoroughly and discuss it with your practitioner before proceeding.\n\nTake adequate time to evaluate all options, consider second opinions, and ask any questions. Sequential or simultaneous protocols typically involve light-to-medium TCA or Jessner's peels followed by non-ablative fractional lasers (such as Fraxel or Clear+Brilliant), or the reverse sequence. This combined approach addresses pigmentation, texture, fine lines, and acne scarring through synergistic exfoliation and collagen stimulation. Topical anesthetic is applied, and sessions typically last 45-90 minutes. Usually 3-6 treatments are spaced 4-6 weeks apart; performing a peel first may allow the laser to penetrate more deeply, while peels can prepare the skin for enhanced laser efficacy.\n\nExpect redness and peeling for 5-10 days post-treatment; avoid sun exposure for 2 weeks before and after (SPF 50+ is essential), discontinue retinoids 7 days prior, and use gentle skincare post-procedure. Multiple sessions are necessary; you will be informed of the practitioner for each session and may withdraw consent at any time.\n\nRISKS AND POTENTIAL REACTIONS: Common side effects include prolonged redness, peeling, crusting, and skin sensitivity (lasting 7-14 days). Less common reactions include post-inflammatory hyperpigmentation (higher risk for Fitzpatrick skin types IV-VI), irritation, and milia formation.\n\nRare complications may involve chemical or thermal burns, scarring, infection, demarcation lines, or herpes simplex reactivation. Contraindications include active infections or acne, recent isotretinoin use (within 6-12 months), history of keloid scarring, pregnancy, Roaccutane use within the past 12 months, and blood thinner medications.\n\nI confirm that I understand the reasons for the procedure, the risks (including those of not undergoing treatment), any personal health risks, expected benefits, alternative options (such as single-modality treatments), uncertainties, and necessary follow-up care.\n\nMEDICAL IMAGERY: I authorize the capture of clinical photographs and videos for inclusion in my confidential medical records.\n\nI certify that I have read and understood this form, all my questions have been answered satisfactorily, and I consent to the procedure."
+                    }
+                ],
+                "questions": [
+                    {
+                        "questionId": 0,
+                        "content": "Do you comprehend the details that have been given to you?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 1,
+                        "content": "Do you believe enough information has been shared to allow you to give informed consent?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 2,
+                        "content": "Have you given your consent voluntarily?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 3,
+                        "content": "Are there any health issues you currently have?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 4,
+                        "content": "Are you currently pregnant or nursing a child?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 5,
+                        "content": "Do you suffer from a neuromuscular disorder (such as Multiple Sclerosis, ALS, motor neuropathy, myasthenia gravis, or Lambert-Eaton syndrome)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 6,
+                        "content": "Do you have an autoimmune condition?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 7,
+                        "content": "Do you experience any skin problems?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 8,
+                        "content": "Do you have any known allergies or a history of severe allergic reactions (anaphylaxis)?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 9,
+                        "content": "Is there an active infection at the area where the procedure is planned?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 10,
+                        "content": "Are you currently on any antibiotics or other prescribed medications?",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 11,
+                        "content": "Is there any other Medical or Social History we should be aware of? If yes, please explain in detail.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 12,
+                        "content": "What are your goals and desired results for undergoing this procedure? Please elaborate.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 13,
+                        "content": "Have you undergone this or a comparable treatment previously? If so, did you experience any problems? Please provide full details.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 14,
+                        "content": "Do you have any concerns? If so, please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 15,
+                        "content": "Is there anything else we should know? Please provide full details here.",
+                        "answer": -1,
+                        "comment": ""
+                    },
+                    {
+                        "questionId": 16,
+                        "content": "I will retain this information throughout the course of my treatment and refer to it as required.",
+                        "answer": -1,
+                        "comment": ""
+                    }
+                ],
+                "clientSignature": null,
+                "allowForAdvertisement": null,
+                "allowForMarketing": null
+            }
+        }
+    }
+}
