@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Faces Consent & Aftercare Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div>
+        <h1 class="site-title">Faces Consent &amp; Aftercare</h1>
+        <p class="site-subtitle">Browse consent forms and aftercare information from JSON files.</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="app-layout">
+    <aside class="sidebar" aria-label="Form folders and files">
+      <div class="sidebar-header">
+        <h2 class="sidebar-title">Folders &amp; files</h2>
+      </div>
+      <nav id="file-tree" class="file-tree"></nav>
+    </aside>
+
+    <main class="content" aria-live="polite">
+      <section id="file-info" class="file-info">
+        <h2 class="file-placeholder-title">Select a form or aftercare file</h2>
+        <p class="file-placeholder-text">
+          Use the list on the left to choose any JSON file from the
+          <strong>aftercare</strong> or <strong>consent-form</strong> folders.
+          The contents will be rendered here in a readable HTML layout.
+        </p>
+      </section>
+      <section id="viewer" class="viewer"></section>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <small>Static JSON viewer &mdash; loads files directly from the project folders using JavaScript.</small>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
