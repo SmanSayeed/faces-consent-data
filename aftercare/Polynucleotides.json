@@ -1,0 +1,86 @@
+{
+    "form_analysis": {
+        "completeness_score": 85,
+        "rewards_awarded": 170,
+        "feedback": "Clear and practical aftercare form with a good focus on immediate post-injection care. Covers essential areas like activity restriction, hygiene, and monitoring. Somewhat brief on emergency protocols and lacks a formal patient declaration section.",
+        "sections_covered": [
+            "immediate_care",
+            "activity_restrictions",
+            "hygiene",
+            "substance_avoidance",
+            "symptom_management",
+            "environmental_protection",
+            "follow_up"
+        ],
+        "missing_sections": [
+            "patient_declaration_signature",
+            "detailed_emergency_contact_protocol",
+            "expected_timeline_for_side_effects",
+            "makeup_or_skincare_product_guidance"
+        ]
+    },
+    "form_data": {
+        "document_title": "Polynucleotide Injection Aftercare Advice",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, improve your comfort/healing, and help achieve the best possible results from treatment.",
+        "instructions": {
+            "sections": [
+                {
+                    "title": "Avoid Touching the Injection Area",
+                    "content": "For the first few hours after the injection, it's important not to touch or massage the treated area. This can help prevent any unwanted movement of the polynucleotide."
+                },
+                {
+                    "title": "Limit Physical Activity",
+                    "content": "Avoid strenuous activities and exercises for at least 24 to 48 hours post-injection. This allows the injection site to heal and minimises the risk of bruising or swelling."
+                },
+                {
+                    "title": "Keep the Area Clean",
+                    "content": "To reduce the risk of infection, keep the injection site clean. Avoid submerging the area in water for at least 24 hours."
+                },
+                {
+                    "title": "Avoid Alcohol and Blood Thinners",
+                    "content": "Alcohol and certain medications like aspirin can increase the risk of bruising. It's best to avoid these for a few days before and after the treatment."
+                },
+                {
+                    "title": "Apply Cold Compress",
+                    "content": "If you notice swelling or feel discomfort, applying a cold compress can help reduce these symptoms. However, always wrap the cold compress in a cloth to prevent frostbite."
+                },
+                {
+                    "title": "Stay Hydrated",
+                    "content": "Drinking plenty of water helps the body process and metabolise the polynucleotide injection. This can lead to better results and quicker recovery."
+                },
+                {
+                    "title": "Monitor for Adverse Reactions",
+                    "content": "While rare, some individuals might experience allergic reactions or other adverse effects from the injection. Symptoms like excessive swelling, prolonged redness, itchiness, or signs of infection should be reported to your healthcare provider immediately."
+                },
+                {
+                    "title": "Avoid Sun Exposure",
+                    "content": "Direct sun exposure can irritate the treated area. Use sunscreen or protective clothing if you'll be out in the sun."
+                },
+                {
+                    "title": "No Heat Treatments",
+                    "content": "For at least 48 hours post-injection, avoid saunas, steam rooms, and hot baths. This ensures the treated area remains undisturbed and heals properly."
+                },
+                {
+                    "title": "Follow Up with Your Practitioner",
+                    "content": "Schedule a follow-up appointment with your healthcare provider to assess the results and address any concerns."
+                }
+            ]
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "injection_aftercare",
+        "treatment_type": "polynucleotide_injection",
+        "document_length": "moderate",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": true,
+        "patient_declaration_included": false,
+        "recommendations": [
+            "Add a formal patient declaration and signature line",
+            "Include specific contact information for emergencies",
+            "Define what constitutes 'excessive' swelling or 'prolonged' redness",
+            "Clarify if any specific skincare products should be avoided post-treatment"
+        ]
+    }
+}

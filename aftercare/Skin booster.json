@@ -1,0 +1,82 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 175,
+        "feedback": "Well-structured skin booster aftercare form with clear, practical instructions. Covers essential post-treatment care including hygiene, activity restrictions, and skincare routines. Could be enhanced with more specific timelines for different recovery phases and emergency contact protocols.",
+        "sections_covered": [
+            "immediate_care",
+            "hygiene_instructions",
+            "activity_restrictions",
+            "skincare_routine",
+            "substance_avoidance",
+            "professional_follow_up"
+        ],
+        "missing_sections": [
+            "complication_signs",
+            "emergency_contacts",
+            "expected_timeline_phases",
+            "medication_guidance"
+        ]
+    },
+    "form_data": {
+        "document_title": "Skin Booster Aftercare Form",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, improve your comfort/healing, and help achieve the best possible results from treatment.",
+        "instructions": {
+            "general_directive": "Please follow the aftercare advice for Skin Booster:",
+            "sections": [
+                {
+                    "title": "Avoid Touching the Treated Area",
+                    "content": "After the skin booster treatment, avoid touching the treated area for at least six hours. Touching the area can introduce bacteria and irritate the skin, which can interfere with the healing process."
+                },
+                {
+                    "title": "Apply Ice Packs",
+                    "content": "To reduce swelling and discomfort, apply ice packs to the treated area for up to 20 minutes at a time, several times a day. Wrap the ice pack in a thin towel or cloth to prevent direct contact with the skin."
+                },
+                {
+                    "title": "Avoid Strenuous Exercise",
+                    "content": "Avoid strenuous exercise and other activities that cause sweating for at least 24 hours after the treatment. Sweating can increase the risk of infection and interfere with the healing process."
+                },
+                {
+                    "title": "Use a Gentle Cleanser",
+                    "content": "Use a gentle, fragrance-free cleanser to wash your face for the first few days after the treatment. Avoid using hot water and aggressive scrubbing, which can irritate the skin. Instead, use lukewarm water and gently pat your skin dry with a soft towel."
+                },
+                {
+                    "title": "Moisturise Regularly",
+                    "content": "Moisturising your skin is essential after a skin booster treatment. It helps to keep your skin hydrated and promotes healing. Apply a high-quality, fragrance-free moisturiser to your face at least twice a day, or as recommended by your aesthetician."
+                },
+                {
+                    "title": "Avoid Makeup for the First Day",
+                    "content": "After the skin booster treatment, avoid using makeup for at least the first day. Makeup can clog your pores and interfere with the healing process. If you must use makeup, choose a non-comedogenic product that is safe for sensitive skin."
+                },
+                {
+                    "title": "Avoid Alcohol and Smoking",
+                    "content": "Avoid drinking alcohol and smoking for at least 24 hours after the treatment. Alcohol and smoking can interfere with the healing process and increase the risk of infection."
+                },
+                {
+                    "title": "Follow Your Aesthetician's Instructions",
+                    "content": "Your aesthetician will provide you with specific aftercare instructions based on your skin type and the specific skin booster treatment you received. Be sure to follow these instructions carefully to ensure the best possible results."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_aftercare",
+        "treatment_type": "skin_booster",
+        "document_length": "moderate",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": false,
+        "recommendations": [
+            "Add section on expected healing timeline (redness, swelling duration)",
+            "Include signs of infection or adverse reactions",
+            "Add emergency contact information",
+            "Specify when to contact practitioner vs seek emergency care"
+        ]
+    }
+}
