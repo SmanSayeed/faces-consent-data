@@ -10,59 +10,55 @@ const FILE_INDEX = [
         kind: 'aftercare-root',
         groups: [
             {
+                label: 'Beauty',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Acne treatment facial', path: 'aftercare/Beauty/Acne treatment facial.json', type: 'aftercare' },
+                    { name: 'Anti-ageing facial', path: 'aftercare/Beauty/Anti-ageing facial.json', type: 'aftercare' },
+                    { name: 'Carbon laser facial', path: 'aftercare/Beauty/Carbon laser facial.json', type: 'aftercare' },
+                    { name: 'Chemical peels', path: 'aftercare/Beauty/Chemical peels.json', type: 'aftercare' },
+                    { name: 'Deep cleansing facial', path: 'aftercare/Beauty/Deep cleansing facial.json', type: 'aftercare' },
+                    { name: 'Dermaplaning', path: 'aftercare/Beauty/Dermaplaning.json', type: 'aftercare' },
+                    { name: 'Hydrating facial', path: 'aftercare/Beauty/Hydrating facial.json', type: 'aftercare' },
+                    { name: 'LED light therapy', path: 'aftercare/Beauty/LED light therapy.json', type: 'aftercare' },
+                    { name: 'Microneedling', path: 'aftercare/Beauty/Microneedling.json', type: 'aftercare' },
+                    { name: 'Oxygen facial', path: 'aftercare/Beauty/Oxygen facial.json', type: 'aftercare' },
+                    { name: 'Sugaring', path: 'aftercare/Beauty/Sugaring.json', type: 'aftercare' },
+                    { name: 'Threading', path: 'aftercare/Beauty/Threading.json', type: 'aftercare' },
+                    { name: 'Waxing (face & body)', path: 'aftercare/Beauty/Waxing (face & body).json', type: 'aftercare' }
+                ]
+            },
+            {
                 label: 'Cosmetics',
                 kind: 'aftercare',
                 files: [
-                    {
-                        name: 'Anti-wrinkle injections',
-                        path: 'aftercare/Cosmetics/Anti-wrinkle injections.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Bum filler',
-                        path: 'aftercare/Cosmetics/Bum filler.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Dermal fillers',
-                        path: 'aftercare/Cosmetics/Dermal fillers.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Fat dissolving injections',
-                        path: 'aftercare/Cosmetics/Fat dissolving injections.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Lumi Eye',
-                        path: 'aftercare/Cosmetics/Lumi Eye.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Mesotherapy',
-                        path: 'aftercare/Cosmetics/Mesotherapy.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Polynucleotides',
-                        path: 'aftercare/Cosmetics/Polynucleotides.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Profhilo',
-                        path: 'aftercare/Cosmetics/Profhilo.json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'PRP (Vampire Facial)',
-                        path: 'aftercare/Cosmetics/PRP (Vampire Facial).json',
-                        type: 'aftercare'
-                    },
-                    {
-                        name: 'Skin booster',
-                        path: 'aftercare/Cosmetics/Skin booster.json',
-                        type: 'aftercare'
-                    }
+                    { name: 'Anti-wrinkle injections', path: 'aftercare/Cosmetics/Anti-wrinkle injections.json', type: 'aftercare' },
+                    { name: 'Bum filler', path: 'aftercare/Cosmetics/Bum filler.json', type: 'aftercare' },
+                    { name: 'Dermal fillers', path: 'aftercare/Cosmetics/Dermal fillers.json', type: 'aftercare' },
+                    { name: 'Fat dissolving injections', path: 'aftercare/Cosmetics/Fat dissolving injections.json', type: 'aftercare' },
+                    { name: 'Lumi Eye', path: 'aftercare/Cosmetics/Lumi Eye.json', type: 'aftercare' },
+                    { name: 'Mesotherapy', path: 'aftercare/Cosmetics/Mesotherapy.json', type: 'aftercare' },
+                    { name: 'Polynucleotides', path: 'aftercare/Cosmetics/Polynucleotides.json', type: 'aftercare' },
+                    { name: 'Profhilo', path: 'aftercare/Cosmetics/Profhilo.json', type: 'aftercare' },
+                    { name: 'PRP (Vampire Facial)', path: 'aftercare/Cosmetics/PRP (Vampire Facial).json', type: 'aftercare' },
+                    { name: 'Skin booster', path: 'aftercare/Cosmetics/Skin booster.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Face',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Airbrush makeup', path: 'aftercare/Face/Airbrush makeup.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Hair',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Blow dry', path: 'aftercare/Hair/Blow dry.json', type: 'aftercare' },
+                    { name: 'Hair botox', path: 'aftercare/Hair/Hair botox.json', type: 'aftercare' },
+                    { name: 'Hair treatments', path: 'aftercare/Hair/Hair treatments.json', type: 'aftercare' },
+                    { name: 'Scalp detox', path: 'aftercare/Hair/Scalp detox.json', type: 'aftercare' }
                 ]
             }
         ]

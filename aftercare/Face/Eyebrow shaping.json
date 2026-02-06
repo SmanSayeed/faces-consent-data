@@ -1,0 +1,118 @@
+{
+    "form_analysis": {
+        "completeness_score": 84,
+        "rewards_awarded": 180,
+        "feedback": "Solid and practical aftercare form for eyebrow shaping via waxing/threading/tweezing. Focuses effectively on managing post-hair removal irritation, preventing infection, and soothing the sensitive brow area. Good coverage of product restrictions and activity limits. Could be enhanced with more specific guidance for different shaping methods and clearer timelines for redness resolution.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "soothing_management",
+            "hygiene_instructions",
+            "skincare_product_restrictions",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "infection_awareness",
+            "ingrown_hair_prevention",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Eyebrow Shaping Aftercare",
+        "introduction": "This aftercare advice is designed to soothe your skin, minimise irritation, and prevent ingrown hairs and infection following your eyebrow shaping treatment, ensuring clean, defined brows.",
+        "instructions": {
+            "general_directive": "Please follow this guidance for the next 24-72 hours while the sensitive skin around your brows recovers.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Skin Response",
+                    "content": "Redness, mild swelling (puffiness), a sensation of heat, and tenderness are NORMAL and expected, especially if waxed. This acute irritation typically peaks within 15-30 minutes and subsides significantly within 2-4 hours. Residual pinkness may last 24-48 hours for sensitive skin."
+                },
+                {
+                    "title": "Soothing and Cooling the Area",
+                    "items": [
+                        "Apply a cool compress or an ice cube wrapped in a clean cloth/paper towel to the area for 2-3 minutes at a time, several times in the first hour. Do not apply ice directly to skin.",
+                        "You may apply a small amount of pure Aloe Vera gel, a fragrance-free soothing gel, or a product containing Calendula or Chamomile to calm the skin. Avoid heavy creams or petroleum jelly.",
+                        "Avoid touching or rubbing the area."
+                    ]
+                },
+                {
+                    "title": "Hygiene and Cleansing",
+                    "items": [
+                        "Do not wash the brow area with hot water for at least 6-8 hours. Use cool or lukewarm water when cleansing your face.",
+                        "Gently cleanse around the brows with a mild, fragrance-free cleanser. Pat dry gently; do not rub.",
+                        "Ensure pillowcases and face towels are clean."
+                    ]
+                },
+                {
+                    "title": "Skincare and Cosmetic Product Restrictions",
+                    "items": [
+                        "Avoid applying foundation, concealer, powder, or bronzer directly on or around the newly shaped brows for at least 12-24 hours. Cosmetics can clog open follicles, causing breakouts (pimples) or infection.",
+                        "DO NOT apply any of the following to the brow area for 48-72 hours: exfoliants (AHAs/BHAs, scrubs), retinoids/retinol, anti-ageing serums, acne treatments (benzoyl peroxide, salicylic acid), perfumed products, or astringents (toners with alcohol).",
+                        "You may apply your regular moisturiser and sunscreen carefully around the brows after 6-8 hours, avoiding direct application on any broken skin."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid hot baths, showers, saunas, steam rooms, steam from cooking, and hot tubs for 24 hours. Heat will increase redness and swelling.",
+                        "Avoid swimming in chlorinated pools, salt water, or lakes for 24-48 hours to prevent infection and irritation.",
+                        "Avoid excessive sweating and strenuous exercise for 24 hours. Sweat contains salts and bacteria that can sting and irritate the open follicles.",
+                        "Avoid direct sun exposure and tanning beds on the treated area for 48 hours. The skin is more vulnerable to UV damage and hyperpigmentation (dark spots)."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "After the initial 24-hour period, it is crucial to apply sunscreen (SPF 30+) to your brows daily. Sun exposure can cause the skin to pigment around new hair growth, making regrowth appear more noticeable and potentially altering your shape's appearance over time."
+                },
+                {
+                    "title": "Ingrown Hair Prevention",
+                    "content": "To prevent ingrown hairs, you may begin gentle exfoliation around the brow area 3-4 days after shaping. Use a soft washcloth or a gentle chemical exfoliant (like a mild AHA toner) on a cotton pad, wiping over the brow bone. Do not exfoliate the delicate skin directly under the brow too harshly."
+                },
+                {
+                    "title": "Infection and Folliculitis Awareness",
+                    "content": "Signs of infection or folliculitis (inflamed hair follicles) are uncommon but require attention. Contact your therapist or a doctor if you notice: increasing (not decreasing) redness after 24 hours, pus-filled bumps (whiteheads), yellow crusting, increasing pain, or spreading warmth/swelling."
+                },
+                {
+                    "title": "Allergy or Severe Reaction (Primarily Waxing)",
+                    "content": "If wax was used, a localized allergic reaction or burn is possible. Signs include intense itching, hives, blistering, or persistent redness/scabbing. If this occurs, contact your therapist. Seek emergency care only if you experience difficulty breathing or swelling of the lips/throat (systemic allergy)."
+                },
+                {
+                    "title": "General Advice and Follow-Up",
+                    "items": [
+                        "Minor pinpoint bleeding from tweezing is possible and normal.",
+                        "The clean, defined shape will be most apparent once the redness subsides.",
+                        "To maintain your shape and prevent over-tweezing, schedule your next shaping appointment every 3-4 weeks. Avoid tweezing stray hairs between appointments to allow your therapist to see the full growth pattern."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Proper aftercare ensures a comfortable healing process and a perfect brow finish. Please read the following instructions.",
+            "question_opportunity": "Your therapist is experienced in managing skin reactions. Please ask for product recommendations or if you are unsure about any step.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my eyebrow shaping treatment. I understand the need to avoid heat, sweat, sun, and certain products on the treated area and will follow this guidance for proper healing."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_removal_aftercare",
+        "treatment_type": "eyebrow_shaping_wax_thread_tweeze",
+        "treatment_area": "eyebrows",
+        "document_length": "detailed",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "focus_on_brow_area_sensitivity",
+            "sun_protection_for_shape_maintenance",
+            "advice_against_inter_appointment_tweezing"
+        ],
+        "clarity_notes": [
+            "Clear distinction between immediate soothing and longer-term care."
+        ],
+        "recommendations": [
+            "Could add a specific note for different methods: e.g., threading may cause more redness than tweezing; waxing has a burn/allergy risk.",
+            "Include a warning to avoid using brow tint or henna for at least 48 hours post-shaping.",
+            "Consider mentioning that slight scabbing or tiny whiteheads around follicles can occur 1-2 days post-treatment; advise not to pick and to keep the area clean."
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 200,
+        "feedback": "Comprehensive aftercare form for eyebrow tinting, with strong emphasis on patch test importance, managing initial colour intensity, and preventing premature fading. Good coverage of product restrictions, allergy awareness, and activity limits. Excellent guidance on colour evolution and long-term maintenance.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "colour_evolution_timeline",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "product_restrictions",
+            "allergy_emergency",
+            "infection_awareness",
+            "long_term_maintenance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Eyebrow Tinting Aftercare",
+        "introduction": "This aftercare advice will help you maintain the richness and longevity of your brow tint, ensure your comfort, and care for the delicate skin in the brow area following your treatment.",
+        "instructions": {
+            "general_directive": "Please follow this guidance carefully for the next 24-48 hours. The first 24 hours are most critical for colour setting.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment & The First 24 Hours (CRITICAL)",
+                    "items": [
+                        "Do not wet, wash, or steam your brows for at least 12-24 hours. This includes avoiding sweat, saunas, steam rooms, and very steamy showers.",
+                        "Avoid touching, rubbing, or scratching the brow area.",
+                        "The colour will appear darkest and most intense immediately after treatment. This is normal. The colour will soften significantly over the next 12-24 hours as the oxidised pigment on the skin surface fades."
+                    ]
+                },
+                {
+                    "title": "Colour Evolution Timeline",
+                    "content": "Hour 0-2: Very dark and sharp. Hours 2-12: Colour begins to soften as surface stain on skin diminishes. Day 1-2: The true, settled colour is visible on the hairs. The tint will appear richer and more defined than your natural colour but not as dark as immediately after application. The tint gradually fades over 3-6 weeks as your hairs go through their natural growth/shedding cycle."
+                },
+                {
+                    "title": "Hygiene and Cleansing (After First 24 Hours)",
+                    "items": [
+                        "After 24 hours, you may wash your face normally. When cleansing, avoid using harsh, exfoliating, or oil-based cleansers directly on the brows for the first 48 hours, as they can strip colour.",
+                        "Pat the brow area dry gently; do not rub.",
+                        "When using makeup remover or micellar water around the eyes, avoid swiping over the brows."
+                    ]
+                },
+                {
+                    "title": "Skincare and Cosmetic Product Restrictions",
+                    "items": [
+                        "For the first 48 hours, avoid applying any products directly to the brows, including: moisturisers, oils, serums, sunscreen, foundation, concealer, and brow gels/pomades.",
+                        "After 48 hours, you may resume using brow makeup. Be aware that some oil-based makeup removers or cleansers may accelerate colour fading over time.",
+                        "Avoid using exfoliating acids (AHAs/BHAs), retinoids, or anti-ageing creams on the forehead/brow area for 48-72 hours, as they can irritate the skin and fade colour."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid excessive sweating and strenuous exercise for 24 hours.",
+                        "Avoid swimming in chlorinated pools or salt water for 48 hours. Chlorine and salt are bleaching agents and will strip the tint quickly.",
+                        "Minimize sun exposure and UV rays. Sunlight is a primary cause of colour fading. Wear a hat or apply sunscreen (after 48 hours) to the brow area when in direct sun.",
+                        "Avoid saunas, steam rooms, and hot yoga for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Allergy and Sensitivity Awareness (PATCH TEST REMINDER)",
+                    "content": "A patch test 24-48 hours prior to treatment is essential to rule out allergy. If you did not have one and experience a delayed reaction, signs may include: intense itching, redness, swelling, blistering, or weeping in the brow area. If this occurs, take an antihistamine if safe for you and contact your therapist immediately. Seek emergency care for difficulty breathing or facial swelling."
+                },
+                {
+                    "title": "Infection Awareness (Rare)",
+                    "content": "Signs of infection are extremely rare but include: increasing pain, pus, spreading redness, or heat. Contact your therapist or a doctor if these occur."
+                },
+                {
+                    "title": "Managing Expectations and Touch-Ups",
+                    "items": [
+                        "Tint does not dye the skin, only the hair. Some staining of the skin underneath is normal and will fade in 1-3 days, revealing the true hair colour.",
+                        "If the colour is too dark after the first day, it will continue to soften. If it is too light, a darker shade can be used at your next appointment.",
+                        "Tinting is most effective on natural hair. It will not tint fake tan or makeup residue.",
+                        "To maintain consistent colour, schedule your next tinting appointment every 3-6 weeks."
+                    ]
+                },
+                {
+                    "title": "Long-Term Care for Colour Longevity",
+                    "items": [
+                        "Use gentle, sulfate-free cleansers around the eye area.",
+                        "Apply sunscreen to your brows daily to prevent UV fading.",
+                        "Avoid using lash/brow growth serums containing prostaglandin analogues (e.g., Latisse) directly on tinted brows unless discussed with your therapist, as they can alter hair colour.",
+                        "Oil-based makeup removers will fade tint faster than water-based or micellar options."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Adhering to this aftercare is key to achieving long-lasting, beautiful colour. Please read thoroughly.",
+            "question_opportunity": "Your therapist can advise on the ideal tint shade and frequency for your hair growth cycle. Please ask any questions.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my eyebrow tinting treatment. I understand the critical 24-hour dry period and the factors that can cause premature fading. I acknowledge the importance of a patch test for future treatments and will contact the clinic with any concerns regarding a reaction."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "beauty_treatment_aftercare",
+        "treatment_type": "eyebrow_tinting",
+        "treatment_area": "eyebrows",
+        "document_length": "detailed",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "colour_evolution_timeline_detail",
+            "patch_test_reminder_emphasis",
+            "uv_fading_prevention"
+        ],
+        "clarity_notes": [
+            "Clearly explains the difference between initial skin stain and final hair colour, which manages client expectations."
+        ],
+        "recommendations": [
+            "Could include a specific note for clients with sensitive skin or eczema to monitor the area closely.",
+            "Add a reminder to avoid using brow lamination or perming solutions for at least 7 days before or after tinting.",
+            "Consider mentioning that recent microblading or powder brows may be affected by tint; a consultation is needed."
+        ]
+    }
+}

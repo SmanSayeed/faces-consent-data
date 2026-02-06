@@ -1,0 +1,131 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 220,
+        "feedback": "Comprehensive and detailed aftercare form for permanent eyeliner. Provides excellent, area-specific guidance for the delicate eye region, including day-by-day healing phases and strict hygiene protocols. Outstanding coverage of potential complications like swelling, infection, and corneal irritation. Strong emphasis on avoiding eye makeup and careful cleansing.",
+        "sections_covered": [
+            "healing_timeline_day_by_day",
+            "hygiene_cleansing_instructions",
+            "ointment_application_guidance",
+            "activity_environmental_restrictions",
+            "product_restrictions",
+            "swelling_management",
+            "infection_awareness",
+            "corneal_irritation_awareness",
+            "allergy_emergency",
+            "vision_emergency",
+            "colour_evolution_expectations",
+            "long_term_care",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Permanent Eyeliner Aftercare",
+        "introduction": "This aftercare is VITAL for the safe healing of your permanent eyeliner, to prevent infection, ensure proper pigment retention, and protect your eye health. The eye area is highly sensitive; please follow these instructions meticulously for the next 10-14 days.",
+        "instructions": {
+            "general_directive": "Your aftercare routine is specific to the delicate eye area. Follow the daily guidance below and be prepared for significant swelling.",
+            "sections": [
+                {
+                    "title": "Healing Timeline & Daily Care Instructions",
+                    "items": [
+                        {
+                            "phase": "Hours 1-24 (Acute Swelling Phase)",
+                            "content": "Expect moderate to significant swelling, redness, and tenderness. The area may feel tight. Lines will appear thicker and darker due to swelling. This is normal. Apply cold compresses gently over closed eyes (10 mins on, 20 mins off) to reduce swelling. Sleep with your head elevated on extra pillows."
+                        },
+                        {
+                            "phase": "Days 2-4 (Oozing & Tightening Phase)",
+                            "content": "Swelling begins to subside. A clear, yellowish lymph fluid may ooze and dry, creating a slight crust. Gently cleanse as instructed below. The area will feel tight and dry. Apply the provided healing ointment sparingly with a clean cotton bud 2-3 times daily."
+                        },
+                        {
+                            "phase": "Days 5-10 (Flaking/Peeling Phase)",
+                            "content": "The treated area will begin to itch and flake. Tiny scabs will form and peel off. DO NOT PICK, RUB, OR SCRATCH YOUR EYES. Let the flakes fall off naturally. Picking can cause pigment loss, scarring, and infection. You may apply a tiny amount of ointment if itching is severe."
+                        },
+                        {
+                            "phase": "Days 10-14 (Settling Phase)",
+                            "content": "Flaking is complete. Colour will look lighter and may have a milky or greyish haze as the pigment settles under a thin layer of new skin. True colour will emerge over the next 4-6 weeks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Hygiene & Cleansing (First 10 Days - CRITICAL)",
+                    "content": "To prevent infection and remove lymph build-up, cleanse the lash line GENTLY 2-3 times daily starting the morning after your procedure. Use a clean cotton pad dipped in sterile water or the provided cleanser. Wipe GENTLY along the lash line, do not scrub. Pat dry with a clean tissue. Avoid getting shampoo, conditioner, or soap directly in the eyes."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions (First 10-14 Days)",
+                    "items": [
+                        "NO SWEATING: Avoid all exercise, gym, saunas, steam rooms, and hot showers that cause steam in the face. Sweat is a major infection risk.",
+                        "NO SUN EXPOSURE: Avoid direct sun, tanning beds, and sunbathing. Wear sunglasses with UV protection when outdoors.",
+                        "NO SWIMMING: Absolutely no pools, hot tubs, oceans, or lakes.",
+                        "Avoid dusty, smoky, or dirty environments.",
+                        "Avoid rubbing your eyes even if they feel gritty or itchy."
+                    ]
+                },
+                {
+                    "title": "Product & Makeup Restrictions (First 14 Days)",
+                    "items": [
+                        "DO NOT wear any eye makeup (mascara, eyeshadow, eyeliner) until flaking is completely finished (minimum 10-14 days).",
+                        "Do not use eyelash curlers.",
+                        "Do not use eyelash growth serums (Latisse, etc.) on the treated area for 4 weeks.",
+                        "Avoid using eye creams, anti-ageing products, Retin-A, or glycolic acid on the eyelids.",
+                        "Use new, clean mascara after the 14-day period."
+                    ]
+                },
+                {
+                    "title": "Swelling & Discomfort Management",
+                    "content": "Swelling is normal and varies per person. Cold compresses are your best tool. Taking an antihistamine (like Benadryl) before bed may help reduce swelling and itching if safe for you. If swelling is severe, painful, or continues to increase after 48 hours, contact your artist."
+                },
+                {
+                    "title": "Infection & Corneal Irritation Awareness",
+                    "content": "Signs of infection: increasing (not decreasing) redness, thick yellow/green discharge, heat, worsening pain, or fever. Signs of corneal irritation or abrasion: intense feeling of something in your eye, sensitivity to light, excessive watering, blurred vision. If you experience any of these, STOP all ointment application and seek medical attention immediately, then inform your artist."
+                },
+                {
+                    "title": "Allergy & Vision Emergency",
+                    "content": "Severe allergic reaction is rare but possible. Seek EMERGENCY care if you experience: difficulty breathing, swelling of the lips/tongue/throat, or severe facial swelling beyond the eyes. Any sudden loss of vision or significant visual disturbance is an emergency—go to A&E immediately."
+                },
+                {
+                    "title": "Colour Evolution & Perfecting Session",
+                    "content": "The final colour and crispness cannot be judged until 4-6 weeks after the procedure. The colour will soften and settle. A perfecting touch-up session is HIGHLY RECOMMENDED and should be scheduled 6-8 weeks after your initial procedure to fill any gaps, even out colour, and perfect the line."
+                },
+                {
+                    "title": "Long-Term Care After Healing",
+                    "items": [
+                        "Apply sunscreen around the eye area (avoiding direct contact with eyes) to prevent UV fading of the pigment.",
+                        "Avoid MRI scans for the first 30 days (inform your technician you have permanent makeup).",
+                        "The results typically last 1-5 years depending on skin type, lifestyle, and colour used.",
+                        "Future laser eye surgery (LASIK) can be affected; inform your surgeon you have permanent eyeliner."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Proper aftercare is non-negotiable for eye safety and beautiful results. Please read and commit to this entire process.",
+            "question_opportunity": "Your artist is available for support during healing. Send a clear photo if you have concerns. When in doubt about an eye symptom, seek medical advice.",
+            "declaration_text": "I confirm that I have read and understood the complete and critical aftercare instructions for my permanent eyeliner procedure. I understand the risks of infection and the strict restrictions on makeup, water, sweat, and rubbing. I agree to follow this guidance exactly and seek medical help for any urgent eye concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "permanent_cosmetics_aftercare",
+        "treatment_type": "permanent_eyeliner",
+        "treatment_area": "eyelid_lash_line",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "swelling_management_emphasis",
+            "corneal_irritation_protocol",
+            "eye_makeup_restrictions",
+            "vision_emergency_included"
+        ],
+        "clarity_notes": [
+            "Excellent distinction between normal healing symptoms and signs requiring medical intervention."
+        ],
+        "recommendations": [
+            "Could include a note to avoid driving immediately after the procedure if swelling is significant.",
+            "Consider adding a warning about possible temporary changes in eyelash position or direction due to swelling.",
+            "May specify to use only artificial tears (preservative-free single vials) if eyes feel dry, and to avoid Visine or other redness-relief drops."
+        ]
+    }
+}

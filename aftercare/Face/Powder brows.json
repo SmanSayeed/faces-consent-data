@@ -1,0 +1,122 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 225,
+        "feedback": "Excellent and highly detailed aftercare form for powder brows (ombre brows). Provides a clear, day-by-day healing timeline, comprehensive product restrictions, and strong emphasis on infection prevention and pigment retention. Outstanding coverage of the entire healing process, from immediate oozing to final colour settling. Includes important long-term care advice.",
+        "sections_covered": [
+            "healing_timeline_day_by_day",
+            "hygiene_cleansing_instructions",
+            "ointment_application_guidance",
+            "activity_environmental_restrictions",
+            "product_restrictions",
+            "scabbing_peeling_management",
+            "infection_awareness",
+            "allergy_emergency",
+            "colour_evolution_expectations",
+            "long_term_care",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Powder Brows / Ombre Brows Aftercare",
+        "introduction": "This aftercare is CRITICAL for proper healing, infection prevention, colour retention, and achieving the best possible results from your powder brow procedure. Please follow these instructions meticulously for the next 10-14 days.",
+        "instructions": {
+            "general_directive": "Your aftercare routine will change over the phases of healing. Follow the daily guidance below.",
+            "sections": [
+                {
+                    "title": "Healing Timeline & Daily Care Instructions",
+                    "items": [
+                        {
+                            "phase": "Days 1-2 (The Oozing Phase)",
+                            "content": "Brows will appear darker, sharper, and slightly thicker than the final result. Lymph fluid (clear/yellowish) may ooze. This is normal. Gently blot with a clean, damp cotton pad and sterile water every 1-2 hours to remove fluid and prevent thick scabbing. Apply a rice-grain amount of the provided healing ointment 3-5 times per day with a clean cotton bud."
+                        },
+                        {
+                            "phase": "Days 3-5 (The Tightening/Darkening Phase)",
+                            "content": "Oozing stops. Brows will feel tight and dry. They will appear very dark. DO NOT PANIC. This is the darkest phase before scabs form. Continue light ointment application 2-3 times daily to keep them supple. Do not over-apply."
+                        },
+                        {
+                            "phase": "Days 5-10 (The Flaking/Peeling Phase)",
+                            "content": "Brows will begin to itch and flake. Scabs will form and start to peel off. THIS IS THE MOST CRITICAL PHASE. DO NOT PICK, PEEL, OR SCRATCH YOUR BROWS. Let the scabs fall off naturally, usually within 3-5 days. Picking will pull out pigment and cause patchiness. Continue minimal ointment application only if very itchy or tight."
+                        },
+                        {
+                            "phase": "Days 10-14 (The Settling Phase)",
+                            "content": "Flaking is complete. The colour will look very light, greyish, or ashy (up to 40-50% lighter). The pigment is settling under the skin. True colour will begin to resurface over the next 2-4 weeks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Hygiene & Cleansing (First 10 Days)",
+                    "content": "Keep brows dry except for the prescribed cleansing. For the first 10 days, wash your face carefully avoiding the brow area. When showering, avoid direct water pressure on your face. Gently cleanse around the brows with a damp cloth. Do not submerge in pools, bathtubs, or the sea."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions (First 10-14 Days)",
+                    "items": [
+                        "NO SWEATING: Avoid exercise, gym, saunas, steam rooms, and hot yoga. Sweat contains bacteria and salt that can cause infection and fade pigment.",
+                        "NO SUN EXPOSURE: Do not tan or use tanning beds. UV rays will cause pigment to fade and change colour. After healing, always apply sunscreen (SPF 30+) to brows.",
+                        "NO SWIMMING: Avoid pools (chlorine), hot tubs, and oceans.",
+                        "Avoid dusty, dirty environments."
+                    ]
+                },
+                {
+                    "title": "Product Restrictions (First 14 Days)",
+                    "items": [
+                        "Do not apply makeup (foundation, concealer, powder) directly on or around the healing brows.",
+                        "Do not use skincare products containing Retin-A/Retinol, Glycolic Acid, AHAs/BHAs, or Vitamin C on the forehead area.",
+                        "Do not use anti-ageing creams or bleaching creams on the forehead.",
+                        "Avoid facial treatments (chemical peels, lasers, microdermabrasion) on the forehead for 4 weeks."
+                    ]
+                },
+                {
+                    "title": "What to Avoid Entirely",
+                    "content": "Do not pick, scratch, or rub the treated area. Do not use any other ointments (Vaseline, antibiotic creams) unless prescribed. Do not sleep on your face—try to sleep on your back. Do not shape/wax/thread/tint your brows until fully healed (4 weeks)."
+                },
+                {
+                    "title": "Infection & Allergy Awareness",
+                    "content": "Signs of infection include: excessive redness spreading beyond the brows, increasing pain, thick yellow/green pus, hot to the touch, or fever. Signs of an allergic reaction include: severe swelling (especially eyelids), intense itching, blistering, or rash. If you suspect either, contact your artist and seek medical attention immediately."
+                },
+                {
+                    "title": "Colour Evolution & Perfecting Session",
+                    "content": "The final colour cannot be judged until 4-6 weeks after the procedure. The colour will soften and settle. A perfecting touch-up session is REQUIRED and should be scheduled 6-8 weeks after your initial procedure to fill any light spots and perfect the shape and colour density."
+                },
+                {
+                    "title": "Long-Term Care After Healing",
+                    "items": [
+                        "Apply sunscreen (SPF 30+) to your brows daily to prevent UV fading.",
+                        "Avoid laser treatments (like IPL or laser hair removal) directly over the pigmented area, as it can change the colour.",
+                        "The results typically last 1-3 years. Factors like skin type, sun exposure, and skincare products affect longevity."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "70% of your result depends on your aftercare. Please read and commit to this entire process.",
+            "question_opportunity": "Your artist is your best resource during healing. Do not hesitate to send a clear photo if you have concerns about the healing process.",
+            "declaration_text": "I confirm that I have read and understood the complete aftercare instructions for my powder brow procedure. I understand the critical healing phases, the strict restrictions on water, sweat, sun, and picking, and the necessity of the 6-8 week touch-up session. I agree to follow this guidance exactly."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "permanent_cosmetics_aftercare",
+        "treatment_type": "powder_brows_ombre_brows",
+        "treatment_area": "eyebrows",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "day_by_day_healing_phase_guide",
+            "lymph_blotting_instructions",
+            "colour_evolution_timeline",
+            "mandatory_touch_up_emphasis"
+        ],
+        "clarity_notes": [
+            "Excellent detail on the specific visual changes to expect, which prevents client panic."
+        ],
+        "recommendations": [
+            "Could include a note about avoiding blood-thinning medications/supplements (like aspirin, fish oil) for 48 hours post-procedure to minimise oozing, if not already advised pre-treatment.",
+            "Consider adding a warning about possible 'cold sore'/herpes simplex virus outbreak if prone, and to contact a doctor for antiviral medication if tingling occurs.",
+            "May specify that brow tinting should be avoided for at least 4 weeks prior to the touch-up session."
+        ]
+    }
+}
