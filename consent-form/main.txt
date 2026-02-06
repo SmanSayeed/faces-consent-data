@@ -24,7 +24,7 @@ Acne treatment facial---Not found---Completed
 Chemical peels (superficial / medium)---Completed
 LED light therapy---(LED Light therapy found as named only Light therapy)
 Oxygen facial---Not found---Completed
-Carbon laser facial--- (Found as Carbon Laser Peel)
+Carbon laser facial--- (Found as Carbon laser facial)
 Waxing (face & body)---Completed
 Threading---Two varients: Lip threading and eyebrow threading
 Microneedling---Completed
@@ -267,7 +267,7 @@ Lactic peel---Not found---Completed
 Mandelic peel---Not found---Completed
 TCA peel---Completed
 Jessner peel---Completed
-Carbon laser peel---Completed
+Carbon laser facial---Completed
 
 
 ■Massage 

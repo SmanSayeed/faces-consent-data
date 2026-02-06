@@ -10,28 +10,57 @@ const FILE_INDEX = [
         kind: 'aftercare-root',
         groups: [
             {
-                label: 'aftercare',
+                label: 'Cosmetics',
                 kind: 'aftercare',
                 files: [
                     {
+                        name: 'Anti-wrinkle injections',
+                        path: 'aftercare/Cosmetics/Anti-wrinkle injections.json',
+                        type: 'aftercare'
+                    },
+                    {
+                        name: 'Bum filler',
+                        path: 'aftercare/Cosmetics/Bum filler.json',
+                        type: 'aftercare'
+                    },
+                    {
                         name: 'Dermal fillers',
-                        path: 'aftercare/Dermal fillers.json',
+                        path: 'aftercare/Cosmetics/Dermal fillers.json',
+                        type: 'aftercare'
+                    },
+                    {
+                        name: 'Fat dissolving injections',
+                        path: 'aftercare/Cosmetics/Fat dissolving injections.json',
+                        type: 'aftercare'
+                    },
+                    {
+                        name: 'Lumi Eye',
+                        path: 'aftercare/Cosmetics/Lumi Eye.json',
+                        type: 'aftercare'
+                    },
+                    {
+                        name: 'Mesotherapy',
+                        path: 'aftercare/Cosmetics/Mesotherapy.json',
                         type: 'aftercare'
                     },
                     {
                         name: 'Polynucleotides',
-                        path: 'aftercare/Polynucleotides.json',
+                        path: 'aftercare/Cosmetics/Polynucleotides.json',
+                        type: 'aftercare'
+                    },
+                    {
+                        name: 'Profhilo',
+                        path: 'aftercare/Cosmetics/Profhilo.json',
+                        type: 'aftercare'
+                    },
+                    {
+                        name: 'PRP (Vampire Facial)',
+                        path: 'aftercare/Cosmetics/PRP (Vampire Facial).json',
                         type: 'aftercare'
                     },
                     {
                         name: 'Skin booster',
-                        path: 'aftercare/Skin booster.json',
-                        type: 'aftercare'
-                    }
-                    ,
-                    {
-                        name: 'Second-darmal-fillter',
-                        path: 'aftercare/secondDermalfillers.json',
+                        path: 'aftercare/Cosmetics/Skin booster.json',
                         type: 'aftercare'
                     }
                 ]
@@ -300,7 +329,7 @@ const FILE_INDEX = [
                     { name: 'Acne control facial', path: 'consent-form/Skin/Acne control facial.json' },
                     { name: 'Brightening facial', path: 'consent-form/Skin/Brightening facial.json' },
                     // Calming-barrier-repair facial appears to lack a .json extension in the folder listing; excluded here.
-                    { name: 'Carbon laser peel', path: 'consent-form/Skin/Carbon laser peel.json' },
+                    { name: 'Carbon laser facial', path: 'consent-form/Skin/Carbon laser facial.json' },
                     { name: 'Chemical peels', path: 'consent-form/Skin/Chemical peels.json' },
                     { name: 'Deep peel', path: 'consent-form/Skin/Deep peel.json' },
                     { name: 'Enzyme peels', path: 'consent-form/Skin/Enzyme peels.json' },

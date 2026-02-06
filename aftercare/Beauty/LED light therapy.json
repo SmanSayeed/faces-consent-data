@@ -1,0 +1,107 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 185,
+        "feedback": "Well-structured LED Light Therapy aftercare form with clear time-phased instructions. Good balance of immediate care, short-term protocols, and long-term maintenance. Includes appropriate expectations management and emergency contact guidance. Could be enhanced with more specific hydration targets and clearer contraindication lists.",
+        "sections_covered": [
+            "treatment_description",
+            "immediate_reactions",
+            "24_48_hour_care",
+            "first_week_care",
+            "expected_results",
+            "emergency_contact_protocol",
+            "long_term_maintenance"
+        ]
+    },
+    "form_data": {
+        "document_title": "LED Light Therapy Aftercare",
+        "treatment_description": "Thank you for choosing LED Light Therapy. This non-invasive treatment uses specific wavelengths of light to reduce inflammation, promote healing, improve skin tone, and stimulate collagen production.",
+        "introduction": "Proper aftercare is essential to maximise benefits and maintain healthy skin.",
+        "instructions": {
+            "phased_sections": [
+                {
+                    "time_period": "Immediately After Treatment",
+                    "sections": [
+                        {
+                            "title": "Normal Reactions",
+                            "content": "You may experience mild warmth, tingling, or slight redness in the treated area. These sensations are normal and should resolve within a few hours."
+                        },
+                        {
+                            "title": "Avoid Touching",
+                            "content": "Do not rub, scratch, or apply pressure to the treated area immediately after therapy."
+                        }
+                    ]
+                },
+                {
+                    "time_period": "First 24–48 Hours",
+                    "items": [
+                        "Cleansing: Use a gentle, non-alcoholic cleanser to wash the treated area. Avoid scrubs, exfoliants, or harsh products.",
+                        "Moisturising: Apply a mild, fragrance-free moisturiser to maintain hydration.",
+                        "Makeup: Makeup may be applied immediately after treatment if the skin feels comfortable, but avoid heavy or occlusive products for at least 24 hours."
+                    ]
+                },
+                {
+                    "time_period": "First Week",
+                    "items": [
+                        "Sun Protection: Your skin may be more sensitive to sunlight. Always use a broad-spectrum sunscreen SPF 30 or higher when outdoors.",
+                        "Avoid Heat & Irritation: Avoid saunas, steam rooms, hot tubs, and excessive sweating immediately after treatment. Avoid harsh skincare products such as alcohol-based toners, retinol, or chemical exfoliants.",
+                        "Hydration: Drink plenty of water and continue moisturising to support skin health."
+                    ]
+                }
+            ],
+            "expected_results": {
+                "title": "Expected Results & Monitoring",
+                "items": [
+                    "Skin may appear brighter, calmer, and more even-toned over several sessions.",
+                    "Multiple treatments are typically recommended for optimal results.",
+                    "Mild temporary redness or warmth is normal and should resolve quickly."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Contact Us",
+                "content": "Call your provider if you notice:",
+                "items": [
+                    "Severe or persistent redness, swelling, or pain.",
+                    "Signs of infection such as pus or warmth.",
+                    "Allergic reactions such as itching, hives, or difficulty breathing.",
+                    "Any unusual changes in skin appearance or sensitivity."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care",
+                "items": [
+                    "Maintain a gentle skincare routine with moisturising and sun protection.",
+                    "Avoid prolonged sun exposure or tanning beds to preserve results.",
+                    "Attend follow-up appointments as advised for ongoing treatment and assessment."
+                ]
+            }
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "led_light_therapy",
+        "document_length": "moderate",
+        "risk_coverage": "good",
+        "emergency_protocols_included": true,
+        "time_phased_structure": true,
+        "special_features": [
+            "allows immediate makeup application with conditions",
+            "emphasizes non-invasive nature of treatment",
+            "includes expectations management for multiple sessions",
+            "provides specific product guidance (non-alcoholic, fragrance-free)"
+        ],
+        "recommendations": [
+            "Add specific hydration target (e.g., drink 2+ liters of water)",
+            "Include timeline for when to resume exfoliants/active ingredients",
+            "Clarify what constitutes 'excessive sweating'",
+            "Add contact information for practitioner"
+        ]
+    }
+}

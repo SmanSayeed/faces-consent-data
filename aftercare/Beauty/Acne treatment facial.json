@@ -1,0 +1,129 @@
+{
+    "form_analysis": {
+        "completeness_score": 92,
+        "rewards_awarded": 205,
+        "feedback": "Excellent and detailed aftercare form for an acne treatment facial. Comprehensively covers purging expectations, specific product restrictions, and critical sun protection. Strong guidance on extraction site care and managing inflammation. Includes clear timelines for different stages of post-treatment response.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "hydration_nutrition",
+            "extraction_site_care",
+            "purging_management",
+            "medication_supplement_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Acne Treatment Facial Aftercare",
+        "introduction": "This aftercare advice is essential to manage your skin's healing process, minimise breakouts, prevent scarring, and achieve the best possible clearing results from your targeted acne treatment.",
+        "instructions": {
+            "general_directive": "Follow this guidance carefully for the next 5-7 days. Your skin may be more reactive, and proper care is crucial to avoid irritation and support the treatment's effectiveness.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Skin Response",
+                    "content": "Significant redness, a feeling of heat, and sensitivity are common and expected, especially if extractions or a chemical peel were performed. This acute redness and warmth should calm down within 4-12 hours. General redness and tenderness may persist for 24-48 hours."
+                },
+                {
+                    "title": "Hygiene and Cleansing",
+                    "items": [
+                        "Do not wash your face for at least 4-6 hours after the treatment to allow active ingredients to work.",
+                        "For the first 48 hours, cleanse only twice daily with a gentle, non-foaming, sulfate-free cleanser recommended for acne-prone skin. Use lukewarm (not hot) water and clean hands. Pat dry gently with a clean paper towel or cloth towel.",
+                        "Avoid all physical exfoliation (scrubs, brushes, washcloths) for at least 5 days."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance (IMPORTANT)",
+                    "items": [
+                        "Use only the simple, non-comedogenic products recommended by your therapist. This typically includes a gentle cleanser, a lightweight moisturiser, and sunscreen.",
+                        "STRICTLY AVOID for 5-7 days: All other active acne treatments (benzoyl peroxide, salicylic acid washes/spot treatments), retinoids/retinol, AHAs (glycolic/lactic acid), and strong vitamin C serums. Using these will cause severe irritation.",
+                        "If your therapist prescribed or recommended a specific treatment serum/cream (e.g., niacinamide, azelaic acid), you may start using it as directed, usually after 24-48 hours."
+                    ]
+                },
+                {
+                    "title": "Extraction Site Care (CRITICAL)",
+                    "content": "If comedone or pustule extractions were performed, the sites may appear as small, dark dots, red bumps, or minor scabs. DO NOT PICK, SQUEEZE, OR SCRATCH THESE AREAS. Picking dramatically increases the risk of scarring, post-inflammatory hyperpigmentation (dark marks), and infection. Allow them to heal naturally. They will flatten and resolve over 3-7 days."
+                },
+                {
+                    "title": "The \"Purging\" Phase (Expected)",
+                    "content": "It is common to experience a temporary increase in breakouts (purging) 24-72 hours after a deep cleansing or peel-based acne facial. This is because the treatment brings underlying congestion to the surface faster. These breakouts should be smaller, heal quicker, and be confined to areas where you normally break out. This is a positive sign that the treatment is working. Continue with gentle care and do not pick. If purging is severe or lasts longer than 5-7 days, contact your therapist."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise and activities that cause heavy sweating for 48-72 hours. Sweat can irritate open extraction sites and inflamed skin.",
+                        "Avoid saunas, steam rooms, and hot baths/showers for 48 hours.",
+                        "Avoid swimming in chlorinated pools or the sea for at least 48-72 hours."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (MANDATORY)",
+                    "content": "Acne treatments and extraction sites make your skin highly susceptible to UV-induced hyperpigmentation (dark spots). You MUST apply a broad-spectrum, oil-free, non-comedogenic sunscreen (SPF 30 or higher) every single day, even indoors. Reapply every 2 hours if outdoors. Wear a hat and seek shade. Tanning beds are prohibited."
+                },
+                {
+                    "title": "Makeup Guidance",
+                    "content": "It is highly advisable to avoid all makeup for at least 24 hours. If you must apply makeup after this period, ensure brushes/sponges are freshly cleaned and use non-comedogenic, mineral-based products. Avoid heavy, occlusive foundations."
+                },
+                {
+                    "title": "Hydration, Diet, and Supplements",
+                    "items": [
+                        "Drink plenty of water to help flush toxins and hydrate the skin.",
+                        "Be mindful that high-glycemic foods and dairy can exacerbate acne in some individuals. Consider moderating intake.",
+                        "Avoid supplements known to potentially worsen acne or increase inflammation (e.g., high-dose Biotin, B12, whey protein) for 24-48 hours unless medically necessary."
+                    ]
+                },
+                {
+                    "title": "Medication Awareness",
+                    "content": "If you are on oral acne medication (e.g., antibiotics, isotretinoin/Accutane), continue taking it as prescribed unless your doctor advises otherwise. Inform your therapist of all medications you are taking."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs of infection are rare but serious. Contact your therapist or a doctor immediately if you notice: increasing pain, yellow/green pus, spreading redness from a specific site, or fever."
+                },
+                {
+                    "title": "Results Timeline and Follow-Up",
+                    "items": [
+                        "Initial calming of active inflammation should be seen within 2-3 days.",
+                        "Extraction sites and purge breakouts should heal within 5-7 days.",
+                        "Improved skin texture and a reduction in new breakouts will become more apparent over the next 2-4 weeks.",
+                        "Acne is a chronic condition often requiring a series of treatments. A follow-up facial is typically recommended in 2-4 weeks for consistent management."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Successful acne management requires a partnership between professional treatment and diligent home care. Please read this information carefully.",
+            "question_opportunity": "Your therapist is your partner in clearing your skin. Please ask about any part of this regimen you find confusing before you leave.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my acne treatment facial. I understand the expectations around purging and the critical importance of not picking my skin. I agree to follow the product restrictions and sun protection advice and will contact the clinic with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "acne_treatment_facial",
+        "treatment_area": "face_chest_back",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "purging_phase_detailed_guidance",
+            "extraction_site_care_emphasis",
+            "hyperpigmentation_prevention_focus",
+            "dietary_supplement_considerations"
+        ],
+        "clarity_notes": [
+            "Clearly distinguishes between normal purging and an abnormal reaction.",
+            "Strong, clear warnings against picking."
+        ],
+        "recommendations": [
+            "Could include a note about changing pillowcases frequently (every other night) during the initial healing week.",
+            "Consider adding a reminder to avoid wearing tight headbands, helmets, or backpacks on treated areas (if back/chest was treated) for 48 hours."
+        ]
+    }
+}

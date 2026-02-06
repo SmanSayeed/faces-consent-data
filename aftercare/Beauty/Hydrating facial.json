@@ -1,0 +1,105 @@
+{
+    "form_analysis": {
+        "completeness_score": 85,
+        "rewards_awarded": 180,
+        "feedback": "Clear and practical aftercare form for a hydrating facial, with strong focus on maintaining the treatment's benefits through product use and sun protection. Good guidance on gentle skincare continuation. Lacks specific timelines for symptom resolution and detailed emergency protocols, which is appropriate given the low-risk nature of the treatment.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "hydration_nutrition",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Hydrating Facial Aftercare",
+        "introduction": "This aftercare advice will help you prolong the deep hydration and glowing results of your treatment, support your skin's barrier, and ensure your comfort in the hours and days following your facial.",
+        "instructions": {
+            "general_directive": "For the next 24-48 hours, treat your skin gently to maximise and lock in the hydration.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Feel and Appearance",
+                    "content": "Your skin may feel exceptionally soft, plump, and look dewy or slightly glossy immediately after treatment. Mild redness or a feeling of warmth is possible but should fade within 1-2 hours."
+                },
+                {
+                    "title": "Hygiene and Cleansing",
+                    "items": [
+                        "Do not wash your face for at least 6-8 hours after the treatment. This allows the hydrating serums and masks to fully penetrate and work.",
+                        "When you do cleanse, use a gentle, non-foaming, hydrating cleanser with lukewarm water. Avoid hot water and harsh scrubbing.",
+                        "Pat your skin dry gently with a clean towel."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance",
+                    "items": [
+                        "Continue using a hydrating moisturiser as recommended by your therapist to seal in the benefits.",
+                        "You may resume your regular gentle skincare routine after 24 hours.",
+                        "Avoid using any exfoliating products (AHAs, BHAs, retinoids, retinol, physical scrubs) or strong active treatments (like high-strength vitamin C or acne treatments) for 3-5 days post-facial. Your skin's barrier is primed for hydration, not exfoliation."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid intense exercise, heavy sweating, saunas, steam rooms, and very hot showers/baths for 24-48 hours. Heat and sweat can dehydrate the skin and cause irritation.",
+                        "Avoid swimming in chlorinated or salt water for 48 hours, as these can be drying and counteract the treatment's effects."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "While your skin is hydrated and healthy, it remains vulnerable to UV damage. Apply a broad-spectrum sunscreen (SPF 30 or higher) daily. Avoid prolonged direct sun exposure and tanning beds."
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "It is ideal to avoid applying foundation or heavy makeup for at least 12 hours to let your skin breathe. If you choose to wear makeup, ensure it is non-comedogenic and applied with clean tools. Your skin may require less makeup due to its improved texture and glow."
+                },
+                {
+                    "title": "Hydration and Nutrition",
+                    "content": "Support your skin from within by drinking plenty of water throughout the day. Maintain a balanced diet rich in antioxidants. Limit excessive caffeine and alcohol consumption for 24 hours, as they can have a dehydrating effect."
+                },
+                {
+                    "title": "Possible Skin Reactions",
+                    "content": "While uncommon with a hydrating facial, if you experience persistent redness, itching, stinging, or raised bumps beyond 24 hours, you may be having a reaction to a product used. Discontinue use of any new products given to you and contact your therapist for advice."
+                },
+                {
+                    "title": "Maximising and Maintaining Results",
+                    "items": [
+                        "The peak hydration and glow are most noticeable for 3-5 days post-treatment.",
+                        "For sustained results, incorporate hydrating serums containing hyaluronic acid, glycerin, or ceramides into your daily routine as advised by your therapist.",
+                        "Consider scheduling regular hydrating facials every 4-6 weeks to maintain optimal skin hydration, especially in dry climates or seasons."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To help your skin retain the maximum benefits of your treatment, please read the following guidance.",
+            "question_opportunity": "Your skincare therapist can provide personalised product recommendations to extend the results at home. Please ask if you have any questions.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my hydrating facial. I will follow this guidance to care for my skin and contact the clinic with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "hydrating_facial",
+        "treatment_area": "face",
+        "document_length": "standard",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "focus_on_hydration_maintenance",
+            "gentle_skincare_continuation",
+            "barrier_support_emphasis"
+        ],
+        "clarity_notes": [
+            "Instructions are straightforward and appropriate for a low-intensity treatment."
+        ],
+        "recommendations": [
+            "Could include a note about avoiding high winds or very cold, dry air for 24 hours if they are known to cause dryness/flaking.",
+            "Mention that flaking or dryness 1-2 days post-treatment is uncommon but possible if the skin was severely dehydrated; advise to use extra moisturiser if this occurs."
+        ]
+    }
+}

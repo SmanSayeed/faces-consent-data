@@ -1,0 +1,94 @@
+{
+    "form_analysis": {
+        "completeness_score": 89,
+        "rewards_awarded": 175,
+        "feedback": "Clear and practical waxing aftercare form with appropriate timeframes for common restrictions. Good focus on hygiene, clothing, and immediate symptom management. Could be enhanced with more specific infection signs and emergency protocols.",
+        "sections_covered": [
+            "hygiene_instructions",
+            "activity_restrictions",
+            "clothing_guidance",
+            "skincare_restrictions",
+            "symptom_management",
+            "follow_up_timing"
+        ],
+        "missing_sections": [
+            "infection_signs_symptoms",
+            "allergy_emergency_protocol",
+            "ingrown_hair_prevention",
+            "specific_product_recommendations"
+        ]
+    },
+    "form_data": {
+        "document_title": "WAXING AFTERCARE",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort/healing and to help achieve the best possible results from treatment.",
+        "instructions": {
+            "general_directive": "Please follow the aftercare advice for waxing which will help to reduce skin irritation after treatment.",
+            "sections": [
+                {
+                    "title": "Hygiene and Basic Care",
+                    "items": [
+                        "Remember to keep the waxed area clean. Avoid heat and friction during the next 48 hours.",
+                        "Avoid touching, scratching or exfoliating the waxed area for 48 hours.",
+                        "Shower or take a bath with cool or lukewarm water for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid saunas, sunbeds or steam treatments for 48 hours.",
+                        "Avoid strenuous exercise or swimming for the first 24 hours."
+                    ]
+                },
+                {
+                    "title": "Clothing Guidance",
+                    "content": "Remember to wear clean, loose fitting clothes."
+                },
+                {
+                    "title": "Skincare and Product Restrictions",
+                    "items": [
+                        "Avoid applying skincare and cosmetic products on the treated area other than those advised by your therapist. Avoid any anti-perspirants or perfumed products for 24 hours after treatment.",
+                        "Do not undertake any other skin treatment procedures for 48 hours after waxing.",
+                        "After 24 hours apply a good moisturizer to the treated areas."
+                    ]
+                },
+                {
+                    "title": "Symptom Management",
+                    "content": "You can use aloe vera, antiseptic cream, and/or ice to relieve itching, discomfort and redness."
+                },
+                {
+                    "title": "Side Effects and Follow-up",
+                    "items": [
+                        "Contact your practitioner as soon as possible if you experience any side effects.",
+                        "Your follow up appointment will usually be in 4-6 weeks. If you are advised to attend a follow up appointment, please do make every effort to attend them. You should do this even if you believe that the recovery process is going well and you cannot see that there are any visible complications."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_removal_aftercare",
+        "treatment_type": "waxing",
+        "document_length": "moderate",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": false,
+        "special_features": [
+            "clothing guidance included",
+            "specific symptom relief options (aloe vera, antiseptic cream, ice)",
+            "clear follow-up timeframe (4-6 weeks)"
+        ],
+        "recommendations": [
+            "Add signs of infection (redness, pus, fever)",
+            "Include ingrown hair prevention techniques",
+            "Add allergy reaction symptoms and emergency contact",
+            "Specify when to seek medical attention vs contact practitioner",
+            "Include sun exposure guidance for sensitive skin"
+        ]
+    }
+}

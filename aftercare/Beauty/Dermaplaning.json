@@ -1,0 +1,121 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 195,
+        "feedback": "Comprehensive dermaplaning aftercare form following the same standardized format as chemical peel, carbon laser peel, and microneedling forms. This consistency is appropriate as all these treatments involve similar levels of epidermal disruption and require comparable healing protocols. Excellent coverage of all essential aftercare areas.",
+        "sections_covered": [
+            "immediate_symptoms",
+            "product_avoidance",
+            "skincare_restrictions",
+            "skincare_routine",
+            "activity_restrictions",
+            "environmental_protection",
+            "future_treatment_timing",
+            "infection_awareness",
+            "follow_up_importance"
+        ],
+        "form_similarity_note": "This form is virtually identical to the previously processed Chemical Peel, Carbon Laser Peel, and Microneedling aftercare forms, demonstrating standardized protocols for epidermal resurfacing treatments."
+    },
+    "form_data": {
+        "document_title": "DERMAPLANING AFTERCARE",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort/healing and to help achieve the best possible results from treatment.",
+        "instructions": {
+            "general_directive": "Please follow the aftercare advice for dermaplaning.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms",
+                    "content": "The treated area of skin may feel slightly tender and appear red and swollen afterwards. You may occasionally experience skin peeling and appearances may be similar to mild sunburn. These effects will resolve naturally and should be much improved after 48 hours but may take longer to settle. You may experience some minor bruising which may take 1-2 weeks to resolve in some cases."
+                },
+                {
+                    "title": "Product Avoidance (72 Hours)",
+                    "items": [
+                        "Avoid any perfumes, fake tan or other harsh chemicals for 72 hours after treatment.",
+                        "Avoid any makeup for 24 hours after treatment as this can increase the risk of infection.",
+                        "Avoid rubbing or picking the treated area.",
+                        "Avoid any skin exfoliation for 72 hours following treatment."
+                    ]
+                },
+                {
+                    "title": "Skincare Routine",
+                    "content": "It is important to use a regular moisturising cream around two to three times a day on the treated area. Use more regularly if you feel the skin dry or peeling."
+                },
+                {
+                    "title": "Active Ingredient Avoidance",
+                    "content": "Avoid any products that contain alpha hydroxy acids, retinol, and glycolic acid for at least 7 days after treatment."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions (72 Hours)",
+                    "items": [
+                        "Avoid strenuous exercise, saunas, sunbeds and exposure to heat for 72 hours after treatments. These can cause sweating which can irritate the delicate skin and slow down your ability to heal quickly.",
+                        "Avoid swimming for 72 hours after treatment."
+                    ]
+                },
+                {
+                    "title": "Dietary Restrictions",
+                    "content": "Avoid any excess alcohol or caffeine for 48 hours after treatment."
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "Wear SPF 30 or greater sunscreen for at least 2 weeks following treatment as your skin will be more sensitive to sunlight afterwards."
+                },
+                {
+                    "title": "Future Treatment Timing",
+                    "items": [
+                        "Avoid any further cosmetic treatments e.g. Botox or dermal filler for 2 weeks following treatment, or ask your practitioner for advice.",
+                        "Avoid any hair removal treatments such as waxing for 2 weeks after treatment or until the initial redness and swelling has resolved."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "You must seek medical attention and contact your practitioner if you experience any signs or symptoms of infection after treatment. Infection can present as hot, red shiny skin, there may be pus formation and you may have a fever or feel generally unwell."
+                },
+                {
+                    "title": "General Side Effects and Follow-up",
+                    "items": [
+                        "You must contact your practitioner as soon as possible if you notice any other unwanted side effects.",
+                        "Your practitioner will advise when further treatment appointments are required. If you are advised to attend a follow up appointment, please do make every effort to attend them. You should do this even if you believe that the recovery process is going well and you cannot see that there are any visible complications."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "dermaplaning",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": true,
+        "time_phased_structure": true,
+        "specific_ingredient_restrictions": true,
+        "special_features": [
+            "standardized ingredient avoidance (AHAs, retinol, glycolic acid)",
+            "clear differentiation of restriction timelines (24h, 48h, 72h, 2 weeks)",
+            "includes hair removal treatment restrictions",
+            "sun protection emphasized for 2-week period",
+            "follow-up compliance strongly emphasized"
+        ],
+        "form_similarities": {
+            "identical_to": [
+                "Chemical Peel Aftercare",
+                "Carbon Laser Peel Aftercare",
+                "Microneedling Aftercare"
+            ],
+            "differences": "Treatment type only",
+            "standardized_protocol": true,
+            "treatment_category": "epidermal_resurfacing"
+        },
+        "missing_sections": [
+            "allergy_emergency_protocol",
+            "specific_cleansing_instructions",
+            "hair_regrowth_considerations"
+        ],
+        "treatment_specific_note": "While the standardized format works well, dermaplaning-specific considerations like hair regrowth texture, frequency of treatment, and specialized pre-treatment preparation could be added for completeness."
+    }
+}

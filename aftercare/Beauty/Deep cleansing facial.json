@@ -1,0 +1,117 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 195,
+        "feedback": "Solid aftercare form for a deep cleansing facial, covering essential hygiene, product use, and common post-treatment reactions. Good emphasis on sun protection and gradual reintroduction of active skincare. Could be enhanced with more specific guidance on managing purging or breakouts and clearer timelines for different symptoms.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "hydration_nutrition",
+            "extraction_site_care",
+            "follow_up_timing"
+        ],
+        "clarity_issues": [
+            "general_timeline_for_redness_swelling"
+        ]
+    },
+    "form_data": {
+        "document_title": "Deep Cleansing Facial Aftercare",
+        "introduction": "The following aftercare advice is designed to support your skin's healing process, maximise the benefits of your treatment, and maintain the results of your deep cleansing facial.",
+        "instructions": {
+            "general_directive": "Please follow this advice for the next 24-72 hours. Your skin may be more sensitive during this period.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Skin Response",
+                    "content": "It is normal for your skin to appear pink or red, feel warm, tight, or slightly tender immediately after your facial. Minor swelling may also occur. This reaction is typical and should subside significantly within a few hours to 24 hours."
+                },
+                {
+                    "title": "Hygiene and Basic Care",
+                    "items": [
+                        "Do not wash your face for at least 4-6 hours after the treatment to allow the beneficial products to continue working.",
+                        "After this period, cleanse your skin gently tonight and tomorrow morning using a mild, non-abrasive cleanser recommended by your therapist. Use lukewarm water and pat your skin dry with a clean towel; do not rub.",
+                        "Avoid touching your face with unwashed hands."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance",
+                    "items": [
+                        "Continue using only the gentle, non-active products recommended by your therapist for the next 24-48 hours.",
+                        "Avoid using any exfoliating products (physical scrubs, chemical exfoliants like AHAs/BHAs, retinol, retinoids, or strong vitamin C serums) for 3-5 days post-treatment, or until any redness has completely resolved.",
+                        "You may apply a simple, fragrance-free moisturiser as needed to soothe any tightness."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy sweating, saunas, steam rooms, and hot baths/showers for 24-48 hours. Heat and sweat can irritate freshly treated skin.",
+                        "Avoid swimming in chlorinated pools or the sea for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Sun Protection Mandate",
+                    "content": "Your skin will be more photosensitive. It is CRITICAL to apply a broad-spectrum sunscreen (SPF 30 or higher) every day, especially for the first week. Avoid direct sun exposure and tanning beds."
+                },
+                {
+                    "title": "Makeup Guidance",
+                    "content": "It is advisable to avoid applying makeup for at least 12-24 hours to let your skin breathe and recover. If you must apply makeup, ensure brushes/sponges are clean and use non-comedogenic products."
+                },
+                {
+                    "title": "Hydration and Diet",
+                    "content": "Drink plenty of water to help flush out toxins and keep your skin hydrated from within. Avoid excessive alcohol and very spicy foods for 24 hours, as they can trigger inflammation and flushing."
+                },
+                {
+                    "title": "Extraction Site Care",
+                    "content": "If extractions were performed, the treated pores may remain slightly open or appear as tiny dark spots/crusts. Do not pick, scratch, or squeeze these areas. They will heal naturally within a few days. Picking can lead to scarring, prolonged redness, or infection."
+                },
+                {
+                    "title": "Potential Breakouts or Purging",
+                    "content": "A mild 'purging' phase, where existing congestion comes to the surface as small whiteheads or pimples, is possible 24-72 hours after a deep cleansing treatment. This is a normal part of the clearing process. Continue with gentle skincare and do not pick. If breakouts are severe or painful, contact your therapist."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "While rare, signs of infection include: increasing pain, spreading redness, warmth, swelling, or yellow pus after 24-48 hours. If you notice these signs, contact your therapist or a doctor."
+                },
+                {
+                    "title": "General Advice and Follow-Up",
+                    "items": [
+                        "For optimal skin health and maintenance of results, consider establishing a regular professional facial schedule as advised by your therapist.",
+                        "If you have any concerns about your skin's reaction, do not hesitate to contact the clinic.",
+                        "Results such as improved clarity, texture, and reduced congestion will become more apparent over the next week as your skin fully settles."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To ensure the best results and care for your skin, please read all the following information carefully.",
+            "question_opportunity": "Your skincare therapist is happy to clarify any of these points or recommend suitable products for your home care regimen.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my deep cleansing facial. I agree to follow this guidance and will contact the clinic if I have any concerns during my recovery."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "deep_cleansing_facial_with_extraction",
+        "treatment_area": "face",
+        "document_length": "detailed",
+        "risk_coverage": "good",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "extraction_site_care",
+            "purging_phase_guidance",
+            "sun_protection_emphasis"
+        ],
+        "clarity_notes": [
+            "Timeline for redness is given as 'a few hours to 24 hours' which is appropriate for this treatment."
+        ],
+        "recommendations": [
+            "Add a more defined timeline for different symptoms: e.g., redness (2-24 hrs), tightness (24-48 hrs), purging (24-72 hrs).",
+            "Include a specific warning against using facial hair removal methods (waxing, threading) on treated areas for 5-7 days.",
+            "Consider adding a note about possible increased sensitivity to perfumed products."
+        ]
+    }
+}

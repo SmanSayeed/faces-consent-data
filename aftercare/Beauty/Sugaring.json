@@ -1,0 +1,142 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 200,
+        "feedback": "Excellent sugaring aftercare form with clear time-phased instructions and specific guidance for this natural hair removal method. Includes valuable information on preventing ingrown hairs, appropriate exfoliation timing, and maintaining results between sessions. Well-structured with appropriate emergency guidance.",
+        "sections_covered": [
+            "treatment_description",
+            "immediate_care",
+            "24_hour_care",
+            "48_hour_care",
+            "post_48_hour_care",
+            "ongoing_maintenance",
+            "normal_reactions",
+            "emergency_contact_protocol"
+        ]
+    },
+    "form_data": {
+        "document_title": "Sugaring Hair Removal Aftercare",
+        "treatment_description": "Thank you for choosing Sugaring for your hair removal. This gentle, natural method removes hair from the root for smoother skin.",
+        "introduction": "Proper aftercare is important to reduce irritation, prevent ingrown hairs, and keep your skin looking and feeling its best.",
+        "instructions": {
+            "phased_sections": [
+                {
+                    "time_period": "Immediately After Treatment",
+                    "sections": [
+                        {
+                            "title": "Mild Redness or Sensitivity",
+                            "content": "It’s normal for the skin to look slightly pink or feel tender for a few hours. Any mild swelling should subside within the day."
+                        },
+                        {
+                            "title": "Avoid Touching",
+                            "content": "Do not touch, scratch, or rub the treated area to prevent irritation and bacteria from entering the hair follicles."
+                        },
+                        {
+                            "title": "Clothing Choice",
+                            "content": "Wear loose-fitting clothing to allow your skin to breathe and avoid friction."
+                        }
+                    ]
+                },
+                {
+                    "time_period": "First 24 Hours",
+                    "items": [
+                        "Avoid hot showers, baths, saunas, steam rooms, or hot tubs.",
+                        "Do not apply perfumed lotions, deodorants, or makeup on the treated area.",
+                        "Avoid swimming in pools or the sea, as chlorine and salt can irritate freshly sugared skin.",
+                        "Skip strenuous exercise that causes excessive sweating."
+                    ]
+                },
+                {
+                    "time_period": "First 48 Hours",
+                    "sections": [
+                        {
+                            "title": "Sun Exposure",
+                            "content": "Avoid direct sunlight and tanning beds for at least 48 hours. Always use SPF 30 or higher if the area will be exposed."
+                        },
+                        {
+                            "title": "Exfoliation",
+                            "content": "Do not exfoliate for the first 48 hours."
+                        },
+                        {
+                            "title": "Moisturising",
+                            "content": "Use a gentle, fragrance-free moisturiser to soothe and hydrate the skin."
+                        }
+                    ]
+                },
+                {
+                    "time_period": "After 48 Hours",
+                    "sections": [
+                        {
+                            "title": "Exfoliate Regularly",
+                            "content": "Begin gentle exfoliation 2–3 times a week to help prevent ingrown hairs. Use a mild scrub, exfoliating mitt, or chemical exfoliant recommended by your practitioner."
+                        },
+                        {
+                            "title": "Hydrate the Skin",
+                            "content": "Keep the skin moisturised daily to maintain softness and reduce dryness."
+                        }
+                    ]
+                }
+            ],
+            "ongoing_care": {
+                "title": "Ongoing Care",
+                "items": [
+                    "Avoid shaving between sugaring appointments to maintain smoother regrowth.",
+                    "Book your next session every 4–6 weeks for best results.",
+                    "Wear SPF on exposed areas to protect your skin."
+                ]
+            },
+            "normal_reactions": {
+                "title": "Possible Reactions",
+                "content": "You may notice:",
+                "items": [
+                    "Temporary redness",
+                    "Mild bumps around hair follicles",
+                    "Slight tenderness"
+                ],
+                "note": "These are normal and should resolve quickly."
+            },
+            "emergency_guidance": {
+                "title": "When to Contact Your Practitioner",
+                "content": "Seek advice if you experience:",
+                "items": [
+                    "Severe redness, swelling, or pain",
+                    "Pus, spreading rash, or signs of infection",
+                    "Any unexpected or persistent reaction"
+                ]
+            }
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_removal_aftercare",
+        "treatment_type": "sugaring",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": true,
+        "time_phased_structure": true,
+        "special_features": [
+            "specific guidance on preventing ingrown hairs",
+            "clear exfoliation timing and frequency",
+            "advice against shaving between sessions",
+            "recommended appointment frequency (4-6 weeks)",
+            "differentiates chlorine vs salt water risks",
+            "clothing guidance included"
+        ],
+        "treatment_specific_advantages": [
+            "natural method emphasized",
+            "hair removal from root mentioned",
+            "smoother regrowth highlighted"
+        ],
+        "recommendations": [
+            "Add specific product recommendations for ingrown hair prevention",
+            "Include guidance for different body areas",
+            "Add contact information for practitioner"
+        ]
+    }
+}

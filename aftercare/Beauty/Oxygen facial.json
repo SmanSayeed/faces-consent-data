@@ -1,0 +1,107 @@
+{
+    "form_analysis": {
+        "completeness_score": 82,
+        "rewards_awarded": 175,
+        "feedback": "Solid aftercare form for an oxygen facial, focusing on maintaining the treatment's immediate glow and hydration benefits. Good emphasis on gentle care and sun protection. Appropriately minimal given the non-invasive nature of the treatment, but could be enhanced with more specific guidance on product compatibility and managing rare reactions.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "hydration_nutrition",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Oxygen Facial Aftercare",
+        "introduction": "This aftercare advice will help you preserve the radiant glow, hydration, and revitalising benefits of your oxygen facial treatment and support your skin's overall health.",
+        "instructions": {
+            "general_directive": "For the next 24-48 hours, treat your skin gently to lock in the infusion of oxygen and nutrients.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Feel and Appearance",
+                    "content": "Your skin should feel instantly refreshed, plumper, and look noticeably brighter with a healthy glow. There is typically little to no downtime. Any mild redness from the infusion process should fade within 30-60 minutes."
+                },
+                {
+                    "title": "Hygiene and Cleansing",
+                    "items": [
+                        "You may wash your face normally after 4-6 hours. We recommend using a gentle cleanser to avoid stripping the skin of the beneficial serums infused during the treatment.",
+                        "Use lukewarm water and pat your skin dry gently.",
+                        "Avoid harsh scrubs or abrasive cleansing tools for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance",
+                    "items": [
+                        "You may immediately resume your regular skincare routine. The oxygen facial is highly compatible with most products.",
+                        "To amplify results, consider using hydrating and antioxidant-rich serums (like hyaluronic acid or vitamin C) as these synergise well with the treatment.",
+                        "There are typically no restrictions on active ingredients (like retinoids or AHAs) post-oxygen facial, as it is non-exfoliating and non-traumatic. However, if you have sensitive skin, you may choose to delay strong actives for 12-24 hours."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise and heavy sweating for 12-24 hours to allow the infused products to fully penetrate without being washed away by sweat.",
+                        "Avoid saunas, steam rooms, and very hot showers/baths for 24 hours, as excessive heat can cause flushing.",
+                        "You may swim after 24 hours."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "Maintain your daily sun protection habit. While the treatment itself does not increase photosensitivity, protecting your newly revitalised skin is always essential. Apply a broad-spectrum sunscreen (SPF 30+) daily."
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "You may apply makeup immediately after the treatment if desired. Your skin's improved texture and glow may mean you require less makeup. Ensure your application tools are clean."
+                },
+                {
+                    "title": "Hydration and Nutrition",
+                    "content": "Support the treatment from within by drinking plenty of water. A balanced diet rich in antioxidants will help maintain the brightening effects. Avoid excessive alcohol for 24 hours to prevent dehydration."
+                },
+                {
+                    "title": "Possible Skin Reactions (Rare)",
+                    "content": "While extremely uncommon, if you experience persistent redness, itching, or small raised bumps, you may be sensitive to a specific serum infused during the treatment. This should resolve within 24 hours. If it persists, discontinue use of any new sample products given and contact your therapist."
+                },
+                {
+                    "title": "Maximising and Maintaining Results",
+                    "items": [
+                        "The peak \"glow\" and hydration are most pronounced for 2-3 days post-treatment.",
+                        "For cumulative and long-term benefits, especially for dullness or dehydration, a series of treatments (e.g., every 2-4 weeks) is recommended.",
+                        "The treatment is excellent for pre-event preparation due to its immediate results and lack of downtime."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To help your skin retain the maximum benefits of your oxygen treatment, please review the following simple guidance.",
+            "question_opportunity": "Your therapist can advise on the best homecare products to complement your oxygen facial results.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my oxygen facial. I understand this is a low-downtime treatment designed to enhance my skin's radiance and hydration."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "oxygen_facial_infusion",
+        "treatment_area": "face_neck_decolletage",
+        "document_length": "standard",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "immediate_makeup_allowed",
+            "no_active_ingredient_restriction",
+            "quick_result_timeline"
+        ],
+        "clarity_notes": [
+            "Instructions reflect the minimal intervention and high compatibility of this treatment type."
+        ],
+        "recommendations": [
+            "Could specify to avoid using oil-based makeup removers or cleansers for 12 hours if a specific finishing serum was applied, to avoid removing it prematurely.",
+            "Consider adding a note that the treatment is ideal before air travel to combat cabin dryness, but should be done at least 24 hours before flying.",
+            "May include a reminder that while actives are allowed, introducing a brand-new, untested active product on the same day is not advised."
+        ]
+    }
+}

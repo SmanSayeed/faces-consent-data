@@ -1,0 +1,122 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 200,
+        "feedback": "Comprehensive aftercare form for an anti-ageing facial, effectively balancing guidance for common mild reactions with protocols for managing stronger treatments like peels or microcurrent. Excellent coverage of sun protection, product reintroduction, and long-term result maintenance. Clear timelines for different types of post-treatment responses.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "hydration_nutrition",
+            "peel_specific_guidance",
+            "microcurrent_specific_guidance",
+            "infection_awareness",
+            "follow_up_timing",
+            "long_term_maintenance"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Anti-Ageing Facial Aftercare",
+        "introduction": "This aftercare advice is designed to support your skin's renewal process, protect your investment, and help you achieve the best possible rejuvenating results from your anti-ageing facial treatment.",
+        "instructions": {
+            "general_directive": "Please follow this guidance diligently for the next 5-7 days. Your skin has undergone targeted treatment and requires specific care to heal and reveal improved texture and tone.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Skin Response",
+                    "content": "Depending on the specific modalities used (e.g., peel, microcurrent, ultrasound), your skin may show varying reactions. Mild to moderate redness, a feeling of warmth, tightness, and slight sensitivity are common and expected. This typically subsides within 2-24 hours. With stronger chemical peels, redness and tightness may last 2-3 days."
+                },
+                {
+                    "title": "Hygiene and Cleansing",
+                    "items": [
+                        "Do not wash your face for at least 6-8 hours post-treatment unless otherwise directed by your therapist.",
+                        "For the first 48 hours, cleanse only with a gentle, non-exfoliating, pH-balanced cleanser recommended by your therapist. Use lukewarm water and pat dry—never rub.",
+                        "Avoid using washcloths, facial brushes, or scrubbing devices."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance (CRITICAL)",
+                    "items": [
+                        "Use only the gentle, reparative products provided or recommended by your therapist for the first 3-5 days. This typically includes a gentle cleanser, a soothing serum, and a rich moisturiser.",
+                        "STRICTLY AVOID all exfoliating and active ingredients for 5-7 days, or until all flaking/peeling has stopped and sensitivity has normalised. This includes: Retinol/Retinoids, Vitamin A, AHAs (Glycolic, Lactic Acid), BHAs (Salicylic Acid), strong Vitamin C (L-Ascorbic Acid), and benzoyl peroxide.",
+                        "After the initial healing phase, you may gradually reintroduce your anti-ageing actives, starting with alternate-day use, as advised by your therapist."
+                    ]
+                },
+                {
+                    "title": "Peeling/Flaking Management (If Applicable)",
+                    "content": "If a chemical peel was used, visible flaking or peeling may occur 2-4 days post-treatment. This is a normal part of the skin renewal process. DO NOT PICK, PULL, OR SCRATCH THE SKIN. Allow the skin to shed naturally. Picking can cause scarring, hyperpigmentation, and infection. Keep the skin well-moisturised to ease flaking."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, sweating, saunas, steam rooms, hot yoga, and very hot showers/baths for 48-72 hours. Heat can increase inflammation and irritation.",
+                        "Avoid swimming in chlorinated pools or the sea for at least 48 hours."
+                    ]
+                },
+                {
+                    "title": "Sun Protection Mandate (NON-NEGOTIABLE)",
+                    "content": "Your new skin cells are extremely vulnerable to UV damage. Sun exposure can reverse results and cause hyperpigmentation. For the next 2 weeks, you MUST apply a broad-spectrum, high-SPF (50+) sunscreen every morning and reapply every 2 hours if exposed. Wear a wide-brimmed hat and seek shade. Avoid direct sun exposure and tanning beds entirely."
+                },
+                {
+                    "title": "Makeup Guidance",
+                    "content": "Avoid applying makeup for at least 24 hours, or until significant redness subsides. When resuming makeup, use clean tools and mineral-based or non-comedogenic products. Avoid heavy, full-coverage foundations that may clog pores on healing skin."
+                },
+                {
+                    "title": "Hydration and Nutrition",
+                    "content": "Drink plenty of water to support cellular turnover and skin hydration. Consume antioxidant-rich foods (berries, leafy greens). Avoid excessive alcohol and spicy foods for 48 hours, as they can cause flushing and inflammation."
+                },
+                {
+                    "title": "Microcurrent/Ultrasound Specific Care",
+                    "content": "If you received microcurrent or ultrasonic treatments: Maintain the results by drinking ample water, as these treatments work with the body's electrolytes. You may feel slight muscle tenderness (like a light workout) for 24 hours. Avoid caffeine and alcohol for 24 hours to prevent dehydration, which can diminish effects."
+                },
+                {
+                    "title": "Infection and Adverse Reaction Awareness",
+                    "content": "Signs of infection (increasing pain, pus, spreading redness) are rare. Contact your therapist or a doctor if these occur. If you experience severe itching, blistering, or significant swelling, you may be having an adverse reaction; contact your therapist immediately."
+                },
+                {
+                    "title": "Results Timeline and Follow-Up",
+                    "items": [
+                        "Initial glow and smoothing may be seen within 24-48 hours.",
+                        "For treatments stimulating collagen (like peels, micro-needling), optimal results appear gradually over the following 4-6 weeks as new collagen forms.",
+                        "A follow-up consultation or treatment is typically recommended in 4-6 weeks to assess results and plan ongoing maintenance."
+                    ]
+                },
+                {
+                    "title": "Long-Term Maintenance Advice",
+                    "content": "Anti-ageing is a cumulative process. For sustained improvement, consider a series of treatments as recommended by your therapist and maintain a consistent, high-quality home skincare regimen focused on protection (SPF), prevention (antioxidants), and correction (retinoids, peptides)."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Adhering to this aftercare is crucial for your safety, comfort, and the success of your anti-ageing treatment. Please read thoroughly.",
+            "question_opportunity": "Your therapist has tailored this treatment for you. Please discuss any part of this aftercare you are unsure about before you leave.",
+            "declaration_text": "I confirm that I have read and understood all the aftercare instructions for my anti-ageing facial. I understand the importance of sun protection and avoiding active ingredients during the healing phase. I agree to follow this guidance and will contact the clinic with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "anti_ageing_facial_comprehensive",
+        "treatment_area": "face_neck_decolletage",
+        "document_length": "comprehensive",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "peel_flaking_management",
+            "microcurrent_hydration_emphasis",
+            "collagen_result_timeline",
+            "strict_sun_protocol"
+        ],
+        "clarity_notes": [
+            "Clearly differentiates care for different potential treatment modalities (peels vs. microcurrent)."
+        ],
+        "recommendations": [
+            "Could add a specific note about avoiding facial waxing, threading, or laser hair removal for 7-10 days post-treatment.",
+            "Consider mentioning that mild tingling or sensitivity when applying certain products (even moisturiser) is normal for the first 48 hours."
+        ]
+    }
+}

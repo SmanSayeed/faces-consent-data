@@ -1,0 +1,119 @@
+{
+    "form_analysis": {
+        "completeness_score": 89,
+        "rewards_awarded": 190,
+        "feedback": "Clear and practical aftercare form for threading, focusing on managing the common post-treatment irritation and preventing infection and ingrown hairs. Covers all key areas including product restrictions, activity limits, and soothing techniques. Good guidance on when to seek help for adverse reactions.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "makeup_guidance",
+            "soothing_management",
+            "ingrown_hair_prevention",
+            "infection_awareness",
+            "allergy_emergency",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Threading Aftercare",
+        "introduction": "This aftercare advice is designed to soothe your skin, minimise irritation, and prevent ingrown hairs and infection following your threading treatment, ensuring a smooth, clean result.",
+        "instructions": {
+            "general_directive": "Please follow this guidance for the next 24-72 hours while your skin recovers from the hair removal process.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Skin Response",
+                    "content": "Redness, a sensation of heat, mild swelling (like raised skin), and sensitivity are NORMAL and expected reactions, particularly in sensitive areas like the upper lip, brows, and bikini line. This acute irritation typically peaks within 30 minutes and subsides significantly within 2-4 hours. Residual tenderness may last 24-48 hours."
+                },
+                {
+                    "title": "Soothing and Cooling the Skin",
+                    "items": [
+                        "Apply a cool compress or an ice cube wrapped in a clean cloth to the treated area for 2-5 minutes at a time, several times in the first hour. This reduces redness and swelling.",
+                        "You may apply a small amount of pure Aloe Vera gel, a fragrance-free soothing gel, or a cream containing Calendula or Chamomile to calm the skin.",
+                        "Avoid touching or rubbing the area unnecessarily."
+                    ]
+                },
+                {
+                    "title": "Hygiene and Cleansing",
+                    "items": [
+                        "Do not wash the treated area with hot water for at least 6-8 hours. Use cool or lukewarm water.",
+                        "Gently cleanse the area with a mild, fragrance-free cleanser. Pat dry gently; do not rub.",
+                        "Ensure any towels or cloths that touch the area are clean."
+                    ]
+                },
+                {
+                    "title": "Skincare and Cosmetic Product Restrictions",
+                    "items": [
+                        "Avoid applying makeup, foundation, concealer, or powder directly to the threaded area for at least 12-24 hours. Cosmetics can clog open follicles and cause breakouts or infection.",
+                        "DO NOT apply any of the following to the treated area for 48-72 hours: exfoliants (AHAs/BHAs, scrubs), retinoids/retinol, strong acne treatments (benzoyl peroxide, salicylic acid), anti-ageing serums, perfumed products, or astringents (toners with alcohol).",
+                        "You may apply a light, non-comedogenic moisturiser or your usual sunscreen after 6-8 hours if the skin is not overly irritated."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid hot baths, showers, saunas, steam rooms, steam from cooking, and hot tubs for 24 hours. Heat will increase redness and swelling.",
+                        "Avoid swimming in chlorinated pools, salt water, or lakes for 24-48 hours to prevent infection and irritation.",
+                        "Avoid excessive sweating and strenuous exercise for 24 hours. Sweat contains salts and bacteria that can sting and irritate the open follicles.",
+                        "Avoid direct sun exposure and tanning beds on the treated area for 48 hours. The skin is more vulnerable to UV damage and hyperpigmentation."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "After the initial 24-hour period, if the area will be exposed to sun (e.g., eyebrows), apply a gentle, fragrance-free sunscreen (SPF 30+). For facial threading, incorporate this into your daily routine."
+                },
+                {
+                    "title": "Ingrown Hair Prevention",
+                    "content": "To prevent ingrown hairs, you may begin gentle exfoliation 3-4 days after threading. Use a soft washcloth, a gentle chemical exfoliant (like a mild AHA toner), or an ingrown hair solution as recommended by your therapist. Do not exfoliate before this as it will irritate the skin."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs of infection are uncommon but require attention. Contact your therapist or a doctor if you notice: increasing (not decreasing) redness after 24 hours, pus, yellow crusting, increasing pain, or spreading warmth/swelling."
+                },
+                {
+                    "title": "Allergy or Severe Reaction",
+                    "content": "If any product (like a pre-threading powder or post-treatment cream) was used, a localized allergic reaction is possible. Signs include intense itching, hives, or blistering at the site. Discontinue use of any new product and contact your therapist. Seek emergency care if you experience difficulty breathing or swelling of the lips/throat."
+                },
+                {
+                    "title": "General Advice and Follow-Up",
+                    "items": [
+                        "Minor pinpoint bleeding is possible and normal. It should stop quickly.",
+                        "For brow threading, the full shape and clean lines will be most apparent once the redness subsides.",
+                        "To maintain your shape, schedule your next threading appointment every 3-6 weeks, depending on your hair growth cycle."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Proper aftercare is key to a comfortable experience and a perfect finish. Please read the following instructions.",
+            "question_opportunity": "Your therapist is experienced in managing skin reactions. Please ask if you are unsure about any product or step in your aftercare.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my threading treatment. I understand the need to avoid heat, sweat, and certain products on the treated area and will follow this guidance to ensure proper healing."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_removal_aftercare",
+        "treatment_type": "threading",
+        "treatment_area": "eyebrows_face_body_variable",
+        "document_length": "detailed",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "focus_on_follicle_irritation_management",
+            "ingrown_hair_prevention_timing",
+            "immediate_cooling_techniques"
+        ],
+        "clarity_notes": [
+            "Clear distinction between immediate soothing (first few hours) and longer-term care (48-72 hrs)."
+        ],
+        "recommendations": [
+            "Could add a specific note for bikini/body threading to wear loose, breathable cotton clothing for 24-48 hours to minimise friction.",
+            "Consider mentioning that slight scabbing or tiny whiteheads (folliculitis) around hair follicles can occur 1-2 days post-treatment; advise not to pick and to keep the area clean.",
+            "May include advice to sleep on a clean pillowcase after facial threading."
+        ]
+    }
+}

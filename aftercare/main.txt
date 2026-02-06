@@ -11,19 +11,19 @@ Profhilo---Completed
 Bum filler---Completed
 
 ■Beauty 
-Deep cleansing facial   
-Hydrating facial
-Anti-ageing facial
-Acne treatment facial
-Chemical peels (superficial / medium)
-LED light therapy
-Oxygen facial
-Carbon laser facial
-Waxing (face & body)
-Threading
-Microneedling
-Dermaplaning
-Sugaring
+Deep cleansing facial ---Not found---Completed
+Hydrating facial---Not found---Completed
+Anti-ageing facial---Not found---Completed
+Acne treatment facial---Not found---Completed
+Chemical peels (superficial / medium)---Completed
+LED light therapy---Completed
+Oxygen facial---Not found---Completed
+Carbon laser facial---Completed
+Waxing (face & body)---Completed
+Threading---Not found---Completed
+Microneedling---Completed
+Dermaplaning---Completed
+Sugaring---Completed
 
 ■Hair
 Blow dry Not found
@@ -261,7 +261,7 @@ Lactic peel
 Mandelic peel
 TCA peel
 Jessner peel
-Carbon laser peel
+Carbon laser facial
 
 
 ■Massage 
