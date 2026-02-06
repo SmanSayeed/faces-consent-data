@@ -1,0 +1,152 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 230,
+        "feedback": "Exceptionally comprehensive and clear aftercare form for bikini/Brazilian laser hair removal. Provides detailed, area-specific guidance for the sensitive intimate region, including clear day-by-day healing phases and shedding explanation. Outstanding coverage of hygiene, activity restrictions, clothing advice, and managing common side effects like folliculitis. Strong emphasis on sun protection, proper hair management, and preventing complications. Includes practical advice for comfort and long-term results.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "healing_timeline_day_by_day",
+            "shedding_process_explanation",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "clothing_advice",
+            "sun_protection_mandate",
+            "hair_management_guidance",
+            "shaving_instructions",
+            "skincare_product_restrictions",
+            "folliculitis_ingrown_prevention",
+            "infection_awareness",
+            "pigmentation_awareness",
+            "blistering_management",
+            "sexual_activity_guidance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Bikini & Brazilian Laser Hair Removal Aftercare",
+        "introduction": "This aftercare advice is VITAL for your comfort, safety, and the success of your intimate laser hair removal treatment. The bikini area is highly sensitive; proper care minimises side effects, prevents complications like folliculitis, and ensures optimal long-term hair reduction.",
+        "instructions": {
+            "general_directive": "Please follow this guidance meticulously for the first 5-7 days. Sun protection and correct hair management rules apply throughout your entire treatment course.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment (First 24-48 Hours)",
+                    "items": [
+                        "The treated area will feel warm, sensitive, and look red with swollen hair follicles (perifollicular edema). This resembles a mild to moderate razor burn or sunburn and is a normal, desired reaction.",
+                        "Apply cold compresses or a wrapped ice pack for 10-15 minutes every hour to soothe burning and reduce swelling.",
+                        "Apply a fragrance-free aloe vera gel, calming gel, or aqueous cream sparingly to moisturise and cool the skin. Avoid heavy creams, petroleum jelly, or perfumed products.",
+                        "Wear loose-fitting, breathable cotton underwear and clothing. Avoid tight jeans, leggings, or synthetic fabrics that cause friction and trap moisture.",
+                        "Take a cool shower if needed. Avoid hot baths, showers, saunas, and steam rooms."
+                    ]
+                },
+                {
+                    "title": "The Healing & Shedding Timeline (Bikini Area)",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Calming Phase",
+                            "content": "Redness and swelling subside. The area may feel dry, tight, and itchy. Stubble may feel coarse. Continue gentle moisturising."
+                        },
+                        {
+                            "phase": "Days 5-21: The Shedding Phase",
+                            "content": "Treated hairs will begin to shed. This may appear as: Black dots (hairs) seeming 'stuck' under the skin. Hairs falling out easily during washing or gentle exfoliation. The appearance of 'blackheads' or 'ingrown hairs'. DO NOT PICK, SCRATCH, OR TRY TO EXTRACT HAIRS. This can cause scarring and infection. Gentle exfoliation with a soft washcloth or a mild chemical exfoliant (after day 7) can help release hairs."
+                        },
+                        {
+                            "phase": "Weeks 3-4:",
+                            "content": "Shedding should be complete. The skin should feel smoother with significantly reduced hair growth in the treated zones."
+                        }
+                    ]
+                },
+                {
+                    "title": "Hygiene & Cleansing",
+                    "items": [
+                        "Gently cleanse the area twice daily with a mild, fragrance-free, pH-balanced cleanser and lukewarm water. Pat dry completely—do not rub.",
+                        "Keep the area clean and dry. After sweating or using the toilet, pat dry gently.",
+                        "Avoid public pools, hot tubs, saunas, and bathing in lakes/the sea for 48-72 hours."
+                    ]
+                },
+                {
+                    "title": "Activity, Clothing & Sexual Activity Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, cycling, spinning, and activities causing friction or sweating in the area for 48-72 hours.",
+                        "Wear loose, cotton clothing and underwear. Avoid tight gym wear, thongs, or lace for the first few days.",
+                        "Avoid sexual activity for 48-72 hours, or until significant redness and sensitivity have subsided, to prevent friction and irritation."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "You MUST protect the treated area from sun exposure for 4 WEEKS before and after each treatment. Tanning (natural or artificial) increases the risk of burns, blistering, and permanent pigment changes (dark or light spots). If the area will be exposed to sun, apply a high-SPF, fragrance-free sunscreen and wear protective clothing. NO TANNING BEDS."
+                },
+                {
+                    "title": "Hair Management Between Sessions (CRITICAL)",
+                    "items": [
+                        "DO NOT pluck, wax, thread, or use depilatory creams (Nair, Veet) on the treated area. This removes the hair follicle and makes laser ineffective.",
+                        "The ONLY permitted method of hair removal between sessions is SHAVING or trimming with clippers.",
+                        "You may shave once sensitivity subsides (usually after 48 hours). Shaving is often required 1-2 days before your next session.",
+                        "Do not shave over any broken skin, blisters, or crusts."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "For 5-7 days, avoid harsh products on the treated area: retinoids, AHAs/BHAs (glycolic, salicylic acid), benzoyl peroxide, abrasive scrubs, perfumed lotions, and deodorants (if treating inner thigh/bikini line).",
+                        "Use only gentle, fragrance-free moisturisers.",
+                        "Avoid fake tanning products on the area for 5 days pre and post-treatment."
+                    ]
+                },
+                {
+                    "title": "Managing Common Side Effects (Bikini-Specific)",
+                    "items": [
+                        "Folliculitis (Razor Bumps): Common due to curly hair and friction. Keep the area clean, dry, and exfoliate gently from day 7. Wear breathable fabrics. If persistent, your clinician may recommend a topical treatment.",
+                        "Itching: Common during healing and shedding. A cool compress or recommended anti-itch cream can help. Do not scratch.",
+                        "Crusting/Scabbing: Small scabs may form on treated follicles. Do not pick. They will fall off naturally.",
+                        "Blistering: Rare but possible. Do not pop. Keep clean and covered. Contact your clinic.",
+                        "Hyper/Hypopigmentation: Temporary darkening or lightening of the skin. Strict sun avoidance is key. Usually fades over months."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs of infection include: increasing redness, swelling, warmth, pain, pus, or foul odor. You may also feel feverish. Contact your clinic or a doctor immediately if you suspect infection."
+                },
+                {
+                    "title": "Follow-Up and Treatment Schedule",
+                    "items": [
+                        "A course of 6-12+ sessions is typically needed for significant, long-term reduction, spaced 4-8 weeks apart for the bikini area.",
+                        "Consistency is key. Attend all scheduled sessions for best results.",
+                        "Hair reduction is gradual. You should notice thinning and slowed growth after 3-4 sessions.",
+                        "Maintenance sessions may be needed annually after completing the initial course.",
+                        "Contact your clinic with any concerns before your next appointment."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Adherence to this aftercare is fundamental for a comfortable experience and effective, permanent hair reduction in this sensitive area. Please read thoroughly.",
+            "question_opportunity": "Your laser practitioner is your best resource. Do not hesitate to contact the clinic with photos or questions about any reaction during healing.",
+            "declaration_text": "I confirm that I have read and understood all aftercare instructions for my bikini/Brazilian laser hair removal. I understand the critical importance of sun protection, wearing loose clothing, avoiding other hair removal methods, and managing the shedding process. I agree to follow all guidelines to ensure safe and effective treatment and will contact the clinic promptly with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "bikini_brazilian_laser_hair_removal",
+        "treatment_area": "bikini_intimate",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "sexual_activity_guidance",
+            "clothing_fabric_specific_advice",
+            "folliculitis_prevention_emphasis",
+            "hygiene_emphasis_for_intimate_area"
+        ],
+        "clarity_notes": [
+            "Addresses very practical and specific concerns for this treatment area (clothing, sexual activity, hygiene)."
+        ],
+        "recommendations": [
+            "Could include a note about menstruation: using pads instead of tampons for the first 24-48 hours if the treatment was internal, to avoid additional insertion friction.",
+            "Add a reminder to avoid using intimate wipes or sprays containing alcohol or fragrance for 5-7 days.",
+            "Consider mentioning that temporary swelling of the labia or mons pubis can occur; advise cool compresses and loose clothing."
+        ]
+    }
+}

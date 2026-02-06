@@ -1,0 +1,140 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Exceptional aftercare form for laser skin rejuvenation, providing comprehensive, phase-by-phase guidance for the complex healing process. Masterfully covers pre-treatment preparation, detailed immediate response (MEND phase), shedding (EXFOLIATE), and long-term collagen remodeling (REMODEL). Outstanding emphasis on sun protection, infection prevention, and managing expectations. Includes clear guidance for different laser intensities and practical advice for social downtime.",
+        "sections_covered": [
+            "pre_treatment_preparation",
+            "immediate_post_treatment_response_phase",
+            "exfoliation_phase_guidance",
+            "remodeling_phase_guidance",
+            "hygiene_cleansing_instructions",
+            "ointment_application_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "pain_management",
+            "infection_awareness",
+            "herpes_simplex_prophylaxis",
+            "pigmentation_awareness",
+            "makeup_guidance",
+            "social_downtime_expectations",
+            "result_timeline_expectations",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Skin Rejuvenation Aftercare",
+        "introduction": "This comprehensive aftercare protocol is CRITICAL for the safe, effective, and predictable healing of your laser skin rejuvenation treatment (e.g., Fraxel, CO2, Erbium, IPL/BroadBand Light). Adherence directly impacts your results, comfort, and risk of complications. Healing occurs in distinct phases over several weeks.",
+        "instructions": {
+            "general_directive": "Follow this phased guidance meticulously. Your practitioner will specify if your treatment was ablative (removes surface skin) or non-ablative (heats deeper tissue), which affects downtime intensity.",
+            "sections": [
+                {
+                    "title": "Pre-Treatment Preparation (Key for Success)",
+                    "content": "Ideally, you should have: Avoided sun exposure/tanning for 4 weeks. Stopped retinoids, glycolic acid, and other exfoliants 5-7 days prior. Taken antiviral medication (e.g., Valtrex) if prone to cold sores, as laser can trigger outbreaks. Arranged 3-7 days of social downtime depending on laser type."
+                },
+                {
+                    "title": "Phase 1: Immediate Response & MEND (Days 0-4)",
+                    "items": [
+                        "Hours 0-12: Skin will feel like a severe sunburn: hot, tight, red, swollen. Mild pinpoint bleeding (ablative) or sandpaper texture (non-ablative) is common.",
+                        "Cooling & Soothing: Apply cold compresses or cold air fan for 15 minutes every hour. Sleep elevated on 2-3 pillows to reduce swelling.",
+                        "Cleansing & Ointment: Gently cleanse with a recommended gentle wash or sterile water 2-3 times daily. Pat dry. Apply a thick layer of the provided healing ointment (e.g., petroleum jelly, Aquaphor) to keep the skin constantly moist. This creates a protective barrier and is VITAL for proper healing. Reapply whenever the area feels dry or tight.",
+                        "Do NOT allow the skin to dry out or form a hard scab.",
+                        "Pain Management: Over-the-counter pain relievers like Paracetamol can be used. Avoid NSAIDs (Ibuprofen) unless prescribed, as they may increase bruising."
+                    ]
+                },
+                {
+                    "title": "Phase 2: Exfoliation & Shedding (Days 3-10)",
+                    "items": [
+                        "Skin will darken, feel tight, and begin to flake or peel. With ablative lasers, a yellowish exudate or crust may form – this is normal, not infection.",
+                        "DO NOT PICK, PULL, OR SCRATCH THE SKIN. Allow it to shed naturally. Picking can cause scarring, infection, and pigment changes.",
+                        "Continue gentle cleansing and ointment application until all flaking has stopped.",
+                        "Itching is common. An oral antihistamine (like cetirizine) can help.",
+                        "The skin underneath will be very pink, delicate, and sensitive."
+                    ]
+                },
+                {
+                    "title": "Phase 3: Pink & Remodeling Phase (Days 10-28+)",
+                    "items": [
+                        "Once peeling is complete, the new skin will be uniformly pink (like a baby's skin) and may feel smooth or slightly swollen.",
+                        "Transition from ointment to a gentle, fragrance-free moisturiser and sunscreen. Sunscreen is NON-NEGOTIABLE.",
+                        "The pink colour will gradually fade over 2-8 weeks. Makeup can be used to camouflage it once healing is complete (after 7-14 days, with practitioner approval).",
+                        "This phase involves deep collagen remodeling. You may not see final results for 3-6 months."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (The Single Most Important Rule)",
+                    "content": "Your new skin is EXTREMELY vulnerable to UV damage. For 4 WEEKS BEFORE and 3-6 MONTHS AFTER treatment, you must be fanatical about sun protection: Apply a mineral-based (zinc oxide/titanium dioxide) broad-spectrum SPF 30-50+ every morning and reapply every 2 hours if exposed. Wear a wide-brimmed hat and seek shade. UV exposure can cause permanent hyperpigmentation (dark spots), hypopigmentation (light spots), and scar the new skin."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions",
+                    "items": [
+                        "Avoid sweating, strenuous exercise, saunas, steam rooms, and hot showers for 7-14 days (until peeling is complete). Sweat can cause irritation and infection.",
+                        "Avoid swimming in pools, hot tubs, or the ocean for 10-14 days.",
+                        "Avoid dusty, dirty environments."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "Do NOT use any active ingredients until your practitioner gives the all-clear (typically 4-6 weeks post-treatment). This includes: Retinoids/Retinol, AHAs (glycolic, lactic acid), BHAs (salicylic acid), Vitamin C (L-ascorbic acid), and benzoyl peroxide.",
+                        "Use only the gentle cleanser and moisturiser recommended by your clinic.",
+                        "Avoid facial treatments (peels, microdermabrasion, waxing) for at least 6-8 weeks."
+                    ]
+                },
+                {
+                    "title": "Infection & Complication Awareness",
+                    "items": [
+                        "Signs of Infection: Increasing (not decreasing) pain, spreading redness, yellow/green pus, foul odor, or fever. Contact your practitioner immediately.",
+                        "Herpes Simplex (Cold Sores): If you are prone and did not take prophylaxis, tingling or blistering around the mouth is a sign. Start antiviral medication immediately and contact your practitioner.",
+                        "Prolonged Redness/Swelling: Some redness is normal for weeks. Contact your practitioner if it worsens or is accompanied by itchiness (sign of contact dermatitis).",
+                        "Hyper/Hypopigmentation: Report any concerning dark or light spots to your practitioner during follow-up."
+                    ]
+                },
+                {
+                    "title": "Makeup & Social Downtime",
+                    "content": "Do not apply makeup until the skin has fully re-epithelialized (no open areas, crusting, or oozing). This is typically after 5-7 days for non-ablative and 10-14 days for ablative lasers. Use clean brushes and mineral-based makeup. Plan for 3-7 days of social downtime depending on the laser's aggressiveness."
+                },
+                {
+                    "title": "Result Timeline & Follow-Up",
+                    "items": [
+                        "Initial results (smoother texture, reduced redness) may be seen after 2-4 weeks.",
+                        "True collagen remodeling takes 3-6 months. Improvements in wrinkles, scarring, and tightness will gradually appear during this time.",
+                        "Multiple sessions (3-5) are often required for optimal results, spaced 4-8 weeks apart.",
+                        "A follow-up appointment is typically scheduled at 4-6 weeks to assess healing and plan subsequent treatments.",
+                        "Protect your investment with lifelong daily sunscreen use."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Laser rejuvenation is a controlled injury. Your commitment to this detailed aftercare protocol determines the quality of your result and your safety. Please read and commit fully.",
+            "question_opportunity": "Your practitioner is your guide through this process. Send clear photos if you have concerns about healing between appointments. When in doubt, call the clinic.",
+            "declaration_text": "I confirm that I have read and understood the comprehensive, phased aftercare instructions for my laser skin rejuvenation treatment. I understand the critical importance of constant moisturisation (MEND phase), never picking the skin, and absolute, fanatical sun protection for 3-6 months. I agree to follow all restrictions and will contact the clinic immediately with any signs of infection or unexpected reactions."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_skin_rejuvenation_fractional_ablative",
+        "treatment_area": "face_neck_decolletage_hands",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "phased_healing_guide_mend_exfoliate_remodel",
+            "antiviral_prophylaxis_emphasis",
+            "social_downtime_guidance",
+            "long_term_collagen_timeline"
+        ],
+        "clarity_notes": [
+            "Exceptional structure that guides the patient through the psychologically challenging healing process with clear expectations."
+        ],
+        "recommendations": [
+            "Could add a specific note about \"frosting\" (white, chalky appearance) immediately after some non-ablative fractional lasers, explaining it's normal and will fade in hours.",
+            "Include advice for managing edema (swelling) around the eyes, which can be significant; recommend sleeping upright and using cool compresses.",
+            "Consider mentioning that the skin may feel unusually dry for several months post-treatment; emphasize continued gentle moisturising."
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 205,
+        "feedback": "Excellent aftercare form for lash tinting, with a strong focus on eye safety, preventing irritation, and maintaining colour longevity. Provides clear timelines for colour development and fading. Comprehensive coverage of product restrictions, activity limits, and allergy/emergency protocols. Good emphasis on the critical dry period.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "colour_development_timeline",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "product_restrictions",
+            "allergy_emergency",
+            "corneal_irritation_awareness",
+            "infection_awareness",
+            "long_term_maintenance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Eyelash Tinting Aftercare",
+        "introduction": "This aftercare advice is essential for your eye safety, comfort, and to ensure the longevity and richness of your lash tint. Please follow these instructions carefully to avoid irritation and protect your eyes.",
+        "instructions": {
+            "general_directive": "Please follow this guidance diligently for the next 24-48 hours. The first 12 hours are most critical.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment & The First 12-24 Hours (CRITICAL)",
+                    "items": [
+                        "Do not wet, wash, or steam your lashes for at least 12 hours, ideally 24 hours. This includes avoiding crying, sweating, saunas, steam rooms, and very steamy showers.",
+                        "Avoid touching, rubbing, or manipulating your lashes.",
+                        "Your eyes may be slightly red or sensitive immediately after; this should subside within 1-2 hours. A mild, temporary stinging sensation is possible.",
+                        "The tint colour will develop and darken over the first few hours post-treatment."
+                    ]
+                },
+                {
+                    "title": "Colour Development and Longevity",
+                    "content": "The final, richest colour is typically visible 4-6 hours after the treatment. The tint will gradually fade over 3-6 weeks as your natural lashes shed and are replaced. Sun exposure, chlorine, and oil-based products can accelerate fading."
+                },
+                {
+                    "title": "Hygiene and Cleansing (After First 12-24 Hours)",
+                    "items": [
+                        "After the initial dry period, you may cleanse your face normally. Avoid getting oil-based makeup removers, cleansers, or creams directly on the lashes for the first 48 hours.",
+                        "When removing eye makeup, use a water-based or micellar solution and gently swipe sideways, avoiding vigorous rubbing of the lash line.",
+                        "You may shower, but avoid directing hot water and steam onto your face for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Skincare and Cosmetic Product Restrictions",
+                    "items": [
+                        "For the first 48 hours, avoid applying any products directly to the lashes or lash line, including: moisturisers, oils, serums, sunscreen, eyeliner, eyeshadow, and mascara.",
+                        "After 48 hours, you may resume using eye makeup. Oil-based mascaras and makeup removers will strip the tint faster than water-based formulas.",
+                        "Avoid using eyelash growth serums (containing prostaglandin analogues like bimatoprost) for 24 hours post-tint, unless directed by your doctor.",
+                        "Do not use eyelash curlers for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid excessive sweating and strenuous exercise for 24 hours.",
+                        "Avoid swimming in chlorinated pools or salt water for 48 hours. Chlorine is a strong bleaching agent.",
+                        "Minimize direct sun exposure to your eyes. Wear sunglasses with UV protection.",
+                        "Avoid saunas, steam rooms, and hot yoga for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Allergy and Sensitivity Awareness (PATCH TEST REMINDER)",
+                    "content": "A patch test 24-48 hours prior to treatment is MANDATORY to rule out allergy. If you experience a delayed reaction, signs may include: intense itching, redness, swelling of the eyelids, blistering, or watery discharge. If this occurs, take an antihistamine if safe for you, remove any eye makeup, and contact your therapist immediately. Seek emergency care for difficulty breathing or significant facial swelling."
+                },
+                {
+                    "title": "Corneal Irritation or Abrasion",
+                    "content": "If you experience a persistent feeling of something in your eye (grittiness), sensitivity to light, excessive watering, or blurred vision AFTER the initial 1-2 hour sensitivity period, you may have corneal irritation. Do not rub your eye. Flush with sterile saline or water and seek medical attention if it persists, then inform your therapist."
+                },
+                {
+                    "title": "Infection Awareness (Rare)",
+                    "content": "Signs of infection are extremely rare but serious. Contact your doctor if you experience: increasing pain, yellow/green discharge (not normal tearing), worsening redness, or swelling of the eye or eyelid after 24 hours."
+                },
+                {
+                    "title": "Managing Expectations and Results",
+                    "items": [
+                        "Tinting enhances your natural lashes, making them appear darker, thicker, and more defined without mascara.",
+                        "Results are most noticeable on lighter-coloured lashes (blonde, light brown, grey). Very dark lashes will gain depth and richness.",
+                        "The tint does not affect lash length or thickness.",
+                        "To maintain consistent colour, schedule your next tinting appointment every 3-5 weeks."
+                    ]
+                },
+                {
+                    "title": "Long-Term Care for Colour Longevity",
+                    "items": [
+                        "Use oil-free eye makeup removers and cleansers to prolong tint life.",
+                        "Wear sunglasses to protect from UV fading.",
+                        "If you swim regularly, wet your lashes with clean water before entering a chlorinated pool and rinse afterwards.",
+                        "Condition your lashes with a nourishing, tint-safe serum if desired."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Proper aftercare ensures your safety and maximizes your results. Please read thoroughly.",
+            "question_opportunity": "Your therapist can advise on ideal tint shades and compatible lash products. Please ask any questions.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my eyelash tinting treatment. I understand the critical dry period and the importance of avoiding eye rubbing and irritants. I acknowledge the necessity of a patch test for future treatments and will seek immediate medical attention for any severe eye symptoms."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "beauty_treatment_aftercare",
+        "treatment_type": "eyelash_tinting",
+        "treatment_area": "eyelashes",
+        "document_length": "detailed",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "corneal_irritation_protocol",
+            "patch_test_mandatory_reminder",
+            "oil_based_product_warning"
+        ],
+        "clarity_notes": [
+            "Clear distinction between normal immediate sensitivity and symptoms requiring medical attention."
+        ],
+        "recommendations": [
+            "Could include a specific note for contact lens wearers: wait at least 4 hours before reinserting lenses and ensure hands are clean.",
+            "Add a reminder to avoid using waterproof mascara for the first 48-72 hours as its removal requires stronger, often oil-based, products.",
+            "Consider mentioning that the treatment is not suitable for those with active eye infections (styes, conjunctivitis) or recent eye surgery."
+        ]
+    }
+}

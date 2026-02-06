@@ -1,0 +1,100 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 205,
+        "feedback": "Excellent comprehensive aftercare form for what appears to be a lip blush or permanent makeup procedure. Well-structured with clear time-phased instructions, realistic expectations management, and appropriate emergency protocols. Includes detailed healing timeline and long-term maintenance guidance.",
+        "sections_covered": [
+            "immediate_24_48_hour_care",
+            "first_week_healing",
+            "expected_side_effects",
+            "emergency_medical_guidance",
+            "long_term_maintenance",
+            "follow_up_scheduling"
+        ]
+    },
+    "form_data": {
+        "document_title": "Lip Permanent Makeup / Lip Blush Aftercare",
+        "introduction": "AFTERCARE:",
+        "instructions": {
+            "phased_sections": [
+                {
+                    "time_period": "Immediate Aftercare (First 24-48 Hours)",
+                    "items": [
+                        "Swelling and Redness: Some redness and swelling are common immediately after the procedure. This should subside within a few hours to a couple of days. Apply a cool compress to the treated area if needed to reduce swelling.",
+                        "Avoid Touching Your Lips: Refrain from touching, rubbing, or picking at your lips to avoid irritation, infection, or scarring.",
+                        "Avoid Makeup: Do not apply lipstick, lip gloss, or any other lip makeup for at least 7 days following the procedure to reduce the risk of infection.",
+                        "Keep Lips Clean: Gently clean your lips with lukewarm water and a mild, non-irritating cleanser. Avoid using any exfoliating products on the lips.",
+                        "No Sun Exposure: Avoid direct sun exposure for at least 2 weeks after the procedure. If you need to be outdoors, apply a broad-spectrum sunscreen with an SPF of at least 30 to protect the treated area.",
+                        "No Excessive Sweating: Avoid exercise or activities that may cause sweating for 48 hours post-procedure, as this can irritate the treated area."
+                    ]
+                },
+                {
+                    "time_period": "Healing Process (First Week)",
+                    "items": [
+                        "Moisturise Your Lips: Apply a gentle, fragrance-free lip balm or ointment regularly to keep your lips hydrated during the healing process. This will help prevent dryness and cracking.",
+                        "Avoid Scratching or Peeling: As your lips heal, they may begin to peel or flake. Do not scratch, pick, or peel the skin. Let the flakes fall off naturally to avoid scarring and loss of pigment.",
+                        "Avoid Swimming: Do not swim in pools, hot tubs, or natural bodies of water for at least 7 days post-procedure. This will prevent the risk of infection and allow the healing process to progress without interference.",
+                        "Do Not Exfoliate: Avoid using any scrubs, exfoliating products, or treatments on the treated area for at least 2 weeks."
+                    ]
+                }
+            ],
+            "expected_side_effects": {
+                "title": "Possible Side Effects and What to Expect",
+                "items": [
+                    "Dryness and Flaking: It is normal for your lips to feel dry and begin to peel during the healing process. This will typically start within a few days and last for about a week.",
+                    "Itching: Mild itching is a normal part of the healing process. However, do not scratch or pick at the area, as this can affect the final result.",
+                    "Temporary Darkening: The colour of your lips may initially appear darker than the final result. This is normal, and the pigment will lighten as the lips heal.",
+                    "Swelling or Bruising: Mild swelling and bruising may occur in some cases but should resolve within a few days."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Seek Medical Attention",
+                "content": "Please contact your practitioner or seek immediate medical help if you experience:",
+                "items": [
+                    "Severe redness, swelling, or pain that worsens after 48 hours.",
+                    "Any signs of infection, such as increased warmth, pus, or spreading redness.",
+                    "Unusual or persistent bleeding or discomfort.",
+                    "Any signs of an allergic reaction (e.g., hives, rash, difficulty breathing)."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care (Beyond 2 Weeks)",
+                "items": [
+                    "Protect Your Lips from the Sun: Continue to protect your lips from sun exposure for at least 6 weeks following the procedure. Use a lip balm with SPF 30 or higher daily to prevent pigmentation changes.",
+                    "Touch-Up Appointments: Depending on how your skin heals and the pigment settles, a touch-up appointment may be required to enhance or adjust the colour. It is recommended to schedule a follow-up session 6-8 weeks after the initial procedure.",
+                    "Moisturise Regularly: Keep your lips moisturised to maintain softness and ensure that the pigment remains vibrant for longer."
+                ]
+            }
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "permanent_cosmetics_aftercare",
+        "treatment_type": "lip_blush_permanent_makeup",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "time_phased_structure": true,
+        "special_features": [
+            "detailed healing timeline with specific expectations",
+            "temporary darkening warning included",
+            "specific swimming restrictions (pools, hot tubs, natural water)",
+            "long-term sun protection guidance (6+ weeks)",
+            "touch-up appointment timeframe (6-8 weeks)",
+            "realistic expectations about peeling and flaking"
+        ],
+        "recommendations": [
+            "Add specific treatment name in title for clarity",
+            "Include expected color evolution timeline",
+            "Add guidance on eating/drinking during healing",
+            "Include specific product recommendations for cleansing and moisturizing",
+            "Add contact information for practitioner"
+        ]
+    }
+}

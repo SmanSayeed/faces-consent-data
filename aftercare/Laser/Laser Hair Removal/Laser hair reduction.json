@@ -1,0 +1,138 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 225,
+        "feedback": "Excellent and comprehensive aftercare form for laser hair reduction. Provides exceptionally clear day-by-day guidance for the entire healing and shedding process. Outstanding coverage of sun protection, activity restrictions, and managing common side effects like perifollicular edema. Strong emphasis on pre- and post-treatment shaving and the critical importance of avoiding other hair removal methods.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "healing_timeline_day_by_day",
+            "shedding_process_explanation",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "hair_management_guidance",
+            "shaving_instructions",
+            "skin_product_restrictions",
+            "infection_folliculitis_awareness",
+            "pigmentation_awareness",
+            "blistering_management",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Hair Reduction Aftercare",
+        "introduction": "This aftercare advice is CRITICAL for your comfort, safety, and the effectiveness of your laser hair reduction treatment. Proper care minimizes side effects, prevents complications, and ensures optimal hair follicle damage for long-term reduction.",
+        "instructions": {
+            "general_directive": "Please follow this guidance meticulously. The first 24-48 hours are most sensitive, but sun protection and hair management rules apply until your next session.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment (First 24 Hours)",
+                    "items": [
+                        "The treated area will feel warm, sensitive, and look pink/red with mild swelling (like a sunburn). This is normal and expected (perifollicular edema).",
+                        "Apply cold compresses or wrapped ice packs for 10-15 minutes every hour as needed to soothe discomfort and reduce swelling.",
+                        "You may apply a fragrance-free aloe vera gel or a gentle moisturiser like aqueous cream if the skin feels dry or tight.",
+                        "Avoid hot baths/showers, saunas, and steam. Use lukewarm water only."
+                    ]
+                },
+                {
+                    "title": "The Healing & Shedding Timeline",
+                    "items": [
+                        {
+                            "phase": "Days 1-3:",
+                            "content": "Redness and swelling subside. The skin may feel dry or itchy. Continue gentle moisturising."
+                        },
+                        {
+                            "phase": "Days 5-14: The Shedding Phase:",
+                            "content": "Treated hairs will begin to shed. You may notice hairs pushing out of the follicle or see what looks like blackheads or stubble that doesn't grow. This is the treated hair being expelled. DO NOT PICK, SCRATCH, OR WAX. Exfoliate gently with a soft washcloth or loofah from day 5 onwards to help hairs release."
+                        },
+                        {
+                            "phase": "Weeks 2-4:",
+                            "content": "Shedding completes. The skin should be smooth. Some dormant hairs that were not in the growth phase during treatment may appear later."
+                        }
+                    ]
+                },
+                {
+                    "title": "Sun Protection (NON-NEGOTIABLE)",
+                    "content": "You must protect the treated area from sun exposure for 4 WEEKS before and 4 WEEKS after each treatment. Sun exposure increases the risk of severe burns, blistering, and permanent hyperpigmentation (dark spots) or hypopigmentation (white spots). Apply a broad-spectrum SPF 30+ daily, even if indoors. Wear protective clothing. DO NOT TAN."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, sweating, and heat (gyms, saunas, hot yoga) for 24-48 hours.",
+                        "Avoid swimming in chlorinated pools, hot tubs, and salt water for 48-72 hours.",
+                        "Avoid tight clothing over the treated area for 48 hours to prevent friction and irritation."
+                    ]
+                },
+                {
+                    "title": "Hair Management Between Sessions (CRITICAL)",
+                    "items": [
+                        "DO NOT pluck, wax, thread, or use depilatory creams on the treated area. This removes the hair follicle targeted by the laser.",
+                        "The ONLY permitted method of hair removal between sessions is SHAVING or trimming. You may shave as needed once any redness has subsided (usually after 24-48 hours).",
+                        "Shaving will not affect treatment results. In fact, you are encouraged to shave a day or two before your next session as per clinic instructions."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "For 5-7 days post-treatment, avoid using any harsh products on the treated area: retinoids/retinol, AHAs (glycolic, lactic acid), BHAs (salicylic acid), benzoyl peroxide, or abrasive scrubs.",
+                        "Use only gentle, fragrance-free cleansers and moisturisers.",
+                        "Avoid perfumed body lotions, deodorants (if underarms treated), and fake tan on the area for 5 days."
+                    ]
+                },
+                {
+                    "title": "Potential Side Effects & Management",
+                    "items": [
+                        "Itching: Common during healing. Apply a cool compress or recommended moisturiser. Do not scratch.",
+                        "Crusting/Scabbing: Small scabs may form on treated follicles. Do not pick. Keep moisturized; they will fall off naturally.",
+                        "Folliculitis: Small, pimple-like bumps may appear. Keep the area clean and dry. Avoid tight clothing. Usually resolves in a few days.",
+                        "Blistering: Rare, but possible on sensitive skin. Do not pop blisters. Keep the area clean and covered with a sterile dressing. Contact your clinic.",
+                        "Hyper/Hypopigmentation: Temporary darkening or lightening of the skin can occur, especially if sun exposure guidelines are not followed. This usually fades over months but can be permanent."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs of infection include: spreading redness, increased pain, heat, yellow/green pus, or fever. Contact your clinic or a doctor if these occur."
+                },
+                {
+                    "title": "Follow-Up and Treatment Schedule",
+                    "items": [
+                        "Laser hair reduction requires multiple sessions (usually 6-12+). Hair grows in cycles, and the laser only affects hairs in the active growth phase.",
+                        "Schedule your next session as advised, typically every 4-8 weeks for facial hair and 6-10 weeks for body hair. Consistency is key.",
+                        "Results are gradual. You should notice a significant reduction in hair growth and thickness after 3-4 sessions.",
+                        "Contact your clinic with any concerns before your next scheduled appointment."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your compliance with aftercare, especially sun protection and avoiding other hair removal methods, is fundamental to your success and safety. Please read thoroughly.",
+            "question_opportunity": "Your laser technician is your best resource. Please contact the clinic with any questions or unexpected reactions during your healing.",
+            "declaration_text": "I confirm that I have read and understood all aftercare instructions for my laser hair reduction treatment. I understand the critical importance of sun avoidance, that I must only shave (not wax/pluck) between sessions, and the expected shedding process. I agree to follow all guidelines and will contact the clinic with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_hair_reduction",
+        "treatment_area": "variable_body_facial",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "shedding_phase_detailed_explanation",
+            "shaving_only_mandate",
+            "pre_post_sun_protection_timeline",
+            "perifollicular_edema_expectation"
+        ],
+        "clarity_notes": [
+            "Excellent explanation of the shedding process, which is a common source of client confusion."
+        ],
+        "recommendations": [
+            "Could add specific aftercare for intimate areas: loose cotton underwear, avoiding sexual activity for 48-72 hours if sensitive.",
+            "Include a note about avoiding anti-perspirants containing aluminum for 48-72 hours if underarms were treated.",
+            "Consider mentioning that pre-treatment shaving should be done with a clean, new razor to minimise infection risk."
+        ]
+    }
+}

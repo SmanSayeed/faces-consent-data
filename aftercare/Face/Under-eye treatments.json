@@ -1,0 +1,132 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 215,
+        "feedback": "Comprehensive and detailed aftercare form for under-eye treatments (filler, PRP, laser, peels). Provides excellent, area-specific guidance for the delicate periocular region. Outstanding coverage of symptom timelines, swelling management, emergency complications, and activity restrictions. Strong emphasis on distinguishing normal reactions from potential vascular complications.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_bruising_management",
+            "pain_guidance",
+            "hygiene_instructions",
+            "activity_environmental_restrictions",
+            "position_restrictions",
+            "medication_supplement_restrictions",
+            "vascular_occlusion_emergency",
+            "vision_emergency",
+            "infection_awareness",
+            "allergy_emergency",
+            "result_timeline_expectations",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Under-Eye Treatment Aftercare",
+        "introduction": "The following aftercare advice is ESSENTIAL due to the delicate and sensitive nature of the eye area. It is designed to minimise risks, manage common side effects, and help you achieve the best possible results from your under-eye treatment (e.g., filler, PRP, laser, peel).",
+        "instructions": {
+            "general_directive": "Please follow this guidance diligently for the first 72 hours, with some restrictions applying for up to 2 weeks.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Swelling, redness, tenderness, and tightness are EXPECTED and often most pronounced in the first 24-48 hours. Bruising is very common and can be significant. Swelling may peak on day 2-3, creating a temporarily 'puffy' appearance. Most swelling subsides by day 5-7, but subtle residual swelling can last 2-4 weeks. Bruising may take 7-14 days to fully resolve."
+                },
+                {
+                    "title": "Swelling and Bruising Management",
+                    "items": [
+                        "Apply cold compresses (wrapped in a clean cloth) for 10-15 minutes every hour for the first 24 hours. Do not apply ice directly to the skin.",
+                        "Sleep with your head elevated on 2-3 pillows for the first 3 nights to reduce nocturnal fluid pooling.",
+                        "For significant swelling, your practitioner may recommend antihistamines (like cetirizine) or Arnica montana supplements/cream (applied around, not directly on, bruised skin).",
+                        "Avoid salty foods for 48 hours to help reduce fluid retention."
+                    ]
+                },
+                {
+                    "title": "Pain and Tenderness Guidance",
+                    "content": "Tenderness to touch is normal. Sharp or throbbing pain at rest is NOT normal. Mild discomfort can be managed with Paracetamol. Avoid Ibuprofen, Aspirin, or other NSAIDs for 48 hours unless prescribed, as they can increase bruising. Contact your practitioner if you experience persistent or severe pain."
+                },
+                {
+                    "title": "Hygiene and Basic Care",
+                    "items": [
+                        "Keep the area clean. You may gently cleanse with a mild cleanser and pat dry after 4-6 hours.",
+                        "Avoid makeup (concealer, foundation, powder) on the treated area for at least 24-48 hours, or until any pinpoint bleeding sites have closed.",
+                        "Do not rub, massage, or apply pressure to the under-eye area unless specifically instructed by your practitioner."
+                    ]
+                },
+                {
+                    "title": "Activity, Environmental and Position Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy lifting, bending over, and any activity that increases blood pressure or causes straining for 48-72 hours.",
+                        "Avoid excessive heat (saunas, steam rooms, hot baths, sunbathing) and extreme cold for 7 days.",
+                        "Avoid swimming in pools or the sea for 48 hours.",
+                        "Sleep on your back, not on your side or stomach, for the first 3 nights."
+                    ]
+                },
+                {
+                    "title": "Medication and Supplement Restrictions",
+                    "items": [
+                        "For 48 hours before and after treatment, avoid blood-thinning medications like Aspirin, Ibuprofen, Naproxen (unless prescribed by your doctor).",
+                        "Avoid blood-thinning supplements such as Fish Oils, Vitamin E, Ginkgo Biloba, Garlic, Ginseng, and St. John’s Wort for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Dietary Restrictions",
+                    "content": "Avoid alcohol for 24-48 hours as it can increase swelling and bruising. Limit caffeine and very spicy foods for 24 hours if you are prone to flushing."
+                },
+                {
+                    "title": "Vascular Occlusion Emergency (Filler-Specific)",
+                    "content": "A rare but serious complication where filler blocks a blood vessel. Signs in the eye area include: severe, throbbing pain; worsening, blotchy bruising with a purple/blue/grey hue; mottled skin discoloration; blanching (white patches); and coolness to the touch. THIS IS AN EMERGENCY. Contact your practitioner IMMEDIATELY, day or night. Do not wait."
+                },
+                {
+                    "title": "Vision Emergency",
+                    "content": "Any sudden change in vision, blurriness, double vision, loss of vision, or severe pain in the eye socket is a MEDICAL EMERGENCY. Go to A&E immediately and contact your practitioner."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs include: increasing redness, warmth, swelling, pain, or yellow pus after 48 hours. Fever or feeling unwell. Contact your practitioner if these occur."
+                },
+                {
+                    "title": "Allergy Emergency",
+                    "content": "Seek emergency medical attention if you experience: rash, itching, swelling of the lips/tongue/throat, difficulty breathing, dizziness, or rapid heart rate."
+                },
+                {
+                    "title": "Result Timeline and Follow-Up",
+                    "items": [
+                        "Initial results will be obscured by swelling. Do not assess results for at least 2 weeks.",
+                        "Final results for fillers are typically seen at 4 weeks once all swelling has resolved and the product has integrated.",
+                        "For PRP or collagen-stimulating treatments, results develop gradually over 4-8 weeks.",
+                        "A follow-up appointment is usually scheduled at 2-4 weeks to assess results and address any asymmetry.",
+                        "Contact your practitioner with any concerns during your healing process."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Due to the high-risk area, strict adherence to this aftercare is non-negotiable for your safety. Please read thoroughly.",
+            "question_opportunity": "Your practitioner must be informed of any unexpected symptoms. They are your first point of contact for any concern, especially regarding vision or severe pain.",
+            "declaration_text": "I confirm that I have read and understood all the critical aftercare instructions for my under-eye treatment. I understand the risks specific to the eye area, including vascular occlusion and vision complications. I agree to follow all guidelines, sleep elevated, avoid blood thinners, and contact my practitioner immediately for any severe pain, vision changes, or concerning symptoms."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "under_eye_treatment_general",
+        "treatment_area": "periocular_under_eye",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "vision_emergency_protocol",
+            "elevated_sleeping_mandate",
+            "vascular_occlusion_specifics_for_eye_area",
+            "extended_swelling_timeline"
+        ],
+        "clarity_notes": [
+            "Strong, clear warnings for sight-threatening complications are appropriately prominent."
+        ],
+        "recommendations": [
+            "Could differentiate aftercare slightly between filler and energy-based/PRP treatments (e.g., filler has vascular risk, PRP may have more bruising).",
+            "Add a note to avoid using eye drops containing vasoconstrictors (whitening drops) for 48 hours unless prescribed.",
+            "Consider mentioning that temporary lumps, unevenness, or a 'Tyndall effect' (bluish tint with filler) can occur and often settle or can be adjusted at follow-up."
+        ]
+    }
+}

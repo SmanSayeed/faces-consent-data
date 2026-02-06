@@ -1,0 +1,132 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 225,
+        "feedback": "Outstanding aftercare form for fine line and wrinkle reduction treatments (encompassing neurotoxin, filler, and laser/energy devices). Provides comprehensive, modality-specific guidance while maintaining a cohesive structure. Masterfully covers the distinct timelines for each treatment type, from immediate filler aftercare to long-term collagen remodeling. Excellent emphasis on sun protection, product compatibility, and managing expectations. Strong safety protocols for filler-specific emergencies.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "treatment_specific_timelines",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "skincare_product_guidance",
+            "makeup_guidance",
+            "pain_management",
+            "neurotoxin_specific_guidance",
+            "filler_specific_guidance_emergency",
+            "laser_energy_specific_guidance",
+            "infection_awareness",
+            "vascular_occlusion_emergency",
+            "vision_emergency",
+            "result_timeline_expectations",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Fine Line & Wrinkle Reduction Aftercare",
+        "introduction": "This comprehensive aftercare advice is designed to support the specific healing process of your chosen wrinkle reduction treatment (e.g., anti-wrinkle injections, dermal filler, laser, radiofrequency, ultrasound). Adherence ensures your comfort, safety, and the longevity of your results. Please follow the sections relevant to your treatment.",
+        "instructions": {
+            "general_directive": "Follow this guidance diligently for the first 24-72 hours. Some restrictions apply for 2-4 weeks. Note the specific timelines for your treatment type.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (All Treatments)",
+                    "content": "Redness, swelling, tenderness, and possible bruising at the injection or treatment site are normal. These typically subside within a few hours to 3 days. Headache is common after anti-wrinkle injections."
+                },
+                {
+                    "title": "Treatment-Specific Timelines & Care",
+                    "items": [
+                        {
+                            "treatment": "Anti-Wrinkle Injections (Neurotoxin):",
+                            "guidance": "Avoid touching/rubbing the area for 4 hours. Remain upright for 4 hours. Avoid strenuous exercise, alcohol, and lying down for 24 hours. Results begin in 2-4 days, full effect at 10-14 days. Avoid facials/massages for 2 weeks."
+                        },
+                        {
+                            "treatment": "Dermal Filler:",
+                            "guidance": "Avoid excessive facial movement, massage (unless instructed), and pressure on the area for 24-48 hours. Avoid alcohol, strenuous exercise, and extreme heat/cold for 48 hours. Sleep elevated if facial filler used. Swelling may peak on day 2-3, final results at 2-4 weeks."
+                        },
+                        {
+                            "treatment": "Laser/Radiofrequency/Ultrasound (Energy-Based):",
+                            "guidance": "Skin will be red, warm, and sensitive (sunburn-like). Swelling may occur. Cool the skin frequently. Avoid heat, sun, and sweating for 48-72 hours. Peeling or flaking may occur 3-7 days post-treatment – DO NOT PICK. Deep collagen stimulation continues for 3-6 months."
+                        }
+                    ]
+                },
+                {
+                    "title": "Activity & Environmental Restrictions (General)",
+                    "items": [
+                        "Avoid strenuous exercise, heavy lifting, and activities that increase blood pressure for 24-48 hours.",
+                        "Avoid excessive heat (saunas, steam rooms, hot tubs, sunbathing) and extreme cold for 48-72 hours.",
+                        "Avoid swimming in chlorinated pools or the sea for 48 hours.",
+                        "Minimize sun exposure. Sun protection is MANDATORY (see below)."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (ABSOLUTELY ESSENTIAL)",
+                    "content": "UV radiation breaks down collagen, causing wrinkles. To protect your investment and support new collagen production (from energy devices or as a general anti-ageing measure), you MUST apply a broad-spectrum SPF 30-50+ daily. This is non-negotiable after laser treatments for 3-6 months, and highly recommended for all."
+                },
+                {
+                    "title": "Skincare Product Guidance",
+                    "items": [
+                        "For 24 hours: Avoid applying makeup or other topical products to the treated area(s).",
+                        "For 5-7 days (or until healing complete for lasers): Avoid active ingredients that can irritate: Retinoids/Retinol, AHAs/BHAs (glycolic, salicylic acid), strong Vitamin C, and abrasive scrubs.",
+                        "Use gentle, hydrating products. Hyaluronic acid serums are excellent for hydration post-treatment.",
+                        "After filler: Avoid facial treatments (microdermabrasion, chemical peels, laser) on the filled area for 2-4 weeks."
+                    ]
+                },
+                {
+                    "title": "Pain & Discomfort Management",
+                    "content": "Tenderness is normal. You may take Paracetamol if needed. Avoid Ibuprofen, Aspirin, or other NSAIDs for 24-48 hours unless prescribed, as they can increase bruising. For significant pain at rest (especially with filler), contact your practitioner immediately."
+                },
+                {
+                    "title": "Filler-Specific: Vascular Occlusion & Vision Emergency",
+                    "content": "A rare but serious complication where filler blocks a blood vessel. SIGNS: Severe, throbbing pain; white/blanched skin; purple/grey mottled discoloration; cool skin. VISUAL CHANGES or loss of vision is an EMERGENCY. If you experience any of these, CONTACT YOUR PRACTITIONER AND SEEK URGENT MEDICAL ATTENTION IMMEDIATELY, DAY OR NIGHT."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs include: increasing pain, spreading redness, warmth, pus, or fever. Contact your practitioner if these occur."
+                },
+                {
+                    "title": "Managing Expectations & Results Timeline",
+                    "items": [
+                        "Anti-Wrinkle Injections: Full effect at 10-14 days. Lasts 3-4 months.",
+                        "Dermal Filler: Swelling distorts initial results. Final shape and volume are assessed at 2-4 weeks. Can last 6-24 months.",
+                        "Laser/Energy Devices: Initial glow at 2-4 weeks. True collagen-based wrinkle softening continues to improve for 3-6 months. A series of 3-5 treatments is often needed.",
+                        "Do not judge results until swelling has fully resolved. A follow-up/top-up appointment may be offered at 2-3 weeks for injectables, or 4-6 weeks for energy devices."
+                    ]
+                },
+                {
+                    "title": "When to Contact Your Practitioner",
+                    "content": "Contact them ASAP for: Severe or worsening pain. Signs of infection or allergic reaction (rash, itching). Visual disturbances (filler). Asymmetry or concerns once swelling has resolved (after 2 weeks). Any lumps in filler that persist beyond 4 weeks. Extreme or prolonged swelling."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your results and safety depend on following the appropriate aftercare for your specific treatment. Please read the sections relevant to you thoroughly.",
+            "question_opportunity": "Your practitioner has chosen a specific treatment plan for you. Please ask for clarification on any point related to your aftercare before you leave.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions relevant to my fine line and wrinkle reduction treatment. I understand the specific precautions for my treatment type (injectable/energy-based), the importance of sun protection, and the emergency signs related to filler. I agree to follow this guidance and will contact my practitioner immediately with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "wrinkle_reduction_multi_modality",
+        "treatment_area": "face_neck_decolletage",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "multi_modality_specific_sections",
+            "consolidated_activity_restrictions",
+            "filler_emergency_protocol_included",
+            "collagen_timeline_for_energy_devices"
+        ],
+        "clarity_notes": [
+            "Skillfully combines aftercare for disparate treatments into a single, navigable document by using clear sub-sections."
+        ],
+        "recommendations": [
+            "Could include a note about avoiding dental procedures for 2-4 weeks after certain dermal fillers, especially around the mouth.",
+            "Add a reminder for neurotoxin patients to avoid flying for 24-48 hours if possible, due to pressure changes.",
+            "Consider a table summarizing key \"Do's and Don'ts\" for each treatment type for quick reference."
+        ]
+    }
+}

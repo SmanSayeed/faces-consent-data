@@ -39,32 +39,32 @@ Powder brows---Not found---Completed
 Eyeliner---Not found---Completed
 Eyebrow shaping---Not found---Completed
 Eyebrow tinting---Not found---Completed
-Brow lamination
-Lash tint
-Eyelash extensions (classic, hybrid, volume) 
-Under-eye treatments 
-Lash lift
-Lip blush 
-Microblading
+Brow lamination---Completed
+Lash tint---Not found---Completed
+Eyelash extensions (classic, hybrid, volume)---Completed
+Under-eye treatments---Not found---Completed
+Lash lift---Completed
+Lip blush---Completed 
+Microblading---Completed
 
 Body 
 
 ■Laser 
 (Laser Hair Removal)
-Laser hair removal ,face & body
-Laser hair reduction
-Beard shaping (laser)                     
-Bikini / Brazilian laser
-Full-body laser hair removal
-Ingrown hair reduction (laser)
+Laser hair removal ,face & body---Completed
+Laser hair reduction---Completed
+Beard shaping (laser)---Not found---Completed                   
+Bikini / Brazilian laser---Not found---Completed
+Full-body laser hair removal---Not found---Completed
+Ingrown hair reduction (laser)---Not found---Completed
 
 (Laser Skin Rejuvenation)
-Laser skin rejuvenation
-Laser facial
-Collagen stimulation, laser
-Skin texture refinement
-Pore reduction, laser
-Fine line & wrinkle reduction
+Laser skin rejuvenation---Not found---Completed
+Laser facial---Not found---Completed
+Collagen stimulation, laser--Not found---Completed
+Skin texture refinement---Not found---Completed
+Pore reduction, laser---Not found---Completed
+Fine line & wrinkle reduction---Not found---Completed
 
 (Pigmentation & Sun Damage)
 Laser pigmentation removal

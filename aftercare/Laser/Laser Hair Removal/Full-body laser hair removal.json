@@ -1,0 +1,161 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 225,
+        "feedback": "Exceptional and comprehensive aftercare form for full-body laser hair removal. Effectively consolidates guidance for multiple body areas while acknowledging area-specific nuances. Provides clear, phased timelines, stringent sun protection mandates, and comprehensive activity restrictions. Outstanding coverage of the shedding process, product restrictions, and management of common side effects across different skin types and body parts. Excellent practical advice for clothing, travel, and long-term care.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "healing_timeline_day_by_day",
+            "shedding_process_explanation",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "clothing_advice",
+            "sun_protection_mandate",
+            "hair_management_guidance",
+            "shaving_instructions",
+            "skincare_product_restrictions",
+            "area_specific_considerations",
+            "folliculitis_ingrown_prevention",
+            "infection_awareness",
+            "pigmentation_awareness",
+            "blistering_management",
+            "travel_considerations",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Full-Body Laser Hair Removal Aftercare",
+        "introduction": "This comprehensive aftercare advice is ESSENTIAL for your comfort, safety, and the effectiveness of your full-body laser treatment. Treating large surface areas requires diligent care to minimise side effects, prevent complications, and ensure optimal, uniform results across all treated zones.",
+        "instructions": {
+            "general_directive": "Please follow this guidance meticulously for the first 5-7 days. Sun protection and correct hair management are mandatory throughout your entire treatment course. Adapt care slightly for more sensitive areas (face, bikini, underarms).",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment (First 24-48 Hours)",
+                    "items": [
+                        "The treated skin will feel warm, sensitive, and look pink or red with swollen hair follicles (perifollicular edema). This 'sunburn-like' reaction is normal and indicates effective treatment.",
+                        "Apply cold compresses or take cool showers to soothe discomfort. You may use a fragrance-free aloe vera gel or calming lotion (like aqueous cream) all over the body.",
+                        "Wear loose-fitting, soft, breathable clothing (100% cotton is ideal). Avoid tight waistbands, bra straps, collars, and seams that rub against treated skin.",
+                        "Avoid hot baths, showers, saunas, steam rooms, and any source of heat that can aggravate the skin.",
+                        "Sleep on clean, soft sheets. Consider wearing lightweight, long-sleeved cotton pyjamas if large areas are treated."
+                    ]
+                },
+                {
+                    "title": "The Healing & Shedding Timeline (Full Body)",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Calming Phase",
+                            "content": "Generalised redness subsides. Skin may feel dry, tight, and itchy all over. Continue gentle moisturising. The treated stubble will feel coarse."
+                        },
+                        {
+                            "phase": "Days 5-21: The Shedding Phase",
+                            "content": "Treated hairs will begin to shed from all treated areas. This appears as: Black dots (hairs) under the skin. Hairs releasing during washing or gentle exfoliation. The look of widespread 'blackheads' or stubble that doesn't grow. DO NOT PICK, SCRATCH, OR SCRUB HARD. This can cause scarring and infection. Gentle exfoliation with a soft loofah or washcloth from day 5 onwards will help hairs shed uniformly."
+                        },
+                        {
+                            "phase": "Weeks 3-4:",
+                            "content": "Shedding should be complete. Skin should feel smoother with significantly reduced hair growth. Different body parts may shed at slightly different rates."
+                        }
+                    ]
+                },
+                {
+                    "title": "Sun Protection (NON-NEGOTIABLE FOR ALL TREATED AREAS)",
+                    "content": "You MUST protect all treated skin from sun exposure for 4 WEEKS before and 4 WEEKS after each session. This is the most critical rule. Sun exposure on lasered skin dramatically increases the risk of severe burns, blistering, and permanent hyperpigmentation (dark spots) or hypopigmentation (white spots). Apply a broad-spectrum SPF 30+ (SPF 50 recommended) to all treated areas daily, even if covered or indoors. Wear protective clothing (long sleeves, pants, hats). NO SUNBATHING OR TANNING BEDS. If treating large areas, plan treatments for autumn/winter months."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy sweating, gyms, hot yoga, and sports for 48-72 hours.",
+                        "Avoid swimming in chlorinated pools, hot tubs, salt water, and lakes for 48-72 hours.",
+                        "Avoid saunas, steam rooms, and very hot showers for at least 72 hours.",
+                        "Avoid dusty, dirty, or sandy environments that could irritate the skin for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Hair Management Between Sessions",
+                    "items": [
+                        "DO NOT pluck, wax, thread, or use depilatory creams on ANY treated area.",
+                        "The ONLY permitted method of hair removal between sessions is SHAVING or trimming with clippers.",
+                        "You may shave once sensitivity subsides (after 24-48 hours). Shaving is required 1-2 days before your next session.",
+                        "Shaving large areas can be tedious; electric clippers/trimmers can be efficient for body hair."
+                    ]
+                },
+                {
+                    "title": "Skincare & Product Restrictions (Body-Wide)",
+                    "items": [
+                        "For 5-7 days, avoid harsh products on treated skin: retinoids, AHAs/BHAs (glycolic/lactic/salicylic acid), benzoyl peroxide, and abrasive scrubs or loofahs.",
+                        "Use only gentle, fragrance-free body washes and moisturisers.",
+                        "Avoid perfumed body lotions, deodorants/antiperspirants (on treated underarms), and fake tanning products on all treated areas for 5-7 days.",
+                        "You may use your regular products on UNTREATED areas only."
+                    ]
+                },
+                {
+                    "title": "Area-Specific Considerations",
+                    "items": [
+                        "Face: Be extra gentle. Avoid makeup for 24 hours. Use facial sunscreen diligently.",
+                        "Underarms: Avoid deodorant for 48 hours. Wear loose tops.",
+                        "Bikini/Brazilian: Wear loose cotton underwear. Avoid sexual activity for 48-72 hours. Follow intimate hygiene advice from the dedicated bikini aftercare.",
+                        "Legs/Arms: Avoid tight socks, boots, or watch straps that rub.",
+                        "Chest/Back: Wear soft, loose-fitting tops. Men should avoid tight undershirts."
+                    ]
+                },
+                {
+                    "title": "Managing Common Side Effects",
+                    "items": [
+                        "Itching: Widespread during healing. Cool compresses, moisturiser, or an oatmeal bath can help. Oral antihistamines may be used if safe for you.",
+                        "Folliculitis: Inflammatory bumps can occur, especially in areas with curly hair (bikini, legs). Keep clean, exfoliate gently, wear breathable fabrics.",
+                        "Dryness/Flaking: Common. Moisturise liberally twice daily.",
+                        "Blistering: Rare but possible, especially if pre-tanned. Do not pop. Keep clean and contact your clinic.",
+                        "Pigment Changes: Strict sun avoidance is the best prevention. Changes are usually temporary but can be permanent if guidelines are ignored."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs include: spreading redness, increased pain, warmth, pus, or fever. Given the large surface area, systemic infection is a risk. Contact your clinic or a doctor immediately."
+                },
+                {
+                    "title": "Travel & Planning Considerations",
+                    "content": "Do not schedule treatments within 4 weeks of a sunny holiday. The inability to sunbathe or be in strong sun is a significant commitment with full-body treatment. Plan your course accordingly."
+                },
+                {
+                    "title": "Follow-Up and Treatment Schedule",
+                    "items": [
+                        "A full course typically requires 6-12+ sessions spaced 4-10 weeks apart (varies by body area).",
+                        "Consistency across all appointments is crucial for uniform, lasting results.",
+                        "Noticeable thinning and slowed growth are usually seen after 3-4 sessions.",
+                        "Maintenance sessions may be needed 1-2 times per year after completing the initial course.",
+                        "Keep a treatment log or calendar to track sessions for different body parts if they are on different schedules."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Committing to full-body laser requires strict adherence to aftercare, especially total sun avoidance. Your safety and results depend on it. Please read thoroughly.",
+            "question_opportunity": "Your laser practitioner is your partner in this long-term process. Contact the clinic with any concerns, especially regarding different reactions on different body parts.",
+            "declaration_text": "I confirm that I have read and understood the extensive aftercare instructions for my full-body laser hair removal. I understand the critical, non-negotiable requirement for total sun protection on all treated areas for 4 weeks before and after each session. I agree to only shave between sessions, follow all activity restrictions, and will contact the clinic with any concerns across any treated area."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "full_body_laser_hair_removal",
+        "treatment_area": "full_body_excluding_eyes",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "consolidated_multi_area_guidance",
+            "clothing_and_fabric_specific_advice",
+            "travel_planning_considerations",
+            "systemic_infection_risk_note"
+        ],
+        "clarity_notes": [
+            "Masterfully balances general advice for the whole body with specific notes for sensitive zones."
+        ],
+        "recommendations": [
+            "Could include a tip about setting phone/calendar reminders for sunscreen reapplication on exposed treated areas throughout the day.",
+            "Add a note about the potential for increased sensitivity to cold temperatures immediately after treatment; advise wearing warm, soft layers in cold weather.",
+            "Consider mentioning that hormonal areas (face, bikini) may require more sessions than other areas (legs, arms) for equivalent results."
+        ]
+    }
+}

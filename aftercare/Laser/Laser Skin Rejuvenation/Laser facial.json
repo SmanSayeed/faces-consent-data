@@ -1,0 +1,140 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 215,
+        "feedback": "Excellent and detailed aftercare form for a general laser facial (encompassing IPL, BBL, non-ablative fractional). Provides clear guidance for low-to-medium downtime treatments. Strong emphasis on sun protection, gentle skincare, and managing common reactions like bronzing and shedding. Effectively covers the timeline from immediate response to collagen remodeling. Good balance of necessary restrictions without being overly alarming for milder procedures.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_day_by_day",
+            "hygiene_cleansing_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "makeup_guidance",
+            "managing_common_reactions",
+            "infection_herpes_awareness",
+            "result_timeline_expectations",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Facial Aftercare",
+        "introduction": "This aftercare advice will help you navigate the healing process following your laser facial treatment (e.g., IPL, BBL, non-ablative fractional laser), maximise your results, and minimise any potential side effects. While downtime is minimal compared to aggressive lasers, proper care is essential.",
+        "instructions": {
+            "general_directive": "Please follow this guidance for the next 5-14 days. Your skin has received controlled energy to stimulate renewal; treat it gently during this period.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (First 24-48 Hours)",
+                    "items": [
+                        "Your skin will feel warm, sensitive, and look slightly to moderately red, similar to a mild sunburn. This is normal.",
+                        "Swelling, particularly under the eyes or on the cheeks, is possible.",
+                        "For IPL/BBL targeting pigmentation: Darkened spots (freckles, sun spots) will appear DARKER (\"bronzing\") before they gradually flake off over 1-2 weeks. Do not pick them.",
+                        "For fractional lasers: A sandpaper-like texture and redness are common.",
+                        "Cool your skin with cold compresses or a cold air fan for comfort."
+                    ]
+                },
+                {
+                    "title": "Healing Timeline & What to Expect",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Calming Phase",
+                            "content": "Redness and warmth subside. Skin may feel dry and tight. Continue gentle cleansing and moisturising. Bronzed spots begin to darken."
+                        },
+                        {
+                            "phase": "Days 3-10: Exfoliation/Shedding Phase",
+                            "content": "Targeted pigmentation will start to flake off, often resembling coffee grounds. DO NOT PICK OR SCRATCH. Let the flakes fall off naturally. Gentle cleansing will help. Your skin may look slightly mottled during this phase. Mild itching is common."
+                        },
+                        {
+                            "phase": "Days 10-14: Renewal Phase",
+                            "content": "Flaking is complete. New skin is revealed, looking brighter and more even. Some residual pinkness may remain but is easily concealed with makeup. Deep collagen stimulation continues for weeks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Hygiene & Cleansing",
+                    "items": [
+                        "Cleanse your face gently twice daily with a mild, fragrance-free cleanser and lukewarm water. Pat dry – do not rub.",
+                        "Avoid hot water, steam, facial saunas, and harsh cleansing brushes or cloths for 5-7 days."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance",
+                    "items": [
+                        "Use a simple, fragrance-free moisturiser to soothe and hydrate. Your practitioner may recommend a specific healing serum or cream.",
+                        "AVOID active ingredients for 7-14 days, or until all flaking has stopped and sensitivity has normalized: Retinoids/Retinol, AHAs (glycolic, lactic acid), BHAs (salicylic acid), Vitamin C (L-ascorbic acid), and benzoyl peroxide.",
+                        "You may resume your regular actives gradually after 2 weeks, as tolerated."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (MANDATORY)",
+                    "content": "Your skin is highly photosensitive post-laser. Sun exposure can reverse results, cause hyperpigmentation, and increase redness. For 2 WEEKS BEFORE and 4 WEEKS AFTER treatment (and ideally forever): Apply a broad-spectrum SPF 30-50+ every morning. Reapply every 2 hours if outdoors. Wear a wide-brimmed hat and seek shade. NO TANNING BEDS."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy sweating, hot yoga, and saunas for 48-72 hours.",
+                        "Avoid swimming in chlorinated pools or the sea for 48-72 hours.",
+                        "Avoid very hot showers and baths for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "It is advisable to avoid makeup for 24-48 hours. After that, you may apply mineral-based makeup if needed. Ensure brushes are clean. Avoid heavy, full-coverage foundations that might clog pores or irritate flaking skin."
+                },
+                {
+                    "title": "Managing Common Reactions",
+                    "items": [
+                        "Bronzing of Pigment: Expected. Be patient; it will flake off.",
+                        "Mild Swelling: Cool compresses and sleeping elevated can help.",
+                        "Dryness/Flaking: Moisturise frequently.",
+                        "Itching: An oral antihistamine (like cetirizine) can help if safe for you. Do not scratch.",
+                        "Breakouts: A mild purge of comedones is possible as deeper congestion surfaces. Keep skin clean. Do not pick."
+                    ]
+                },
+                {
+                    "title": "Infection & Herpes Simplex Awareness",
+                    "content": "Infection is rare. Contact your practitioner if you see: increasing pain, spreading redness, pus, or fever. If you are prone to cold sores, laser can trigger an outbreak. Inform your practitioner pre-treatment for antiviral medication. If tingling or blisters appear, start antivirals immediately and contact your practitioner."
+                },
+                {
+                    "title": "Result Timeline & Follow-Up",
+                    "items": [
+                        "Immediate brightening and evenness are often seen after flaking completes (10-14 days).",
+                        "For collagen stimulation (reducing fine lines, pores), results develop gradually over 4-8 weeks as new collagen forms.",
+                        "For pigment clearance, optimal results are seen after a series of treatments (typically 3-6), spaced 4-6 weeks apart.",
+                        "A follow-up or next treatment is usually scheduled at 4-6 weeks.",
+                        "Protect and maintain your results with daily sunscreen and a good skincare regimen."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To achieve the best possible glow and correction from your laser facial, please follow this aftercare plan.",
+            "question_opportunity": "Your practitioner can recommend products suited to your post-laser skin. Please ask if you are unsure about any step or product.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my laser facial. I understand the expected bronzing/flaking process, the critical need for sun protection, and the restrictions on active skincare. I agree to follow this guidance and will contact the clinic with any concerns during healing."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_facial_ipl_bbl_non_ablative",
+        "treatment_area": "face",
+        "document_length": "detailed",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "pigment_bronzing_explanation",
+            "focused_on_low_downtime_procedures",
+            "collagen_stimulation_timeline"
+        ],
+        "clarity_notes": [
+            "Clearly sets expectations for the common \"worse before better\" phase with pigmentation treatments."
+        ],
+        "recommendations": [
+            "Could differentiate more between IPL/BBL for redness vs. pigment, as redness may not have a bronzing phase but can have temporary darkening of vessels.",
+            "Add a note about avoiding facial waxing, threading, or dermaplaning for 7-10 days post-treatment.",
+            "Consider mentioning that the skin may be more prone to sensitivity from wind or cold air for a week; advise protecting it with a scarf if needed."
+        ]
+    }
+}

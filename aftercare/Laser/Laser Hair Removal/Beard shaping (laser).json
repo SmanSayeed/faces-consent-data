@@ -1,0 +1,143 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 220,
+        "feedback": "Excellent and comprehensive aftercare form for laser beard shaping/reduction. Provides clear, area-specific guidance for the sensitive facial skin, including detailed timelines, sun protection mandates, and strict hair management rules. Strong emphasis on managing perifollicular edema, the shedding process, and preventing complications like folliculitis and pigment changes. Effectively adapted laser hair reduction protocols for the beard area.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "healing_timeline_day_by_day",
+            "shedding_process_explanation",
+            "hygiene_cleansing_instructions",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "hair_management_guidance",
+            "shaving_instructions",
+            "skincare_product_restrictions",
+            "infection_folliculitis_awareness",
+            "pigmentation_awareness",
+            "blistering_management",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Beard Shaping",
+        "introduction": "This aftercare advice is ESSENTIAL for your comfort, safety, and the effectiveness of your laser beard shaping treatment. The face is a sensitive area with dense hair; proper care minimises side effects and ensures optimal results for achieving and maintaining your desired shape.",
+        "instructions": {
+            "general_directive": "Please follow this guidance meticulously. The first 24-72 hours are critical for calming the skin. Sun protection and correct hair management are mandatory until your course is complete.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment (First 24-48 Hours)",
+                    "items": [
+                        "The treated area will feel hot, tender, and look red with swollen hair follicles (perifollicular edema – looks like goosebumps or razor burn). This is a normal, desired reaction indicating the follicles were treated effectively.",
+                        "Apply cold compresses or a wrapped ice pack for 10-15 minutes every hour as needed to soothe burning and reduce swelling.",
+                        "You may apply a fragrance-free aloe vera gel, calming serum, or a gentle moisturiser like aqueous cream. Avoid heavy, perfumed balms or oils.",
+                        "Shave with caution or avoid shaving for 24-48 hours if the skin is too sensitive. Use a clean, sharp razor when you do.",
+                        "Avoid hot showers, steam from cooking, saunas, and strenuous activity that causes facial sweating."
+                    ]
+                },
+                {
+                    "title": "The Healing & Shedding Timeline for the Beard Area",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Calming Phase",
+                            "content": "Redness and swelling subside. Skin may feel dry, tight, and itchy. Continue gentle moisturising. Stubble may feel coarse."
+                        },
+                        {
+                            "phase": "Days 5-21: The Shedding Phase",
+                            "content": "This is the most important phase. Treated hairs will begin to shed from the follicles. You will notice: 'Peppercorn' effect – black dots (hairs) seem trapped under the skin. Hairs push out easily when washing or exfoliating. It may look like blackheads or ingrown hairs. Stubble that doesn't seem to grow. DO NOT PICK, SCRATCH, OR TRY TO EXTRACT HAIRS. Gentle exfoliation with a soft washcloth or a mild chemical exfoliant (after 7 days) can help release hairs."
+                        },
+                        {
+                            "phase": "Weeks 3-4:",
+                            "content": "Shedding should be complete. The treated areas within your shaping pattern should feel smoother with significantly reduced growth. Some hairs will be unaffected (dormant during treatment) and will need subsequent sessions."
+                        }
+                    ]
+                },
+                {
+                    "title": "Sun Protection (ABSOLUTELY MANDATORY)",
+                    "content": "Facial skin is constantly exposed. You MUST protect the treated area from sun exposure for 4 WEEKS before and 4 WEEKS after each treatment. Sun exposure drastically increases the risk of burns, blistering, and permanent hyperpigmentation (dark spots) or hypopigmentation (light spots) on your face. Apply a broad-spectrum SPF 30+ (preferably SPF 50) every single morning, even on cloudy days. Reapply if outdoors. Wear a hat when in direct sun. NO TANNING BEDS."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise and activities that cause profuse facial sweating for 48 hours.",
+                        "Avoid saunas, steam rooms, hot tubs, and very hot showers for 48-72 hours.",
+                        "Avoid swimming in chlorinated pools or the sea for 48-72 hours.",
+                        "Avoid dusty or dirty environments for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Hair Management Between Sessions (CRUCIAL FOR SHAPING)",
+                    "items": [
+                        "DO NOT pluck, wax, thread, or use depilatory creams on the treated beard area. This removes the follicle and renders future laser treatments ineffective.",
+                        "The ONLY permitted method of hair removal between sessions is SHAVING or trimming with clippers (without a guard that touches the skin).",
+                        "You may shave as needed once sensitivity subsides (usually after 24-48 hours). In fact, shaving the area a day or two before your next session is often required.",
+                        "To maintain your desired shape, continue to shave or trim the UNTREATED areas (e.g., the beard you wish to keep) as normal. The laser will progressively reduce hair in the TREATED areas (e.g., cheek lines, neckline, under lip)."
+                    ]
+                },
+                {
+                    "title": "Skincare and Grooming Product Restrictions",
+                    "items": [
+                        "For 5-7 days post-treatment, avoid harsh products on the treated area: retinoids/retinol, AHAs/BHAs (glycolic, salicylic acid), benzoyl peroxide, abrasive scrubs, and alcohol-based aftershaves.",
+                        "Use only gentle, fragrance-free facial cleansers and moisturisers.",
+                        "Avoid new beard oils, balms, or heavy pomades on treated skin for 5 days. You may use them on the hair you are keeping, avoiding the lasered skin.",
+                        "Avoid facial treatments (chemical peels, microdermabrasion) for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Potential Side Effects & Management (Beard Area Specific)",
+                    "items": [
+                        "Folliculitis (Razor Bumps): Inflammatory bumps can occur, especially with curly beard hair. Keep the area clean, exfoliate gently from day 7, and avoid tight shaves. If severe, your clinician may recommend a topical antibiotic.",
+                        "Crusting/Scabbing: Small scabs may form on treated follicles. Do not pick. Keep moisturized; they will fall off naturally in 5-10 days.",
+                        "Blistering: Rare but possible, especially on tanned skin. Do not pop. Keep clean and contact your clinic.",
+                        "Temporary Pigment Changes: The treated skin may darken (more common) or lighten. Strict sun avoidance is the best prevention. This usually fades over 1-6 months.",
+                        "Itching: Common during shedding. A cool compress or hydrocortisone cream (if recommended) can help. Do not scratch."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs include: spreading redness, increased pain, warmth, yellow pus, or fever. Contact your clinic or a doctor promptly."
+                },
+                {
+                    "title": "Follow-Up and Treatment Schedule for Shaping",
+                    "items": [
+                        "Laser shaping requires a series of sessions (typically 6-10+), spaced 4-6 weeks apart for the face.",
+                        "The goal is gradual, permanent reduction within the treated zones to define or reshape your beard with less daily shaving.",
+                        "Results are progressive. Noticeable thinning and slowed growth are usually seen after 3-4 sessions.",
+                        "Attend all scheduled sessions for consistent results. The final shape will become clearer as treatments progress.",
+                        "Contact your clinic with any concerns before your next appointment."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your compliance with aftercare, especially sun protection and correct shaving practices, is non-negotiable for achieving safe, effective, and well-defined results. Please read thoroughly.",
+            "question_opportunity": "Your laser technician is here to guide you through the shedding process and shape evolution. Contact the clinic with any questions or unexpected reactions.",
+            "declaration_text": "I confirm that I have read and understood all aftercare instructions for my laser beard shaping treatment. I understand the critical importance of lifelong sun protection for the treated facial skin, that I must only shave (not pluck/wax) between sessions, and the expected shedding process. I agree to follow all guidelines to safely achieve my desired beard shape and will contact the clinic with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_beard_shaping_reduction",
+        "treatment_area": "beard_area_face_neck",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "shaping_context_integrated",
+            "beard_specific_folliculitis_guidance",
+            "differentiation_between_treated_untreated_areas",
+            "facial_sun_protection_emphasis"
+        ],
+        "clarity_notes": [
+            "Excellent adaptation of general laser hair reduction to the specific goals and challenges of beard shaping."
+        ],
+        "recommendations": [
+            "Could include advice on managing the transition period where treated and untreated areas grow at different rates, and how to style during this phase.",
+            "Add a note about avoiding pre-shave oils or products containing essential oils on treated skin for 5-7 days post-treatment.",
+            "Consider mentioning that laser can lighten the skin tone in the treated area relative to untanned surrounding skin if sun exposure occurs, emphasizing the need for uniform sun protection."
+        ]
+    }
+}

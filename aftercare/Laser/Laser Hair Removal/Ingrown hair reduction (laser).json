@@ -1,0 +1,144 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 225,
+        "feedback": "Outstanding and highly specific aftercare form for laser ingrown hair reduction. Perfectly tailored to the treatment's primary goal, with exceptional guidance on managing the problematic areas (neck, beard, bikini). Provides clear timelines, emphasizes gentle exfoliation and hydration, and includes strong protocols for preventing and treating folliculitis. Excellent coverage of the dual benefit: hair reduction and inflammation management.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "healing_timeline_day_by_day",
+            "shedding_process_explanation",
+            "hygiene_cleansing_instructions",
+            "exfoliation_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "hair_management_guidance",
+            "shaving_instructions",
+            "skincare_product_restrictions",
+            "folliculitis_management_protocol",
+            "infection_awareness",
+            "pigmentation_awareness",
+            "long_term_management_plan",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Ingrown Hair Reduction Aftercare",
+        "introduction": "This aftercare advice is SPECIALLY DESIGNED to support the primary goal of your treatment: eliminating painful ingrown hairs and the associated inflammation (pseudofolliculitis barbae, folliculitis). Proper care is essential to calm active flare-ups, prevent new ones, and achieve long-term smooth, clear skin.",
+        "instructions": {
+            "general_directive": "Please follow this guidance meticulously for the first 7-10 days. Consistency is key to breaking the cycle of ingrown hairs. The focus is on reducing inflammation and allowing treated hairs to shed.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment (First 24-72 Hours) - Calming Inflammation",
+                    "items": [
+                        "The treated area (commonly neck, beard, bikini, legs) will be red, swollen, and may feel tender. Existing ingrown hairs may appear more inflamed temporarily; this will settle.",
+                        "Apply cold compresses frequently to reduce swelling and soothe burning. This is crucial for inflammatory conditions.",
+                        "Apply a recommended anti-inflammatory gel, cream, or pure aloe vera gel. Your practitioner may suggest a topical antibiotic or hydrocortisone cream if prescribed. Avoid heavy, occlusive products.",
+                        "Wear loose, breathable clothing (100% cotton) to avoid friction on affected areas like the neckline or bikini line."
+                    ]
+                },
+                {
+                    "title": "The Healing & Shedding Timeline (Focus on Clearance)",
+                    "items": [
+                        {
+                            "phase": "Days 1-5: Anti-Inflammatory Phase",
+                            "content": "Focus on calming the skin. Redness and swelling from the laser should subside. Continue gentle cleansing and moisturising. DO NOT attempt to extract any ingrown hairs."
+                        },
+                        {
+                            "phase": "Days 5-21: The Liberation Phase",
+                            "content": "This is the most critical period for ingrown hair sufferers. The laser-treated hairs (including those trapped under the skin) will begin to loosen and shed. You may notice: Inflamed bumps flattening. Trapped hairs rising to the surface or falling out easily. The appearance of 'black dots' (hairs) being released. Gentle exfoliation is KEY now (see below)."
+                        },
+                        {
+                            "phase": "Weeks 3-4:",
+                            "content": "The skin should appear significantly calmer, with reduced bumps, redness, and hyperpigmentation (dark marks) from old ingrowns. New hair growth will be finer and sparser."
+                        }
+                    ]
+                },
+                {
+                    "title": "Exfoliation Protocol (Essential for Prevention)",
+                    "content": "To prevent NEW ingrown hairs from forming as hair regrows: From Day 5-7 post-treatment, begin GENTLE physical exfoliation every other day using a soft washcloth, konjac sponge, or soft bristle brush. After 2 weeks, you may introduce a gentle chemical exfoliant containing salicylic acid (BHA) or lactic acid (AHA) 2-3 times per week, as these help keep follicles clear. NEVER SCRUB HARD over active, inflamed bumps."
+                },
+                {
+                    "title": "Hygiene & Cleansing",
+                    "items": [
+                        "Cleanse the area twice daily with a gentle, fragrance-free, antibacterial cleanser (e.g., containing tea tree oil or benzoyl peroxide, but only after initial 5-day healing if tolerated). This helps prevent bacterial folliculitis.",
+                        "Pat the area completely dry. Moisture trapped against the skin worsens ingrown hairs.",
+                        "Keep the area clean and dry. Change out of sweaty clothing immediately after exercise."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Critical to Prevent Dark Marks)",
+                    "content": "Post-inflammatory hyperpigmentation (PIH - dark spots) is a major concern after ingrown hairs. LASER makes skin more photosensitive. You MUST protect the area from sun exposure for 4 WEEKS before and after each treatment. Use a broad-spectrum SPF 30+ daily. This will allow old dark marks to fade and prevent new ones."
+                },
+                {
+                    "title": "Hair Management Between Sessions (INGROWN-SPECIFIC)",
+                    "items": [
+                        "DO NOT pluck, wax, thread, or use depilatory creams. These are the primary causes of ingrown hairs and will worsen your condition.",
+                        "The ONLY safe method is SHAVING, but it must be done correctly: Shave in the direction of hair growth (with the grain), not against it. Use a clean, single-blade or electric razor. Use a generous amount of shaving gel, not soap. Shave every other day or less frequently to allow hairs to grow above skin level.",
+                        "Your goal is to manage stubble while the laser progressively destroys the follicle, eliminating the root cause."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Recommendations",
+                    "items": [
+                        "Moisturise daily with a light, non-comedogenic, fragrance-free lotion or gel. Hydrated skin helps hairs glide out more easily.",
+                        "Consider using a product containing Niacinamide to help reduce redness and improve skin barrier function.",
+                        "Avoid heavy oils, petroleum jelly, or thick butters that can clog follicles.",
+                        "Your practitioner may recommend a prescription topical (like a retinoid) to use between sessions to promote cell turnover and prevent clogging—start this only after full healing (2+ weeks post-laser)."
+                    ]
+                },
+                {
+                    "title": "Managing Active Folliculitis/Ingrowns Post-Treatment",
+                    "content": "If you develop a painful, pus-filled bump: Apply a warm compress 3-4 times a day. Do NOT squeeze or pick. Your practitioner may advise a topical antibiotic. If it comes to a head, it may drain on its own with warm compresses. If severe or spreading, contact your practitioner or doctor."
+                },
+                {
+                    "title": "Activity & Clothing Restrictions",
+                    "items": [
+                        "Avoid tight clothing, rough fabrics, and friction on the area (e.g., tight shirt collars, jeans, synthetic underwear).",
+                        "Avoid strenuous exercise and sweating for 48-72 hours post-treatment.",
+                        "Avoid swimming in chlorinated pools/hot tubs for 48-72 hours."
+                    ]
+                },
+                {
+                    "title": "Follow-Up and Long-Term Management",
+                    "items": [
+                        "Ingrown hair reduction requires a series of treatments (typically 6-8+), spaced 4-6 weeks apart.",
+                        "The first 1-2 sessions may cause a temporary 'purge' of deeply trapped hairs. Stay the course.",
+                        "Improvement is measured by: Reduction in painful bumps, reduction in hyperpigmentation, and decreased frequency of shaving.",
+                        "Laser is the most effective long-term solution for chronic ingrown hairs. Be patient; the cycle of inflammation will break with consistent treatment and proper home care.",
+                        "Schedule your next session as advised to maintain progress."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Breaking the cycle of ingrown hairs requires a partnership between laser treatment and impeccable daily skincare. Your commitment to this aftercare is paramount.",
+            "question_opportunity": "Your practitioner understands the frustration of ingrown hairs. They can tailor product and shaving advice to your specific hair and skin type. Please ask for guidance.",
+            "declaration_text": "I confirm that I have read and understood the specialized aftercare instructions for my laser ingrown hair reduction treatment. I understand the importance of gentle exfoliation, correct shaving technique, and strict sun protection to prevent dark marks. I agree to follow this regimen diligently to achieve clear, smooth skin and will contact the clinic with any concerns about flare-ups."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_ingrown_hair_reduction",
+        "treatment_area": "neck_beard_bikini_legs_common_sites",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "inflammatory_condition_focus",
+            "exfoliation_protocol_timing",
+            "shaving_technique_specifics",
+            "hyperpigmentation_prevention_emphasis"
+        ],
+        "clarity_notes": [
+            "Expertly addresses the unique psychological and physical challenges of chronic ingrown hairs."
+        ],
+        "recommendations": [
+            "Could include a tip about using a sterile needle or comedone extractor for a hair looped under the skin ONLY after it has been brought to the surface by exfoliation and warm compresses, and with extreme caution.",
+            "Add a note about avoiding shaving over active, papular (raised, red) ingrown hairs; trim around them instead.",
+            "Consider mentioning that electrolysis might be recommended for any remaining persistent, individual ingrown hairs after a laser course is complete."
+        ]
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 205,
+        "feedback": "Excellent and focused aftercare form for skin texture refinement treatments (encompassing microdermabrasion, mild chemical peels, micro-needling, diamond tip). Provides clear, phased guidance for treatments with mild-to-moderate downtime. Strong emphasis on gentle exfoliation, sun protection, and managing the expected flaking/purging process. Good differentiation between treatment modalities and their specific care needs. Covers the transition from healing to long-term maintenance effectively.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_day_by_day",
+            "hygiene_cleansing_instructions",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection_mandate",
+            "makeup_guidance",
+            "purging_management",
+            "infection_awareness",
+            "result_timeline_expectations",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Skin Texture Refinement Aftercare",
+        "introduction": "This aftercare advice is designed to support your skin's renewal process following your texture refinement treatment (e.g., microdermabrasion, light chemical peel, micro-needling, diamond tip polishing). Proper care ensures optimal exfoliation, smooth healing, and the best possible improvement in skin smoothness, pore appearance, and fine lines.",
+        "instructions": {
+            "general_directive": "Please follow this guidance for the next 5-10 days. Your skin's barrier has been temporarily altered to encourage renewal; treat it gently during this period.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (First 24-48 Hours)",
+                    "items": [
+                        "Your skin will be pink or red, feel tight, warm, and sensitive, similar to a mild sunburn. This is normal.",
+                        "With microdermabrasion/diamond tip: Redness is common but usually fades within a few hours.",
+                        "With light chemical peels: Redness may be more pronounced and last 24-48 hours. A slight bronzing or darkening of pigmented areas may occur before peeling.",
+                        "With micro-needling: Redness and pinpoint bleeding/swelling (like a light sunburn) can last 24-72 hours.",
+                        "Minor swelling, especially around the eyes, is possible."
+                    ]
+                },
+                {
+                    "title": "Healing Timeline & What to Expect",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Sensitivity & Calming",
+                            "content": "Redness and sensitivity decrease. Skin may feel dry and tight. Use gentle, hydrating products. Avoid all exfoliation."
+                        },
+                        {
+                            "phase": "Days 3-7: Exfoliation & Renewal",
+                            "content": "The skin will begin to flake or peel, especially after peels or aggressive microdermabrasion. This is a NORMAL and DESIRED part of the process. DO NOT PICK, PULL, OR SCRATCH THE SKIN. Let it shed naturally. Flaking may be barely visible or more noticeable. Gentle cleansing will help remove loose flakes."
+                        },
+                        {
+                            "phase": "Days 7-10: Reveal & Refinement",
+                            "content": "Peeling is complete. New skin is revealed, feeling smoother and looking brighter. Some residual pinkness may linger but fades. Pore appearance and fine lines may look improved."
+                        }
+                    ]
+                },
+                {
+                    "title": "Hygiene & Cleansing",
+                    "items": [
+                        "Cleanse gently twice daily with a mild, non-foaming, fragrance-free cleanser and lukewarm water. Pat dry – do not rub.",
+                        "Avoid hot water, steam, and harsh cleansing tools (brushes, cloths) for 5-7 days.",
+                        "For micro-needling: You may be advised to cleanse with a sterile saline solution or specific gentle cleanser for the first 24 hours."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance (CRITICAL)",
+                    "items": [
+                        "Days 1-3: Use only a gentle moisturiser and sunscreen. Your practitioner may recommend a healing serum or occlusive cream.",
+                        "Days 3-10: Continue gentle moisturising. You may introduce a hydrating serum (like hyaluronic acid).",
+                        "STRICTLY AVOID for 7-10 days, or until all flaking has stopped: All exfoliants (Retinoids/Retinol, AHAs like glycolic/lactic acid, BHAs like salicylic acid, physical scrubs), Vitamin C (L-ascorbic acid), and benzoyl peroxide.",
+                        "After flaking stops, gradually reintroduce your active products, starting with alternate-day use."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (NON-NEGOTIABLE)",
+                    "content": "Your new skin is extremely vulnerable to UV damage. Sun exposure can cause hyperpigmentation (dark spots), inflammation, and reverse your results. For 2 WEEKS BEFORE and 2 WEEKS AFTER treatment (and ideally always): Apply a broad-spectrum SPF 30-50+ every morning. Reapply every 2 hours if exposed. Wear a hat and seek shade. NO TANNING BEDS."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy sweating, saunas, and hot yoga for 48-72 hours.",
+                        "Avoid swimming in chlorinated pools, hot tubs, or the sea for 48-72 hours.",
+                        "Avoid dusty, dirty environments for 24 hours post-microdermabrasion."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "It is advisable to avoid makeup for 24-48 hours. After that, you may apply mineral-based makeup if needed. Ensure all brushes and sponges are clean. Avoid heavy foundations that might clog pores or disrupt flaking skin."
+                },
+                {
+                    "title": "Managing Common Reactions",
+                    "items": [
+                        "Flaking/Peeling: Expected. Moisturise well to ease dryness and allow natural shedding.",
+                        "Breakouts/Purging: A temporary increase in breakouts is possible 24-72 hours after treatment as deeper congestion is brought to the surface. Keep skin clean, avoid picking, and it will resolve.",
+                        "Itching: Common during the flaking phase. A cool compress or oral antihistamine (if safe) can help. Do not scratch.",
+                        "Milia (tiny white bumps): Can occur from using heavy creams on newly exfoliated skin. Use lightweight, non-comedogenic moisturisers."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness (Rare)",
+                    "content": "Signs of infection include: increasing pain, spreading redness, pus, warmth, or fever. Contact your practitioner immediately if these occur."
+                },
+                {
+                    "title": "Result Timeline & Follow-Up",
+                    "items": [
+                        "Immediate glow and smoothness are often noticed once peeling is complete (day 7-10).",
+                        "For collagen-stimulating treatments like micro-needling, continued improvement in texture and pores occurs over 4-6 weeks as new collagen forms.",
+                        "Texture refinement is best achieved through a series of treatments (typically 3-6), spaced 2-4 weeks apart for peels/microderm, or 4-6 weeks for micro-needling.",
+                        "A follow-up or next treatment is usually scheduled accordingly.",
+                        "Maintain your results with a consistent homecare regimen including gentle exfoliation and daily sunscreen."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To reveal smoother, more refined skin, please follow this aftercare plan to support your skin's natural renewal process.",
+            "question_opportunity": "Your skincare professional can recommend products ideal for your skin type during the healing phase. Please ask for guidance.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my skin texture refinement treatment. I understand the expected flaking process, the critical need for sun protection, and the temporary restrictions on active skincare. I agree to follow this guidance and will contact the clinic with any concerns during healing."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "skin_texture_refinement_general",
+        "treatment_area": "face_neck_decolletage",
+        "document_length": "detailed",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "multi_modality_guidance",
+            "flaking_peeling_expectation_management",
+            "purging_phase_explanation"
+        ],
+        "clarity_notes": [
+            "Effectively bundles aftercare for several common superficial-to-mid-depth texture treatments."
+        ],
+        "recommendations": [
+            "Could add a specific note for micro-needling aftercare regarding possible \"micro-bruising\" (petechiae) that appears as tiny red dots and fades in a few days.",
+            "Include a warning to avoid using any at-home dermarollers or microneedling devices for at least 2 weeks post-professional treatment.",
+            "Consider mentioning that the skin may be more susceptible to irritation from fragrances or essential oils for 1-2 weeks."
+        ]
+    }
+}
