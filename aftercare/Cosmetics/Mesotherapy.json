@@ -1,0 +1,75 @@
+{
+    "form_analysis": {
+        "completeness_score": 80,
+        "rewards_awarded": 155,
+        "feedback": "Good mesotherapy aftercare form with comprehensive instructions, but appears to have formatting issues and corrupted text in the final emergency section. Covers most essential post-treatment care areas including skincare restrictions, activity limitations, and infection awareness.",
+        "sections_covered": [
+            "immediate_symptoms",
+            "symptom_management",
+            "skincare_restrictions",
+            "activity_limitations",
+            "product_avoidance",
+            "infection_awareness"
+        ],
+        "data_quality_issues": [
+            "formatting_errors_in_intro",
+            "corrupted_text_in_allergy_section",
+            "missing_patient_declaration"
+        ]
+    },
+    "form_data": {
+        "document_title": "MESOTHERAPY AFTERCARE",
+        "introduction": {
+            "note": "Text appears with formatting/ordering issues. Original provided as:",
+            "original_text": "complications, to improve your comfort/healing and to help achieve the best possible. results from treatment. The following aftercare advice is essential to help reduce the risk of treatment Please follow the aftercare advice for mesotherapy."
+        },
+        "instructions": {
+            "immediate_symptoms": "The treated area of skin may feel slightly tender and appear red and swollen. afterwards. These effects will resolve naturally and should be much improved after 48 hours but may take longer to settle. You may experience some minor bruising which may take 1-2 weeks to resolve in some cases.",
+            "symptom_management": "Use of a cold compress for swelling and arnica cream for bruising may be helpful for resolution.",
+            "product_avoidance_72_hours": [
+                "Avoid any perfumes, fake tan or other harsh chemicals for 72 hours after treatment.",
+                "Avoid any makeup for 24 hours after treatment as this can increase the risk of infection.",
+                "Avoid any skin exfoliation for 72 hours following treatment."
+            ],
+            "skincare_routine": "It is important to use a regular moisturising cream around two to three times a day on the treated area. Use more regularly if you feel the skin dry or peeling.",
+            "active_ingredient_avoidance": "Avoid any products that contain alpha hydroxy acids, retinol, and glycolic acid for at least 7 days after treatment.",
+            "activity_restrictions_72_hours": [
+                "Avoid strenuous exercise, saunas, sunbeds and exposure to heat for 72 hours after treatment. These can cause sweating which can irritate the delicate skin and slow down your ability to heal quickly.",
+                "Avoid swimming for 72 hours after treatment."
+            ],
+            "dietary_restrictions": "Avoid any excess alcohol or caffeine for 48 hours after treatment.",
+            "sun_protection": "Wear SPF 30 or greater sunscreen for at least 2 weeks following treatment as your skin will be more sensitive to sunlight afterwards.",
+            "other_treatment_restrictions": [
+                "Avoid any further cosmetic treatments e.g. Botox or dermal filler for 2 weeks following treatment, or ask your practitioner for advice.",
+                "Avoid any hair removal treatments such as waxing for 2 weeks after treatment or until the initial redness and swelling has resolved."
+            ],
+            "infection_awareness": "You must seek medical attention and contact your practitioner if you experience any signs or symptoms of infection after treatment. Infection can present as hot, red shiny skin, there may be pus formation and you may have a fever or feel generally unwell.",
+            "allergy_section_note": "Corrupted text detected in allergy emergency section. Original: 'You must seek emergency medical attention if you experience any severe allergy ergoforase feat popanbroxic Thosarasu indute sosh branthion'",
+            "allergy_emergency_interpretation": "Likely intended to advise seeking emergency medical attention for severe allergy symptoms such as rash, swelling, or breathing difficulties."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "mesotherapy",
+        "document_length": "moderate",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": true,
+        "data_quality_issues": true,
+        "corrupted_sections": [
+            "allergy_emergency"
+        ],
+        "missing_sections": [
+            "complete_patient_declaration",
+            "formal_signing_section",
+            "practitioner_contact_information"
+        ],
+        "recommendations": [
+            "Fix formatting in introduction section",
+            "Repair corrupted allergy emergency text",
+            "Add complete patient declaration and signature line",
+            "Include clear practitioner contact information"
+        ]
+    }
+}

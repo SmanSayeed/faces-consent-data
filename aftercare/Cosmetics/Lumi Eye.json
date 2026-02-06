@@ -1,0 +1,80 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 165,
+        "feedback": "Well-structured aftercare form organized by clear time phases (immediate, 24 hours, 2-7 days). Provides specific, actionable instructions for each period. Lacks detail on specific treatment type and emergency protocols for complications.",
+        "sections_covered": [
+            "immediate_care",
+            "24_hour_care",
+            "week_one_care",
+            "sun_protection",
+            "activity_restrictions",
+            "skincare_restrictions"
+        ],
+        "missing_sections": [
+            "treatment_type_identification",
+            "complication_signs_symptoms",
+            "emergency_contact_protocol",
+            "expected_normal_healing_timeline",
+            "medication_guidance"
+        ]
+    },
+    "form_data": {
+        "document_title": "Post-Treatment Aftercare Form",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort/healing and to help achieve the best possible results from treatment.",
+        "instructions": {
+            "phased_sections": [
+                {
+                    "time_period": "Immediately After Treatment",
+                    "items": [
+                        "Avoid touching or rubbing the treated area",
+                        "Do not apply makeup or other products to the area",
+                        "Avoid exposure to direct sunlight and heat",
+                        "Apply cool compresses to reduce any swelling or discomfort"
+                    ]
+                },
+                {
+                    "time_period": "First 24 Hours After Treatment",
+                    "items": [
+                        "Do not wet the treated area",
+                        "Avoid any strenuous exercise or activities",
+                        "Do not consume alcohol or caffeine",
+                        "Avoid any saunas, hot tubs, or steam rooms"
+                    ]
+                },
+                {
+                    "time_period": "Next 2-7 Days After Treatment",
+                    "items": [
+                        "Avoid direct sunlight or tanning beds",
+                        "Wear sunscreen with at least SPF 30 when outdoors",
+                        "Do not use any harsh or exfoliating skincare products on the treated area",
+                        "Do not get facials or chemical peels"
+                    ]
+                }
+            ],
+            "general_instruction": "If you experience any discomfort or have any questions during the healing process, please do not hesitate to contact us."
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "unspecified_procedure",
+        "document_length": "concise",
+        "risk_coverage": "basic",
+        "emergency_protocols_included": false,
+        "time_phased_structure": true,
+        "recommendations": [
+            "Specify the treatment type (laser, injection, etc.) for context",
+            "Add signs of infection or adverse reactions to monitor",
+            "Include emergency contact information",
+            "Clarify what 'discomfort' warrants contacting the practitioner",
+            "Add expected timeline for swelling/bruising resolution"
+        ]
+    }
+}

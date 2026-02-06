@@ -1,0 +1,132 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 210,
+        "feedback": "Comprehensive anti-wrinkle injection (neurotoxin) aftercare form with excellent coverage of specific post-treatment precautions, activity restrictions, and result timelines. Includes clear guidance on facial muscle use, emergency protocols, and follow-up timing. Strong emphasis on avoiding manipulation of the treated area.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "bruising_management",
+            "pain_guidance",
+            "hygiene_instructions",
+            "position_restrictions",
+            "activity_environmental_restrictions",
+            "medication_supplement_restrictions",
+            "facial_movement_guidance",
+            "result_timeline_expectations",
+            "infection_awareness",
+            "allergy_emergency",
+            "ptosis_awareness",
+            "asymmetry_management",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Anti-Wrinkle Injection Aftercare",
+        "introduction": "The following aftercare advice is essential to help ensure the safe and effective action of your treatment, minimise the risk of complications, and help you achieve the best possible cosmetic results.",
+        "instructions": {
+            "general_directive": "Please follow all aftercare instructions carefully for 24 hours post-treatment. Some restrictions apply for up to 2 weeks.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Small red bumps, pinpoint bleeding, mild swelling, and tenderness at the injection sites are normal immediately after treatment. These usually resolve within 1-2 hours. Mild headache is also common and should resolve within 24 hours."
+                },
+                {
+                    "title": "Bruising Management",
+                    "content": "Bruising at the injection sites is possible. This will resolve naturally but may take 5-7 days. Regular application of Arnica cream or gel may be helpful. Avoid blood-thinning medications and supplements (as listed below) if bruising occurs, unless prescribed by your doctor."
+                },
+                {
+                    "title": "Pain and Headache Guidance",
+                    "content": "Mild tenderness and headache are common. You may take Paracetamol if needed. Avoid Ibuprofen, Aspirin, or other NSAIDs for 24 hours unless prescribed, as they can increase bruising. If you experience severe, persistent headache or any other concerning pain, contact your practitioner."
+                },
+                {
+                    "title": "Hygiene and Basic Care",
+                    "items": [
+                        "Do not touch, rub, massage, or apply pressure to the treated areas for at least 4 hours. Avoid facials, facial massage, or any other aesthetic treatments on the face for 2 weeks.",
+                        "You may apply gentle, non-abrasive makeup after 4 hours, provided there is no broken skin or significant redness.",
+                        "Keep the area clean. You may wash your face gently with a mild cleanser and pat dry."
+                    ]
+                },
+                {
+                    "title": "Facial Movement and Activity",
+                    "items": [
+                        "Actively exercise the treated muscles for 1-2 hours post-injection (e.g., frequent frowning, raising eyebrows, squinting) as directed by your practitioner. This may help with product uptake.",
+                        "After this initial period, avoid strenuous exercise, heavy lifting, and activities that significantly increase blood flow to the face for 24 hours.",
+                        "Remain upright (do not lie down or bend over) for at least 4 hours after treatment."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid excessive heat for 24 hours: hot baths, showers, saunas, steam rooms, hot tubs, and sunbathing.",
+                        "Avoid extreme cold (e.g., cryotherapy) for 24 hours.",
+                        "Avoid swimming in chlorinated pools or the sea for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Medication and Supplement Restrictions",
+                    "items": [
+                        "For 24 hours before and after treatment, avoid medications that can thin the blood and increase bruising, such as Aspirin, Ibuprofen, Naproxen, and other NSAIDs. (If these are prescribed, consult your doctor before stopping).",
+                        "For 24 hours before and after treatment, avoid supplements that can increase bruising, such as Fish Oils, Omega-3, Vitamin E, Ginkgo Biloba, Garlic, Ginseng, and St. John’s Wort."
+                    ]
+                },
+                {
+                    "title": "Dietary Restrictions",
+                    "content": "Avoid alcohol for 24 hours before and after treatment, as it can increase the risk of bruising and swelling."
+                },
+                {
+                    "title": "Result Timeline and Expectations",
+                    "content": "Noticeable effects typically begin in 2-4 days. Full results are usually seen at 10-14 days. Results are not immediate. A degree of muscle movement will remain—the goal is softening, not complete paralysis. Mild asymmetry is common initially and often settles as the product takes full effect. A review/top-up appointment may be offered at 2-3 weeks if necessary."
+                },
+                {
+                    "title": "Eyelid Ptosis (Drooping) Awareness",
+                    "content": "A rare side effect is temporary drooping of the eyelid (ptosis). This is due to migration of the product. If you notice a heavy feeling or visible drooping of the upper eyelid, contact your practitioner immediately. Do not rub the area."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs of infection are uncommon but include increasing pain, redness, swelling, heat, or pus at the injection sites after 24 hours. If you experience these, contact your practitioner."
+                },
+                {
+                    "title": "Allergy Emergency",
+                    "content": "Severe allergic reaction (anaphylaxis) is extremely rare. Seek emergency medical attention immediately if you experience: difficulty breathing, swelling of the lips/tongue/throat, widespread rash, dizziness, or a rapid heart rate."
+                },
+                {
+                    "title": "General Side Effects and Follow-Up",
+                    "items": [
+                        "Contact your practitioner if you experience any other unexpected or concerning symptoms.",
+                        "Attend your scheduled follow-up appointment (typically at 2-3 weeks) for assessment of results.",
+                        "Treatment typically lasts 3-4 months. Schedule your next treatment before the full effect has worn off for consistent results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read and understood all of the aftercare information. Please sign the declaration below once you have done so.",
+            "question_opportunity": "Your practitioner is available to answer any questions you have about these instructions or your recovery. Please ask before you leave if anything is unclear.",
+            "declaration_text": "I confirm that I have read, understood, and agree to follow all the aftercare instructions provided on this form. I have had the opportunity to ask questions, which have been answered to my satisfaction."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "anti_wrinkle_injection_neurotoxin",
+        "treatment_area": "face_variable_sites",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "facial_movement_guidance_post_injection",
+            "ptosis_awareness_included",
+            "upright_position_restriction",
+            "result_timeline_detailed"
+        ],
+        "clarity_notes": [
+            "Instructions distinguish between immediate (4-hour) and longer-term (24-hour to 2-week) restrictions clearly."
+        ],
+        "recommendations": [
+            "Consider adding a specific note against using electronic muscle stimulation (EMS) devices on the face post-treatment.",
+            "May specify to avoid hats/headbands that put pressure on the forehead for 4 hours."
+        ]
+    }
+}

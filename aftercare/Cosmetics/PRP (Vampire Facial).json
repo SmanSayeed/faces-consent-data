@@ -1,0 +1,107 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 195,
+        "feedback": "Excellent, comprehensive aftercare form specifically for Vampire Facial (PRP Microneedling). Well-structured with clear time phases, detailed symptom expectations, emergency protocols, and long-term guidance. Includes both short-term and long-term care instructions.",
+        "sections_covered": [
+            "treatment_description",
+            "immediate_effects",
+            "24_48_hour_care",
+            "first_week_care",
+            "common_side_effects",
+            "emergency_contact_protocol",
+            "long_term_maintenance",
+            "patient_declaration"
+        ]
+    },
+    "form_data": {
+        "document_title": "Vampire Facial (PRP Microneedling) Aftercare",
+        "treatment_description": "This treatment uses your body’s own platelet-rich plasma, combined with microneedling, to stimulate collagen production, improve skin texture, and promote a youthful glow.",
+        "introduction": "Proper aftercare is essential to maximise results and minimise complications.",
+        "instructions": {
+            "phased_sections": [
+                {
+                    "time_period": "Immediately After Treatment",
+                    "sections": [
+                        {
+                            "title": "Redness and Warmth",
+                            "content": "It is normal for your skin to appear red (similar to sunburn) and feel warm for 1–2 days. Mild swelling and sensitivity may also occur."
+                        },
+                        {
+                            "title": "Tiny Pinprick Marks",
+                            "content": "Small pinpoint marks may be visible; these will fade as your skin heals."
+                        },
+                        {
+                            "title": "Avoid Touching the Skin",
+                            "content": "Keep your hands clean and avoid touching or scratching the treated area for the first 24 hours."
+                        }
+                    ]
+                },
+                {
+                    "time_period": "For the First 24–48 Hours",
+                    "items": [
+                        "No Makeup: Do not apply makeup for the first 24 hours to allow your skin to heal and to reduce the risk of infection.",
+                        "Avoid Sun Exposure: Keep out of direct sunlight. Wear a wide-brimmed hat if outdoors.",
+                        "Cleansing: Use only lukewarm water to rinse your face for the first 24 hours. Avoid cleansers, exfoliants, or active products until advised.",
+                        "Moisturising: Apply the post-treatment serum or cream provided by your practitioner to keep the skin hydrated.",
+                        "Avoid Excessive Heat: Do not use saunas, steam rooms, or hot baths."
+                    ]
+                },
+                {
+                    "time_period": "For the First Week",
+                    "items": [
+                        "Gentle Skincare: After 24 hours, cleanse with a mild, non-perfumed cleanser. Avoid scrubs, retinol, and acids (AHAs/BHAs) for at least 5–7 days.",
+                        "Sun Protection: Apply a broad-spectrum SPF 30 or higher daily to protect healing skin.",
+                        "No Swimming or Heavy Exercise: Avoid chlorinated pools, saltwater, and intense workouts for 48 hours.",
+                        "Skin Changes: Mild flaking or peeling may occur — do not pick at your skin."
+                    ]
+                }
+            ],
+            "common_side_effects": {
+                "title": "Common Side Effects",
+                "items": [
+                    "Redness, mild swelling, and sensitivity.",
+                    "Temporary dryness or flaking.",
+                    "Slight bruising from blood draw or microneedling."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Contact Us Immediately",
+                "items": [
+                    "Severe pain or swelling that worsens instead of improving.",
+                    "Signs of infection (increasing redness, heat, pus, or fever).",
+                    "Allergic reaction symptoms such as hives or difficulty breathing."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care",
+                "items": [
+                    "Maintain a consistent skincare routine with gentle cleansing, hydration, and sun protection.",
+                    "For best results, a series of treatments may be recommended.",
+                    "Avoid smoking and maintain a healthy lifestyle to support collagen production."
+                ]
+            }
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "vampire_facial_prp_microneedling",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": true,
+        "time_phased_structure": true,
+        "special_features": [
+            "includes treatment description",
+            "separates immediate, 24-48 hour, and first week phases",
+            "lists common vs emergency symptoms",
+            "includes long-term maintenance advice"
+        ]
+    }
+}

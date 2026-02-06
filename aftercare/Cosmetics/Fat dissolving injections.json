@@ -1,0 +1,92 @@
+{
+    "form_analysis": {
+        "completeness_score": 92,
+        "rewards_awarded": 190,
+        "feedback": "Comprehensive aftercare form with excellent coverage of immediate symptoms, activity guidance, and clear emergency protocols. Well-structured with practical advice for hydration, pain management, and lifestyle factors that support treatment outcomes.",
+        "sections_covered": [
+            "immediate_post_treatment",
+            "symptom_management",
+            "hydration_nutrition",
+            "activity_restrictions",
+            "infection_prevention",
+            "emergency_protocols",
+            "follow_up_importance"
+        ]
+    },
+    "form_data": {
+        "document_title": "FAT DISSOLVING INJECTIONS AFTERCARE",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort and to help achieve the best possible results from treatment.",
+        "instructions": {
+            "general_directive": "Please follow the aftercare advice for fat dissolving injections.",
+            "sections": [
+                {
+                    "title": "Activity and Normal Routine",
+                    "content": "You can resume your normal daily activities after fat dissolving treatment."
+                },
+                {
+                    "title": "Immediate Post-Treatment Symptoms",
+                    "content": "Immediately after treatment with fat dissolving you may notice some redness, swelling, tenderness and a painful sensation in the treated area, as well as numbness from the local anaesthetic. These symptoms generally improve significantly over the next few days. The swelling occasionally may last for up to 2 weeks, if symptoms persist or other reactions occur, please contact your practitioner."
+                },
+                {
+                    "title": "Hydration and Pain Management",
+                    "items": [
+                        "Drink plenty of fluids after treatment, you should aim for at least 2 liters per day.",
+                        "If the area is tender, you can use simple over the counter painkillers such as paracetamol."
+                    ]
+                },
+                {
+                    "title": "Skin Care and Infection Prevention",
+                    "items": [
+                        "Avoid makeup for 24 hours and any creams or skin oils, this will reduce the risk of infection at the injection sites.",
+                        "A cold compress may help with swelling and inflammation."
+                    ]
+                },
+                {
+                    "title": "Lifestyle and Environmental Factors",
+                    "items": [
+                        "Eating a healthy diet and taking regular physical exercise will help to improve fat loss and limit new fat gain.",
+                        "Try to reduce alcohol and caffeine consumption to help prevent dehydration.",
+                        "Avoid sunbeds, swimming, UV light and saunas until the initial skin redness and swelling has settled.",
+                        "Avoid any extremes of temperature for the first week following treatment."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "You must seek medical attention and contact your practitioner if you experience any signs or symptoms of infection after treatment. Infection can present as hot, red shiny skin, there may be pus formation and you may have a fever or feel generally unwell."
+                },
+                {
+                    "title": "Allergy Emergency",
+                    "content": "You must seek emergency medical attention if you experience any severe allergy symptoms after treatment. Symptoms may include rash, facial swelling and breathing difficulties."
+                },
+                {
+                    "title": "General Side Effects and Follow-up",
+                    "items": [
+                        "Contact your practitioner as soon as possible if you notice any other unwanted side effects.",
+                        "Your practitioner will advise when further treatment appointments are required. If you are advised to attend a follow up appointment, please make every effort to attend them. You should do this even if you believe that the recovery process is going well and you cannot see that there are any visible complications."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "medical_aftercare",
+        "treatment_type": "fat_dissolving_injections",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": true,
+        "special_features": [
+            "specific hydration target (2 liters)",
+            "pain management recommendations",
+            "lifestyle integration advice",
+            "strong emphasis on follow-up compliance"
+        ],
+        "timeline_clarity": "good"
+    }
+}
