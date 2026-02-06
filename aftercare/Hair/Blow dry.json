@@ -1,0 +1,102 @@
+{
+    "form_analysis": {
+        "completeness_score": 75,
+        "rewards_awarded": 160,
+        "feedback": "Practical and product-focused aftercare form for a blow dry, primarily aimed at extending the salon-style finish. Covers essential post-service care, heat protection, and environmental factors. Appropriately minimal on medical risks. Could be enhanced with more specific guidance for different hair types and managing scalp sensitivity.",
+        "sections_covered": [
+            "immediate_care",
+            "activity_environmental_restrictions",
+            "product_guidance",
+            "sleep_protection",
+            "maintenance_advice",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Blow Dry Aftercare",
+        "introduction": "This aftercare advice will help you maintain your salon-fresh blow dry, protect your hair from damage, and extend the life of your style for as long as possible.",
+        "instructions": {
+            "general_directive": "Follow these tips to preserve your style, typically for 2-4 days depending on your hair type and environment.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Service Care",
+                    "content": "Avoid touching, brushing, or restyling your hair immediately after leaving the salon. The style needs time to \"set.\" Avoid putting hair behind ears, wearing tight hats, headbands, or sunglasses on top of your head for the first few hours, as this can create dents."
+                },
+                {
+                    "title": "Sleep Protection (Key to Longevity)",
+                    "items": [
+                        "Sleep on a silk or satin pillowcase to reduce friction and prevent frizz and flattening.",
+                        "For longer hair, loosely gather hair at the crown into a very high, loose ponytail using a silk scrunchie (\"pineappling\"). Do not use elastic bands.",
+                        "Alternatively, wrap your hair loosely in a silk or satin scarf."
+                    ]
+                },
+                {
+                    "title": "Showering and Humidity Management",
+                    "items": [
+                        "Avoid getting your hair wet. If you shower, use a high-quality shower cap and ensure it is sealed properly. Steam can still relax the style.",
+                        "In humid or rainy weather, use a light-hold, anti-humidity hairspray or serum as a shield. Carry a compact umbrella.",
+                        "Avoid steam from cooking, saunas, and hot tubs."
+                    ]
+                },
+                {
+                    "title": "Product Guidance for Maintenance",
+                    "items": [
+                        "Use a DRY shampoo at the roots to absorb oil and add volume as needed. Apply before bed or from a distance to avoid white cast.",
+                        "To refresh curls or waves, use a very light mist of water mixed with a drop of leave-in conditioner, then scrunch gently. Avoid soaking the hair.",
+                        "If sections fall flat, use a round brush and a LOW heat setting on your dryer to touch up specific areas, always using a heat protectant spray first.",
+                        "Avoid applying heavy oils, creams, or serums to dry hair, as they can weigh it down and make it look greasy."
+                    ]
+                },
+                {
+                    "title": "Brushing and Restyling",
+                    "content": "Use a wide-tooth comb or a boar bristle brush gently, starting from the ends and working up to the roots to avoid pulling out the style. For volume, flip your head upside down and gently brush at the roots before flipping back."
+                },
+                {
+                    "title": "Heat Styling Caution",
+                    "content": "Your hair has already been exposed to high heat. If you must use hot tools (curling irons, straighteners), use the LOWEST effective temperature and always apply a heat protectant spray beforehand. Over-styling will cause dryness and reduce the blow dry's lifespan."
+                },
+                {
+                    "title": "Scalp and Hair Health",
+                    "content": "If you experience any unusual scalp tenderness, redness, or sensitivity from the brushing/tension during the service, it should resolve within 24 hours. If it persists, contact your stylist. This is rare but can occur with vigorous styling."
+                },
+                {
+                    "title": "General Longevity Tips",
+                    "items": [
+                        "The style will naturally relax over time. Day 2 and 3 often have the best natural volume and texture.",
+                        "For special events, schedule your blow dry for the day of or the day before.",
+                        "Regular trims and deep conditioning treatments will ensure your hair is in the best condition to hold a blow dry beautifully."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To get the most value from your professional blow dry service, please follow this simple maintenance advice.",
+            "question_opportunity": "Your stylist can recommend specific products for your hair type to use at home. Feel free to ask before you leave.",
+            "declaration_text": "I confirm that I have received and understood the aftercare advice for maintaining my professional blow dry. I understand that avoiding moisture, protecting the style while sleeping, and using appropriate products are key to extending its life."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_service_aftercare",
+        "treatment_type": "professional_blow_dry",
+        "treatment_area": "hair_scalp",
+        "document_length": "standard",
+        "risk_coverage": "basic",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "sleep_protection_techniques",
+            "humidity_management",
+            "dry_shampoo_guidance"
+        ],
+        "clarity_notes": [
+            "Focus is purely on aesthetic maintenance and hair health, not medical aftercare."
+        ],
+        "recommendations": [
+            "Add specific tips for different hair types: e.g., fine hair (focus on root volume, lighter products), curly hair (preserving blow-out with wrapping).",
+            "Include a note about avoiding chlorine and saltwater entirely until the next wash.",
+            "Consider mentioning that a cool shot setting at the end of any at-home touch-ups helps to seal the cuticle and set the style."
+        ]
+    }
+}

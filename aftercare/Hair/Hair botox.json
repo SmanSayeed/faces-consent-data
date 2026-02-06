@@ -1,0 +1,119 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 210,
+        "feedback": "Excellent and detailed aftercare form for a Hair Botox treatment. Provides clear, strict, and time-sensitive instructions critical for the treatment's success. Comprehensive coverage of washing restrictions, product mandates, and styling guidelines. Effectively communicates the treatment's mechanism and long-term maintenance plan.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "critical_washing_restrictions",
+            "styling_product_guidance",
+            "activity_environmental_restrictions",
+            "scalp_care",
+            "ongoing_maintenance_rules",
+            "result_timeline_expectations",
+            "allergy_infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Hair Botox Treatment Aftercare",
+        "introduction": "The following aftercare instructions are ABSOLUTELY CRITICAL to the success, longevity, and effectiveness of your Hair Botox treatment. Strict adherence ensures the active ingredients properly bind to your hair, providing smoothness, shine, and repair.",
+        "instructions": {
+            "general_directive": "You must follow these rules exactly for the first 72 hours (3 days) post-treatment. Ongoing care guidelines apply for the lifespan of the treatment (typically 2-4 months).",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment & The Critical 72-Hour Period",
+                    "items": [
+                        "DO NOT WASH, WET, OR GET YOUR HAIR DAMP IN ANY WAY FOR 72 HOURS. This includes rain, sweat, steam, humidity, and swimming. The treatment needs this time to fully cure and bind to the hair shaft.",
+                        "Do not tie your hair up, put it behind your ears, use hair clips, or wear hats, headbands, or sunglasses on your head. Any pressure can create dents, kinks, or disrupt the smoothing process.",
+                        "Sleep with your hair straight down and spread out over your pillow. Avoid twisting or bunching it up.",
+                        "Do not apply any styling products, oils, or serums during this 72-hour period."
+                    ]
+                },
+                {
+                    "title": "Washing Guidelines (After 72 Hours)",
+                    "items": [
+                        "For the FIRST WASH after 72 hours, use ONLY the sulfate-free, sodium chloride (salt)-free shampoo and conditioner provided or recommended by your stylist. These are mandatory.",
+                        "Wash with lukewarm or cool water. Hot water opens the hair cuticle and can strip the treatment.",
+                        "You may notice more slip and a different texture during this first wash. This is normal."
+                    ]
+                },
+                {
+                    "title": "Ongoing Washing & Product Rules",
+                    "items": [
+                        "You must use sulfate-free and sodium chloride-free shampoos and conditioners for the entire lifespan of the treatment (2-4 months). Products containing sulfates or salt will break down the treatment rapidly.",
+                        "Limit hair washing to 2-3 times per week to extend results.",
+                        "Avoid clarifying, detox, or dandruff shampoos unless they are specifically formulated to be safe for keratin or hair botox treatments."
+                    ]
+                },
+                {
+                    "title": "Styling and Heat Tools",
+                    "items": [
+                        "Always apply a heat protectant spray before using any hot tools (blow dryer, flat iron, curling iron).",
+                        "Use the lowest effective heat setting. Your hair will likely be smoother and require less heat styling.",
+                        "Avoid excessive brushing when wet; use a wide-tooth comb."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions (First Week & Ongoing)",
+                    "items": [
+                        "Avoid swimming in chlorinated pools or salt water for at least 7-10 days. If unavoidable, wet hair with clean water first, wear a tight swim cap, and shampoo immediately after with your sulfate-free shampoo.",
+                        "Minimize exposure to direct sun and UV rays, which can degrade the treatment. Wear a hat or use UV-protectant hair products.",
+                        "Avoid saunas and steam rooms for the first week."
+                    ]
+                },
+                {
+                    "title": "Scalp Sensitivity",
+                    "content": "Mild scalp tingling or sensitivity during or immediately after the application is normal and should fade within 24-48 hours. If you experience severe itching, burning, redness, rash, or blistering, contact your stylist immediately as this may indicate an allergic reaction."
+                },
+                {
+                    "title": "Result Timeline and Expectations",
+                    "content": "Results are NOT immediate. Hair may feel coated or different initially. The true smoothing, softening, and shine will develop over the first 1-2 weeks and after the first few washes. The treatment fills damage; it does not permanently alter curl pattern but makes hair more manageable and frizz-free."
+                },
+                {
+                    "title": "Long-Term Maintenance and Follow-Up",
+                    "items": [
+                        "The treatment gradually washes out over 2-4 months. To maintain results, use the recommended aftercare products consistently.",
+                        "Regular trims are recommended to prevent split ends.",
+                        "For consistent results, schedule your next Hair Botox treatment before the effects have completely worn out, typically around the 3-month mark.",
+                        "Deep conditioning treatments are safe and recommended, but ensure they are free of sulfates and harsh salts."
+                    ]
+                },
+                {
+                    "title": "What to Avoid for 2-4 Months",
+                    "content": "To protect your investment, avoid: traditional sulfated shampoos, swimming without protection, excessive heat styling without protectant, and other chemical treatments (like perms, relaxers, or traditional keratin) on top of the Hair Botox."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "The 72-hour rule is non-negotiable for successful results. Please read and commit to these instructions before signing.",
+            "question_opportunity": "Your stylist has invested in your hair's health. Please ask for clarification on any point, especially regarding product choices, before you leave the salon.",
+            "declaration_text": "I confirm that I have read and fully understand the critical aftercare instructions for my Hair Botox treatment. I understand and agree to NOT wash or wet my hair for 72 hours, to use only sulfate-free and salt-free products, and to follow all guidelines to ensure the treatment's success. I will contact the salon immediately with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_service_aftercare",
+        "treatment_type": "hair_botox_treatment",
+        "treatment_area": "hair_scalp",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "72_hour_strict_no_wash_wet_rule",
+            "sulfate_sodium_chloride_free_mandate",
+            "sleeping_position_guidance",
+            "gradual_result_timeline"
+        ],
+        "clarity_notes": [
+            "Instructions are emphatic and clear about the consequences of non-compliance, which is necessary for this treatment type."
+        ],
+        "recommendations": [
+            "Could add a specific note about avoiding hard water if possible, or using a chelating shampoo (that is also sulfate-free) once a month if in a hard water area.",
+            "Consider mentioning that hair may feel slightly heavier or thicker initially, which is normal as the product fills the hair shaft.",
+            "May include advice for colour-treated hair (that Hair Botox can help seal colour but may slightly alter tone; discuss with stylist)."
+        ]
+    }
+}

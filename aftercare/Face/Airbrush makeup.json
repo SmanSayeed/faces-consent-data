@@ -1,0 +1,106 @@
+{
+    "form_analysis": {
+        "completeness_score": 83,
+        "rewards_awarded": 175,
+        "feedback": "Practical and clear aftercare form for airbrush makeup, focusing on preservation of the finish, gentle removal, and skin care post-event. Good guidance on avoiding common pitfalls that break down the makeup. Appropriately minimal on medical risks. Could be enhanced with more specific advice for different skin types and managing touch-ups.",
+        "sections_covered": [
+            "immediate_post_application_care",
+            "activity_environmental_restrictions",
+            "touch_up_guidance",
+            "removal_instructions",
+            "skin_care_post_removal",
+            "follow_up_advice"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Airbrush Makeup Aftercare",
+        "introduction": "This aftercare advice will help you maintain the flawless, long-lasting finish of your professional airbrush makeup, ensure your comfort, and care for your skin once the makeup is removed.",
+        "instructions": {
+            "general_directive": "Follow these tips to preserve your makeup look for the duration of your event (typically 12-18 hours) and to care for your skin afterwards.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Application Care",
+                    "items": [
+                        "Allow the makeup to dry completely for 2-3 minutes before touching your face, dressing, or putting on jewellery. It sets to a transfer-resistant finish.",
+                        "Avoid touching, rubbing, or resting your face on surfaces. The makeup is durable but not completely rub-proof.",
+                        "Do not apply additional powders, creams, or liquid products on top unless absolutely necessary, as this can disrupt the fine airbrushed layer and cause caking."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Considerations",
+                    "items": [
+                        "It is water-resistant but not waterproof. Avoid excessive crying, swimming, or activities that cause profuse sweating.",
+                        "Blot (do not wipe) any tears or sweat gently with a soft, clean tissue.",
+                        "Be mindful of hugging, cheek-kissing, or wearing high-collared garments that may brush against the face.",
+                        "The makeup is designed to withstand normal event humidity and indoor temperatures."
+                    ]
+                },
+                {
+                    "title": "Touch-Up Guidance (If Needed)",
+                    "items": [
+                        "Carry the provided touch-up product or a translucent blotting powder. Do not use a compact with a puff—this can remove makeup.",
+                        "To combat shine, gently blot first with an oil-blotting paper, then apply a light dusting of powder with a fluffy brush.",
+                        "For minor smudges, use a clean fingertip or a precision cotton bud to gently pat and blend—do not rub."
+                    ]
+                },
+                {
+                    "title": "Safe and Effective Removal (CRITICAL)",
+                    "content": "Airbrush makeup requires thorough removal to prevent clogged pores. Do not sleep in it. Use a dedicated makeup remover or a double-cleansing method: 1) Start with an oil-based cleanser, micellar water, or cleansing balm to break down the silicone/water-based formula. Massage gently onto dry skin. 2) Follow with your regular gentle, water-based facial cleanser. Ensure all residue is gone."
+                },
+                {
+                    "title": "Post-Removal Skin Care",
+                    "items": [
+                        "After removal, your skin may feel slightly drier than usual due to the long-wear formula. Apply your regular moisturiser.",
+                        "If you have sensitive skin, you may experience slight redness from the removal process; this should subside quickly.",
+                        "Avoid using strong exfoliants (retinol, AHAs/BHAs) on the same night after removal. Let your skin rest and rehydrate."
+                    ]
+                },
+                {
+                    "title": "Potential Skin Reactions",
+                    "content": "Allergic reactions to professional airbrush makeup are rare. If you experience persistent itching, rash, swelling, or burning during wear, remove the makeup immediately and contact your artist. Inform them of the reaction for future reference."
+                },
+                {
+                    "title": "Preserving the Look for Multiple Days",
+                    "content": "Airbrush makeup is designed for single-day wear. It is not advisable to sleep in it and try to 'refresh' it the next day, as this can lead to breakouts. For multi-day events, professional removal and reapplication are recommended."
+                },
+                {
+                    "title": "General Tips for Best Results",
+                    "items": [
+                        "Communicate any skin sensitivities or allergies to your artist before application.",
+                        "The finish is designed to look perfect in photography. Avoid looking in magnifying mirrors, as the fine spray is meant to be seen from a normal distance.",
+                        "For future events, maintain a consistent skincare routine to ensure the best possible canvas for application."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "To ensure your makeup stays perfect and your skin stays healthy, please review this simple aftercare guide.",
+            "question_opportunity": "Your makeup artist can provide specific product recommendations for touch-ups or removal. Feel free to ask.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my professional airbrush makeup. I understand how to care for the makeup during my event and the importance of thorough, gentle removal afterwards."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "makeup_service_aftercare",
+        "treatment_type": "professional_airbrush_makeup",
+        "treatment_area": "face_neck_decolletage",
+        "document_length": "standard",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "transfer_prevention_guidance",
+            "blotting_vs_wiping_emphasis",
+            "double_cleansing_removal_mandate"
+        ],
+        "clarity_notes": [
+            "Focus is on aesthetic preservation and basic skin health, not medical aftercare."
+        ],
+        "recommendations": [
+            "Add specific advice for different event types: outdoor summer wedding (blotting, powder, hat), indoor winter event (avoiding scarf friction).",
+            "Include a note about avoiding facial mists or sprays during wear unless they are known to be compatible with the airbrush formula.",
+            "Consider mentioning that the makeup is not suitable for use as a 'base' for theatrical or heavy special effects makeup that requires adhesives."
+        ]
+    }
+}

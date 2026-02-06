@@ -1,0 +1,126 @@
+{
+    "form_analysis": {
+        "completeness_score": 87,
+        "rewards_awarded": 185,
+        "feedback": "Well-structured aftercare form for professional hair treatments (keratin, Olaplex, deep conditioning). Provides clear, differentiated guidance based on treatment type. Strong emphasis on preserving chemical results, protecting the investment, and maintaining scalp health. Could be enhanced with more specific first-day instructions and clearer timelines for different side effects.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "washing_guidance",
+            "styling_product_guidance",
+            "activity_environmental_restrictions",
+            "scalp_care",
+            "color_treated_hair_specific",
+            "keratin_specific_guidance",
+            "general_maintenance_advice",
+            "follow_up_timing"
+        ],
+        "clarity_issues": [
+            "general_timeline_for_tenderness"
+        ]
+    },
+    "form_data": {
+        "document_title": "Professional Hair Treatment Aftercare",
+        "introduction": "This aftercare advice is crucial to protect your investment, ensure the effectiveness of your treatment, and maintain the health, strength, and style of your hair for as long as possible.",
+        "instructions": {
+            "general_directive": "Please follow this guidance carefully for the duration specified, which varies by treatment type (typically 24-72 hours for initial care, and ongoing for long-term maintenance).",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Care (First 24-72 Hours)",
+                    "items": [
+                        "Do not wash your hair for the time specified by your stylist. This is CRITICAL for keratin/straightening treatments (typically 48-72 hours), and important for deep conditioning/oil treatments (24-48 hours).",
+                        "Avoid getting hair wet from rain, sweat, or steam. Wear a shower cap in steamy bathrooms.",
+                        "Do not put hair behind ears, use clips, tie it up, or tuck it under hats/headbands. This can create dents, waves, or disrupt the smoothing process.",
+                        "For keratin/chemical treatments: Sleep with hair straightened out on the pillow, not bunched up."
+                    ]
+                },
+                {
+                    "title": "Washing and Conditioning Guidelines",
+                    "items": [
+                        "Use ONLY sulfate-free, sodium chloride-free, and paraben-free shampoos and conditioners. These are mandatory for keratin treatments and highly recommended for all treated hair to preserve results.",
+                        "Wash hair with lukewarm or cool water. Hot water opens the cuticle and strips treatment benefits.",
+                        "For keratin/straightening treatments: the first wash after the waiting period should be with the recommended aftercare shampoo.",
+                        "Limit washing to 2-3 times per week to extend treatment life."
+                    ]
+                },
+                {
+                    "title": "Styling and Heat Tool Guidance",
+                    "items": [
+                        "Always apply a heat protectant spray or serum before using any hot tools (blow dryer, flat iron, curling wand).",
+                        "Use the lowest effective heat setting. High heat can degrade treatment results faster.",
+                        "For keratin-treated hair: you may find you need less heat and less frequent styling.",
+                        "Avoid excessive brushing when hair is wet; use a wide-tooth comb."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid swimming in chlorinated pools or salt water for at least 7 days post-treatment. If swimming is unavoidable, wet hair with clean water first and wear a tight swim cap. Shampoo immediately afterwards.",
+                        "Avoid saunas, steam rooms, and intense exercise that causes heavy sweating for 48-72 hours.",
+                        "Minimize sun exposure to hair. Wear a hat or use UV-protectant hair products to prevent fading and dryness."
+                    ]
+                },
+                {
+                    "title": "Scalp Care and Sensitivity",
+                    "content": "Mild scalp tenderness, tingling, or sensitivity is possible for 24-48 hours after certain chemical treatments. This should resolve. If you experience severe itching, burning, rash, or blistering, contact your stylist immediately as this may indicate an allergic reaction or chemical burn."
+                },
+                {
+                    "title": "For Color-Treated Hair (If Applicable)",
+                    "content": "The treatment may make color more vibrant, but it can also fade faster if not cared for. Use color-safe (sulfate-free) products. Wash with cool water. Consider a color-depositing mask between salon visits as recommended by your stylist."
+                },
+                {
+                    "title": "Keratin/Smoothing Treatment Specific Rules",
+                    "items": [
+                        "The 72-hour (or specified) no-wash period is non-negotiable. Water will disrupt the bonding process.",
+                        "Do not tie hair up or use any hair accessories during this period.",
+                        "Results will develop over the first few washes. Hair may feel different initially.",
+                        "Treatment typically lasts 3-5 months. Maintain with recommended aftercare products."
+                    ]
+                },
+                {
+                    "title": "Olaplex/ Bond-Building Treatment Specific Care",
+                    "content": "There is typically no waiting period to wash. Continue using bond-building maintenance products (like Olaplex No.3, No.4, No.5) as directed to maintain strength between salon treatments."
+                },
+                {
+                    "title": "General Maintenance for All Treatments",
+                    "items": [
+                        "Schedule regular trims to prevent split ends from traveling up the hair shaft.",
+                        "Use a weekly deep conditioning or protein mask as recommended for your hair type.",
+                        "Invest in a silk or satin pillowcase to reduce friction, breakage, and frizz."
+                    ]
+                },
+                {
+                    "title": "Follow-Up and Results",
+                    "content": "The full results of your treatment will be apparent after the first wash and style at home. For smoothing treatments, a follow-up gloss or top-up treatment may be recommended at 6-8 weeks. For ongoing health, discuss a regular treatment schedule with your stylist."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "The longevity and success of your professional hair treatment depend significantly on proper home care. Please review this information thoroughly.",
+            "question_opportunity": "Your stylist has chosen specific products for your hair's needs. Please ask for clarification on any step or product recommendation.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my professional hair treatment. I understand the importance of the initial waiting period, using sulfate-free products, and protecting my hair from heat and water to preserve the results. I will contact the salon with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "hair_service_aftercare",
+        "treatment_type": "professional_hair_treatment_general",
+        "treatment_area": "hair_scalp",
+        "document_length": "detailed",
+        "risk_coverage": "good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "treatment_type_specific_sections",
+            "sulfate_free_mandate",
+            "initial_no_wash_period"
+        ],
+        "clarity_notes": [
+            "Provides a good framework that can apply to multiple specific treatments with clear differentiation."
+        ],
+        "recommendations": [
+            "Add a more specific timeline table for different treatments: e.g., Keratin (72-hr strict rules), Olaplex (no wait), Deep Condition (24-hr wait).",
+            "Include a note about avoiding hard water if possible, or using a chelating shampoo once a month if in a hard water area.",
+            "Consider adding advice for managing potential 'relaxed' texture at the roots as new hair grows in."
+        ]
+    }
+}

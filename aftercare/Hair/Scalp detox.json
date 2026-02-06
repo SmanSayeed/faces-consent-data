@@ -1,0 +1,115 @@
+{
+    "form_analysis": {
+        "completeness_score": 86,
+        "rewards_awarded": 180,
+        "feedback": "Comprehensive aftercare form for a scalp detox treatment, effectively covering post-treatment symptoms, product reintroduction, and activity restrictions. Strong focus on gentle care, managing oil rebalancing, and avoiding irritation. Good guidance on when to seek help for adverse reactions. Could be enhanced with more specific timelines for different symptoms.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_washing_guidance",
+            "skincare_product_guidance",
+            "activity_environmental_restrictions",
+            "sun_protection",
+            "styling_product_guidance",
+            "scalp_sensitivity_management",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Scalp Detox Treatment Aftercare",
+        "introduction": "This aftercare advice is designed to support your scalp's healing and rebalancing process, soothe any sensitivity, and help maintain a clean, healthy scalp environment following your detox treatment.",
+        "instructions": {
+            "general_directive": "Please follow this guidance for the next 48-72 hours. Your scalp may be more sensitive and reactive during this period as it adjusts.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations",
+                    "content": "A feeling of extreme cleanliness, lightness, and slight tingling or coolness on the scalp is normal. Mild redness or sensitivity, especially if manual exfoliation or extractions were performed, is common and should subside within 6-12 hours."
+                },
+                {
+                    "title": "Hygiene and Washing Guidelines",
+                    "items": [
+                        "Do not wash your hair for at least 24 hours after the treatment. This allows any beneficial leave-on serums or actives to continue working.",
+                        "For the first wash after 24 hours, use a gentle, sulfate-free, pH-balanced shampoo as recommended by your therapist. Massage gently with fingertips, not nails.",
+                        "You may need to shampoo twice to fully remove any residual treatment products or loosened debris.",
+                        "Use lukewarm water. Avoid very hot water on the scalp."
+                    ]
+                },
+                {
+                    "title": "Scalp Product Guidance",
+                    "items": [
+                        "Use only the gentle, recommended scalp serums, toners, or treatments provided by your therapist for the first 3-5 days.",
+                        "AVOID applying the following directly to the scalp for 5-7 days: chemical exfoliants (like salicylic acid scalp treatments), strong anti-dandruff shampoos with pyrithione zinc or selenium sulfide (unless prescribed), heavy oils, and hair dyes or root touch-up sprays.",
+                        "If you use a scalp scrub at home, do not use it for at least 7 days post-treatment."
+                    ]
+                },
+                {
+                    "title": "Hair Styling Product Guidance",
+                    "content": "Avoid applying heavy styling products (gels, pomades, waxes, dry shampoo) directly to the roots and scalp for 48-72 hours. If you must use dry shampoo, apply it from a distance to the mid-lengths only. Opt for lightweight, non-comedogenic products."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise and heavy sweating for 24-48 hours. Sweat can irritate a freshly treated scalp and reintroduce bacteria.",
+                        "Avoid saunas, steam rooms, and very hot showers for 48 hours.",
+                        "Avoid swimming in chlorinated pools or salt water for at least 48-72 hours.",
+                        "Protect your scalp from direct sun exposure for 48 hours by wearing a hat. The scalp skin can be more photosensitive post-exfoliation."
+                    ]
+                },
+                {
+                    "title": "Scalp Sensitivity and Oil Rebalancing",
+                    "items": [
+                        "Your scalp may feel drier than usual for a few days as it recalibrates its oil production. This is normal. Use a light, non-greasy hydrating scalp serum if recommended.",
+                        "Conversely, some people may experience a temporary increase in oiliness (rebound oil) as the scalp adjusts. This should normalize within a week.",
+                        "Itching or slight flaking of loosened dead skin cells is possible 1-2 days post-treatment. Do not scratch. Gentle washing and a soothing serum will help."
+                    ]
+                },
+                {
+                    "title": "Hair Styling and Manipulation",
+                    "content": "Be gentle when brushing or combing your hair, especially at the roots. Avoid tight hairstyles (tight ponytails, braids, buns) that pull on the scalp for 48 hours. This minimizes irritation and allows follicles to rest."
+                },
+                {
+                    "title": "Infection and Adverse Reaction Awareness",
+                    "content": "While rare, signs of infection or severe irritation require attention. Contact your therapist or a doctor if you experience: increasing pain, spreading redness, pus-filled bumps, hot and swollen areas on the scalp, or fever. If you develop a rash, hives, or severe itching, you may be reacting to a product; discontinue use and contact your therapist."
+                },
+                {
+                    "title": "Long-Term Maintenance and Follow-Up",
+                    "items": [
+                        "For ongoing scalp health, incorporate a gentle exfoliating scalp treatment (as recommended) into your routine every 1-4 weeks.",
+                        "Use clarifying or detox shampoos no more than once a week to avoid over-stripping.",
+                        "The benefits of reduced flakiness, improved cleanliness, and better product absorption will be most noticeable in the week following treatment.",
+                        "For chronic scalp conditions, a series of treatments may be recommended. Discuss a follow-up schedule with your therapist."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Proper aftercare ensures your comfort and maximizes the benefits of your scalp detox. Please read the following instructions.",
+            "question_opportunity": "Your therapist can recommend a personalized home care regimen for your scalp type. Please ask any questions before you leave.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my scalp detox treatment. I understand my scalp may be sensitive and I will avoid harsh products, heat, and irritation. I will contact the clinic with any concerns regarding my scalp's reaction."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "scalp_detox_treatment",
+        "treatment_area": "scalp",
+        "document_length": "detailed",
+        "risk_coverage": "very_good",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "oil_rebalancing_guidance",
+            "styling_product_restrictions",
+            "scalp_sun_protection"
+        ],
+        "clarity_notes": [
+            "Acknowledges two possible temporary responses: increased dryness or rebound oiliness."
+        ],
+        "recommendations": [
+            "Could specify a waiting period before using at-home hair colour or bleach on the scalp (recommend 7-10 days).",
+            "Add a note about avoiding helmets or tight hats that cause friction for 48 hours.",
+            "Consider mentioning that a slight, temporary increase in hair shedding 3-7 days post-treatment can occur as the scalp sheds telogen hairs loosened by the exfoliation; this is normal unless excessive."
+        ]
+    }
+}
