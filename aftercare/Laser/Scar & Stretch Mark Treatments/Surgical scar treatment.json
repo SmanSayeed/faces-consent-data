@@ -1,0 +1,94 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Excellent aftercare form for surgical scar treatment with specific focus on tension management and early intervention. Strong guidance on suture line care, tension prevention, and staged treatment approach. Good emphasis on the critical first 6-12 month remodeling window.",
+        "sections_covered": [
+            "immediate_post_treatment_care",
+            "tension_management_critical",
+            "phased_treatment_approach",
+            "suture_line_specific_care",
+            "infection_prevention",
+            "sun_protection_absolute",
+            "massage_technique_timing",
+            "result_timeline_surgical",
+            "complication_awareness",
+            "long_term_scar_management"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Surgical Scar Treatment Aftercare",
+        "introduction": "This aftercare is for laser or energy-based treatment of surgical scars to optimize healing, minimize hypertrophy, and improve cosmetic appearance. Surgical scars have unique considerations including suture lines, tension, and specific healing phases that must be respected.",
+        "instructions": {
+            "general_directive": "Follow this timeline-based care. The first 3 months are critical for scar maturation; early intervention yields best results.",
+            "sections": [
+                {
+                    "title": "Timing & Treatment Phases",
+                    "items": [
+                        "Early Treatment (2-12 weeks post-op): Focus on redness reduction, preventing hypertrophy. Use vascular lasers (PDL) for redness.",
+                        "Intermediate (3-12 months): Address texture, elevation. Use fractional lasers for remodeling.",
+                        "Mature scars (>1 year): More aggressive treatments possible."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment Care",
+                    "items": [
+                        "Redness, swelling expected for 3-7 days.",
+                        "Keep treated area moist with healing ointment for first week.",
+                        "Clean gently with mild soap/water. Pat dry.",
+                        "Signs of infection: Increased pain, pus, red streaks, fever."
+                    ]
+                },
+                {
+                    "title": "Critical: Tension Management",
+                    "content": "Tension across scar causes widening and hypertrophy. Avoid activities that stretch the scar for 6-12 weeks. Use silicone tape with gentle compression. Consider specialized taping techniques if on mobile areas (joints, chest)."
+                },
+                {
+                    "title": "Suture Line Specific Care",
+                    "items": [
+                        "If treating fresh suture line (<8 weeks), be extremely gentle.",
+                        "Do not apply tension or massage until sutures dissolved/removed and wound fully closed.",
+                        "Watch for suture reactions or spitting sutures."
+                    ]
+                },
+                {
+                    "title": "Scar Massage Protocol",
+                    "items": [
+                        "Begin after 4-6 weeks when wound fully closed.",
+                        "Use vitamin E oil or silicone gel. Massage in circular and cross-friction motions.",
+                        "5-10 minutes, 2-3x daily for 6+ months.",
+                        "Goal: Break up collagen fibers, improve pliability."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Non-Negotiable)",
+                    "content": "Surgical scars hyperpigment easily. Protect with SPF 50+ and physical coverage (clothing, tape) for 12+ months. UV exposure permanently darkens scars."
+                },
+                {
+                    "title": "Complication Awareness",
+                    "items": [
+                        "Hypertrophy: Raised, red, itchy scar. Report early for steroid injections.",
+                        "Widening: From tension. Early silicone taping helps prevent.",
+                        "Hypopigmentation: White scars possible; harder to treat.",
+                        "Keloid formation: In prone individuals. Early intervention critical."
+                    ]
+                },
+                {
+                    "title": "Expected Results & Timeline",
+                    "items": [
+                        "Reduction in redness: 1-3 treatments, 4-8 week intervals.",
+                        "Texture improvement: 2-5 fractional treatments, 3-6 month intervals.",
+                        "Final assessment at 12-18 months post-op.",
+                        "Optimal outcome: Fine, flat, flexible, skin-colored line."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Surgical scar optimization requires consistent care during the critical first year.",
+            "question_opportunity": "Ask about tension-reducing strategies specific to your scar location.",
+            "declaration_text": "I understand tension management and sun protection are critical for optimal surgical scar healing."
+        }
+    }
+}

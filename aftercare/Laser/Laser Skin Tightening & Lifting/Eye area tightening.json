@@ -1,0 +1,93 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional laser-specific aftercare for periorbital tightening with detailed guidance on this ultra-delicate area. Comprehensive swelling management protocols and realistic expectations about different eye concerns. Strong emphasis on the extended timeline for eyelid results.",
+        "sections_covered": [
+            "laser_eye_mechanism_safety",
+            "immediate_post_laser_eye_response",
+            "periorbital_swelling_management",
+            "eye_specific_aftercare",
+            "makeup_contact_lens_guidance",
+            "different_eye_concern_timelines",
+            "realistic_laser_eye_expectations",
+            "safety_contraindications"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Eye Area Tightening Aftercare",
+        "introduction": "This aftercare is for fractional laser tightening of the periorbital area (eyelids, crow's feet, under eyes). The eye area has the thinnest skin (0.5mm on eyelids) requiring ultra-conservative laser settings. Specialized eye shields are used during treatment.",
+        "instructions": {
+            "general_directive": "Follow for 10-14 days with extreme gentleness. The eyes show swelling dramatically and require meticulous care.",
+            "sections": [
+                {
+                    "title": "Laser Eye Mechanism & Safety",
+                    "content": "Low-energy, low-density fractional laser with specific eye shields protecting globes. Treats: 1) Upper lids for hooding 2) Crow's feet for wrinkles 3) Lower lids for bags/fine lines. Very conservative settings to avoid complications."
+                },
+                {
+                    "title": "Immediate Post-Laser Eye Response",
+                    "items": [
+                        "Significant eyelid swelling (may partially close eyes) for 2-4 days.",
+                        "Black eyes/bruising in 20-40% of patients.",
+                        "Tearing, light sensitivity for 24-48 hours.",
+                        "Tightness when blinking or looking up/down."
+                    ]
+                },
+                {
+                    "title": "Periorbital Swelling Management",
+                    "items": [
+                        "Sleep elevated on 2-3 pillows for 5-7 nights.",
+                        "Cold compresses: 10 minutes on, 20 off for first 72 hours.",
+                        "Avoid salt, alcohol, histamine-rich foods for 4 days.",
+                        "Lymphatic massage: From inner eye outward toward temples.",
+                        "Consider oral arnica, bromelain, vitamin K."
+                    ]
+                },
+                {
+                    "title": "Eye-Specific Aftercare",
+                    "items": [
+                        "Use preservative-free artificial tears 4-6x daily if dry.",
+                        "Eye creams ONLY (no face products) after 1 week.",
+                        "Pat gently, never rub.",
+                        "Wear sunglasses outdoors for 2 weeks.",
+                        "Avoid eye makeup for 5-7 days."
+                    ]
+                },
+                {
+                    "title": "Makeup & Contact Lens Guidance",
+                    "items": [
+                        "No contact lenses for 48-72 hours.",
+                        "When resuming makeup: Use clean brushes, replace mascara.",
+                        "Avoid waterproof makeup (requires aggressive removal).",
+                        "Green color corrector neutralizes redness/bruising."
+                    ]
+                },
+                {
+                    "title": "Different Eye Concern Timelines",
+                    "items": [
+                        "Crow's feet: Improvement in 2-4 weeks.",
+                        "Eyelid hooding: Gradual lift over 2-4 months.",
+                        "Under eye: Swelling improves in 1-2 weeks, true tightening in 3-4 months.",
+                        "Fine lines: Texture improvement in 4-8 weeks."
+                    ]
+                },
+                {
+                    "title": "Realistic Laser Eye Expectations",
+                    "items": [
+                        "1-2mm eyelid lift (mild ptosis improvement).",
+                        "30-50% reduction in crow's feet depth.",
+                        "Reduction in under eye puffiness/bags.",
+                        "Subtle improvement, not dramatic surgical change.",
+                        "3-5 sessions needed for periorbital area.",
+                        "Maintenance: Annual touch-ups."
+                    ]
+                },
+                {
+                    "title": "Safety & Contraindications",
+                    "content": "Report immediately: Vision changes, severe pain, excessive discharge, or asymmetric swelling. Avoid if: Recent eye surgery, active eye infection, severe dry eye, or history of keloids on eyelids."
+                }
+            ]
+        }
+    }
+}

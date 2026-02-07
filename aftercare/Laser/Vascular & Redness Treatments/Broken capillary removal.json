@@ -1,0 +1,143 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 225,
+        "feedback": "Excellent aftercare form for broken capillary removal, effectively synonymous with thread vein removal but with a focus on the fragile nature of facial capillaries. Provides clear, specific guidance on the purpuric response, critical activity restrictions (especially for facial strain), and the importance of managing underlying conditions like rosacea. Strong emphasis on preventing rebound dilation through heat and activity avoidance. Realistic expectations about recurrence and the necessity of ongoing skincare are well-articulated.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_day_by_day",
+            "hygiene_cleansing_instructions",
+            "activity_facial_strain_restrictions",
+            "sun_protection_mandate",
+            "skincare_product_restrictions",
+            "makeup_guidance",
+            "managing_purpura_swelling",
+            "rosacea_flushing_management",
+            "crusting_blistering_awareness",
+            "infection_awareness",
+            "result_timeline_expectations",
+            "series_importance",
+            "underlying_condition_management",
+            "long_term_prevention",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Broken Capillary Removal Aftercare",
+        "introduction": "This aftercare protocol is specifically for the laser or intense pulsed light (IPL) treatment of broken capillaries (telangiectasias) on the face, commonly associated with rosacea, sun damage, or genetics. The treatment seals the fragile vessels. Meticulous care is required to manage the healing process, prevent the vessels from reopening, and address the underlying skin condition.",
+        "instructions": {
+            "general_directive": "Follow this guidance meticulously for the next 7-14 days. The first 72 hours are critical for ensuring the vessels remain sealed. Long-term management of your skin's tendency to form capillaries is equally important.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (First 24-72 Hours)",
+                    "items": [
+                        "The treated capillaries will immediately turn DARK PURPLE, GREY, or DARK RED. This is PURPURA – a bruise confined to the vessel – and is the desired sign of effective treatment.",
+                        "The surrounding skin will be red, swollen, and feel warm or tender. Swelling, especially on the cheeks and nose, can be noticeable.",
+                        "Apply cold compresses (wrapped in a clean cloth) for 10-15 minutes every hour to reduce swelling and soothe discomfort. Sleep with your head elevated on extra pillows."
+                    ]
+                },
+                {
+                    "title": "The Healing & Fading Timeline",
+                    "items": [
+                        {
+                            "phase": "Days 1-5: Intense Purpura",
+                            "content": "The purple/bruised colour is most prominent. Swelling peaks and then subsides. DO NOT TOUCH, MASSAGE, OR RUB THE TREATED AREA."
+                        },
+                        {
+                            "phase": "Days 5-14: Gradual Fading",
+                            "content": "The bruise will fade through colours of brown, green, and yellow as your body reabsorbs the treated blood. The capillaries will begin to lighten and fragment. Swelling resolves."
+                        },
+                        {
+                            "phase": "Weeks 2-8: Clearing & Assessment",
+                            "content": "Bruising disappears completely. The treated capillaries should be significantly lighter or invisible. Final results are assessed at 8 weeks. Some stubborn vessels may require a second treatment."
+                        }
+                    ]
+                },
+                {
+                    "title": "Activity & Facial Strain Restrictions (VITAL)",
+                    "items": [
+                        "AVOID anything that significantly increases blood pressure or causes facial flushing/strain for 5-7 days: Strenuous exercise, heavy lifting, bending over. Vigorous facial expressions, yelling, singing, playing wind instruments. Spicy foods, hot drinks, and alcohol (all vasodilators). Saunas, steam rooms, hot baths/showers, and hot weather."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Non-Negotiable)",
+                    "content": "UV radiation damages capillaries and causes new ones to form. To protect your results: For 2 WEEKS BEFORE and 4 WEEKS AFTER treatment, apply a broad-spectrum, high-SPF (30-50+) sunscreen daily. Wear a wide-brimmed hat. Avoid direct sun exposure, as the healing bruises can tan, leaving brown marks (hyperpigmentation)."
+                },
+                {
+                    "title": "Skincare for Sensitive, Capillary-Prone Skin",
+                    "items": [
+                        "Cleanse gently with a mild, non-foaming, fragrance-free cleanser and lukewarm water. Pat dry.",
+                        "Use a calming, reparative moisturiser. Ingredients like niacinamide, centella asiatica, and ceramides can help strengthen the skin barrier.",
+                        "AVOID for 7-10 days: Harsh actives (retinoids, AHAs/BHAs, strong vitamin C), alcohol-based toners, abrasive scrubs, and facial brushes.",
+                        "If you have rosacea, continue any prescribed topical medications (like ivermectin, azelaic acid) as directed, usually after 3-5 days, avoiding treated spots."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "You may apply mineral makeup after 24-48 hours to camouflage purpura, provided there is no broken skin. A green colour corrector will neutralize red/purple tones. Use clean brushes and avoid heavy rubbing during application or removal."
+                },
+                {
+                    "title": "Managing Rosacea Flushing & Triggers",
+                    "content": "If you have rosacea, be extra vigilant about your personal triggers (heat, stress, certain foods) during the healing phase, as flushing can disrupt the treated vessels. Practice gentle skincare and stress management."
+                },
+                {
+                    "title": "Potential Side Effects & Management",
+                    "items": [
+                        "Swelling: Managed with cold compresses and elevation.",
+                        "Crusting/Scabbing: Small crusts may form. DO NOT PICK. Apply a healing ointment and let them fall off naturally in 5-10 days.",
+                        "Blistering: Rare. Do not pop. Keep clean and contact your practitioner.",
+                        "Hyperpigmentation: Brown discoloration from sun-exposed bruises. Prevent with sunscreen. It may fade slowly or require lightening agents.",
+                        "Hypopigmentation: Temporary white spots are possible."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Signs include: increasing pain, spreading redness, warmth, pus, or fever. Contact your practitioner immediately."
+                },
+                {
+                    "title": "Results & The Need for Multiple Treatments",
+                    "items": [
+                        "One treatment typically clears 70-90% of treated capillaries.",
+                        "Larger or more resistant vessels may need 2-3 sessions spaced 6-8 weeks apart.",
+                        "New capillaries can form over time due to your underlying skin condition, sun exposure, or aging. Maintenance treatments may be needed annually or as required.",
+                        "A follow-up assessment is scheduled at 8 weeks to evaluate clearance and discuss further treatment."
+                    ]
+                },
+                {
+                    "title": "Long-Term Management of Capillary-Prone Skin",
+                    "content": "To minimise new broken capillaries: Adopt a lifelong gentle skincare routine for sensitive skin. Use daily sunscreen. Manage rosacea or other underlying conditions with appropriate medical therapy. Avoid extreme temperatures and known flushing triggers. Consider periodic maintenance laser/IPL treatments."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Clearing broken capillaries requires careful healing and a long-term strategy for your sensitive skin. Please read and commit to this protocol.",
+            "question_opportunity": "Your practitioner can recommend skincare products suited for post-treatment and rosacea-prone skin. Please ask for guidance.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my broken capillary removal treatment. I understand and expect purpura (bruising) and swelling. I agree to avoid activities that cause facial flushing or strain for 5-7 days and to practice strict sun protection. I acknowledge that my skin is prone to capillaries and that long-term management is necessary. I will contact the clinic with any signs of infection or unexpected reactions."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "broken_capillary_removal_telangiectasia",
+        "treatment_area": "face_cheeks_nose_chin",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "facial_strain_specific_restrictions",
+            "rosacea_management_integration",
+            "vasodilator_avoidance_emphasis",
+            "sensitive_skin_skincare_focus"
+        ],
+        "clarity_notes": [
+            "Excellent integration of condition management (rosacea) with the specific procedural aftercare."
+        ],
+        "recommendations": [
+            "Could include a note about the difference in response between fine red capillaries (best for KTP/Vbeam) versus more bluish or matted vessels.",
+            "Add a tip about using a silk or satin pillowcase to reduce friction on the sensitive cheeks during sleep.",
+            "Consider mentioning that taking an antihistamine (if safe) can help reduce swelling and itching during the first few days."
+        ]
+    }
+}

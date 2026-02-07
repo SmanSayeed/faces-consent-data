@@ -1,0 +1,76 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 215,
+        "feedback": "Excellent aftercare form specifically for blue light/photodynamic therapy targeting P. acnes bacteria. Provides clear guidance on managing post-treatment photosensitivity, expected purging, and bacterial rebalancing. Strong emphasis on gentle antibacterial care without compromising the skin barrier. Realistic expectations about treatment series and maintenance.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "photosensitivity_management",
+            "healing_timeline_day_by_day",
+            "skincare_antibacterial_gentle_balance",
+            "sun_protection_absolute",
+            "activity_restrictions",
+            "managing_purge_reaction",
+            "infection_awareness",
+            "result_timeline_expectations",
+            "series_importance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Acne Bacteria Reduction (Blue Light/Laser) Aftercare",
+        "introduction": "This aftercare protocol is for light-based treatments specifically targeting Propionibacterium acnes bacteria (e.g., blue light, photodynamic therapy). The treatment creates reactive oxygen species that destroy acne-causing bacteria. Care focuses on supporting the skin's microbiome while managing inflammation and preventing rebound.",
+        "instructions": {
+            "general_directive": "Follow this guidance for 7-10 days. The treatment has made your skin photosensitive and altered its bacterial balance; gentle care is essential.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "content": "Your skin will be red, may feel warm or tingly, and could appear slightly swollen. This inflammatory response indicates bacterial destruction. Existing inflamed pimples may temporarily look darker or flatter."
+                },
+                {
+                    "title": "Critical: Photosensitivity Management",
+                    "content": "The treatment makes your skin EXTREMELY sensitive to light for 24-48 hours. You must avoid ALL direct sunlight and bright indoor lights. Wear a wide-brimmed hat and stay indoors as much as possible. This sensitivity is temporary but critical to prevent burns."
+                },
+                {
+                    "title": "Healing Timeline & Bacterial Rebalancing",
+                    "items": [
+                        "Days 1-3: Skin is sensitive, red, and may feel dry. Use only gentle, non-antibacterial cleansers to allow natural flora to re-establish.",
+                        "Days 3-7: A mild 'purge' of existing microcomedones is common as inflammation resolves. Redness subsides. You may reintroduce gentle acne treatments.",
+                        "Weeks 2-4: Bacterial balance normalizes. Active acne lesions should be significantly reduced."
+                    ]
+                },
+                {
+                    "title": "Skincare for Post-Antibacterial Treatment",
+                    "items": [
+                        "Days 1-3: Use only gentle, pH-balanced cleansers without harsh antibacterials (avoid benzoyl peroxide, harsh sulfates).",
+                        "Day 4+: Gradually reintroduce antibacterial products at HALF strength to avoid resistance. Consider alternating days with gentle products.",
+                        "Moisturize with non-comedogenic, barrier-supporting products containing ceramides or niacinamide.",
+                        "Avoid topical antibiotics unless prescribed, as they can disrupt the newly balanced microbiome."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Non-Negotiable)",
+                    "content": "Even after photosensitivity subsides, apply oil-free SPF 30+ daily. UV exposure can reactivate inflammation and bacteria."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid sweating and exercise for 48 hours to prevent bacterial overgrowth in moist environments.",
+                        "Avoid swimming in chlorinated water for 72 hours.",
+                        "Change pillowcases and face towels frequently during first week."
+                    ]
+                },
+                {
+                    "title": "Results & Treatment Series",
+                    "content": "Bacterial reduction is not permanent. A series of 4-8 treatments spaced 1-2 weeks apart is typical for significant reduction. Maintenance treatments every 4-8 weeks may be needed. Follow-up at 2 weeks to assess bacterial response."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Targeting acne bacteria requires careful rebalancing of your skin's ecosystem. Please follow this guidance.",
+            "question_opportunity": "Ask about probiotic skincare options to support healthy bacterial balance post-treatment.",
+            "declaration_text": "I understand the photosensitivity risks and bacterial rebalancing process after my acne bacteria reduction treatment."
+        }
+    }
+}

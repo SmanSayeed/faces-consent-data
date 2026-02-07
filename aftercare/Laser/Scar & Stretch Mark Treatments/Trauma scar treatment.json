@@ -1,0 +1,85 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 225,
+        "feedback": "Comprehensive aftercare form for trauma scar treatment addressing irregular wounds, mixed scar types, and psychological aspects. Good guidance on treating different scar components (texture, color, contour) with combination therapies. Strong emphasis on realistic expectations for traumatic injury scars.",
+        "sections_covered": [
+            "trauma_scar_assessment",
+            "immediate_post_treatment_care",
+            "addressing_multiple_scar_components",
+            "irregular_wound_specific_care",
+            "psychological_aspect_support",
+            "combination_therapy_approach",
+            "realistic_expectations_trauma",
+            "long_term_rehabilitation"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Trauma Scar Treatment Aftercare",
+        "introduction": "This aftercare is for laser treatment of scars from traumatic injuries (lacerations, burns, abrasions, animal bites). Trauma scars often have irregular borders, mixed components (atrophic/hypertrophic), and may involve deeper tissue damage. Treatment requires a multifaceted approach.",
+        "instructions": {
+            "general_directive": "Follow this care plan with patience. Trauma scars are complex and require staged treatment of different components over time.",
+            "sections": [
+                {
+                    "title": "Trauma Scar Components & Treatment Focus",
+                    "items": [
+                        "Texture: Fractional lasers for smoothness.",
+                        "Color: Vascular lasers (PDL) for redness; pigment lasers for brown.",
+                        "Contour: Fillers for depressed areas; subcision for tethered scars.",
+                        "Pliability: Massage, silicone, ultrasound therapy."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment Care",
+                    "items": [
+                        "Increased redness, swelling expected for 5-10 days.",
+                        "Irregular borders may heal at different rates.",
+                        "Keep moist with healing ointment. Clean gently.",
+                        "Watch for areas of delayed healing, especially in previously compromised tissue."
+                    ]
+                },
+                {
+                    "title": "Irregular Wound Specific Care",
+                    "items": [
+                        "Areas with thin skin or previous grafts need extra gentleness.",
+                        "Burn scars: May have reduced sensation; be careful with heat/cold.",
+                        "Jagged borders: Each segment may respond differently to treatment.",
+                        "Mixed depth scars: Deeper areas may require more treatments."
+                    ]
+                },
+                {
+                    "title": "Combination Therapy Approach",
+                    "content": "Trauma scars often need multiple modalities: 1) Laser for texture/color 2) Steroid injections for hypertrophy 3) Fillers for volume 4) Surgery for scar revision. Treatments are staged 4-8 weeks apart."
+                },
+                {
+                    "title": "Psychological & Functional Aspects",
+                    "items": [
+                        "Scar contractures may limit movement. Physical therapy may be needed.",
+                        "Itching/common; antihistamines, cool compresses help.",
+                        "Cosmetic camouflage makeup can be used after 2 weeks.",
+                        "Support groups or counseling can help with emotional impact."
+                    ]
+                },
+                {
+                    "title": "Realistic Expectations for Trauma Scars",
+                    "items": [
+                        "Complete elimination is rarely possible; improvement is the goal.",
+                        "40-70% improvement typical over 6-12 months of treatment.",
+                        "Older scars (>2 years) respond less than newer ones.",
+                        "Scars over joints/mobile areas may require maintenance treatments."
+                    ]
+                },
+                {
+                    "title": "Sun Protection & Long-Term Care",
+                    "content": "Trauma scars are UV-sensitive for years. Daily SPF 50+ and physical coverage essential. Continue scar massage and silicone for 6-12 months. Annual assessments for maintenance treatments."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Trauma scar improvement requires addressing multiple components over an extended period.",
+            "question_opportunity": "Ask about combining treatments for your specific scar characteristics.",
+            "declaration_text": "I understand trauma scars require multifaceted treatment and complete elimination may not be possible."
+        }
+    }
+}

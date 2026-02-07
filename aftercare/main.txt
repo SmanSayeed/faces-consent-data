@@ -67,42 +67,42 @@ Pore reduction, laser---Not found---Completed
 Fine line & wrinkle reduction---Not found---Completed
 
 (Pigmentation & Sun Damage)
-Laser pigmentation removal
-Age spot removal
-Sun spot treatment
-Freckle reduction
-Melasma management (laser-assisted)
-Uneven skin tone correction
+Laser pigmentation removal---Not found---Completed
+Age spot removal---Not found---Completed
+Sun spot treatment---Not found---Completed
+Freckle reduction---Not found---Completed
+Melasma management (laser-assisted)---Not found---Completed
+Uneven skin tone correction---Not found---Completed
 
 (Vascular & Redness Treatments)
-Laser thread vein removal
-Spider vein treatment
-Broken capillary removal
-Facial redness reduction
-Rosacea laser treatment
-Cherry angioma removal
+Laser thread vein removal---Completed
+Spider vein treatment---Completed
+Broken capillary removal---Not found---Completed
+Facial redness reduction---Not found---Completed
+Rosacea laser treatment---Not found---Completed
+Cherry angioma removal---Not found---Completed
 
 (Laser Acne Treatments)
-Active acne laser treatment
-Acne bacteria reduction (laser)
-Sebum control laser therapy
-Post-acne redness treatment
-Acne scar laser treatment
+Active acne laser treatment---Not found---Completed
+Acne bacteria reduction (laser)---Not found---Completed
+Sebum control laser therapy---Not found---Completed
+Post-acne redness treatment---Not found---Completed
+Acne scar laser treatment---Not found---Completed
 
 (Scar & Stretch Mark Treatments)
-Laser scar reduction
-Surgical scar treatment
-Trauma scar treatment
-Stretch mark reduction (laser)Not found
-Keloid scar management (laser-assisted)
+Laser scar reduction---Not found---Completed
+Surgical scar treatment---Not found---Completed
+Trauma scar treatment---Not found---Completed
+Stretch mark reduction (laser)---Not found---Completed
+Keloid scar management (laser-assisted)---Not found---Completed
 
 (Laser Skin Tightening & Lifting)
-Non-surgical skin tightening (laser)
-Laser skin firming
-Jawline tightening
-Neck tightening
-Eye area tightening
-Body skin tightening
+Non-surgical skin tightening (laser)---Not found---Completed
+Laser skin firming---Not found---Completed
+Jawline tightening---Not found---Completed
+Neck tightening---Not found---Completed
+Eye area tightening---Not found---Completed
+Body skin tightening---Not found---Completed
 
 (Laser Resurfacing)
 Ablative laser resurfacing

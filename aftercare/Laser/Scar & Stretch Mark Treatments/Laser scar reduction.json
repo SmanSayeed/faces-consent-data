@@ -1,0 +1,86 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Comprehensive aftercare form for general laser scar reduction (fractional, non-ablative). Provides excellent phased guidance through healing and collagen remodeling. Strong emphasis on scar-specific care including massage timing, silicone use, and realistic improvement expectations. Good coverage of different scar types and response variations.",
+        "sections_covered": [
+            "pre_treatment_preparation",
+            "phase_1_acute_healing",
+            "phase_2_remodeling_months",
+            "scar_specific_care_instructions",
+            "infection_prevention",
+            "sun_protection_extended",
+            "massage_silicone_timing",
+            "result_timeline_realistic",
+            "scar_type_variations",
+            "series_importance",
+            "long_term_care"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Scar Reduction Aftercare",
+        "introduction": "This aftercare protocol is for fractional laser treatment of scars from acne, surgery, injury, or other causes. The laser creates micro-channels to stimulate collagen remodeling and improve scar texture, color, and flexibility. Healing involves both surface recovery and deep tissue regeneration over several months.",
+        "instructions": {
+            "general_directive": "Follow this phased guidance for optimal scar improvement. The first 2 weeks focus on wound healing, followed by 3-6 months of collagen remodeling.",
+            "sections": [
+                {
+                    "title": "Pre-Treatment Preparation",
+                    "content": "Stop retinoids, acids, and bleaching creams 1 week prior. For facial scars, antiviral prophylaxis if prone to cold sores. For darker skin types, pre-treatment hydroquinone may be recommended."
+                },
+                {
+                    "title": "Phase 1: Acute Healing (Days 0-14)",
+                    "items": [
+                        "Immediate: Redness, swelling, pinpoint bleeding. Sandpaper texture.",
+                        "Days 1-5: Keep treated area moist with healing ointment. Cleanse gently 2-3x daily with saline or mild cleanser.",
+                        "Days 5-14: Skin darkens, then peels/flakes. DO NOT PICK. Allow natural exfoliation.",
+                        "Signs of infection: Increasing pain, pus, spreading redness, fever."
+                    ]
+                },
+                {
+                    "title": "Phase 2: Remodeling & Results (Weeks 2-24+)",
+                    "items": [
+                        "Weeks 2-8: Pink color fades. Scar may feel tighter initially, then soften.",
+                        "Months 2-6: True collagen remodeling occurs. Scar texture gradually improves, elevation flattens, color normalizes.",
+                        "SUN PROTECTION CRITICAL: UV exposure can permanently darken scars. SPF 30-50+ daily for 6+ months."
+                    ]
+                },
+                {
+                    "title": "Scar-Specific Care",
+                    "items": [
+                        "Scar Massage: Begin gentle massage with vitamin E oil or silicone gel after 3-4 weeks (once fully healed). Massage 5-10 minutes, 2x daily to improve pliability.",
+                        "Silicone Sheets/Gel: Start after 4 weeks. Wear sheets 12+ hours daily or apply gel 2x daily. Continue for 3-6 months.",
+                        "Pressure Garments: If prescribed, begin wearing after 2-3 weeks as directed."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid exercise/sweating for 10-14 days.",
+                        "Avoid stretching or tension on the scar area for 4-6 weeks.",
+                        "No swimming until fully healed (2+ weeks).",
+                        "Avoid direct sun exposure for 3+ months."
+                    ]
+                },
+                {
+                    "title": "Scar Type & Expected Response",
+                    "items": [
+                        "Atrophic (depressed) scars: 40-70% improvement over 3-5 treatments.",
+                        "Hypertrophic (raised) scars: 50-80% flattening over 2-4 treatments.",
+                        "Discoloration: Redness improves fastest; brown discoloration may take longer.",
+                        "Old vs. New scars: Newer scars (<1 year) respond better than older ones."
+                    ]
+                },
+                {
+                    "title": "Treatment Series & Follow-up",
+                    "content": "Most scars require 3-5 treatments spaced 4-8 weeks apart. Follow-up at 3 months to assess collagen response and plan additional sessions. Maintenance treatments may be needed annually for optimal results."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Scar improvement is a gradual process requiring consistent care over several months.",
+            "question_opportunity": "Ask about combining laser with other scar treatments (subcision, filler) for optimal results.",
+            "declaration_text": "I understand scar reduction requires multiple treatments and final results won't be visible for 3-6 months."
+        }
+    }
+}

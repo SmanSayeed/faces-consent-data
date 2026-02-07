@@ -1,0 +1,139 @@
+{
+    "form_analysis": {
+        "completeness_score": 92,
+        "rewards_awarded": 210,
+        "feedback": "Excellent and comprehensive aftercare form for uneven skin tone correction, encompassing a range of treatments (peels, lasers, topicals). Provides clear, phased guidance that focuses on gentle care, managing pigmentation fallout, and preventing new discoloration. Strong emphasis on sun protection as the fundamental corrective and preventive measure. Effectively covers the \"two steps forward, one step back\" nature of tone correction, including potential purging and the necessity of a treatment series.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_phase_by_phase",
+            "hygiene_cleansing_instructions",
+            "skincare_product_guidance_critical",
+            "sun_protection_mandate",
+            "activity_environmental_restrictions",
+            "makeup_guidance",
+            "managing_purging_flaking",
+            "hyperpigmentation_prevention_pih",
+            "result_timeline_expectations",
+            "series_importance",
+            "long_term_maintenance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Uneven Skin Tone Correction Aftercare",
+        "introduction": "This aftercare advice is designed to support your journey towards a more even, radiant complexion following your corrective treatment (e.g., chemical peel, laser, IPL, or a series of topical therapies). Correcting tone requires patience, as pigment changes occur gradually. Your daily habits, especially sun protection, are as important as the treatment itself.",
+        "instructions": {
+            "general_directive": "Follow this guidance diligently for the next 10-14 days, and maintain the long-term skincare principles outlined below. Consistency is key to achieving and preserving an even tone.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "items": [
+                        "Your skin will be pink, red, and feel warm or sensitive, similar to a sunburn. Swelling, especially under the eyes, is possible.",
+                        "With treatments targeting pigmentation (laser, IPL): Darker areas (sun spots, post-acne marks) may appear DARKER initially (\"bronzing\"). This is expected.",
+                        "With chemical peels: Redness is common; frostiness (white/grey appearance) indicates a deeper peel.",
+                        "Cool the skin with cold compresses for comfort."
+                    ]
+                },
+                {
+                    "title": "The Correction Timeline: What to Expect",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Calming & Sensitivity",
+                            "content": "Redness and warmth subside. Skin feels tight and dry. Focus on gentle hydration and protection."
+                        },
+                        {
+                            "phase": "Days 3-10: Exfoliation & Transition",
+                            "content": "This is the active correction phase. The skin may flake or peel, particularly where pigment was targeted. Darkened areas will flake off, revealing fresher skin underneath. DO NOT PICK OR PULL. Let the skin shed naturally. Gentle cleansing will help. Your complexion may look temporarily uneven or mottled during this phase."
+                        },
+                        {
+                            "phase": "Days 10-14: Initial Reveal",
+                            "content": "Flaking is complete. New skin is revealed, showing initial improvements in brightness and evenness. Redness fades to a healthy glow. Some deeper pigmentation may still be visible but should be lighter."
+                        },
+                        {
+                            "phase": "Weeks 4-6: True Improvement",
+                            "content": "Post-inflammatory redness has fully resolved. The true degree of correction in tone and clarity is visible. Collagen-stimulating treatments continue to improve texture over the next 3 months."
+                        }
+                    ]
+                },
+                {
+                    "title": "Skincare Product Guidance (The Cornerstone of Correction)",
+                    "items": [
+                        "Days 1-7: Use only a gentle cleanser, a soothing/hydrating serum (like hyaluronic acid or niacinamide), and a fragrance-free moisturiser.",
+                        "STRICTLY AVOID for 7-14 days (or until peeling stops): All active ingredients that can irritate: Retinoids/Retinol, AHAs/BHAs (glycolic, lactic, salicylic acid), Vitamin C (L-ascorbic acid), and benzoyl peroxide.",
+                        "Weeks 2-4: Gradually reintroduce your corrective actives as directed by your practitioner. This often includes a pigment inhibitor (like vitamin C, azelaic acid, kojic acid) in the AM and a retinoid in the PM, starting slowly.",
+                        "The goal is to continue suppressing pigment production and promoting cell turnover with your homecare."
+                    ]
+                },
+                {
+                    "title": "Sun Protection: Your Most Important Product",
+                    "content": "UV exposure is the primary cause of uneven skin tone. To correct existing damage and prevent new spots: DAILY USE: Apply a broad-spectrum SPF 30-50+ every morning, without fail. REAPPLY: Every 2 hours if outdoors. PHYSICAL PROTECTION: Wear a hat and sunglasses. This is not optional; it is the foundation of your treatment plan. Tinted sunscreens with iron oxide offer extra protection against visible light, which can worsen melasma and hyperpigmentation."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy sweating, saunas, and steam rooms for 48-72 hours (longer if peeling). Heat and sweat can cause irritation and inflammation, which can trigger pigment.",
+                        "Avoid swimming in chlorinated pools or the sea for 48-72 hours.",
+                        "Avoid direct sun exposure entirely for the first week."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "Avoid makeup for 24-48 hours. After that, you may use mineral-based makeup if needed. Ensure brushes are clean. Avoid heavy, full-coverage foundations during the peeling phase."
+                },
+                {
+                    "title": "Managing \"Purging\" or Temporary Darkening",
+                    "content": "As deeper pigment rises to the surface, some areas may temporarily look darker before they shed. This is normal. Do not pick. As cell turnover is stimulated, you may also experience a few small breakouts; keep skin clean and do not pick. If darkening persists or worsens after 2 weeks, contact your practitioner (possible post-inflammatory hyperpigmentation)."
+                },
+                {
+                    "title": "Preventing Post-Inflammatory Hyperpigmentation (PIH)",
+                    "content": "To prevent new dark spots from forming due to the treatment itself: 1) Avoid sun exposure. 2) Do not pick or scratch the skin. 3) Use recommended pigment-inhibiting products after healing. 4) Avoid other irritants (waxing, harsh scrubs) for 2 weeks."
+                },
+                {
+                    "title": "Results Timeline & The Need for a Series",
+                    "items": [
+                        "Initial brightening is seen at 10-14 days.",
+                        "Significant correction of sun spots and surface pigmentation is visible at 4-6 weeks.",
+                        "Improvement in deeper, diffuse discoloration (like melasma) and textural issues requires 3-6 months and multiple treatments.",
+                        "A series of 3-6 treatments, spaced 2-6 weeks apart depending on modality, is typically required for optimal, lasting correction.",
+                        "A follow-up is usually scheduled at 4-6 weeks to assess progress and plan the next step.",
+                        "View this as a corrective journey, not a one-time fix."
+                    ]
+                },
+                {
+                    "title": "Long-Term Maintenance for Lasting Evenness",
+                    "content": "To maintain your results: Continue daily sunscreen use forever. Maintain a consistent skincare regimen with antioxidants (AM) and retinoids (PM). Consider seasonal \"refresher\" treatments (like gentle peels) every 6-12 months. Manage hormonal factors if they contribute to your pigmentation."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Achieving an even skin tone is a process that extends beyond the treatment room. Your daily commitment to protection and care is essential. Please read thoroughly.",
+            "question_opportunity": "Your practitioner can create a personalized homecare plan to build on your in-office treatment. Please ask for product recommendations.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my uneven skin tone correction treatment. I understand the importance of the exfoliation phase, the critical need for daily sun protection, and that a series of treatments is typically needed. I agree to follow the phased skincare approach and will contact the clinic with any concerns about persistent darkening or irritation."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "aesthetic_treatment_aftercare",
+        "treatment_type": "uneven_skin_tone_correction_general",
+        "treatment_area": "face_neck_decolletage_hands",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "broad_treatment_modality_coverage",
+            "pigment_transition_phase_guidance",
+            "long_term_maintenance_framework",
+            "realistic_series_expectations"
+        ],
+        "clarity_notes": [
+            "Excellent holistic approach that treats the patient's daily routine as part of the therapeutic protocol."
+        ],
+        "recommendations": [
+            "Could differentiate aftercare more between superficial treatments (light peel) vs. deeper treatments (fractional laser) in terms of downtime and product restart timing.",
+            "Add a note about avoiding photosensitizing medications (certain antibiotics, diuretics) unless absolutely necessary, and to inform your practitioner if you are on them.",
+            "Consider mentioning the importance of treating the neck and chest to the same standard as the face to prevent a tonal disconnect."
+        ]
+    }
+}

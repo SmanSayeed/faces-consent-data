@@ -1,0 +1,96 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Comprehensive laser-specific aftercare for body tightening with detailed guidance on large-area treatment considerations. Excellent protocols for swelling management and activity restrictions. Realistic expectations about body laser tightening and combination approaches.",
+        "sections_covered": [
+            "laser_body_mechanism",
+            "immediate_post_laser_body_response",
+            "large_area_swelling_management",
+            "compression_garment_guidance",
+            "activity_restrictions_body",
+            "body_specific_aftercare",
+            "realistic_laser_body_expectations",
+            "weight_stability_critical"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Body Skin Tightening Aftercare",
+        "introduction": "This aftercare is for fractional laser tightening of body areas (abdomen, arms, thighs, buttocks, flanks). Body laser treatments use larger spot sizes and different patterns to treat extensive areas. The thicker body skin tolerates higher energies but swells significantly.",
+        "instructions": {
+            "general_directive": "Follow for 2-3 weeks with activity restrictions. Body treatments involve larger areas with more swelling and unique recovery considerations.",
+            "sections": [
+                {
+                    "title": "Laser Body Mechanism",
+                    "content": "Fractional laser with larger spot sizes (up to 15mm) in grid patterns. Targets: 1) Abdomen/thighs for laxity 2) Arms for 'bat wing' 3) Buttocks for cellulite/sagging. Deeper penetration than facial lasers due to thicker dermis."
+                },
+                {
+                    "title": "Immediate Post-Laser Body Response",
+                    "items": [
+                        "Significant swelling in treated areas (can increase measurements initially).",
+                        "Erythema resembling sunburn for 5-10 days.",
+                        "Tightness with movement/stretching.",
+                        "Possible bruising on inner arms/thighs.",
+                        "Pinpoint bleeding with deeper treatments."
+                    ]
+                },
+                {
+                    "title": "Large Area Swelling Management",
+                    "items": [
+                        "Elevate treated limbs when resting.",
+                        "Cool showers (not hot baths) for comfort.",
+                        "Lymphatic drainage massage after 48 hours.",
+                        "Wear loose, breathable clothing.",
+                        "Stay hydrated to support lymphatic system."
+                    ]
+                },
+                {
+                    "title": "Compression Garment Guidance",
+                    "items": [
+                        "If prescribed: Wear 12-20 hours daily for 2-4 weeks.",
+                        "Helps reduce swelling, improve contour, support collagen alignment.",
+                        "Ensure proper fit - snug but not restrictive.",
+                        "Wear over smooth, seamless undergarments.",
+                        "Remove if numbness, tingling, or discoloration occurs."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions for Body",
+                    "items": [
+                        "Avoid strenuous exercise for 10-14 days.",
+                        "No heavy lifting (>20 lbs) for 1 week.",
+                        "Avoid stretching/yoga that pulls on treated skin for 2 weeks.",
+                        "Gradual return to activity; swelling may increase initially.",
+                        "No swimming, hot tubs for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Body-Specific Aftercare",
+                    "items": [
+                        "Gentle moisturizer with ceramides over large areas.",
+                        "Dry brushing (after 2 weeks) to improve circulation.",
+                        "Body firming creams with caffeine/peptides after 2 weeks.",
+                        "SUNSCREEN on any exposed treated areas for 6+ months.",
+                        "Massage treated areas after 3 weeks to prevent adhesions."
+                    ]
+                },
+                {
+                    "title": "Realistic Laser Body Expectations",
+                    "items": [
+                        "1-3 inch reduction in circumference measurements over series.",
+                        "20-40% improvement in skin laxity.",
+                        "Reduction in cellulite appearance.",
+                        "Gradual improvement over 4-6 months.",
+                        "Requires 4-6 body laser sessions.",
+                        "Not a weight loss or surgical substitute."
+                    ]
+                },
+                {
+                    "title": "Weight Stability (CRITICAL)",
+                    "content": "Body tightening results are COMPROMISED by weight fluctuation. Maintain stable weight (±5 lbs) for 6+ months post-treatment. Significant weight loss will loosen skin; weight gain will stretch collagen."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for laser pigmentation removal (IPL, Q-Switch, PICO). Provides masterful, phase-by-phase guidance specifically tailored to the unique \"darkening then flaking\" process. Outstanding emphasis on pre- and post-treatment sun protection as the absolute cornerstone of success. Comprehensive coverage of managing crusting, preventing PIH, and the extended fading timeline. Expertly addresses both epidermal and dermal pigment with clear expectations.",
+        "sections_covered": [
+            "pre_treatment_preparation",
+            "immediate_post_treatment_response",
+            "healing_timeline_phase_1_crusting",
+            "healing_timeline_phase_2_flaking",
+            "healing_timeline_phase_3_pink_fading",
+            "hygiene_cleansing_instructions",
+            "ointment_application_guidance",
+            "sun_protection_mandate",
+            "activity_environmental_restrictions",
+            "skincare_product_restrictions",
+            "makeup_guidance",
+            "hyperpigmentation_prevention_pih",
+            "infection_awareness",
+            "herpes_simplex_prophylaxis",
+            "result_timeline_expectations",
+            "series_importance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Pigmentation Removal Aftercare",
+        "introduction": "This aftercare protocol is CRITICAL for the safe and effective removal of pigmentation (sun spots, age spots, freckles, melasma). Laser targets melanin, and proper care prevents complications like post-inflammatory hyperpigmentation (darkening) and ensures the treated spots clear optimally. Your commitment to sun protection is the single most important factor for success.",
+        "instructions": {
+            "general_directive": "Follow this phased guidance meticulously. Pigment removal has a distinct healing process over 2-6 weeks, with final fading taking months.",
+            "sections": [
+                {
+                    "title": "Pre-Treatment Preparation (Key to Success)",
+                    "content": "You MUST have avoided sun exposure, tanning beds, and self-tanner for 4 WEEKS prior. You should have discontinued hydroquinone (if used) 1-2 weeks prior as advised. For melasma or prone skin, your practitioner may have prescribed pre-treatment bleaching creams (hydroquinone, retinoids) for 4-6 weeks."
+                },
+                {
+                    "title": "Phase 1: Immediate Response & Darkening (Minutes to Hours)",
+                    "content": "Treated pigmentation will instantly appear DARKER, GREY, or BRONZED. This is the desired effect – the laser has shattered the pigment. The surrounding skin will be red and swollen. The area will feel hot and sensitive. Apply cold compresses immediately and frequently to reduce swelling and discomfort."
+                },
+                {
+                    "title": "Phase 2: Crusting & Protection (Days 1-7)",
+                    "items": [
+                        "The darkened spots will form a thin, dark crust or scab. DO NOT PICK, SCRATCH, OR WET THIS CRUST. Picking will cause scarring, infection, and pigment problems.",
+                        "Cleanse GENTLY around the area with a mild cleanser. Pat dry.",
+                        "Apply the provided healing ointment (e.g., petroleum jelly) thinly over the crusts 2-3 times daily to keep them moist and protected. A dry scab is more likely to be picked or heal poorly.",
+                        "The crust acts as a biological bandage. Let it fall off naturally."
+                    ]
+                },
+                {
+                    "title": "Phase 3: Flaking & Reveal (Days 7-14)",
+                    "content": "The crusts will begin to loosen and flake off, often appearing like \"coffee grounds.\" This is normal. Continue gentle cleansing; the flakes will come off with washing. UNDER NO CIRCUMSTANCES PICK THEM. Underneath, the skin will be pink or pale where the pigment was."
+                },
+                {
+                    "title": "Phase 4: Pink & Fading (Weeks 2-8+)",
+                    "content": "The healed spots will be pink or hypopigmented (lighter than your skin). This is new, fragile skin. It will gradually blend with your surrounding skin tone over 4-8 weeks. For dermal pigment (like some melasma), it may fade more slowly over 3-6 months. SUN PROTECTION DURING THIS PHASE IS NON-NEGOTIABLE to prevent the pink skin from tanning and becoming dark again."
+                },
+                {
+                    "title": "Sun Protection (THE MOST IMPORTANT RULE)",
+                    "content": "UV exposure is the #1 cause of pigmentation and will reverse your results. You must be fanatical: For 4 WEEKS BEFORE and 3-6 MONTHS AFTER treatment (lifelong for maintenance), apply a broad-spectrum, high-SPF (50+) sunscreen (mineral/ zinc oxide is ideal) every morning. Reapply every 2 hours if outdoors. Wear a wide-brimmed hat and seek shade. NO EXCEPTIONS. Treating pigmentation without strict sun protection is futile."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions",
+                    "items": [
+                        "Avoid sweating, strenuous exercise, saunas, and steam rooms for 5-7 days (until crusts have fallen off).",
+                        "Avoid swimming in pools, hot tubs, or the ocean for 7-10 days.",
+                        "Avoid hot showers and direct water pressure on the face for 5 days."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "Until crusts fall off: Use only gentle cleanser and healing ointment.",
+                        "For 4-6 weeks post-treatment: Avoid all active ingredients on the treated area: Retinoids/Retinol, AHAs/BHAs (glycolic, salicylic acid), Vitamin C (L-ascorbic acid), and benzoyl peroxide. These can irritate the new skin.",
+                        "Your practitioner may prescribe a post-treatment lightening regimen (e.g., hydroquinone, azelaic acid) starting 2-4 weeks after healing to prevent recurrence and treat residual pigment – use only as directed."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "Do not apply makeup over crusting spots. Once the crusts have naturally fallen off and the skin is smooth (usually after 7-10 days), you may apply mineral makeup to camouflage the pink areas. Ensure brushes are clean."
+                },
+                {
+                    "title": "Preventing Post-Inflammatory Hyperpigmentation (PIH)",
+                    "content": "PIH is the darkening of the treated area after inflammation. To prevent it: 1) Follow sun protection rules religiously. 2) Do not pick the crusts. 3) Use prescribed lightening agents as directed after healing. 4) Report any darkening of the pink skin to your practitioner promptly."
+                },
+                {
+                    "title": "Infection & Herpes Simplex Awareness",
+                    "content": "Signs of infection: increasing pain, spreading redness, yellow/green pus, fever. Contact your practitioner. If prone to cold sores, laser near the mouth can trigger an outbreak. Antiviral prophylaxis is often required. If tingling occurs, start medication and contact your practitioner."
+                },
+                {
+                    "title": "Results Timeline & The Importance of a Series",
+                    "items": [
+                        "Initial clearance is visible once crusts fall off (day 7-14).",
+                        "Final, blended results are seen at 6-8 weeks as the pinkness fades.",
+                        "Multiple sessions (typically 2-5) spaced 4-8 weeks apart are almost always required for complete clearance, as laser treats pigment present at the time.",
+                        "Melasma and dermal pigment require more sessions and may never fully clear; the goal is significant lightening and management.",
+                        "A follow-up is scheduled at 4-6 weeks to assess fading and plan the next treatment.",
+                        "Lifelong sun protection and possibly maintenance treatments are needed to prevent new pigmentation."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Success in pigmentation removal is a partnership: the laser provides the energy, but your sun protection and aftercare determine the outcome. Please commit fully to this protocol.",
+            "question_opportunity": "Your practitioner understands pigment disorders deeply. Contact them with any concerns, especially if you notice the treated area darkening instead of lightening.",
+            "declaration_text": "I confirm that I have read and understood the critical aftercare instructions for my laser pigmentation removal. I understand and accept that strict, lifelong sun protection is mandatory for success. I will not pick the crusts, I will follow the phased product restrictions, and I commit to attending the required series of treatments. I will contact the clinic immediately with any signs of infection or darkening."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_pigmentation_removal",
+        "treatment_area": "face_hands_chest_shoulders",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "pigment_darkening_expectation_management",
+            "crust_care_protocol",
+            "PIH_prevention_focus",
+            "pre_treatment_preparation_emphasis"
+        ],
+        "clarity_notes": [
+            "Perfectly addresses the psychological hurdle of the \"worse before better\" phase and provides a clear roadmap through it."
+        ],
+        "recommendations": [
+            "Could include a specific note for Fitzpatrick IV-VI skin types about the higher risk of PIH and the potential need for longer pre- and post-treatment bleaching regimens.",
+            "Add a reminder to avoid using ice directly on the darkened spots to prevent thermal shock to the fragile pigmented cells.",
+            "Consider mentioning that some pigment may appear to \"return\" after the first session as deeper pigment rises to the surface; this is normal and will be treated in subsequent sessions."
+        ]
+    }
+}

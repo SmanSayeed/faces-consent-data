@@ -1,0 +1,78 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Excellent laser-specific aftercare for jawline tightening with detailed guidance on mandibular border treatment. Strong focus on managing post-laser swelling in this vascular area and specific considerations for masseter muscles. Realistic expectations about laser jawline contouring versus surgical options.",
+        "sections_covered": [
+            "laser_jawline_mechanism",
+            "immediate_post_laser_response_jaw",
+            "swelling_management_mandibular",
+            "masseter_muscle_considerations",
+            "jawline_specific_aftercare",
+            "sleep_position_critical",
+            "realistic_laser_jawline_expectations",
+            "combination_with_neuromodulators"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Jawline Tightening Aftercare",
+        "introduction": "This aftercare is for fractional laser tightening of the jawline and lower face. Laser treatments along the mandibular border target dermal collagen and the superficial muscular aponeurotic system (SMAS). The jaw area has unique vascularity and muscular considerations requiring specific care.",
+        "instructions": {
+            "general_directive": "Follow for 10-14 days with specific jawline precautions. This area swells significantly and is constantly in motion.",
+            "sections": [
+                {
+                    "title": "Laser Jawline Mechanism",
+                    "content": "The laser creates vertical columns of thermal injury along the mandibular border from pre-auricular area to chin. This stimulates: 1) Collagen contraction for immediate lift 2) New collagen along jawline 3) SMAS tightening in superficial layers."
+                },
+                {
+                    "title": "Immediate Post-Laser Jaw Response",
+                    "items": [
+                        "Significant swelling along jawbone ('chipmunk cheeks') for 3-5 days.",
+                        "Possible bruising along mandible (15-30% of patients).",
+                        "Tenderness with chewing/talking for 2-4 days.",
+                        "Tightness when opening mouth wide."
+                    ]
+                },
+                {
+                    "title": "Swelling Management for Jawline",
+                    "items": [
+                        "Sleep elevated on 2-3 pillows for 5 nights minimum.",
+                        "Cold compresses along jawbone (10 min on, 20 off) for first 48 hours.",
+                        "Lymphatic drainage massage: From chin to ears, gentle upward strokes.",
+                        "Avoid salty foods, alcohol, histamines for 3 days.",
+                        "Consider oral arnica/bromelain."
+                    ]
+                },
+                {
+                    "title": "Masseter Muscle Considerations",
+                    "content": "The masseter muscle lies deep to treatment area. Avoid excessive chewing (gum, tough foods) for 1 week. Report any TMJ pain or clicking. Laser does not directly affect muscle bulk but heat can cause temporary inflammation."
+                },
+                {
+                    "title": "Jawline-Specific Aftercare",
+                    "items": [
+                        "Sleep on back only for 2 weeks - side sleeping causes asymmetric swelling.",
+                        "Avoid tight chin straps or compression that could create ridges.",
+                        "Gentle stretching after 1 week: Open/close mouth slowly.",
+                        "Be careful with dental procedures for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Realistic Laser Jawline Expectations",
+                    "items": [
+                        "1-3mm improvement in jawline definition.",
+                        "Reduction in jowl prominence (20-40%).",
+                        "Sharper mandibular angle.",
+                        "Gradual improvement over 3-6 months.",
+                        "Best for early jowling; significant sagging requires surgery.",
+                        "3-5 laser sessions typically needed for jawline."
+                    ]
+                },
+                {
+                    "title": "Combination with Neuromodulators",
+                    "content": "For comprehensive jawline contouring, laser is often combined with masseter reduction using neuromodulators. Schedule laser first, then neuromodulators 2 weeks later. This addresses both skin laxity and muscular bulk."
+                }
+            ]
+        }
+    }
+}

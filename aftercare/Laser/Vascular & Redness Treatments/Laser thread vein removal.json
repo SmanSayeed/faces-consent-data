@@ -1,0 +1,99 @@
+{
+    "form_analysis": {
+        "completeness_score": 82,
+        "rewards_awarded": 165,
+        "feedback": "Clear, concise laser vein removal aftercare form with numbered instructions. Covers essential post-procedure care including hygiene, sun protection, and activity restrictions. Good focus on compression therapy which is specific to vein treatments. Could be enhanced with more detailed timelines, expected healing stages, and comprehensive emergency protocols.",
+        "sections_covered": [
+            "hygiene_instructions",
+            "sun_protection",
+            "temperature_restrictions",
+            "activity_restrictions",
+            "compression_therapy",
+            "symptom_monitoring",
+            "follow_up_scheduling"
+        ],
+        "missing_sections": [
+            "expected_healing_timeline",
+            "detailed_symptom_management",
+            "infection_signs_symptoms",
+            "allergy_emergency_protocol",
+            "expected_results_progression",
+            "specific_timelines_for_each_restriction"
+        ]
+    },
+    "form_data": {
+        "document_title": "Laser Vein Removal Aftercare",
+        "introduction": "Following your recent laser vein removal treatment, the following aftercare instructions will help ensure a smooth and successful healing process. Please read the instructions carefully and follow them closely. If you have any questions or concerns, please do not hesitate to contact us.",
+        "instructions": {
+            "numbered_sections": [
+                {
+                    "number": "1",
+                    "title": "Keep the treated area clean",
+                    "content": "Gently wash the treated area with soap and water and pat dry with a clean towel. Do not use any creams, lotions, or ointments on the treated area unless instructed to do so by your provider."
+                },
+                {
+                    "number": "2",
+                    "title": "Avoid sun exposure",
+                    "content": "Protect the treated area from direct sun exposure for at least 2 weeks. If you must be in the sun, apply a high-SPF sunscreen and wear protective clothing to cover the treated area."
+                },
+                {
+                    "number": "3",
+                    "title": "Avoid hot baths, saunas, and steam rooms",
+                    "content": "The heat from these activities can increase swelling and discomfort in the treated area. Take cool showers instead."
+                },
+                {
+                    "number": "4",
+                    "title": "Avoid physical activity",
+                    "content": "Avoid strenuous physical activity for at least 24 hours after your treatment. This will help reduce swelling and discomfort in the treated area."
+                },
+                {
+                    "number": "5",
+                    "title": "Wear compression stockings",
+                    "content": "Wear compression stockings as instructed by your provider. This will help reduce swelling and improve blood flow in the treated area."
+                },
+                {
+                    "number": "6",
+                    "title": "Report any changes",
+                    "content": "If you notice any changes in the treated area, such as increased pain, redness, or swelling, please contact us immediately."
+                },
+                {
+                    "number": "7",
+                    "title": "Follow-up appointment",
+                    "content": "Speak to your practitioner about a follow-up appointment to assess your healing progress. Please attend this appointment as scheduled."
+                }
+            ]
+        },
+        "closing_statement": "Thank you for choosing us for your laser vein removal treatment. We wish you a smooth and successful healing process."
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "medical_laser_aftercare",
+        "treatment_type": "laser_vein_removal",
+        "treatment_category": "vascular_treatment",
+        "document_length": "concise",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": false,
+        "special_features": [
+            "numbered instructions format",
+            "compression therapy guidance",
+            "specific mention of cool showers",
+            "structured but brief format"
+        ],
+        "form_differences": {
+            "format": "Numbered list instead of bullet points",
+            "structure": "No patient declaration section",
+            "content": "More concise than other laser treatment forms",
+            "focus": "Vein-specific considerations (compression stockings)"
+        },
+        "recommendations": [
+            "Add expected healing timeline (bruising, swelling duration)",
+            "Include specific signs of complications (infection, DVT warning signs)",
+            "Add detailed compression stocking instructions (duration, care)",
+            "Include expected results progression (fading timeline)",
+            "Add pain management guidance if needed",
+            "Include contact information for emergencies",
+            "Add specific sun protection instructions (SPF level, reapplication)"
+        ]
+    }
+}

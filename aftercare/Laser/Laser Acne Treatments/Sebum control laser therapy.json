@@ -1,0 +1,78 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 225,
+        "feedback": "Comprehensive aftercare form for sebum-regulating laser treatments (e.g., 1726nm, diode lasers). Excellent guidance on managing the rebound oiliness-dryness cycle and preventing folliculitis. Strong emphasis on non-comedogenic hydration and realistic expectations about gland remodeling.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "sebum_regulation_timeline",
+            "skincare_for_oil_balance",
+            "hydration_non_comedogenic_focus",
+            "activity_restrictions",
+            "folliculitis_prevention",
+            "result_timeline_expectations",
+            "series_importance",
+            "long_term_maintenance"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Sebum Control Laser Therapy Aftercare",
+        "introduction": "This aftercare is for laser treatments targeting sebaceous glands to reduce oil production (e.g., 1726nm, 1450nm lasers). The laser heats and damages overactive oil glands. Care focuses on managing the gland's healing response and maintaining balanced hydration.",
+        "instructions": {
+            "general_directive": "Follow for 10-14 days. Your oil glands are in a state of controlled injury and will behave unpredictably during healing.",
+            "sections": [
+                {
+                    "title": "Immediate Response & Sebum Regulation Phases",
+                    "items": [
+                        "Skin will be red, swollen, and feel hot. Glands may initially OVERPRODUCE oil as an inflammatory response.",
+                        "Days 2-5: Possible 'rebound oiliness' as glands react. This will settle.",
+                        "Days 5-14: Glands enter dormancy. Skin may become VERY DRY, tight, or flaky as oil production plummets.",
+                        "Weeks 2-6: Oil production slowly returns to a new, reduced baseline."
+                    ]
+                },
+                {
+                    "title": "Skincare for Oil-Gland Recovery",
+                    "items": [
+                        "DO NOT over-dry oily skin with harsh astringents. This triggers rebound oil production.",
+                        "Use GEL or WATER-based cleansers, not foaming ones that strip oils.",
+                        "During dry phase: Use light, non-comedogenic HYALURONIC ACID serums and OIL-FREE moisturizers. Avoid heavy creams.",
+                        "During oily phase: Use oil-blotting papers, NOT drying products.",
+                        "AVOID: Heavy oils, petrolatum, silicone-heavy products that can clog healing glands."
+                    ]
+                },
+                {
+                    "title": "Critical: Hydration vs. Oil Control",
+                    "content": "Your skin needs HYDRATION (water) but not additional OIL. Drink plenty of water. Use humectants (hyaluronic acid, glycerin) followed by light moisturizers to seal in moisture without clogging."
+                },
+                {
+                    "title": "Folliculitis & Milia Prevention",
+                    "content": "As oil flow changes, pores can become clogged. Gently exfoliate with a soft cloth from Day 5. Consider a BHA (salicylic acid) toner 2x/week after Week 2 to keep pores clear. Report any widespread small bumps."
+                },
+                {
+                    "title": "Activity & Diet",
+                    "items": [
+                        "Avoid sweating for 72 hours to prevent pore clogging.",
+                        "Reduce high-glycemic foods and dairy for 1-2 weeks, as they stimulate sebum.",
+                        "Avoid saunas/steam rooms for 1 week."
+                    ]
+                },
+                {
+                    "title": "Results & Realistic Expectations",
+                    "items": [
+                        "Oil reduction is GRADUAL and CUMULATIVE over a series (typically 3-6 treatments).",
+                        "Each treatment damages 20-30% of glands; multiple sessions target different glands.",
+                        "Optimal oil control seen 4-6 weeks post-final treatment.",
+                        "Results last 6-18 months as glands gradually recover. Maintenance treatments needed.",
+                        "Follow-up at 4 weeks to assess oil reduction and plan next session."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Controlling oil requires patience as your glands heal and re-regulate.",
+            "question_opportunity": "Ask about the best non-comedogenic products for your specific oil/dryness phases.",
+            "declaration_text": "I understand my oil production will fluctuate dramatically during healing and that multiple treatments are needed for lasting control."
+        }
+    }
+}

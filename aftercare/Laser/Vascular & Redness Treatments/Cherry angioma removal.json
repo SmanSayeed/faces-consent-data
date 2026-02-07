@@ -1,0 +1,134 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 220,
+        "feedback": "Excellent aftercare form for cherry angioma removal, providing clear, lesion-specific guidance for these common benign vascular growths. Covers both laser and electrocautery methods effectively. Strong emphasis on the distinct healing process: immediate darkening, crust formation, and the critical \"do not pick\" rule. Good coverage of scar and pigment change risks, with realistic expectations about clearance and potential recurrence. Practical advice for protecting the lesion site during healing.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_phase_by_phase",
+            "lesion_specific_care_instructions",
+            "hygiene_cleansing_instructions",
+            "ointment_application_guidance",
+            "sun_protection_mandate",
+            "activity_restrictions",
+            "what_not_to_do_critical",
+            "infection_awareness",
+            "scarring_hyperpigmentation_risks",
+            "result_timeline_expectations",
+            "recurrence_possibility",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Cherry Angioma Removal Aftercare",
+        "introduction": "This aftercare advice is for the removal of cherry angiomas (senile angiomas), common benign red moles composed of blood vessels, via laser or electrocautery. Proper care of each treated site is essential for it to heal cleanly, minimise scarring, and prevent infection.",
+        "instructions": {
+            "general_directive": "Follow this guidance for each treated angioma. Healing takes 10-21 days per lesion. The most important rule is to protect the scab and let it fall off naturally.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (Per Lesion)",
+                    "items": [
+                        "The treated angioma will instantly turn DARK GREY, BLACK, or PURPLE. This is normal—the blood within it has been coagulated.",
+                        "The lesion may swell slightly. The surrounding skin may be red.",
+                        "A small blister may form, especially with electrocautery. Do not pop it.",
+                        "Minor pinpoint bleeding is possible but should stop quickly."
+                    ]
+                },
+                {
+                    "title": "The Healing Timeline (Per Lesion)",
+                    "items": [
+                        {
+                            "phase": "Hours 0-24: Coagulation",
+                            "content": "The lesion darkens and may form a small blood blister. Keep it clean and dry."
+                        },
+                        {
+                            "phase": "Days 1-7: Crust Formation",
+                            "content": "A DARK, FIRM CRUST (SCAB) will form over the lesion. This crust is the new skin growing underneath. DO NOT PICK, SCRATCH, OR WET THIS CRUST. Picking will cause bleeding, increase infection risk, and likely lead to a scar."
+                        },
+                        {
+                            "phase": "Days 7-21: Separation & Healing",
+                            "content": "The crust will begin to loosen at the edges and eventually fall off, often revealing pink, new skin underneath. LET IT FALL OFF NATURALLY. Do not aid the process. The pink skin will gradually blend in over 4-8 weeks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Hygiene & Wound Care",
+                    "items": [
+                        "Wash the area gently with a mild cleanser and water. Pat dry carefully around the crust; avoid direct rubbing.",
+                        "You may apply a thin layer of antibiotic ointment (e.g., Bacitracin) or the provided healing ointment (e.g., petroleum jelly) to the crust 1-2 times daily to keep it moist and protected. This promotes better healing and reduces scabbing.",
+                        "Keep the area clean and dry. Avoid covering with tight clothing or bandages unless advised (allow to breathe)."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (To Prevent Dark Marks)",
+                    "content": "The healing skin (both the crust and the new pink skin underneath) is very susceptible to UV damage. Sun exposure can cause permanent hyperpigmentation (a dark brown spot). Once the crust falls off, apply a broad-spectrum SPF 30+ to the pink area daily until it fully blends with your skin (4-8 weeks)."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid activities that cause heavy sweating or friction on the treated area for 5-7 days.",
+                        "Avoid swimming in pools, hot tubs, or the ocean until the crust has fallen off and the skin is healed (minimum 7-10 days).",
+                        "Avoid picking at or bumping the lesion."
+                    ]
+                },
+                {
+                    "title": "What NOT to Do",
+                    "content": "DO NOT PICK THE CRUST. This is the most important instruction. DO NOT use hydrogen peroxide or alcohol on the wound, as this can damage new tissue. DO NOT apply makeup directly over a crusting lesion. DO NOT shave over the lesion until fully healed."
+                },
+                {
+                    "title": "Infection & Complications Awareness",
+                    "items": [
+                        "Signs of infection: Increasing pain, spreading redness, warmth, swelling, yellow/green pus, or foul odor. Contact your practitioner or doctor.",
+                        "Excessive Bleeding: If the lesion bleeds persistently, apply firm pressure with a clean gauze for 10 minutes. If it doesn't stop, seek medical attention.",
+                        "Scarring: There is always a small risk of scarring (pitted or raised). Following aftercare reduces this risk. Hypertrophic or keloid scarring is rare but possible, especially on the chest, back, and shoulders.",
+                        "Hyper/Hypopigmentation: The healed spot may be temporarily darker or lighter than your skin. This usually improves over months but can be permanent."
+                    ]
+                },
+                {
+                    "title": "Results & Expectations",
+                    "items": [
+                        "The goal is complete removal. Success rates are high (90-95%) with proper technique and aftercare.",
+                        "Some larger or deeper angiomas may require a second treatment if a trace remains after the first heals.",
+                        "The treated site should heal flat. A slightly depressed or raised area may be felt initially but often improves over 3-6 months.",
+                        "Final cosmetic result is assessed at 8 weeks.",
+                        "New cherry angiomas can develop over time elsewhere on the body; this treatment does not prevent new ones from forming."
+                    ]
+                },
+                {
+                    "title": "Follow-Up",
+                    "content": "If you are concerned about the healing, or if the angioma appears to not have been fully removed, a follow-up appointment can be scheduled at 8 weeks for assessment and possible re-treatment."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Proper aftercare ensures your cherry angioma heals with the best possible cosmetic result. The key is to protect the crust and let it fall off on its own.",
+            "question_opportunity": "Your practitioner can show you the best way to care for your specific treated area. Please ask if you are unsure.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my cherry angioma removal. I understand that the lesion will crust and that I must not pick or scratch it. I agree to keep the area clean, protect it from sun, and allow it to heal naturally. I will contact the clinic if I see signs of infection or have concerns about bleeding."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "lesion_removal_aftercare",
+        "treatment_type": "cherry_angioma_removal_laser_electro",
+        "treatment_area": "trunk_arms_face_variable",
+        "document_length": "detailed",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "lesion_specific_crust_care",
+            "blister_management_guidance",
+            "high_risk_areas_for_scarring_note",
+            "realistic_recurrence_expectation"
+        ],
+        "clarity_notes": [
+            "Clear, simple, and focused instructions appropriate for a common minor procedure."
+        ],
+        "recommendations": [
+            "Could differentiate care slightly between flat vs. raised/pedunculated angiomas, as the latter may have a larger wound base.",
+            "Add a note about the possibility of a tiny, residual red dot after healing if a deeper vessel wasn't fully treated; this can be easily retreated.",
+            "Consider mentioning that itching during healing is common and to avoid scratching."
+        ]
+    }
+}

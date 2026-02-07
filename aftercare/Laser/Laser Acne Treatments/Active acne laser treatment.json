@@ -1,0 +1,139 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Exceptional aftercare form for active acne laser treatment, expertly addressing the dual challenge of treating an inflammatory condition while managing post-procedural reactions. Provides comprehensive, phase-specific guidance that integrates acne management principles. Outstanding coverage of the expected \"purge,\" oil regulation, and the critical balance between calming inflammation and preventing new breakouts. Strong emphasis on gentle, non-comedogenic care, sun protection, and realistic expectations about treatment series and maintenance.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_day_by_day",
+            "managing_the_acne_purge",
+            "skincare_regimen_acne_specific",
+            "sun_protection_mandate",
+            "activity_environmental_restrictions",
+            "makeup_guidance",
+            "oiliness_dryness_management",
+            "infection_folliculitis_awareness",
+            "hyperpigmentation_prevention_pih",
+            "oral_medication_continuation",
+            "result_timeline_expectations",
+            "series_importance",
+            "long_term_acne_management",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Active Acne Laser Treatment Aftercare",
+        "introduction": "This aftercare protocol is specifically designed for laser and light-based treatments targeting active inflammatory acne (e.g., blue light, pulsed dye laser, KTP, infrared lasers). The treatment reduces inflammation, kills bacteria (P. acnes), and/or shrinks oil glands. Your skin is both healing from the procedure and managing an active disease, requiring a careful, acne-conscious approach.",
+        "instructions": {
+            "general_directive": "Follow this guidance diligently for the next 7-14 days. The focus is on calming inflammation, managing a potential \"purge,\" and preventing new breakouts without irritating the skin.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (First 24-72 Hours)",
+                    "items": [
+                        "The treated area will be RED, SWOLLEN, and feel WARM or have a sunburn-like sensation. This is a normal inflammatory response.",
+                        "Existing active pimples may appear DARKER, FLATTER, or more CALMED.",
+                        "Skin may feel tight and dry, or paradoxically oilier as glands react.",
+                        "Apply cold compresses frequently to reduce swelling and discomfort."
+                    ]
+                },
+                {
+                    "title": "The Healing & Acne Management Timeline",
+                    "items": [
+                        {
+                            "phase": "Days 1-3: Anti-Inflammatory Phase",
+                            "content": "Focus on calming. Redness and swelling subside. Use only gentle, soothing products. Avoid all acne treatments (benzoyl peroxide, salicylic acid, retinoids) unless otherwise directed."
+                        },
+                        {
+                            "phase": "Days 3-10: The Purge & Transition Phase (Common)",
+                            "content": "As skin cell turnover is stimulated, a temporary increase in breakouts (purge) is possible. This brings underlying microcomedones to the surface. These breakouts should be smaller, heal faster, and be in areas you normally break out. DO NOT PICK OR SQUEEZE. Keep skin clean. You may gradually reintroduce your acne treatments as per guidance below."
+                        },
+                        {
+                            "phase": "Weeks 2-4: Clearing & Improvement Phase",
+                            "content": "Purging subsides. Active acne lesions should be significantly reduced in size and inflammation. Skin texture improves. Redness from treatment fades. Continue your acne management regimen."
+                        }
+                    ]
+                },
+                {
+                    "title": "Skincare Regimen for Acne-Prone, Treated Skin",
+                    "items": [
+                        "Cleansing: Use a gentle, non-comedogenic, fragrance-free cleanser twice daily. Avoid harsh scrubs.",
+                        "Days 1-3: Moisturise with a light, oil-free, non-comedogenic moisturiser. A soothing serum with niacinamide or centella can help.",
+                        "Days 4-7: You may cautiously reintroduce ONE acne-fighting active at a time. Start with a leave-on benzoyl peroxide (2.5-5%) or salicylic acid product, applying every other night. If no irritation, increase frequency.",
+                        "Week 2+: With practitioner approval, reintroduce prescription topicals (retinoids, azelaic acid, clindamycin). Start slowly (2-3 times per week).",
+                        "AVOID: Using multiple harsh actives simultaneously, which will compromise your barrier and worsen inflammation."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Critical for Preventing Dark Spots)",
+                    "content": "Acne lesions and laser-treated skin are both prone to post-inflammatory hyperpigmentation (PIH - dark marks). To prevent PIH: Apply a broad-spectrum, OIL-FREE, non-comedogenic SPF 30+ every morning. Reapply if oily or outdoors. Wear a hat. Sun exposure will darken existing red marks and can worsen acne."
+                },
+                {
+                    "title": "Activity & Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise and heavy sweating for 48-72 hours. Sweat can irritate and introduce bacteria.",
+                        "Avoid saunas, steam rooms, and hot showers for 48 hours.",
+                        "Avoid swimming in chlorinated pools or the sea for 48-72 hours.",
+                        "Keep hair, hats, and phone screens clean to avoid transferring oils and bacteria to your face."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "Avoid makeup for 24-48 hours. After that, use non-comedogenic, mineral-based products if needed. Ensure all brushes and sponges are clean. Remove makeup gently with an oil-free micellar water or cleanser."
+                },
+                {
+                    "title": "Managing Oiliness & Dryness",
+                    "content": "Your skin may be drier or oilier post-treatment. If dry: use a light moisturiser more frequently. If oily: use oil-blotting papers and a mattifying moisturiser, but avoid over-drying with harsh astringents. Balance is key."
+                },
+                {
+                    "title": "Oral Medications & Supplements",
+                    "content": "Continue any oral acne medications (antibiotics, isotretinoin/Accutane, spironolactone) as prescribed by your doctor. Inform your laser practitioner of all medications. Avoid high-dose biotin or B12 supplements, which can aggravate acne in some people."
+                },
+                {
+                    "title": "Infection & Folliculitis Awareness",
+                    "content": "Signs of infection differ from a purge: increasing pain, spreading redness, warmth, yellow pus, or fever. Contact your practitioner. Folliculitis (small, uniform bumps) can occur from sweat or occlusion; keep skin clean and dry."
+                },
+                {
+                    "title": "Results Timeline & The Importance of a Series",
+                    "items": [
+                        "Initial reduction in redness and swelling of active pimples is seen within 24-48 hours.",
+                        "Significant clearing of active acne is typically observed 2-4 weeks post-treatment.",
+                        "Acne is a chronic condition. A series of 3-6 treatments, spaced 2-4 weeks apart, is usually required for substantial and lasting clearance, especially for moderate to severe acne.",
+                        "Laser is often combined with other therapies (topicals, oral meds) for best results.",
+                        "A follow-up is scheduled at 2-4 weeks to assess progress and plan the next session.",
+                        "Maintenance treatments may be needed every few months after the initial series to control flare-ups."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Treating active acne with laser requires a partnership. The procedure reduces lesions, but your daily skincare prevents new ones. Please commit to this plan.",
+            "question_opportunity": "Your practitioner can tailor your post-treatment skincare. Discuss how to safely reintroduce your acne products based on your skin's response.",
+            "declaration_text": "I confirm that I have read and understood the aftercare instructions for my active acne laser treatment. I understand the potential for a temporary purge and the critical importance of not picking my skin. I agree to use gentle, non-comedogenic products, protect my skin from the sun to prevent dark marks, and attend the recommended series of treatments for optimal control of my acne."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "active_acne_laser_treatment",
+        "treatment_area": "face_chest_back",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "acne_purge_management",
+            "oil_free_non_comedogenic_mandate",
+            "PIH_prevention_focus",
+            "integration_with_oral_medications"
+        ],
+        "clarity_notes": [
+            "Expertly navigates the complex interplay between treating a disease and healing from a procedure."
+        ],
+        "recommendations": [
+            "Could differentiate aftercare slightly between anti-inflammatory lasers (PDL) vs. sebum-reducing lasers (e.g., 1726nm), as the latter may cause more dryness.",
+            "Add a note about avoiding hair removal methods (waxing, threading) on treated areas for 5-7 days.",
+            "Consider mentioning that blue light treatment may cause temporary visual brightness or after-images; this is normal."
+        ]
+    }
+}

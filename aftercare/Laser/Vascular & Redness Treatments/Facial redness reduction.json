@@ -1,0 +1,145 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Exceptional aftercare form for facial redness reduction, masterfully addressing the chronic and reactive nature of conditions like rosacea and general erythema. Provides comprehensive, condition-specific guidance that balances post-treatment care with long-term lifestyle management. Outstanding emphasis on identifying and avoiding personal triggers (heat, diet, stress). Strong protocols for gentle skincare, rigorous sun protection, and managing the psychological aspect of flushing. Realistically frames laser as a management tool within a holistic strategy.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "healing_timeline_day_by_day",
+            "trigger_avoidance_critical",
+            "skincare_gentle_soothing_regimen",
+            "sun_protection_mandate",
+            "activity_environmental_restrictions",
+            "dietary_considerations",
+            "makeup_guidance",
+            "managing_flushing_psychological",
+            "medication_continuation",
+            "potential_side_effects",
+            "result_timeline_expectations",
+            "series_importance",
+            "long_term_management_lifestyle",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Facial Redness Reduction Aftercare",
+        "introduction": "This aftercare protocol is specifically designed for reducing facial redness, flushing, and background erythema associated with rosacea, sensitive skin, or sun damage. The treatment (often laser or IPL) targets visible blood vessels and diffuse redness. Success depends not only on healing from the procedure but also on meticulously avoiding triggers that cause flushing, both now and long-term.",
+        "instructions": {
+            "general_directive": "Follow this guidance meticulously for the next 7-14 days, and adopt the long-term lifestyle recommendations to maintain your results. Managing redness is a continuous process.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Response (First 24-72 Hours)",
+                    "items": [
+                        "Your skin will be REDDER than usual, feel warm, swollen, and sensitive. This is an expected inflammatory response.",
+                        "Individual blood vessels may appear darker (grey or purple) before they fade.",
+                        "Swelling, especially around the eyes and cheeks, can be significant.",
+                        "Apply cold compresses frequently (10 mins on, 20 mins off) to soothe and reduce swelling. Sleep with your head elevated."
+                    ]
+                },
+                {
+                    "title": "The Healing & Calming Timeline",
+                    "items": [
+                        {
+                            "phase": "Days 1-4: Inflammatory Phase",
+                            "content": "General redness and swelling are most pronounced. The skin feels sensitive and tight. Focus on cooling, gentle care, and absolute trigger avoidance."
+                        },
+                        {
+                            "phase": "Days 5-10: Settling Phase",
+                            "content": "Redness and swelling subside significantly. You may see a gradual lightening of the overall background redness. Tiny dark spots (from treated vessels) may flake off. Skin may feel dry or itchy."
+                        },
+                        {
+                            "phase": "Weeks 2-6: Assessment Phase",
+                            "content": "The true reduction in baseline redness becomes apparent. Skin should look calmer and less reactive. Final results are assessed at 6-8 weeks."
+                        }
+                    ]
+                },
+                {
+                    "title": "Trigger Avoidance: Your Most Important Task",
+                    "content": "To allow healing and prevent rebound flushing, you MUST avoid your personal triggers. Common ones include: HEAT: Hot baths/showers, saunas, steam rooms, hot weather, cooking over a hot stove. DIET: Spicy foods, hot drinks, alcohol (especially red wine), histamine-rich foods. EXTERNAL: Harsh skincare products, fragrances, abrasive scrubs, wind, cold. EMOTIONAL: Stress, embarrassment, intense exercise. Identify and minimise your triggers for the first week absolutely, and manage them long-term."
+                },
+                {
+                    "title": "The Gentle Skincare Regimen",
+                    "items": [
+                        "Cleanse: Use only a lukewarm (not hot) water and a ultra-gentle, fragrance-free, non-foaming cleanser.",
+                        "Moisturise: Apply a calming moisturiser with barrier-repair ingredients like ceramides, niacinamide, or centella asiatica.",
+                        "AVOID for 7-14 days: All active ingredients (retinoids, AHAs/BHAs, strong vitamin C), alcohol-based toners, physical exfoliants, and astringents.",
+                        "If you use prescription rosacea medications (metronidazole, ivermectin, azelaic acid), ask your practitioner when to restart – usually after 3-5 days."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Fundamental)",
+                    "content": "Sun is a major trigger for redness and blood vessel formation. For 2 WEEKS BEFORE and indefinitely AFTER treatment: Apply a gentle, mineral-based (zinc oxide/titanium dioxide) broad-spectrum SPF 30-50+ every morning. Reapply every 2 hours if outdoors. Wear a wide-brimmed hat. Seek shade."
+                },
+                {
+                    "title": "Activity & Exercise Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, heavy lifting, and anything that raises your core body temperature or causes facial flushing for 5-7 days.",
+                        "After that, reintroduce exercise gradually, opting for cooler environments and stopping if you feel a flush coming on."
+                    ]
+                },
+                {
+                    "title": "Makeup Application",
+                    "content": "You may apply mineral makeup after 24-48 hours if the skin is not too sensitive. Green-tinted primers or correctors are excellent for neutralizing residual redness. Use clean tools and remove makeup gently with a micellar water or oil-free remover."
+                },
+                {
+                    "title": "Managing the Flush Response",
+                    "content": "If you feel a flush coming on: Sip cool water. Apply a cold compress to the back of your neck or cheeks. Step into a cooler environment. Practice paced breathing. Do not panic – it will pass. Keeping a trigger diary can help identify patterns."
+                },
+                {
+                    "title": "Potential Side Effects",
+                    "items": [
+                        "Increased Redness: Expected initially. Should steadily improve.",
+                        "Swelling: Managed with cold compresses and elevation.",
+                        "Dryness/Flaking: Use a gentle moisturiser.",
+                        "Hyperpigmentation: Rare, but brown marks can occur if skin is sun-exposed while healing. Prevent with sunscreen.",
+                        "Blistering/Crusting: Uncommon. Do not pick. Contact your practitioner."
+                    ]
+                },
+                {
+                    "title": "Results, Expectations & Treatment Series",
+                    "items": [
+                        "One treatment significantly reduces background redness and visible vessels. Your skin should be less reactive.",
+                        "For substantial, lasting reduction of rosacea or sun damage, a series of 3-5 treatments spaced 4-6 weeks apart is typically required.",
+                        "Laser/IPL manages the symptoms but does not cure the underlying tendency to flush. Maintenance treatments (e.g., 1-2 per year) are often needed.",
+                        "A follow-up is scheduled at 4-6 weeks to assess improvement and plan subsequent sessions.",
+                        "Success is measured by a lower baseline redness, fewer flushing episodes, and decreased reliance on makeup camouflage."
+                    ]
+                },
+                {
+                    "title": "Long-Term Lifestyle for Redness-Prone Skin",
+                    "content": "Adopt a permanent gentle skincare routine. Identify and manage your lifelong triggers. Use daily sunscreen without exception. Manage stress through techniques like meditation or yoga. Consider dietary modifications if certain foods are strong triggers. View this as a partnership between periodic professional treatments and daily self-care."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Reducing facial redness is a holistic endeavour. The treatment provides a reset, but your daily choices determine long-term calm. Please commit fully to this plan.",
+            "question_opportunity": "Your practitioner understands the challenges of reactive skin. They can help you build a tailored skincare and management plan. Please ask for advice.",
+            "declaration_text": "I confirm that I have read and understood the comprehensive aftercare instructions for my facial redness reduction treatment. I understand the critical importance of avoiding heat, dietary, and environmental triggers, especially during healing. I commit to a lifelong gentle skincare routine and daily sun protection. I have realistic expectations about the need for a treatment series and long-term management. I will contact the clinic with any concerns."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "facial_redness_reduction_rosacea_erythema",
+        "treatment_area": "face_cheeks_nose_forehead_chin",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "trigger_avoidance_focus",
+            "psychological_aspect_of_flushing",
+            "holistic_lifestyle_integration",
+            "gentle_skincare_mandate"
+        ],
+        "clarity_notes": [
+            "Masterfully addresses both the physiological and psychological aspects of living with and treating facial redness."
+        ],
+        "recommendations": [
+            "Could include a note about the difference in response between diffuse redness (best for IPL/BBL) versus distinct capillaries (best for vascular laser).",
+            "Add a tip about using a thermal spring water spray (e.g., Avène, La Roche-Posay) to cool the skin during the day without disrupting skincare.",
+            "Consider mentioning that oral medications (like beta-blockers for flushing) may be an option for severe cases and should be discussed with a doctor."
+        ]
+    }
+}

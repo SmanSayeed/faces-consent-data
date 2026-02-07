@@ -1,0 +1,102 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for keloid management addressing this complex, recurrent condition. Provides comprehensive multimodal protocol combining laser with medical therapies. Outstanding emphasis on recurrence prevention, pressure therapy, and long-term maintenance. Realistic expectations about chronic management rather than cure.",
+        "sections_covered": [
+            "keloid_specific_considerations",
+            "multimodal_treatment_protocol",
+            "immediate_post_treatment_care",
+            "recurrence_prevention_critical",
+            "pressure_therapy_guidance",
+            "medical_therapy_integration",
+            "complication_awareness",
+            "realistic_expectations_keloids",
+            "lifelong_maintenance_plan"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Keloid Scar Management (Laser-Assisted) Aftercare",
+        "introduction": "This aftercare is for laser-assisted management of keloids - benign but aggressive scars that extend beyond original wound borders. Keloids have high recurrence rates and require MULTIMODAL therapy combining laser with medical treatments. This is CHRONIC DISEASE MANAGEMENT, not a one-time cure.",
+        "instructions": {
+            "general_directive": "Follow this strict protocol to minimize recurrence. Keloid management requires ongoing vigilance even after successful treatment.",
+            "sections": [
+                {
+                    "title": "Keloid-Specific Considerations",
+                    "items": [
+                        "HIGH RECURRENCE RISK: 40-100% without proper adjunctive therapy.",
+                        "Common sites: Earlobes, chest, shoulders, back.",
+                        "Genetic predisposition: More common in darker skin types.",
+                        "Symptoms: Itching, pain, continued growth."
+                    ]
+                },
+                {
+                    "title": "Multimodal Treatment Protocol (ESSENTIAL)",
+                    "items": [
+                        "1. Laser: Vascular (PDL) for redness + Fractional for texture.",
+                        "2. Intralesional Steroids: Triamcinolone injections during/after laser.",
+                        "3. Pressure Therapy: Silicone sheets + pressure garments.",
+                        "4. Topical Treatments: Imiquimod, 5-FU, retinoids.",
+                        "ALL components must be used together for success."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment Care",
+                    "items": [
+                        "Increased redness, swelling, possible pinpoint bleeding.",
+                        "Keloid may feel softer, less itchy within days.",
+                        "Apply silicone gel immediately after healing (Day 5-7).",
+                        "Begin pressure therapy as directed (often 12-24 hours daily)."
+                    ]
+                },
+                {
+                    "title": "Recurrence Prevention (CRITICAL)",
+                    "items": [
+                        "Pressure Therapy: Wear silicone sheets with compression 12-24 hours daily for 6-12 MONTHS minimum.",
+                        "Steroid Injections: Scheduled every 4-8 weeks for 6+ months.",
+                        "Avoid Trauma: No piercings, tattoos, or trauma to area.",
+                        "Early Intervention: Treat ANY regrowth immediately."
+                    ]
+                },
+                {
+                    "title": "Medical Therapy Integration",
+                    "items": [
+                        "Intralesional Steroids: Reduce inflammation, collagen production.",
+                        "5-Fluorouracil (5-FU): Anti-proliferative, often combined with steroids.",
+                        "Bleomycin: For resistant keloids.",
+                        "Radiation Therapy: For high-risk keloids post-excision (rarely used)."
+                    ]
+                },
+                {
+                    "title": "Complication Awareness",
+                    "items": [
+                        "Rebound Growth: If therapy stopped too soon.",
+                        "Skin Atrophy: From steroid overuse - report thin, shiny skin.",
+                        "Hypopigmentation: Common with treatment.",
+                        "Telangiectasia: From steroid injections or laser."
+                    ]
+                },
+                {
+                    "title": "Realistic Expectations",
+                    "items": [
+                        "Goal: Flatten, soften, reduce symptoms - not necessarily complete elimination.",
+                        "50-80% improvement with multimodal therapy.",
+                        "Lifelong maintenance often required.",
+                        "New keloids may form at other sites.",
+                        "Follow-up every 3-6 months indefinitely."
+                    ]
+                },
+                {
+                    "title": "Genetic Counseling & Prevention",
+                    "content": "If keloid-prone: Avoid elective procedures (piercings, tattoos). Treat acne early. Use silicone sheets prophylactically after any wound. Consider genetic testing if strong family history."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Keloid management requires lifelong commitment to prevention and treatment.",
+            "question_opportunity": "Ask about the full multimodal plan including injections and pressure therapy.",
+            "declaration_text": "I understand keloids have high recurrence rates and require ongoing multimodal therapy, possibly for life."
+        }
+    }
+}

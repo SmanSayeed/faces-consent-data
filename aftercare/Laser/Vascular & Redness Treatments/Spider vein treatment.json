@@ -1,0 +1,118 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 180,
+        "feedback": "Comprehensive spider vein treatment aftercare form with clear differentiation from varicose veins. Well-structured with specific guidance on compression therapy, activity levels, and expected side effects. Good focus on prevention and long-term care. Could be enhanced with more specific timelines for spider vein recovery and procedure-specific details.",
+        "sections_covered": [
+            "condition_explanation",
+            "immediate_post_treatment",
+            "activity_guidelines",
+            "wound_skin_care",
+            "expected_side_effects",
+            "emergency_medical_guidance",
+            "long_term_prevention",
+            "patient_declaration"
+        ],
+        "note": "Form combines general vein treatment information with specific spider vein focus. Some content references multiple treatment types but is adapted for spider veins."
+    },
+    "form_data": {
+        "document_title": "Spider Vein Treatment Aftercare",
+        "condition_explanation": {
+            "spider_veins": "Spider veins are smaller, superficial veins that can appear red, blue, or purple.",
+            "treatment_options": "Common treatments include sclerotherapy, endovenous laser therapy (EVLT), radiofrequency ablation (RFA), and microphlebectomy."
+        },
+        "instructions": {
+            "phased_sections": [
+                {
+                    "time_period": "Immediately After Treatment",
+                    "items": [
+                        "Compression: Wear compression stockings or bandages as instructed, usually 24–48 hours continuously, then during the day for up to 2 weeks.",
+                        "Walking: Begin gentle walking right away; aim for at least 30 minutes daily to promote healing and circulation.",
+                        "Pain relief: Mild aching, tightness, or bruising is normal. Paracetamol or ibuprofen can help, unless otherwise advised."
+                    ]
+                }
+            ],
+            "activity_guidelines": {
+                "title": "Activity Guidelines",
+                "items": [
+                    "Resume most normal activities the same day.",
+                    "Avoid strenuous exercise, heavy lifting, and high-impact activities for 1 week.",
+                    "Avoid prolonged standing or sitting – move around every hour.",
+                    "Avoid saunas, hot baths, and swimming for 1 week after treatment."
+                ]
+            },
+            "wound_skin_care": {
+                "title": "Wound & Skin Care",
+                "items": [
+                    "Keep dressings or compression in place as directed.",
+                    "You may shower after 24–48 hours, but avoid soaking the treated area until fully healed.",
+                    "Protect the treated skin from direct sunlight for at least 4 weeks to reduce the risk of pigmentation changes."
+                ]
+            },
+            "expected_side_effects": {
+                "title": "Expected Side Effects",
+                "items": [
+                    "Mild bruising, redness, or swelling along the vein path.",
+                    "Temporary firmness or lumps in the treated area.",
+                    "Itching or tingling sensations.",
+                    "Slight darkening of the skin over the treated vein (usually temporary)."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Seek Medical Advice Immediately",
+                "items": [
+                    "Severe pain, swelling, or redness in the leg.",
+                    "Sudden shortness of breath, chest pain, or coughing blood.",
+                    "Signs of infection such as warmth, pus, or fever.",
+                    "Persistent numbness or tingling."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care & Prevention",
+                "items": [
+                    "Continue wearing compression hosiery as instructed.",
+                    "Maintain a healthy weight and stay physically active.",
+                    "Elevate legs when resting to improve circulation.",
+                    "Avoid prolonged sitting or standing without movement."
+                ]
+            }
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "medical_vascular_aftercare",
+        "treatment_type": "spider_vein_treatment",
+        "treatment_category": "vascular_treatment",
+        "vein_type": "spider_veins",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": true,
+        "special_features": [
+            "condition explanation included",
+            "compression therapy emphasized",
+            "walking encouragement for circulation",
+            "specific pigmentation change prevention",
+            "long-term prevention strategies",
+            "DVT warning signs included"
+        ],
+        "spider_vein_specific_notes": [
+            "Typically less invasive than varicose vein treatments",
+            "Faster recovery time expected",
+            "Multiple treatment sessions often needed",
+            "Cosmetic improvement focus"
+        ],
+        "recommendations": [
+            "Specify which guidelines apply to which treatment type (sclerotherapy vs laser)",
+            "Add expected healing timeline specific to spider veins",
+            "Include guidance on number of treatment sessions typically needed",
+            "Add specific aftercare for injection sites if sclerotherapy was used",
+            "Include expected results progression (fading timeline)"
+        ]
+    }
+}

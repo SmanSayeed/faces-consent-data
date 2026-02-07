@@ -1,0 +1,79 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Comprehensive laser-specific aftercare for neck tightening addressing this delicate area. Excellent guidance on platysma band considerations and neck-specific swelling management. Strong emphasis on the extended timeline for neck results and realistic expectations.",
+        "sections_covered": [
+            "laser_neck_mechanism",
+            "immediate_post_laser_neck_response",
+            "neck_swelling_management",
+            "platysma_band_considerations",
+            "neck_specific_aftercare",
+            "posture_critical",
+            "realistic_laser_neck_expectations",
+            "combination_therapies_neck"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Neck Tightening Aftercare",
+        "introduction": "This aftercare is for fractional laser tightening of the neck and décolletage. Neck skin is thin with prominent platysma muscles, requiring gentle laser settings and specific care. Laser stimulates collagen in the shallow dermis to improve horizontal bands and crepiness.",
+        "instructions": {
+            "general_directive": "Follow for 10-14 days with ongoing neck care for 3-6 months. The neck swells significantly and shows results more slowly than the face.",
+            "sections": [
+                {
+                    "title": "Laser Neck Mechanism",
+                    "content": "Low-energy fractional laser creates microthermal zones in the thin neck dermis. This stimulates collagen while minimizing risk of scarring or hypopigmentation. Treatment often uses lower density/higher coverage to evenly treat large areas."
+                },
+                {
+                    "title": "Immediate Post-Laser Neck Response",
+                    "items": [
+                        "Pronounced swelling under chin and along neck ('turkey neck' appearance initially worse).",
+                        "Redness resembling sunburn for 3-7 days.",
+                        "Tightness with neck movement for 2-5 days.",
+                        "Possible horizontal band prominence during swelling phase."
+                    ]
+                },
+                {
+                    "title": "Neck Swelling Management",
+                    "items": [
+                        "Sleep elevated with cervical pillow for 1 week.",
+                        "Cold compresses to sides of neck (avoid front thyroid area).",
+                        "Gentle lymphatic drainage: From clavicle to jawline.",
+                        "Avoid neck flexion (looking down) for 3 days.",
+                        "Consider loose turtlenecks to hide swelling, not tight compression."
+                    ]
+                },
+                {
+                    "title": "Platysma Band Considerations",
+                    "content": "Laser treats skin, not muscle. Platysma bands may appear more prominent during swelling. Do not massage bands aggressively. If bands are a concern, discuss combining with neuromodulators after laser healing."
+                },
+                {
+                    "title": "Neck-Specific Aftercare",
+                    "items": [
+                        "EXTEND SUNSCREEN: Apply SPF down to chest daily for 6+ months.",
+                        "Neck creams with peptides/growth factors after 2 weeks.",
+                        "Always apply products in upward strokes, never downward.",
+                        "Avoid necklaces, tight collars for 1 week.",
+                        "Sleep on back only for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Posture & 'Tech Neck' Prevention",
+                    "content": "CRITICAL: Avoid looking down at phones/computers. Use stands to keep screens at eye level. Practice chin tucks to strengthen deep neck flexors. Poor posture will undermine laser results."
+                },
+                {
+                    "title": "Realistic Laser Neck Expectations",
+                    "items": [
+                        "30-40% improvement in horizontal bands.",
+                        "Reduction in 'crepey' texture.",
+                        "Mild improvement in vertical laxity.",
+                        "Neck responds slower than face (4-6 months for full results).",
+                        "4-6 laser sessions typically needed for neck.",
+                        "Not a substitute for surgical neck lift."
+                    ]
+                }
+            ]
+        }
+    }
+}

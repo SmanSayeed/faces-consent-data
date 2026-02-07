@@ -1,0 +1,82 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Excellent aftercare form for vascular lasers targeting post-acne erythema. Provides clear guidance on managing purpura, preventing PIH, and the extended fading timeline. Strong emphasis on anti-inflammatory care and strict sun protection. Realistic expectations about residual redness and need for multiple sessions.",
+        "sections_covered": [
+            "immediate_post_treatment_response",
+            "purpura_management_timeline",
+            "anti_inflammatory_skincare",
+            "hyperpigmentation_prevention_pih",
+            "sun_protection_absolute",
+            "activity_restrictions",
+            "result_timeline_expectations",
+            "series_importance",
+            "long_term_care"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Post-Acne Redness (Erythema) Laser Treatment Aftercare",
+        "introduction": "This aftercare is for vascular laser treatment (e.g., PDL/Vbeam, KTP) of persistent post-acne red marks (erythema). The laser targets dilated blood vessels causing the redness. Care focuses on minimizing inflammation, preventing darkening, and supporting vessel clearance.",
+        "instructions": {
+            "general_directive": "Follow for 7-14 days, with sun protection for 8+ weeks. The goal is to let the body absorb treated vessels without triggering new inflammation.",
+            "sections": [
+                {
+                    "title": "Immediate Response & Purpura Timeline",
+                    "items": [
+                        "Red marks will turn DARK PURPLE/GREY (purpura) - this is desired and indicates vessel damage.",
+                        "Significant swelling around treated areas, especially if near eyes/cheeks.",
+                        "Days 1-5: Intense purple bruising. Swelling peaks then subsides.",
+                        "Days 5-14: Bruises fade through brown, green, yellow phases.",
+                        "Weeks 2-8: Bruises clear, underlying redness gradually fades."
+                    ]
+                },
+                {
+                    "title": "Anti-Inflammatory Skincare (Critical)",
+                    "items": [
+                        "Use products with NIACINAMIDE, CENTELLA ASIATICA, AZELAIC ACID to reduce redness.",
+                        "AVOID: Vitamin C (L-ascorbic), retinoids, AHAs/BHAs for 2 weeks as they can increase inflammation.",
+                        "Gentle cleansing only. No rubbing or massaging bruised areas.",
+                        "Consider oral arnica or bromelain supplements to reduce bruising."
+                    ]
+                },
+                {
+                    "title": "Preventing Post-Inflammatory Hyperpigmentation (PIH)",
+                    "content": "The #1 risk is purple bruises tanning into brown spots. SUN PROTECTION IS MANDATORY: Apply mineral (zinc oxide) SPF 50+ daily. Reapply every 2 hours if outdoors. Wear a hat. Avoid sun entirely for first 2 weeks."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid exercise, heat, alcohol, spicy foods - anything that causes flushing for 7 days.",
+                        "Sleep elevated to reduce swelling.",
+                        "No hot showers/saunas for 1 week."
+                    ]
+                },
+                {
+                    "title": "Makeup for Coverage",
+                    "content": "Green color corrector neutralizes purple/red tones. Apply over bruises after 48 hours. Use mineral makeup. Clean brushes."
+                },
+                {
+                    "title": "Results & Treatment Expectations",
+                    "items": [
+                        "Each treatment improves redness by 40-60%.",
+                        "Stubborn erythema requires 2-4 sessions spaced 4-6 weeks apart.",
+                        "Some background redness may always remain; goal is significant reduction, not perfection.",
+                        "New acne breakouts will cause new red marks; continue acne control.",
+                        "Follow-up at 6 weeks to assess fading and plan next treatment."
+                    ]
+                },
+                {
+                    "title": "Long-Term Redness Management",
+                    "content": "Use daily redness-reducing skincare (niacinamide, azelaic acid). Strict lifelong sun protection. Manage active acne to prevent new marks. Consider annual maintenance treatments."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Treating post-acne redness requires patience through the bruising phase and diligent sun protection.",
+            "question_opportunity": "Ask about the best color-correcting makeup for your specific bruising phase.",
+            "declaration_text": "I understand I will have significant bruising that must be protected from sun to prevent permanent dark spots."
+        }
+    }
+}

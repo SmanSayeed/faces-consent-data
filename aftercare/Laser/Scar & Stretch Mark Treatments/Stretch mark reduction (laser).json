@@ -1,0 +1,90 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 220,
+        "feedback": "Excellent aftercare form for stretch mark laser treatment with clear differentiation between red/white phases. Strong guidance on collagen stimulation protocols and realistic expectations. Good emphasis on prevention of new stretch marks and combination therapies.",
+        "sections_covered": [
+            "stretch_mark_type_identification",
+            "immediate_post_treatment_response",
+            "red_vs_white_stretch_mark_care",
+            "collagen_stimulation_protocol",
+            "topical_enhancement_regimen",
+            "realistic_expectations_stretch_marks",
+            "prevention_of_new_marks",
+            "combination_therapies",
+            "long_term_maintenance"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Stretch Mark Reduction (Laser) Aftercare",
+        "introduction": "This aftercare is for laser treatment of striae (stretch marks). Treatment aims to stimulate collagen to improve texture, reduce width/depth, and normalize color. Response varies significantly between red/inflammatory vs. white/atrophic stretch marks.",
+        "instructions": {
+            "general_directive": "Follow this care plan for 2-4 weeks with ongoing collagen support for 6+ months. Early stretch marks respond best.",
+            "sections": [
+                {
+                    "title": "Stretch Mark Types & Response",
+                    "items": [
+                        "Red Stretch Marks (Striae Rubra): Active, inflammatory. BEST responders to vascular lasers (PDL) + fractional. 50-70% improvement typical.",
+                        "White Stretch Marks (Striae Alba): Mature, atrophic. More challenging. Require aggressive collagen stimulation. 30-50% improvement typical."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "items": [
+                        "Red marks: May darken then lighten over 2-3 weeks.",
+                        "White marks: Pinpoint bleeding, redness, swelling for 5-7 days.",
+                        "Both: Sandpaper texture, then flaking over 7-14 days.",
+                        "DO NOT SCRATCH OR PICK."
+                    ]
+                },
+                {
+                    "title": "Collagen Stimulation Protocol",
+                    "items": [
+                        "Critical Phase: Months 2-6 post-treatment when new collagen forms.",
+                        "Support with: Vitamin C serum (after 4 weeks), retinoids (after 8 weeks), peptide creams.",
+                        "Micro-needling at home (after 4 weeks) can enhance results.",
+                        "Stay hydrated and maintain stable weight."
+                    ]
+                },
+                {
+                    "title": "Topical Enhancement Regimen",
+                    "items": [
+                        "Hyaluronic acid for hydration immediately post-treatment.",
+                        "Retinoids (prescription strength) after 8 weeks to remodel collagen.",
+                        "Centella asiatica, peptides for collagen support.",
+                        "Avoid topical steroids which can thin skin."
+                    ]
+                },
+                {
+                    "title": "Realistic Expectations",
+                    "items": [
+                        "Improvement, not elimination. Stretch marks are scars.",
+                        "Red marks: 3-5 treatments, 4-6 week intervals.",
+                        "White marks: 5-8 treatments, 6-8 week intervals.",
+                        "Texture improves before color. Width reduction before complete fading.",
+                        "Some fine silvery lines may remain."
+                    ]
+                },
+                {
+                    "title": "Prevention of New Stretch Marks",
+                    "content": "During pregnancy/weight changes: Moisturize with centella/hyaluronic acid creams. Maintain gradual weight changes. Consider preventive micro-needling or laser if high risk."
+                },
+                {
+                    "title": "Combination Therapies",
+                    "items": [
+                        "Laser + micro-needling: Enhanced collagen induction.",
+                        "Laser + radiofrequency: For deeper collagen remodeling.",
+                        "Laser + topical retinoids: Synergistic effect.",
+                        "Platelet-rich plasma (PRP): Can boost results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Stretch mark improvement requires consistent collagen support over many months.",
+            "question_opportunity": "Ask about combining treatments for your specific stretch mark type and color.",
+            "declaration_text": "I understand stretch marks cannot be completely eliminated but can be significantly improved with multiple treatments."
+        }
+    }
+}

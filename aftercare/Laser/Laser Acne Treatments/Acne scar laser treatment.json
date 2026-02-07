@@ -1,0 +1,95 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for acne scar laser treatment (ablative/non-ablative fractional). Provides comprehensive phased guidance through MEND, EXFOLIATE, REMODEL phases. Outstanding emphasis on infection prevention, prolonged sun protection, and realistic collagen remodeling timelines. Excellent management of expectations for this complex, long-term treatment.",
+        "sections_covered": [
+            "pre_treatment_preparation",
+            "phase_1_mend_critical",
+            "phase_2_exfoliate",
+            "phase_3_remodel_months",
+            "infection_prevention_protocol",
+            "sun_protection_extended",
+            "skincare_phased_reintroduction",
+            "scar_massage_timing",
+            "result_timeline_realistic",
+            "series_importance",
+            "long_term_care"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Acne Scar Laser Treatment Aftercare",
+        "introduction": "This aftercare is for fractional laser resurfacing (CO2, Erbium, non-ablative) to improve acne scars. This creates controlled micro-injuries to stimulate collagen remodeling. Healing is extensive and occurs in distinct phases over several months. Strict adherence is crucial for optimal scar improvement and safety.",
+        "instructions": {
+            "general_directive": "Follow this PHASED protocol meticulously. The first week is critical for infection prevention. Full results take 3-6 months.",
+            "sections": [
+                {
+                    "title": "Pre-Treatment Preparation",
+                    "content": "You should have taken antiviral medication if prone to cold sores. Discontinued retinoids/acids 1 week prior. Arranged 5-10 days social downtime."
+                },
+                {
+                    "title": "Phase 1: MEND (Days 0-5) - WOUND HEALING",
+                    "items": [
+                        "Skin is an open wound: red, swollen, oozing, with pinpoint bleeding.",
+                        "Clean 4-6x daily with sterile saline or recommended cleanser.",
+                        "Apply thick healing ointment (petroleum jelly/Aquaphor) CONSTANTLY to keep moist.",
+                        "Sleep elevated. Use cold compresses for swelling.",
+                        "DO NOT let skin dry out or form hard scabs.",
+                        "Signs of infection: increasing pain, yellow/green pus, spreading redness, fever."
+                    ]
+                },
+                {
+                    "title": "Phase 2: EXFOLIATE (Days 5-14) - PEELING",
+                    "items": [
+                        "Skin darkens, tightens, then PEELS in sheets. DO NOT PICK OR PULL.",
+                        "Continue gentle cleansing as peeling occurs naturally.",
+                        "Transition from ointment to gentle moisturizer as peeling completes.",
+                        "Itching is common; antihistamines can help.",
+                        "Skin underneath is pink, smooth, but very delicate."
+                    ]
+                },
+                {
+                    "title": "Phase 3: REMODEL (Weeks 2-24+) - COLLAGEN PRODUCTION",
+                    "items": [
+                        "Pink color fades over 4-8 weeks.",
+                        "INVISIBLY, new collagen forms. Scars begin to soften and fill in.",
+                        "SUN PROTECTION IS ABSOLUTELY CRITICAL: SPF 50+ daily. New collagen is UV-sensitive.",
+                        "Gradually reintroduce actives (Vitamin C, retinoids) after 4-6 weeks with practitioner approval.",
+                        "Scar massage with silicone gel can begin after 4 weeks if no redness."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "No exercise/sweating for 14 days minimum.",
+                        "No swimming for 14 days.",
+                        "No sun exposure for 3 months minimum.",
+                        "Avoid hats/friction on healing skin."
+                    ]
+                },
+                {
+                    "title": "Realistic Scar Improvement Timeline",
+                    "items": [
+                        "Initial smoothing seen at 4 weeks as swelling resolves.",
+                        "True collagen remodeling evident at 3 months.",
+                        "Continues improving for 6-12 months.",
+                        "Ablative lasers: 50-80% improvement typical after 1-3 sessions.",
+                        "Non-ablative: 30-50% improvement after 3-5 sessions.",
+                        "ICE PICK scars improve least; ROLLING scars improve most.",
+                        "Follow-ups at 3 months to assess and plan additional treatments."
+                    ]
+                },
+                {
+                    "title": "Combination Therapy",
+                    "content": "Best results come from combining lasers with subcision, filler, or TCA cross. Discuss combination approach at follow-up."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Acne scar treatment is a major commitment with extended downtime and long-term care requirements.",
+            "question_opportunity": "Ask about specific scar types you have and which will respond best to this treatment.",
+            "declaration_text": "I understand the extensive downtime, infection risks, and that final results will not be visible for 3-6 months."
+        }
+    }
+}
