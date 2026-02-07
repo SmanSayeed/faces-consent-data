@@ -1,0 +1,75 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 220,
+        "feedback": "Comprehensive aftercare form for laser skin tag removal with clear guidance on the minimal healing process. Good emphasis on monitoring for regrowth and addressing underlying causes.",
+        "sections_covered": [
+            "laser_skin_tag_mechanism",
+            "immediate_response_minimal",
+            "wound_care_simple",
+            "regrowth_monitoring",
+            "underlying_cause_management",
+            "multiple_tags_considerations",
+            "realistic_expectations"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Skin Tag Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of skin tags (acrochordons). Laser vaporizes the stalk/base of the tag. Minimal downtime but requires specific care to prevent infection and regrowth.",
+        "instructions": {
+            "general_directive": "Follow for 3-7 days of simple wound care. Skin tag removal is generally straightforward with minimal complications.",
+            "sections": [
+                {
+                    "title": "Laser Skin Tag Mechanism",
+                    "content": "CO₂ laser precisely vaporizes skin tag at base. The tag may either immediately fall off or darken and fall off within days."
+                },
+                {
+                    "title": "Immediate Post-Laser Response",
+                    "items": [
+                        "Small wound at base where tag was attached.",
+                        "Possible tiny scab formation.",
+                        "Minimal pain/discomfort.",
+                        "Tag may remain attached but darkened before falling off."
+                    ]
+                },
+                {
+                    "title": "Wound Care Protocol",
+                    "items": [
+                        "Keep area clean and dry.",
+                        "Small bandage if in friction area (neck, underarms).",
+                        "Antibiotic ointment optional for first 2-3 days.",
+                        "DO NOT PICK at base if scab forms."
+                    ]
+                },
+                {
+                    "title": "Regrowth Monitoring",
+                    "content": "Skin tags may regrow if base not completely removed. Monitor for: 1) Return of small bump at site 2) New tags in same area. Report regrowth for possible re-treatment."
+                },
+                {
+                    "title": "Underlying Cause Management",
+                    "content": "Skin tags associated with: 1) Insulin resistance/diabetes 2) Hormonal changes 3) Friction 4) Genetics. Address underlying causes to prevent new tags: Weight management, friction reduction, blood sugar control."
+                },
+                {
+                    "title": "Multiple Tags Considerations",
+                    "items": [
+                        "Multiple sessions may be needed for numerous tags.",
+                        "Treat most bothersome tags first.",
+                        "Consider cost-effectiveness for large numbers.",
+                        "Some insurance may cover if medically necessary."
+                    ]
+                },
+                {
+                    "title": "Realistic Expectations",
+                    "items": [
+                        "Excellent cosmetic results typically.",
+                        "Minimal scarring if proper care followed.",
+                        "Possible hypopigmentation (light spot) at site.",
+                        "New tags may develop elsewhere over time.",
+                        "Quick procedure with minimal downtime."
+                    ]
+                }
+            ]
+        }
+    }
+}

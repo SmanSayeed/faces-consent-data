@@ -1,0 +1,78 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Excellent aftercare form for fractional laser resurfacing with clear guidance on the microthermal zone healing. Strong emphasis on the fractional coverage concept and MENDs healing. Comprehensive coverage of both ablative and non-ablative fractional approaches.",
+        "sections_covered": [
+            "fractional_mechanism_explained",
+            "immediate_microthermal_response",
+            "mends_healing_timeline",
+            "fractional_coverage_considerations",
+            "skincare_phased_reintroduction",
+            "sun_protection_absolute",
+            "realistic_fractional_expectations",
+            "ablative_vs_non_ablative_fractional"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Fractional Laser Resurfacing Aftercare",
+        "introduction": "This aftercare is for FRACTIONAL LASER resurfacing (CO₂, Er:YAG, or non-ablative fractional). Creates microscopic treatment zones (MENDs - Micro-Epidermal Necrotic Debris) surrounded by healthy tissue for faster healing. Combines benefits of ablative and non-ablative approaches.",
+        "instructions": {
+            "general_directive": "Follow for 3-7 days downtime, with results over 3-6 months. Fractional treatment requires specific care for the micro-wounds.",
+            "sections": [
+                {
+                    "title": "Fractional Mechanism Explained",
+                    "content": "Laser creates columns of thermal injury (5-25% of skin surface) leaving 'bridges' of healthy tissue for rapid healing. Each column extends from epidermis into dermis for collagen stimulation."
+                },
+                {
+                    "title": "Immediate Microthermal Response",
+                    "items": [
+                        "Sandpaper texture immediately after.",
+                        "Erythema and edema proportional to treatment density.",
+                        "Micro-crusting (tiny dark dots) at treatment sites within 24 hours.",
+                        "Pinpoint bleeding possible with deeper settings."
+                    ]
+                },
+                {
+                    "title": "MENDs Healing Timeline",
+                    "items": [
+                        "Days 1-3: Swelling peaks, skin feels tight. Micro-crusts form.",
+                        "Days 3-7: Micro-crusts shed (looks like coffee grounds). DO NOT PICK.",
+                        "Days 7-14: Pink, smooth skin revealed. Texture improves.",
+                        "Months 1-6: Collagen remodeling, continued improvement."
+                    ]
+                },
+                {
+                    "title": "Fractional Coverage Considerations",
+                    "items": [
+                        "Low density (15-25%): 3-5 days downtime, 3-5 sessions needed.",
+                        "High density (40-50%): 5-10 days downtime, 1-3 sessions needed.",
+                        "Ablative fractional: More dramatic results, longer downtime.",
+                        "Non-ablative fractional: Less downtime, more sessions required."
+                    ]
+                },
+                {
+                    "title": "Skincare Phased Reintroduction",
+                    "items": [
+                        "Days 1-3: Healing ointment on micro-crusts.",
+                        "Days 4-7: Gentle moisturizer as crusts shed.",
+                        "Weeks 2-4: Vitamin C, peptides for collagen support.",
+                        "Weeks 4-6: Retinoids to enhance remodeling.",
+                        "Avoid AHAs/BHAs for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Realistic Fractional Expectations",
+                    "items": [
+                        "Ablative fractional: 40-70% improvement in 1-3 sessions.",
+                        "Non-ablative fractional: 20-40% improvement in 3-6 sessions.",
+                        "Downtime: 3-10 days depending on density/energy.",
+                        "Best for: Acne scars, moderate wrinkles, pigment, texture.",
+                        "Maintenance: Annual touch-ups."
+                    ]
+                }
+            ]
+        }
+    }
+}

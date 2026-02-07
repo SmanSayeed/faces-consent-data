@@ -1,0 +1,72 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for lip blush tattoo removal addressing this highly vascular, mobile area. Comprehensive guidance on perioral swelling, herpes prophylaxis, and color-specific challenges. Strong emphasis on the extended healing timeline and realistic expectations.",
+        "sections_covered": [
+            "lip_blush_specifics",
+            "immediate_perioral_response",
+            "herpes_prophylaxis_critical",
+            "vascular_considerations",
+            "color_challenges_lips",
+            "realistic_lip_removal_expectations",
+            "post_removal_correction"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Lip Blush Tattoo Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of LIP BLUSH/CONTOUR tattoos (permanent lip makeup). Lips are highly vascular, constantly mobile, and prone to herpes outbreaks. Lip pigments often contain red/orange tones that present specific removal challenges.",
+        "instructions": {
+            "general_directive": "Follow with extreme care. Lips swell significantly and require specific precautions. Herpes prophylaxis is NON-NEGOTIABLE.",
+            "sections": [
+                {
+                    "title": "Lip Blush Specifics",
+                    "content": "Lip tattoos use red/orange/pink iron oxide pigments placed in vermilion border. High vascularity increases bleeding/swelling. Constant movement affects healing. High risk of herpes simplex activation."
+                },
+                {
+                    "title": "Immediate Perioral Response",
+                    "items": [
+                        "Significant lip swelling (2-3x normal size) for 3-5 days.",
+                        "Possible bruising on surrounding skin.",
+                        "Pinpoint bleeding common.",
+                        "Difficulty eating, drinking, speaking for 2-3 days.",
+                        "Cold compresses essential for swelling control."
+                    ]
+                },
+                {
+                    "title": "Herpes Prophylaxis (CRITICAL)",
+                    "content": "Laser on lips ALWAYS triggers herpes in susceptible individuals. MUST take antiviral (Valtrex/Famvir) starting 2 days before and continuing 7 days after. If you feel tingling/itching, contact practitioner immediately for increased dosage."
+                },
+                {
+                    "title": "Vascular Considerations",
+                    "items": [
+                        "More bleeding than other areas - apply pressure with clean gauze.",
+                        "Ice cubes (wrapped) to constrict blood vessels.",
+                        "Avoid blood thinners (aspirin, NSAIDs, alcohol) for 48 hours before/after.",
+                        "Sleep elevated to reduce swelling."
+                    ]
+                },
+                {
+                    "title": "Color Challenges on Lips",
+                    "items": [
+                        "Red/orange pigments: High risk of paradoxical darkening.",
+                        "May turn gray/black before fading.",
+                        "Require 532nm wavelength with caution.",
+                        "Test patch recommended due to high complication risk."
+                    ]
+                },
+                {
+                    "title": "Realistic Lip Removal Expectations",
+                    "items": [
+                        "4-8 sessions for significant lightening.",
+                        "Complete removal often not possible without hypopigmentation.",
+                        "Goal is often correction (lightening for new pigment) not complete removal.",
+                        "Natural lip color may not fully return.",
+                        "Risk of textural changes, loss of vermilion border definition."
+                    ]
+                }
+            ]
+        }
+    }
+}

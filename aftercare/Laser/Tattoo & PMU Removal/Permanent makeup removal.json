@@ -1,0 +1,78 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Excellent aftercare form for general permanent makeup removal encompassing various cosmetic tattoos. Comprehensive guidance on facial area considerations, color-specific risks, and correction approaches. Strong emphasis on the cosmetic implications and realistic outcomes.",
+        "sections_covered": [
+            "permanent_makeup_types",
+            "facial_area_considerations",
+            "color_specific_risks_pmu",
+            "correction_vs_removal",
+            "realistic_pmu_expectations",
+            "post_removal_options",
+            "combination_removal_approaches"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Permanent Makeup Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of various PERMANENT MAKEUP (cosmetic tattoos): eyeliner, eyebrow, lip, beauty marks, scalp micropigmentation. Each area has specific considerations. PMU pigments are often iron oxide-based with high titanium dioxide content.",
+        "instructions": {
+            "general_directive": "Follow area-specific care. Permanent makeup removal involves both technical and cosmetic considerations.",
+            "sections": [
+                {
+                    "title": "Permanent Makeup Types & Considerations",
+                    "items": [
+                        "Eyeliner: Close to eyes, risk of corneal injury. Special shields used.",
+                        "Eyebrows: Hair follicle preservation, shape considerations.",
+                        "Lips: Herpes risk, swelling, color challenges.",
+                        "Beauty marks: Small area, complete removal often possible.",
+                        "Scalp: Large area, multiple sessions, hair protection."
+                    ]
+                },
+                {
+                    "title": "Facial Area Considerations",
+                    "items": [
+                        "Thin facial skin: Higher risk of textural changes.",
+                        "Cosmetic importance: Asymmetry becomes apparent during removal.",
+                        "Social implications: Visible during treatment process.",
+                        "Multiple procedures: May have different pigments from different artists."
+                    ]
+                },
+                {
+                    "title": "Color-Specific Risks for PMU",
+                    "items": [
+                        "Iron oxide pigments: May oxidize to gray/black.",
+                        "Titanium dioxide (white): Whitens with laser, may require different approach.",
+                        "Mixed pigments: Unpredictable responses.",
+                        "Old vs. new PMU: Older pigments often easier to remove."
+                    ]
+                },
+                {
+                    "title": "Correction vs. Removal Decision",
+                    "content": "Most PMU removal is for CORRECTION not complete removal: Too dark, wrong color, poor shape, migration. Goal is often 50-70% lightening then new PMU over top. Complete removal may leave hypopigmentation."
+                },
+                {
+                    "title": "Realistic PMU Expectations",
+                    "items": [
+                        "3-8 sessions depending on pigment, depth, color.",
+                        "Color may worsen before improving.",
+                        "Complete removal often not possible without textural changes.",
+                        "May need combination approaches (laser + saline).",
+                        "Extended timeline: 1-2 years for complete process."
+                    ]
+                },
+                {
+                    "title": "Post-Removal Options",
+                    "items": [
+                        "New PMU by experienced artist.",
+                        "Temporary makeup during process.",
+                        "Camouflage techniques for residual pigment.",
+                        "Scar management if textural changes occur.",
+                        "Acceptance of subtle residual color."
+                    ]
+                }
+            ]
+        }
+    }
+}

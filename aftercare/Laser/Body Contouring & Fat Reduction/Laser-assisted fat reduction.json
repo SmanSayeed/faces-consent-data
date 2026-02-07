@@ -1,0 +1,114 @@
+{
+    "form_analysis": {
+        "completeness_score": 89,
+        "rewards_awarded": 195,
+        "feedback": "Strong aftercare form for a non-invasive, no-downtime procedure. Effectively addresses the unique delayed symptom profile (paradoxical adipose hyperplasia, numbness). Good focus on lifestyle integration for optimal results. Lacks some specifics on immediate wound care as it's often not needed.",
+        "sections_covered": [
+            "delayed_symptoms_timeline",
+            "common_sensations",
+            "pain_guidance",
+            "hygiene_instructions",
+            "hydration_nutrition",
+            "activity_restrictions",
+            "massage_instructions",
+            "lifestyle_guidance",
+            "rare_complication_awareness",
+            "follow_up_timing",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Non-Invasive Laser Fat Reduction Aftercare",
+        "introduction": "This aftercare guidance is designed to support your body's natural process of eliminating treated fat cells, maximize your comfort during the metabolic clearing phase, and help you achieve the best possible results from your treatment.",
+        "instructions": {
+            "general_directive": "Please follow these recommendations to optimize your treatment outcome.",
+            "sections": [
+                {
+                    "title": "Post-Treatment Sensations and Timeline",
+                    "content": "This is a non-invasive treatment with minimal immediate downtime. You may experience: **Immediately After:** Temporary redness, mild swelling, and a sensation of warmth or tingling in the treated area, which usually resolves within a few hours. **Days 1-7:** The area may feel tender, bruised, or slightly numb to the touch. You might feel occasional tingling or cramping as the body metabolizes the fat. **Weeks 2-8:** This is the primary fat-clearing period. You may begin to notice gradual contour changes. **Months 1-3:** Final results become apparent as inflammation fully resolves and the body completes its elimination process."
+                },
+                {
+                    "title": "Common Sensations and Management",
+                    "items": [
+                        "**Tenderness & Soreness:** Similar to muscle soreness after exercise. Mild, over-the-counter pain relief like Paracetamol can be used if needed.",
+                        "**Swelling:** Mild, diffuse swelling may persist for several days. Wearing supportive but non-constrictive clothing can provide comfort.",
+                        "**Numbness or Altered Sensation:** Temporary numbness or hypersensitivity is common and can last for several weeks as nerves in the treated area are affected. Sensation will return to normal gradually.",
+                        "**Itching:** Mild itching during the healing process is normal. Do not scratch the area."
+                    ]
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "You should not experience sharp or severe pain. Discomfort should be mild and manageable. If you develop significant, increasing, or localized pain, contact your practitioner."
+                },
+                {
+                    "title": "Hygiene and Skin Care",
+                    "items": [
+                        "You may shower normally immediately after treatment using lukewarm water and gentle soap.",
+                        "Avoid hot baths, Jacuzzis, and saunas for 48 hours to minimize inflammation.",
+                        "Gently moisturize the treated area daily to keep skin supple.",
+                        "If any blistering occurs (rare), keep the area clean, dry, and covered with a sterile bandage. Do not pop blisters. Contact your practitioner."
+                    ]
+                },
+                {
+                    "title": "Hydration and Nutrition for Optimal Clearance",
+                    "content": "**Hydration is Critical:** Drink at least 2-3 liters of water daily for the next 2 weeks. This helps your liver and kidneys process and eliminate the damaged fat cells effectively. **Support Your Metabolism:** Eat a clean, balanced diet rich in lean protein, fruits, and vegetables. Avoid excessive alcohol, sugar, and processed carbohydrates, which can burden your liver and hinder results."
+                },
+                {
+                    "title": "Activity and Exercise",
+                    "items": [
+                        "**Immediate:** You may return to normal daily activities and work immediately.",
+                        "**Exercise:** Light exercise (e.g., walking) is encouraged and may help with lymphatic drainage. Avoid strenuous exercise or activities that cause friction on the treated area for 48 hours.",
+                        "**After 48 Hours:** You may resume your full exercise regimen. Increased cardiovascular exercise can boost metabolism and potentially enhance fat-clearing results."
+                    ]
+                },
+                {
+                    "title": "Massage and Lymphatic Support",
+                    "content": "Gentle self-massage or manual lymphatic drainage of the treated area for 5-10 minutes, 1-2 times daily for the first 2 weeks, may help reduce tenderness, swelling, and support the clearance of inflammatory byproducts. Use light, circular motions."
+                },
+                {
+                    "title": "Lifestyle for Lasting Results",
+                    "content": "The treated fat cells are permanently destroyed. However, to maintain your new contour and prevent enlargement of remaining fat cells, we recommend: Maintaining a stable weight through a balanced diet and regular exercise. This treatment is for contouring, not a substitute for weight loss."
+                },
+                {
+                    "title": "Awareness of Rare Reactions",
+                    "content": "**Paradoxical Adipose Hyperplasia (PAH):** In very rare cases, the treated area may enlarge over several months instead of reducing. This is a delayed side effect. If you notice the treated area growing larger 2-5 months post-treatment, contact your practitioner for evaluation. **Hyperpigmentation:** Darkening of the skin is rare but possible, especially in darker skin tones. Strict sun avoidance and sunscreen use are crucial."
+                },
+                {
+                    "title": "Follow-Up and Results Assessment",
+                    "items": [
+                        "Results develop gradually. Do not be discouraged if you see little change in the first few weeks.",
+                        "A follow-up appointment is typically scheduled at 8-12 weeks to assess your final results and discuss potential additional sessions if needed for further contouring.",
+                        "Optimal results are typically seen 2-3 months after your session. Multiple sessions are often required for desired contouring."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Understanding this aftercare is vital for managing expectations and supporting your body's response to treatment.",
+            "question_opportunity": "Please ask your practitioner any questions before you leave. Contact the clinic if you have concerns during your recovery.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Non-Invasive Laser Fat Reduction Aftercare Form. I understand the timeline for results and commit to the recommended lifestyle and follow-up to achieve the best outcome."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "non_invasive_laser_fat_reduction",
+        "treatment_area": "various_body_areas",
+        "document_length": "detailed",
+        "risk_coverage": "good",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "delayed_symptom_onset",
+            "metabolic_clearance_focus",
+            "paradoxical_hyperplasia_awareness",
+            "self_massage_guidance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "If applicators are used, specify care for any potential minor skin irritation from suction.",
+            "Provide specific sun protection factor (SPF 30+) recommendation."
+        ]
+    }
+}

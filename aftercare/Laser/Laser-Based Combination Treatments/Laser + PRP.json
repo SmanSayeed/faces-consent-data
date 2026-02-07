@@ -1,0 +1,147 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 210,
+        "feedback": "Excellent aftercare for a bioactive combination treatment. Cleverly separates care for the laser component from the PRP 'growth factor activation' phase. Strong guidance on avoiding anything that could deactivate PRP (e.g., ice directly, harsh actives). Good emphasis on hydration and nutrition to fuel the regenerative process.",
+        "sections_covered": [
+            "dual_component_recovery",
+            "immediate_care_first_24h",
+            "swelling_bruising_management",
+            "pain_guidance",
+            "prp_activation_care",
+            "cleansing_moisturizing",
+            "sun_protection",
+            "activity_restrictions",
+            "nutrition_hydration_for_healing",
+            "skincare_product_restrictions",
+            "makeup_restrictions",
+            "infection_awareness",
+            "follow_up_timing",
+            "regenerative_results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser & PRP (Vampire Facial/Laser) Aftercare",
+        "introduction": "This aftercare protocol supports healing from the laser while maximizing the regenerative effects of your Platelet-Rich Plasma (PRP). PRP contains your own growth factors, which require a specific environment to stimulate collagen and healing. Follow these instructions to optimize your biological response.",
+        "instructions": {
+            "general_directive": "Care for the laser-treated skin while actively nurturing the PRP's activity for the next 5-7 days.",
+            "sections": [
+                {
+                    "title": "Dual Component Recovery",
+                    "content": "**Laser Component:** Creates controlled inflammation and micro-channels for PRP absorption. Expect redness, swelling, and pinpoint bleeding/scabbing. **PRP Component:** Your growth factors are now active in the skin, working to accelerate repair and stimulate regeneration. Avoid anything that could degrade or wash them away."
+                },
+                {
+                    "title": "Immediate Post-Treatment Care (First 24 Hours)",
+                    "items": [
+                        "**Do NOT apply ice directly to the skin.** Cold can constrict blood vessels and reduce the efficacy of the PRP. If needed for swelling, apply a cool (not ice-cold) compress wrapped in cloth for short intervals.",
+                        "Sleep with head elevated.",
+                        "Do not wash, touch, or wet the face for at least 4-6 hours to allow PRP to absorb and channels to close."
+                    ]
+                },
+                {
+                    "title": "Swelling and Bruising Management",
+                    "content": "Swelling is common due to both laser trauma and PRP's inflammatory phase. It peaks at 24-48 hours. Gentle cool compresses are okay. Bruising is more likely due to the blood-derived PRP. Arnica tablets and cream (applied around eyes if treated) can help. Avoid blood thinners (NSAIDs) unless necessary."
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "A sunburn-like sensation is normal. Paracetamol is recommended for pain. Avoid Ibuprofen/Aspirin for 48 hours unless prescribed, as they may interfere with the healing inflammation that PRP utilizes."
+                },
+                {
+                    "title": "PRP Activation & Care Instructions",
+                    "items": [
+                        "**Keep Skin Hydrated:** PRP works best in a hydrated environment. Use the provided hyaluronic acid serum or healing gel frequently.",
+                        "**Avoid Excessive Water:** Minimize prolonged face washing or soaking. Quick, gentle rinses only.",
+                        "**No Harsh Topicals:** Do not use anything that could denature proteins (growth factors) - this includes high-dose Vitamin C (L-ascorbic acid), strong acids, or alcohol-based toners for 1 week.",
+                        "**Promote Circulation:** Gentle facial massage after 48 hours may help promote blood flow and PRP activity."
+                    ]
+                },
+                {
+                    "title": "Cleansing and Moisturizing Protocol",
+                    "items": [
+                        "**Starting 4-6 hours post-treatment:** Gently rinse with lukewarm water and a mild, non-foaming cleanser. Pat dry.",
+                        "**Immediately apply** a hyaluronic acid serum or the provided PRP-boosting gel to damp skin.",
+                        "**Follow with** a layer of the provided healing ointment or a gentle moisturizer to seal in hydration.",
+                        "Repeat this cleanse + HA + moisturize routine 2 times daily."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "New skin and PRP-stimulated cells are UV-sensitive. After 24 hours, and once you leave the house, apply a mineral sunscreen SPF 30+ daily. Avoid direct sun for 1 week. Wear a hat."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid sweating, strenuous exercise, saunas, and steam rooms for 48-72 hours. Sweat can irritate and introduce bacteria.",
+                        "Avoid swimming pools, hot tubs, and oceans for 1 week.",
+                        "Avoid dusty/dirty environments."
+                    ]
+                },
+                {
+                    "title": "Nutrition & Hydration to Fuel Regeneration",
+                    "content": "**Hydrate:** Drink plenty of water to support the healing process from within. **Earn your PRP:** Consume a protein-rich diet (lean meats, fish, legumes) and foods high in Vitamin C (berries, citrus, leafy greens) to provide the building blocks for new collagen. Consider a collagen peptide supplement. Avoid excessive alcohol and sugar, which cause inflammation."
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "For **1 week**, use ONLY the provided or recommended gentle cleanser, hyaluronic acid serum, healing ointment, and sunscreen.",
+                        "**STOP all other actives:** Retinoids, AHAs/BHAs, benzoyl peroxide, and strong Vitamin C serums for 7-10 days.",
+                        "After 1 week, you may slowly reintroduce your regular actives, starting with antioxidants."
+                    ]
+                },
+                {
+                    "title": "Makeup Restrictions",
+                    "content": "Avoid makeup for at least 24-48 hours. If necessary, use mineral makeup after 48 hours with clean brushes. Ideally, wait until redness subsides (Day 3-4)."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "The micro-channels create entry points. Signs of infection include: yellow pus, increasing pain/redness, fever. Contact your practitioner immediately. If you were prescribed an antiviral (for herpes prevention), take as directed."
+                },
+                {
+                    "title": "Expected Healing Timeline",
+                    "items": [
+                        "**Days 1-3:** Redness, swelling, possible bruising. Tiny scabs from laser points.",
+                        "**Days 3-5:** Scabs fall off. Redness fades to pink. Skin may feel dry.",
+                        "**Days 5-7:** Pinkness improves. Skin texture begins to feel smoother.",
+                        "**Weeks 2-4:** Continued improvement in tone and texture as PRP-stimulated collagen builds."
+                    ]
+                },
+                {
+                    "title": "Follow-Up and Treatment Series",
+                    "items": [
+                        "A series of 3 treatments, spaced 4-6 weeks apart, is typical for cumulative regenerative effects.",
+                        "Results are progressive and natural-looking, improving over 3-6 months.",
+                        "Maintenance treatments are recommended 1-2 times per year."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your aftercare choices directly influence how effectively your PRP growth factors work. Nourish your skin and body to 'earn' the results.",
+            "question_opportunity": "Please ask about any step. You will receive post-care products. Contact us with questions during recovery.",
+            "declaration_text": "I confirm that I have read and understood all information on this Laser & PRP Aftercare Form. I understand the need to avoid ice and harsh products to protect the PRP's activity, and I commit to supporting the regenerative process with proper skincare and nutrition."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "combined_laser_prp",
+        "treatment_area": "face_neck_hands",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "prp_growth_factor_preservation",
+            "hydration_focus_for_prp",
+            "nutritional_support_guidance",
+            "restricted_ice_use"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a specific HA serum or PRP gel in a post-procedure kit.",
+            "Offer dietary handout with collagen-supporting food examples.",
+            "Clarify the difference between 'cool compress' and 'ice'."
+        ]
+    }
+}

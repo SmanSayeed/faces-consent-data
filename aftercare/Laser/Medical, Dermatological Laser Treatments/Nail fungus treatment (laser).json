@@ -1,0 +1,84 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Comprehensive aftercare form for laser nail fungus treatment with strong emphasis on the extended treatment timeline and reinfection prevention. Excellent guidance on nail growth monitoring and combination therapies.",
+        "sections_covered": [
+            "laser_nail_fungus_mechanism",
+            "immediate_post_treatment_response",
+            "extended_treatment_timeline",
+            "reinfection_prevention_critical",
+            "nail_care_during_treatment",
+            "monitoring_nail_growth",
+            "combination_therapies",
+            "realistic_expectations"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Nail Fungus Laser Treatment Aftercare",
+        "introduction": "This aftercare is for laser treatment of onychomycosis (fungal nail infection). Laser heats nail plate to kill fungus. Requires multiple sessions and extensive follow-up as nails grow slowly.",
+        "instructions": {
+            "general_directive": "Follow for the entire nail growth period (9-12 months). Nail fungus treatment requires patience and consistent aftercare.",
+            "sections": [
+                {
+                    "title": "Laser Nail Fungus Mechanism",
+                    "content": "Near-infrared laser passes through nail plate, heating to 45-50°C to kill fungus without damaging nail or surrounding tissue. Multiple sessions needed as fungus is throughout nail."
+                },
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "items": [
+                        "Mild warmth/discomfort for few hours.",
+                        "No downtime - resume normal activities.",
+                        "Nail appearance unchanged initially.",
+                        "Possible temporary nail sensitivity."
+                    ]
+                },
+                {
+                    "title": "Extended Treatment Timeline",
+                    "items": [
+                        "Initial improvement: 3-6 months as new nail grows.",
+                        "Multiple sessions: 3-6 treatments at 4-6 week intervals.",
+                        "Complete clearance: 9-12 months for toenails, 4-6 months for fingernails.",
+                        "Maintenance: Possible occasional touch-up sessions."
+                    ]
+                },
+                {
+                    "title": "Reinfection Prevention (CRITICAL)",
+                    "items": [
+                        "Wear clean, breathable shoes.",
+                        "Change socks daily, or twice if sweaty.",
+                        "Use antifungal powder in shoes.",
+                        "Wear flip-flops in public showers/pools.",
+                        "Disinfect nail clippers regularly.",
+                        "Treat athlete's foot if present."
+                    ]
+                },
+                {
+                    "title": "Nail Care During Treatment",
+                    "items": [
+                        "Keep nails trimmed short.",
+                        "File thickened nails to reduce bulk.",
+                        "Apply topical antifungal (ciclopirox) as prescribed.",
+                        "Avoid nail polish which traps moisture.",
+                        "Consider antifungal nail lacquer between sessions."
+                    ]
+                },
+                {
+                    "title": "Monitoring Nail Growth",
+                    "content": "Healthy new nail grows from cuticle outward. Monitor: 1) Clear nail at base 2) Reduction in thickening 3) Improved color 4) Decreased debris under nail. Take monthly photos to track progress."
+                },
+                {
+                    "title": "Realistic Expectations",
+                    "items": [
+                        "70-80% success rate with multiple sessions.",
+                        "Toenails respond slower than fingernails.",
+                        "Severely damaged nails may not fully recover.",
+                        "Recurrence possible if preventive measures not maintained.",
+                        "Combination with oral/topical antifungals increases success."
+                    ]
+                }
+            ]
+        }
+    }
+}

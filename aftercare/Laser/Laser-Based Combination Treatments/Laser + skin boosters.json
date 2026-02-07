@@ -1,0 +1,161 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 215,
+        "feedback": "Excellent aftercare for a combination of biostimulation (laser) and product delivery (boosters). Cleverly addresses the dual goals: healing laser channels and optimizing integration of the injected product. Strong focus on hydration from inside and out, and avoiding anything that could degrade HA or cause migration. Good practical tips for managing the 'pebbly' texture.",
+        "sections_covered": [
+            "dual_mechanism_recovery",
+            "immediate_symptoms_timeline",
+            "swelling_bruising_management",
+            "pain_guidance",
+            "hydration_protocol_in_out",
+            "cleansing_skincare",
+            "sun_protection",
+            "activity_restrictions",
+            "massage_guidance",
+            "skincare_product_restrictions",
+            "makeup_restrictions",
+            "lumpy_texture_management",
+            "infection_awareness",
+            "vascular_occlusion_awareness",
+            "follow_up_timing",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser & Skin Booster (Hyaluronic Acid Infusion) Aftercare",
+        "introduction": "This aftercare protocol supports healing from the fractional laser while ensuring the optimal integration and performance of the injected skin booster hyaluronic acid (HA). The goal is deep hydration, collagen stimulation, and a radiant complexion.",
+        "instructions": {
+            "general_directive": "Care for your skin gently while actively hydrating to help the booster ingredients bind water effectively over the next 5-7 days.",
+            "sections": [
+                {
+                    "title": "Dual Mechanism Recovery",
+                    "content": "**Laser Component:** Creates micro-channels that increase product absorption and stimulate collagen. Expect redness, swelling, and pinpoint scabbing. **Booster Component:** Hyaluronic acid and other hydrating/collagen-stimulating ingredients are now in the mid-dermis. They need water to swell and integrate, and time to stimulate fibroblasts."
+                },
+                {
+                    "title": "Immediate Post-Treatment Symptoms",
+                    "items": [
+                        "**Redness & Swelling:** Significant for 24-48 hours, similar to a sunburn. Swelling may be slightly more pronounced due to the injected product.",
+                        "**Bruising:** Possible, especially if boosters were injected (needle punctures).",
+                        "**Texture:** Skin may feel uneven, bumpy, or 'pebbly' due to swelling around micro-deposits of HA. This settles in 2-5 days.",
+                        "**Tiny Scabs:** At laser channel sites, will flake off in 3-5 days."
+                    ]
+                },
+                {
+                    "title": "Swelling and Bruising Management",
+                    "content": "Apply cool (not ice-cold) compresses intermittently for the first 24 hours. Sleep elevated. Arnica tablets and cream can help with bruising. Avoid NSAIDs (Ibuprofen, Aspirin) for 48 hours unless necessary, to minimize bruising."
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "Tenderness and a sunburn sensation are normal. Paracetamol is recommended. Severe pain is not typical."
+                },
+                {
+                    "title": "Hydration Protocol - Inside & Out (CRUCIAL FOR RESULTS)",
+                    "items": [
+                        "**Internal Hydration:** Drink **at least 3 liters of water daily** for the next 5-7 days. HA binds water; you must provide it from within for optimal plumping and results.",
+                        "**External Hydration:** Apply a hyaluronic acid serum to damp skin immediately after cleansing, followed by a moisturizer to seal it in. Do this 2-3 times daily.",
+                        "Avoid alcohol and excessive caffeine, which are dehydrating."
+                    ]
+                },
+                {
+                    "title": "Cleansing and Skincare",
+                    "items": [
+                        "Cleanse gently with a mild, non-foaming cleanser starting 4-6 hours post-treatment.",
+                        "Pat dry and immediately apply hydrating layers: Hyaluronic Acid Serum -> Moisturizer.",
+                        "You may have been given a specific 'booster-friendly' moisturizer; use it.",
+                        "Avoid harsh scrubs or exfoliating tools for 1 week."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "Skin is compromised and more UV-sensitive. After 24 hours, apply a broad-spectrum SPF 30+ mineral sunscreen daily. Avoid direct sun for 1 week. Wear a hat."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, sweating, saunas, and steam rooms for 48 hours. Heat and sweat can increase swelling and inflammation.",
+                        "Avoid swimming in pools/oceans for 1 week.",
+                        "Avoid extreme heat or cold."
+                    ]
+                },
+                {
+                    "title": "Massage & Manipulation Guidance",
+                    "items": [
+                        "**DO NOT** vigorously massage or knead the treated area for **2 weeks.** This can displace the product or cause bruising.",
+                        "You may gently pat in your skincare products.",
+                        "If instructed for lump management (see below), use only the specific technique shown by your practitioner."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "For **1 week**, avoid active ingredients that can cause irritation or dryness: Retinoids, AHAs/BHAs, strong Vitamin C (L-ascorbic), benzoyl peroxide.",
+                        "Use only gentle, hydrating products.",
+                        "After 1 week, slowly reintroduce actives."
+                    ]
+                },
+                {
+                    "title": "Makeup Restrictions",
+                    "content": "Avoid makeup for 24 hours. Mineral makeup can be used after 24-48 hours if necessary. Ensure brushes are clean."
+                },
+                {
+                    "title": "Managing Lumpy or 'Pebbly' Texture",
+                    "content": "Small bumps are common as the HA integrates and swelling occurs around injection points. **Most resolve spontaneously within 3-5 days.** Do not massage unless specifically instructed. If a distinct, tender lump persists beyond 1 week, contact your practitioner for a possible gentle massage technique or hyaluronidase spot treatment."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Rare but possible. Watch for: increasing redness, warmth, pus, pain, or fever. The laser channels and injection points are potential entry sites."
+                },
+                {
+                    "title": "Vascular Compromise Awareness (Very Rare)",
+                    "content": "Although skin boosters are not typical fillers, intravascular injection is a theoretical risk. Be aware of signs of vascular occlusion: severe, sudden pain; white/blanched skin; mottled purple discoloration (livedo reticularis); or skin necrosis (black scab). **THIS IS A MEDICAL EMERGENCY - CONTACT YOUR PRACTITIONER AND SEEK URGENT CARE.**"
+                },
+                {
+                    "title": "Expected Healing and Results Timeline",
+                    "items": [
+                        "**Days 1-3:** Redness, swelling, bumpiness. 'Glass skin' glow may be visible once redness subsides.",
+                        "**Days 4-7:** Scabs fall off. Texture smooths. Hydration and radiance improve.",
+                        "**Weeks 2-4:** Continued improvement in skin quality as HA integrates and collagen stimulation begins.",
+                        "**Months 1-3:** Optimal results visible. Boosters typically last 3-6 months, depending on the product and metabolism."
+                    ]
+                },
+                {
+                    "title": "Follow-Up and Treatment Series",
+                    "items": [
+                        "A follow-up at 2-4 weeks is recommended to assess results.",
+                        "For cumulative effects, a series of 3 initial treatments spaced 4 weeks apart is standard.",
+                        "Maintenance sessions are typically every 6-12 months."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your results depend significantly on your post-treatment hydration. Drink water diligently and use hydrating topicals.",
+            "question_opportunity": "Ask about any step, especially regarding lump management. You will receive product recommendations. Contact us with concerns.",
+            "declaration_text": "I confirm that I have read and understood all information on this Laser & Skin Booster Aftercare Form. I understand the importance of internal/external hydration, the need to avoid vigorous massage, and the timeline for integration. I commit to following these guidelines."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "combined_laser_skin_booster",
+        "treatment_area": "face_neck_decolletage_hands",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "dual_hydration_focus",
+            "lumpy_texture_management",
+            "product_migration_prevention",
+            "vascular_occlusion_awareness_booster"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a high-quality HA serum in the post-care kit.",
+            "Give patients a specific water intake goal (e.g., 3L bottle markers).",
+            "Demonstrate the 'patting' technique for product application."
+        ]
+    }
+}

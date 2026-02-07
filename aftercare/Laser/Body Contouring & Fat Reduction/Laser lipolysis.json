@@ -1,0 +1,144 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 210,
+        "feedback": "Comprehensive aftercare form for a minimally invasive fat reduction procedure. Covers essential post-procedural care for tissue healing, drainage management, and compression garment use. Strong guidance on activity progression and monitoring for deeper complications like seroma or infection. Clear timeline for recovery phases.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "bruising_management",
+            "pain_guidance",
+            "compression_garment_care",
+            "wound_drainage_care",
+            "hygiene_instructions",
+            "hydration_nutrition",
+            "medication_supplement_restrictions",
+            "activity_restrictions",
+            "environmental_restrictions",
+            "infection_awareness",
+            "seroma_hematoma_awareness",
+            "skin_sensation_changes",
+            "follow_up_timing",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Lipolysis (Laser-Assisted Liposuction) Aftercare",
+        "introduction": "This aftercare advice is crucial to support your body's healing process, minimize discomfort, reduce the risk of complications, and help achieve optimal contouring results from your laser lipolysis treatment.",
+        "instructions": {
+            "general_directive": "Please follow this guidance diligently for the next several weeks.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "You will experience swelling, tenderness, and fluid drainage from the tiny incision sites. Significant swelling and bruising peaks at 48-72 hours. Initial soreness improves within 3-5 days. Drainage of anesthetic/tumescent fluid (pink-tinged) is normal for 24-48 hours. Most swelling subsides noticeably by 2-4 weeks, with final contour visible after 3-6 months as internal healing completes."
+                },
+                {
+                    "title": "Swelling and Inflammation Management",
+                    "content": "Swelling is expected and part of the healing response. To manage it: Wear your compression garment continuously as directed (typically 23 hours/day for first 2 weeks). Use cold compresses (over the garment) for 15-minute intervals during the first 48 hours to reduce swelling and discomfort. Stay well-hydrated and avoid salty foods. Gentle walking is encouraged to promote fluid movement (lymphatic drainage)."
+                },
+                {
+                    "title": "Bruising Management",
+                    "content": "Bruising is common and can be significant, ranging from yellow to dark purple. It will resolve over 1-3 weeks. Arnica Montana tablets or cream (applied around, not on, incision sites) may help reduce bruising. Avoid blood-thinning medications/supplements as advised below."
+                },
+                {
+                    "title": "Pain and Discomfort Guidance",
+                    "content": "Aching, soreness, and tenderness are normal, often described as similar to a strenuous workout. Prescribed or recommended pain relief (e.g., Paracetamol) should be taken as directed. Sharp, stabbing, or increasingly severe pain is NOT normal and could indicate complications like infection or seroma. Contact your practitioner immediately if this occurs."
+                },
+                {
+                    "title": "Compression Garment Care",
+                    "items": [
+                        "You must wear your compression garment as instructed, usually 23 hours a day for the first 2 weeks, then 12 hours a day (e.g., overnight) for the next 2-4 weeks.",
+                        "The garment should be snug but not painfully tight. It reduces swelling, improves skin retraction, and supports healing tissues.",
+                        "You may remove it briefly to shower and to wash the garment according to instructions. Ensure it is completely dry before putting it back on.",
+                        "Do not stop wearing it prematurely, as this can lead to increased swelling and suboptimal results."
+                    ]
+                },
+                {
+                    "title": "Wound and Drainage Care",
+                    "items": [
+                        "Small adhesive strips or steri-strips cover the incision sites. Keep them dry. They will fall off on their own in 5-7 days.",
+                        "Light drainage of pink-tinged fluid is normal for 24-48 hours. Use absorbent pads (provided) inside your garment to manage this. Change pads as needed to keep the area dry.",
+                        "If drainage is heavy (soaking through pads quickly), bright red (fresh blood), or has a foul odor, contact your practitioner.",
+                        "Once drainage stops, you may shower. Pat incision sites dry gently; do not rub."
+                    ]
+                },
+                {
+                    "title": "Hygiene and Infection Prevention",
+                    "content": "Do not submerge the treated area in baths, hot tubs, or swimming pools for at least 2 weeks or until all incision sites are fully closed and healed. You may shower after 48 hours, keeping water lukewarm. Gently pat the area dry. Do not apply creams, lotions, or oils to the incision sites until they are fully closed."
+                },
+                {
+                    "title": "Hydration and Nutrition",
+                    "content": "Drink plenty of water to help flush out the liquefied fat and anesthetic metabolites and to support overall healing. Eat a balanced, healthy diet rich in protein, vitamins, and minerals to aid tissue repair. Avoid excessive salt, sugar, and processed foods, which can exacerbate swelling."
+                },
+                {
+                    "title": "Medication and Supplement Restrictions",
+                    "items": [
+                        "Avoid all blood-thinning medications such as Aspirin, Ibuprofen, Naproxen, and other NSAIDs for at least 72 hours after treatment unless otherwise prescribed, as they can increase bruising and bleeding. Paracetamol is usually safe for pain.",
+                        "Avoid supplements including Vitamin E, Fish Oil, Omega-3s, Ginkgo Biloba, Garlic, Ginseng, and high-dose multivitamins for 1 week before and after, unless medically necessary (consult your GP before stopping any prescribed supplements)."
+                    ]
+                },
+                {
+                    "title": "Activity and Exercise Restrictions",
+                    "items": [
+                        "**First 48 Hours:** Rest. Light walking around the house is encouraged to prevent blood clots.",
+                        "**First Week:** Avoid strenuous activity, heavy lifting (more than 5-10 lbs), bending, or twisting that strains the treated area.",
+                        "**Weeks 2-4:** Gradually increase light activity. You may return to desk work after a few days. Avoid high-impact exercise, running, cycling, and weight training.",
+                        "**After 4 Weeks:** You may gradually resume most exercises, but listen to your body. Swelling may temporarily increase with vigorous activity."
+                    ]
+                },
+                {
+                    "title": "Environmental Restrictions",
+                    "content": "Avoid direct sun exposure on the treated area for at least 6 weeks. The skin is more sensitive and prone to hyperpigmentation. Once healed, always use high-SPF sunscreen. Avoid saunas, steam rooms, and very hot baths for 4 weeks, as heat can increase swelling."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Contact your practitioner immediately if you notice: increasing redness, warmth, or spreading redness around the treatment area; pus or foul-smelling discharge from incisions; fever or chills."
+                },
+                {
+                    "title": "Seroma or Hematoma Awareness",
+                    "content": "A seroma is a pocket of clear fluid; a hematoma is a collection of blood. Signs include: a new, localized, soft or firm swelling that may feel fluid-filled; increased pain or pressure in one specific area. If you notice a sudden, painful, enlarging lump, contact your practitioner."
+                },
+                {
+                    "title": "Skin Sensation and Texture Changes",
+                    "content": "Temporary numbness, tingling, itching, or hypersensitivity in the treated area is normal due to nerve irritation. Sensation typically returns gradually over 3-6 months. The skin may feel temporarily lumpy or firm as it heals; this usually smooths out. Manual lymphatic drainage massage (after practitioner approval) can help."
+                },
+                {
+                    "title": "Follow-Up and Results Timeline",
+                    "items": [
+                        "Attend all scheduled follow-up appointments for assessment and possible gentle massage.",
+                        "Initial results are visible once swelling subsides (around 4-6 weeks).",
+                        "The final, stable contour is typically seen at 3-6 months post-treatment.",
+                        "Maintain a stable weight and healthy lifestyle to preserve your results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read and understood all of this aftercare information. Your compliance is key to a safe recovery and optimal outcome.",
+            "question_opportunity": "Please ask your practitioner any questions you have now, and do not hesitate to contact the clinic during your recovery if you have concerns.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Laser Lipolysis Aftercare Form. I have been given the opportunity to ask questions, and I commit to following these instructions to support my recovery."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "laser_lipolysis_laser_assisted_liposuction",
+        "treatment_area": "various_body_areas",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "compression_garment_protocol",
+            "drainage_management",
+            "activity_progression_phases",
+            "seroma_hematoma_monitoring"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Clinic should provide specific garment washing instructions.",
+            "Consider adding guidance on recommended sleeping positions (e.g., on back if abdomen treated)."
+        ]
+    }
+}

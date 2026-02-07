@@ -1,0 +1,144 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 215,
+        "feedback": "Exceptionally detailed aftercare form for a fractional resurfacing procedure. Masterfully covers the distinct recovery phases (sandpaper texture, bronzing, shedding). Outstanding guidance on 'meticulous but gentle' skincare, strict sun avoidance, and managing social downtime. High-risk coverage for PIH and infection.",
+        "sections_covered": [
+            "recovery_phase_timeline",
+            "immediate_care",
+            "skin_sensation_texture_changes",
+            "pain_guidance",
+            "cleansing_protocol",
+            "moisturization_protocol",
+            "critical_sun_protection",
+            "activity_environmental_restrictions",
+            "makeup_restrictions",
+            "skincare_actives_restriction",
+            "infection_awareness",
+            "hyperpigmentation_risk",
+            "follow_up_timing",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Pore Sealing & Skin Resurfacing Aftercare",
+        "introduction": "This detailed aftercare protocol is crucial for your safety, comfort, and to achieve the best possible results of smoother, refined skin with minimized pores. Proper care during the healing process directly impacts your outcome and reduces risks.",
+        "instructions": {
+            "general_directive": "Follow these instructions meticulously. Your skin will be in a delicate state of active healing for 7-14 days.",
+            "sections": [
+                {
+                    "title": "Recovery Phase Timeline (Know What to Expect)",
+                    "items": [
+                        "**Day 1-3 (Swelling & Redness):** Skin will be red, swollen (like a sunburn), and feel warm/tight. Swelling peaks at 24-48 hours.",
+                        "**Day 2-5 (Sandpaper Phase):** As tiny microscopic treatment zones (MTZs) heal, skin will feel rough, dry, and have a sandpaper-like texture. Do not pick or scrub.",
+                        "**Day 3-7 (Bronzing & Shedding):** Treated areas may darken to a bronze or coffee-ground color. This is old, damaged skin detaching. Gentle flaking or peeling will occur. **LET IT FLAKE NATURALLY.**",
+                        "**Day 7-14 (Pink & New Skin):** Underneath, fresh, pink, new skin is revealed. This pinkness can last for several weeks and is very sun-sensitive.",
+                        "**Week 4+:** Pinkness fades, and improved texture/tone becomes visible. Collagen remodeling continues for 3-6 months."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment Care (First 24-48 Hours)",
+                    "items": [
+                        "Apply cold compresses or ice packs (wrapped in cloth) intermittently to reduce swelling and discomfort.",
+                        "Sleep with your head elevated on extra pillows.",
+                        "Take an over-the-counter antihistamine (like Benadryl) if approved by your practitioner, to reduce swelling and itching."
+                    ]
+                },
+                {
+                    "title": "Skin Sensations and Texture",
+                    "content": "Itching, tightness, and stinging are very common as the skin heals. DO NOT SCRATCH. Use recommended moisturizers and cool compresses for relief. The 'sandpaper' and flaking phases are normal and necessary parts of the skin renewal process."
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "A sunburn-like sensation is expected. Prescribed or OTC pain medication (Paracetamol) can be used. Severe, persistent pain is not normal and may indicate infection or adverse reaction."
+                },
+                {
+                    "title": "Cleansing Protocol (Gentle is Key)",
+                    "items": [
+                        "**Start:** 4-6 hours post-treatment, or as directed.",
+                        "**Method:** Use ONLY the gentle, non-foaming cleanser provided or recommended. Use lukewarm water and your fingertips only—no washcloths, sponges, or brushes.",
+                        "**Frequency:** Gently cleanse 1-2 times daily. Pat skin dry with a clean towel; do not rub."
+                    ]
+                },
+                {
+                    "title": "Moisturization & Healing Ointment Protocol",
+                    "items": [
+                        "**Keep Skin Moist:** Apply the recommended healing ointment (e.g., Aquaphor, Vaseline, or a specialized post-laser cream) liberally and frequently—at least 4-6 times per day for the first 3-5 days. This creates a protective barrier, prevents scabbing, and reduces tightness.",
+                        "**Transition:** After flaking is complete (around day 5-7), switch to a rich, fragrance-free moisturizer.",
+                        "If prescribed a topical antibiotic or antiviral, apply it first, then the ointment."
+                    ]
+                },
+                {
+                    "title": "SUN PROTECTION - ABSOLUTE AVOIDANCE & VIGILANCE",
+                    "items": [
+                        "**Strict Indoor Recovery:** Avoid all direct sun exposure for at least **2 weeks** post-treatment. Do not drive with sun directly on your face.",
+                        "**After 2 Weeks:** You MUST apply a **mineral-based (zinc oxide/titanium dioxide), broad-spectrum SPF 30+ sunscreen** every single morning, without exception, for at least 3 months. Chemical sunscreens may irritate new skin.",
+                        "**Wear Protective Gear:** When outdoors, wear a wide-brimmed hat and seek shade diligently. New skin is highly prone to permanent hyperpigmentation (dark spots) from UV exposure."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, sweating, saunas, steam rooms, and hot showers for 5-7 days. Sweat can irritate healing skin and cause breakouts.",
+                        "Avoid swimming pools (chlorine), hot tubs, and ocean water for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Makeup Restrictions",
+                    "content": "Do not apply any makeup (including mineral makeup) to the treated area until all flaking has completely stopped and the skin is no longer an open wound (usually at 5-7 days). Once healed, use clean brushes and non-comedogenic products."
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "For **4-6 weeks**, DO NOT USE any of the following on the treated area: Retinoids (Retin-A, retinol), AHAs/BHAs (glycolic, salicylic acid), Vitamin C (L-ascorbic acid), benzoyl peroxide, or physical scrubs/exfoliants.",
+                        "Resume your normal skincare routine only after explicit approval from your practitioner, introducing actives one at a time and very gradually."
+                    ]
+                },
+                {
+                    "title": "Infection and Cold Sore Awareness",
+                    "content": "If you are prone to cold sores (herpes simplex), the procedure can trigger an outbreak. You may have been prescribed antiviral medication; take it as directed. Contact your practitioner immediately for signs of infection: yellow pus, increasing pain, spreading redness, or fever."
+                },
+                {
+                    "title": "Hyperpigmentation (PIH) Risk Management",
+                    "content": "Patients with darker skin tones are at higher risk for post-inflammatory hyperpigmentation (dark spots). Strict sun avoidance and the use of a gentle brightening agent (like azelaic acid or hydroquinone) may be recommended by your practitioner **after** initial healing. Do not self-prescribe."
+                },
+                {
+                    "title": "Follow-Up and Results Timeline",
+                    "items": [
+                        "Initial skin smoothing and pore refinement is visible once the pinkness subsides (around 2-4 weeks).",
+                        "Continued collagen production improves skin quality, firmness, and texture over 3-6 months.",
+                        "Multiple treatments (typically 3-5) are usually required for significant pore sealing and textural improvement.",
+                        "Schedule and attend your next treatment as advised, usually 4-6 weeks apart."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your dedication to this meticulous aftercare routine, especially sun protection and gentle handling, is the single most important factor for a successful outcome.",
+            "question_opportunity": "Ensure all steps are clear. Your practitioner will provide your starter kit of recommended products. Contact us with any concerns during healing.",
+            "declaration_text": "I confirm that I have read and understood all information on this Laser Pore Sealing Aftercare Form. I understand the multi-phase recovery, the absolute necessity of sun avoidance, and the strict restrictions on products and activities. I commit to following this protocol in full."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "fractional_laser_pore_sealing_resurfacing",
+        "treatment_area": "face_primary",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "multi_phase_recovery_timeline",
+            "strict_sun_avoidance_protocol",
+            "sandpaper_bronzing_phase_guidance",
+            "skincare_actives_moratorium"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a post-procedure 'starter kit' with cleanser, ointment, and sunscreen.",
+            "Offer specific product recommendations for the moisturizer transition phase."
+        ]
+    }
+}

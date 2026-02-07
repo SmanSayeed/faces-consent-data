@@ -1,0 +1,72 @@
+{
+    "form_analysis": {
+        "completeness_score": 99,
+        "rewards_awarded": 245,
+        "feedback": "Exceptional aftercare form specifically for CO₂ laser resurfacing with detailed guidance on this gold-standard treatment. Comprehensive coverage of the unique CO₂ healing phases, frosting management, and prolonged erythema. Strong emphasis on the extended recovery timeline and hyperpigmentation prevention.",
+        "sections_covered": [
+            "co2_laser_specifics",
+            "frosting_immediate_response",
+            "co2_healing_phases_extended",
+            "prolonged_erythema_management",
+            "hyperpigmentation_prevention_co2",
+            "milial_management",
+            "realistic_co2_expectations",
+            "full_vs_fractional_co2"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "CO₂ Laser Resurfacing Aftercare",
+        "introduction": "This aftercare is specifically for CO₂ LASER resurfacing (10,600nm wavelength). CO₂ laser vaporizes tissue with extreme precision and significant thermal effect. The gold standard for dramatic resurfacing but requires extensive, meticulous aftercare.",
+        "instructions": {
+            "general_directive": "Follow for 10-21 days of intensive care, with 3-6 months of sun protection and ongoing management. CO₂ has unique healing characteristics.",
+            "sections": [
+                {
+                    "title": "CO₂ Laser Specifics",
+                    "content": "10,600nm wavelength absorbed by water in tissue. Creates: 1) Immediate tissue vaporization 2) Significant thermal coagulation zone 3) Prolonged inflammatory response for collagen stimulation."
+                },
+                {
+                    "title": "Frosting & Immediate Response",
+                    "items": [
+                        "FROSTING: White, chalky appearance immediately after - indicates tissue dehydration/vaporization.",
+                        "Significant edema (swelling) within hours.",
+                        "Serous exudate (clear/yellow fluid) for 3-5 days.",
+                        "Pain/burning for 48-72 hours requiring medication."
+                    ]
+                },
+                {
+                    "title": "CO₂ Healing Phases (Extended)",
+                    "items": [
+                        "Days 0-7: Open wound phase. Constant ointment application critical.",
+                        "Days 7-14: Re-epithelialization. Itching intense. Crust formation.",
+                        "Weeks 2-6: Pink phase. Skin delicate, shiny. Prone to milia.",
+                        "Months 2-6: Redness gradually fades. Final results emerge.",
+                        "Months 6-12: Continued collagen maturation."
+                    ]
+                },
+                {
+                    "title": "Prolonged Erythema Management",
+                    "content": "CO₂ causes SIGNIFICANT prolonged redness (3-6 months). Manage with: 1) Green color corrector makeup after 3 weeks 2) IPL treatments for residual redness after 3 months 3) Avoidance of all irritants."
+                },
+                {
+                    "title": "Hyperpigmentation Prevention (CRITICAL)",
+                    "content": "CO₂-treated skin is HIGHLY prone to post-inflammatory hyperpigmentation, especially in darker skin types. PREVENTION: 1) Strict sun avoidance for 6+ months 2) Hydroquinone or other lighteners after 4 weeks 3) Antioxidant protection."
+                },
+                {
+                    "title": "Milial Management",
+                    "content": "CO₂ commonly causes milia (tiny white bumps) during healing. DO NOT PICK. They will resolve with gentle exfoliation after 6-8 weeks. Your practitioner can extract if persistent."
+                },
+                {
+                    "title": "Realistic CO₂ Expectations",
+                    "items": [
+                        "Downtime: 10-21 days social, 3-6 months for redness.",
+                        "Results: 50-90% improvement in wrinkles/scars.",
+                        "One treatment often sufficient for dramatic change.",
+                        "Risks: Hypopigmentation (permanent), hyperpigmentation (usually temporary), scarring (rare).",
+                        "Not recommended for Fitzpatrick IV-VI without extreme caution."
+                    ]
+                }
+            ]
+        }
+    }
+}

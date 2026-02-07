@@ -105,41 +105,41 @@ Eye area tightening---Not found---Completed
 Body skin tightening---Not found---Completed
 
 (Laser Resurfacing)
-Ablative laser resurfacing
-Non-ablative laser resurfacing
-Fractional laser resurfacing
-CO₂ laser resurfacing
-Er:YAG laser resurfacing
-Laser skin renewal
+Ablative laser resurfacing---Not found---Completed
+Non-ablative laser resurfacing---Not found---Completed
+Fractional laser resurfacing---Not found---Completed
+CO₂ laser resurfacing---Not found---Completed
+Er:YAG laser resurfacing---Not found---Completed
+Laser skin renewal---Not found---Completed
 
 (Tattoo & PMU Removal)
-Laser tattoo removal
-Multi-colour tattoo removal
-Eyebrow tattoo removal
-Microblading removal (laser)
-Lip blush tattoo removal
-Permanent makeup removal
+Laser tattoo removal---Not found---Completed
+Multi-colour tattoo removal---Not found---Completed
+Eyebrow tattoo removal---Not found---Completed
+Microblading removal (laser)---Not found---Completed
+Lip blush tattoo removal---Not found---Completed
+Permanent makeup removal---Not found---Completed
 
 (Medical / Dermatological Laser Treatments)
-Laser mole removal (assessment required)
-Laser wart removal
-Laser skin tag removal
-Benign lesion removal
-Nail fungus treatment (laser)
-Psoriasis laser therapy
-Vitiligo laser therapy
+Laser mole removal (assessment required)---Not found---Completed
+Laser wart removal---Not found---Completed
+Laser skin tag removal---Not found---Completed
+Benign lesion removal---Not found---Completed
+Nail fungus treatment (laser)---Not found---Completed
+Psoriasis laser therapy---Not found---Completed
+Vitiligo laser therapy---Not found---Completed
 
 (Body Contouring & Fat Reduction) 
-Laser lipolysis
-Laser-assisted fat reduction
-Cellulite laser treatment
-Skin tightening post-fat reduction
+Laser lipolysis---Not found---Completed
+Laser-assisted fat reduction---Not found---Completed
+Cellulite laser treatment---Not found---Completed
+Skin tightening post-fat reduction---Not found---Completed
 
 (Specialist / Advanced Laser) Applications
-Laser sweat reduction (hyperhidrosis)
-Laser pore sealing
-Laser skin bleaching (medical use only)
-Laser rejuvenation for intimate areas (where permitted)
+Laser sweat reduction (hyperhidrosis)---Not found---Completed
+Laser pore sealing---Not found---Completed
+Laser skin bleaching (medical use only)---Not found---Completed
+Laser rejuvenation for intimate areas (where permitted)---Not found---Completed
 
 (Laser-Based Combination Treatments
 Laser + microneedling

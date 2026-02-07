@@ -1,0 +1,71 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Excellent aftercare form for eyebrow tattoo removal addressing this delicate facial area. Strong guidance on periorbital swelling, brow hair protection, and pigment migration risks. Comprehensive coverage of the unique considerations for facial cosmetic tattoo removal.",
+        "sections_covered": [
+            "eyebrow_tattoo_specifics",
+            "immediate_periorbital_response",
+            "brow_hair_protection",
+            "pigment_migration_risks",
+            "eyebrow_shape_considerations",
+            "realistic_eyebrow_removal_expectations",
+            "combination_with_correction"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Eyebrow Tattoo Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of eyebrow tattoos/permanent makeup. The periorbital area is delicate with thin skin, proximity to eyes, and important cosmetic considerations. Requires gentle treatment and specific care.",
+        "instructions": {
+            "general_directive": "Follow with extreme gentleness. The eyes swell significantly. Protect natural brow hairs and eye area.",
+            "sections": [
+                {
+                    "title": "Eyebrow Tattoo Specifics",
+                    "content": "Eyebrow tattoos often contain iron oxide pigments (red-brown) that may oxidize and darken. Pigments may be placed at varying depths, affecting removal difficulty. Close proximity to eyes requires special safety measures."
+                },
+                {
+                    "title": "Immediate Periorbital Response",
+                    "items": [
+                        "Significant eyelid swelling (may partially close eyes) for 2-4 days.",
+                        "Black eyes/bruising common (30-50% of patients).",
+                        "Temporary eyebrow hair loss possible.",
+                        "Tightness when raising eyebrows."
+                    ]
+                },
+                {
+                    "title": "Brow Hair Protection",
+                    "items": [
+                        "Apply antibiotic ointment carefully to avoid hair follicles.",
+                        "DO NOT pluck, wax, or thread brows for 4 weeks post-treatment.",
+                        "Use brow serum (castor oil, peptides) after healing to support hair growth.",
+                        "Avoid brow makeup until fully healed (7-10 days)."
+                    ]
+                },
+                {
+                    "title": "Pigment Migration Risks",
+                    "content": "Eyebrow pigment may migrate during removal, creating blurred edges or 'halo' effect. PREVENTION: 1) Lower energy settings 2) Longer intervals between sessions 3) Gentle aftercare without rubbing."
+                },
+                {
+                    "title": "Eyebrow Shape Considerations",
+                    "items": [
+                        "Removal may be partial (just tail, just front) or complete.",
+                        "Asymmetry may become apparent as pigment fades unevenly.",
+                        "Consider temporary brow pencil to maintain shape during process.",
+                        "Final goal may be light enough for correction rather than complete removal."
+                    ]
+                },
+                {
+                    "title": "Realistic Eyebrow Removal Expectations",
+                    "items": [
+                        "4-8 sessions for significant lightening.",
+                        "Complete removal often not possible due to pigment composition.",
+                        "Goal is often lightening enough for correction with new tattoo.",
+                        "Natural brow hair may be affected temporarily.",
+                        "Risk of hypopigmentation in brow area."
+                    ]
+                }
+            ]
+        }
+    }
+}

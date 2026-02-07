@@ -1,0 +1,83 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 220,
+        "feedback": "Excellent aftercare form for non-ablative laser resurfacing with clear guidance on the 'no downtime' paradox. Strong emphasis on the extended collagen remodeling timeline and sun protection. Realistic expectations about gradual improvement with multiple sessions.",
+        "sections_covered": [
+            "non_ablative_mechanism",
+            "immediate_post_treatment_response",
+            "subsurface_healing_timeline",
+            "skincare_for_collagen_support",
+            "sun_protection_critical",
+            "activity_restrictions_minimal",
+            "realistic_non_ablative_expectations",
+            "series_importance"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Non-Ablative Laser Resurfacing Aftercare",
+        "introduction": "This aftercare is for NON-ABLATIVE laser resurfacing (e.g., 1320nm, 1440nm, 1540nm lasers). The laser heats the dermis without damaging the epidermis - 'no downtime' but significant subsurface healing. Collagen stimulation occurs invisibly over months.",
+        "instructions": {
+            "general_directive": "Follow for 24-48 hours for surface care, with collagen support for 3-6 months. Minimal downtime but requires patience for results.",
+            "sections": [
+                {
+                    "title": "Non-Ablative Mechanism",
+                    "content": "Laser passes through epidermis to heat dermis to 60-70°C, stimulating fibroblasts without epidermal injury. No open wound, but significant inflammatory response beneath surface."
+                },
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "items": [
+                        "Mild to moderate redness (like sunburn) for 2-48 hours.",
+                        "Swelling, especially around eyes/cheeks.",
+                        "Tightness, warmth sensation.",
+                        "Rare: Mild bruising or petechiae."
+                    ]
+                },
+                {
+                    "title": "Subsurface Healing Timeline",
+                    "items": [
+                        "Days 1-3: Surface redness resolves. Skin may feel dry/tight.",
+                        "Weeks 1-4: INVISIBLE collagen production begins.",
+                        "Months 1-3: Gradual improvement in texture, fine lines.",
+                        "Months 3-6: Peak collagen remodeling, optimal results."
+                    ]
+                },
+                {
+                    "title": "Skincare for Collagen Support",
+                    "items": [
+                        "Gentle cleansing for 48 hours.",
+                        "Hydration: Hyaluronic acid serums to support healing.",
+                        "Antioxidants: Vitamin C serum after 24 hours.",
+                        "Growth factors/peptides to enhance fibroblast activity.",
+                        "Retinoids: May continue if tolerated, or resume after 1 week."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (CRITICAL)",
+                    "content": "Even without surface damage, UV exposure degrades new collagen. Daily SPF 30+ mandatory for 3-6 months. This is the most important factor for results."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise for 24-48 hours.",
+                        "No saunas/steam rooms for 48 hours.",
+                        "Minimal sun exposure for 1 week.",
+                        "Sleep elevated first night if swollen."
+                    ]
+                },
+                {
+                    "title": "Realistic Non-Ablative Expectations",
+                    "items": [
+                        "Gradual improvement over 3-6 months.",
+                        "20-40% improvement per treatment.",
+                        "Requires 3-6 sessions at 4-6 week intervals.",
+                        "Best for: Fine lines, mild texture, pore refinement.",
+                        "Not for: Deep wrinkles, significant laxity.",
+                        "Maintenance: 1-2 treatments annually."
+                    ]
+                }
+            ]
+        }
+    }
+}

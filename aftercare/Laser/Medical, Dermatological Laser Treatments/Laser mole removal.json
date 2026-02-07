@@ -1,0 +1,86 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Comprehensive aftercare form for laser mole removal with strong emphasis on biopsy considerations and healing protocols. Excellent coverage of scar prevention and monitoring for recurrence. Clear guidance on when to seek medical attention.",
+        "sections_covered": [
+            "pre_removal_biopsy_importance",
+            "laser_mole_removal_mechanism",
+            "immediate_post_laser_response",
+            "wound_healing_phases",
+            "infection_prevention",
+            "scar_minimization_strategies",
+            "monitoring_for_recurrence",
+            "sun_protection_critical",
+            "pathology_follow_up"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Mole Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of benign moles/nevi. Laser vaporizes pigmented cells but does not provide tissue for pathology. IMPORTANT: Mole should have been clinically assessed or biopsied prior to laser treatment to rule out malignancy.",
+        "instructions": {
+            "general_directive": "Follow for 2-3 weeks of wound care, with scar management for 3-6 months. Monitor site for any changes long-term.",
+            "sections": [
+                {
+                    "title": "Pre-Removal Considerations",
+                    "content": "Laser mole removal is for COSMETIC removal of BENIGN moles only. If any doubt about malignancy, surgical excision with pathology is required. Laser destroys tissue, preventing histological examination."
+                },
+                {
+                    "title": "Laser Mole Removal Mechanism",
+                    "content": "Q-switched or CO₂ laser targets melanin in nevus cells. The laser vaporizes pigmented cells while sparing surrounding tissue. Multiple sessions often needed for complete removal."
+                },
+                {
+                    "title": "Immediate Post-Laser Response",
+                    "items": [
+                        "Crater-like wound at mole site.",
+                        "Possible pinpoint bleeding.",
+                        "Erythema (redness) in surrounding skin.",
+                        "Scab formation within 24-48 hours."
+                    ]
+                },
+                {
+                    "title": "Wound Healing Protocol",
+                    "items": [
+                        "Keep wound clean with mild soap/water.",
+                        "Apply antibiotic ointment (Bacitracin) and non-stick bandage for 5-7 days.",
+                        "DO NOT PICK scab - let it fall off naturally (7-14 days).",
+                        "Once healed, apply silicone scar gel for 3-6 months."
+                    ]
+                },
+                {
+                    "title": "Scar Minimization Strategies",
+                    "items": [
+                        "Silicone gel/sheeting starting at 2 weeks.",
+                        "Sun protection SPF 30-50+ for 6+ months.",
+                        "Massage healed area after 3 weeks.",
+                        "Consider laser scar treatment if hypertrophic scarring occurs."
+                    ]
+                },
+                {
+                    "title": "Monitoring for Recurrence",
+                    "content": "Moles may regrow after laser. Monitor for: 1) Return of pigment 2) Change in borders 3) Itching/bleeding 4) Rapid growth. Report any changes to your dermatologist. Complete removal not guaranteed."
+                },
+                {
+                    "title": "When to Seek Medical Attention",
+                    "items": [
+                        "Signs of infection: Increasing pain, pus, spreading redness.",
+                        "Excessive bleeding not controlled by pressure.",
+                        "Unusual pain or healing.",
+                        "Any regrowth with suspicious changes."
+                    ]
+                },
+                {
+                    "title": "Realistic Expectations",
+                    "items": [
+                        "2-4 sessions often needed for complete removal.",
+                        "Flat moles respond better than raised moles.",
+                        "Possible hypopigmentation (white spot) or hyperpigmentation (dark spot).",
+                        "Small scar expected; may be preferable to original mole.",
+                        "Annual skin checks still recommended."
+                    ]
+                }
+            ]
+        }
+    }
+}

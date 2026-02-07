@@ -1,0 +1,71 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 225,
+        "feedback": "Excellent aftercare form for general benign lesion removal covering various lesion types. Strong guidance on differentiation from malignant lesions and comprehensive healing protocols.",
+        "sections_covered": [
+            "lesion_types_covered",
+            "pre_removal_diagnosis_importance",
+            "laser_selection_by_lesion_type",
+            "healing_protocols_varied",
+            "scar_management_principles",
+            "recurrence_monitoring",
+            "pathology_confirmation"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Benign Lesion Laser Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of various benign skin lesions: seborrheic keratoses, dermatosis papulosa nigra, syringomas, xanthelasma, etc. Each lesion type requires specific laser approach and aftercare.",
+        "instructions": {
+            "general_directive": "Follow lesion-specific guidance. Benign lesion removal is generally safe but requires proper diagnosis first.",
+            "sections": [
+                {
+                    "title": "Lesion Types & Considerations",
+                    "items": [
+                        "Seborrheic keratoses: Raised, waxy, 'stuck-on' appearance.",
+                        "Dermatosis papulosa nigra: Small dark papules in darker skin.",
+                        "Syringomas: Small flesh-colored bumps around eyes.",
+                        "Xanthelasma: Yellow cholesterol deposits on eyelids.",
+                        "Solar lentigines: Age/sun spots."
+                    ]
+                },
+                {
+                    "title": "Pre-Removal Diagnosis Importance",
+                    "content": "CRITICAL: Lesion must be properly diagnosed as benign before laser removal. If any doubt, biopsy first. Laser destroys tissue preventing later histology."
+                },
+                {
+                    "title": "Laser Selection by Lesion Type",
+                    "items": [
+                        "Pigmented lesions: Q-switched laser for melanin.",
+                        "Vascular lesions: Pulsed dye laser for blood vessels.",
+                        "Raised lesions: CO₂ laser for ablation.",
+                        "Combination lesions: May require multiple lasers."
+                    ]
+                },
+                {
+                    "title": "Healing Protocols Varied by Depth",
+                    "items": [
+                        "Superficial lesions: 3-7 days healing, minimal care.",
+                        "Deeper lesions: 7-14 days, more involved wound care.",
+                        "Eyelid lesions (xanthelasma): Special care near eyes.",
+                        "Facial lesions: More cosmetic concern, stricter scar prevention."
+                    ]
+                },
+                {
+                    "title": "Scar Management Principles",
+                    "items": [
+                        "Silicone gel starting at 2 weeks.",
+                        "Sun protection SPF 30+ for 6+ months.",
+                        "Massage after healing to prevent adhesions.",
+                        "Consider early intervention for hypertrophic scarring."
+                    ]
+                },
+                {
+                    "title": "Recurrence Monitoring",
+                    "content": "Some lesions may recur: 1) Xanthelasma may return if cholesterol high 2) Syringomas often recur 3) Seborrheic keratoses may develop new ones. Monitor for recurrence at 6-12 months."
+                }
+            ]
+        }
+    }
+}

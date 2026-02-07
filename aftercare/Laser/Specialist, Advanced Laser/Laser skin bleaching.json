@@ -1,0 +1,144 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 220,
+        "feedback": "Extremely thorough and medically cautious aftercare form for a high-risk procedure. Outstanding emphasis on paradoxical darkening prevention, with exhaustive sun protection protocols and detailed product restrictions. Excellently separates normal healing (crusting, redness) from warning signs of complications. Includes crucial guidance on concurrent topical use.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "normal_healing_process",
+            "pain_guidance",
+            "wound_care_crusting",
+            "cleansing_moisturizing",
+            "supreme_sun_protection_protocol",
+            "topical_medication_guidance",
+            "skincare_product_restrictions",
+            "activity_restrictions",
+            "paradoxical_darkening_education",
+            "hypopigmentation_risk",
+            "infection_awareness",
+            "scarring_risk",
+            "follow_up_timing",
+            "lifestyle_maintenance"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Treatment for Hyperpigmentation (Medical Skin Lightening) Aftercare",
+        "introduction": "This aftercare protocol is medically imperative. Its primary goals are to prevent complications (especially paradoxical darkening), support proper wound healing, and achieve the desired lightening of targeted pigmented lesions. Strict adherence is non-negotiable for your safety and results.",
+        "instructions": {
+            "general_directive": "Follow every instruction with extreme diligence. The risk of making pigmentation worse is high if aftercare is neglected.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "**Immediately After:** The treated brown spots will appear darker, raised, and may have a fine white 'frosting' (coagulated pigment). Surrounding skin will be red and swollen. **Days 1-3:** Significant redness and swelling. Treated lesions darken further into dark brown/black micro-crusts. **Days 4-10:** Crusts begin to dry and detach. Underneath, pink or lighter skin is revealed. **Weeks 2-8:** Pinkness fades. True color of the result becomes apparent. Risk period for post-inflammatory hyperpigmentation (PIH) or hypopigmentation."
+                },
+                {
+                    "title": "Normal Healing Process - DO NOT DISTURB",
+                    "items": [
+                        "The darkening of lesions into **crusts or scabs is expected and necessary.** This is the pigment being eliminated.",
+                        "These crusts will feel rough and may itch intensely. **YOU MUST NOT PICK, SCRATCH, OR PEEL THEM OFF.**",
+                        "Premature removal can cause scarring, infection, and worsened pigmentation.",
+                        "Allow crusts to fall off naturally, which typically takes 7-14 days."
+                    ]
+                },
+                {
+                    "title": "Pain and Discomfort Guidance",
+                    "content": "A burning or stinging sensation is common for the first 24-48 hours, manageable with cool compresses and Paracetamol. Severe, throbbing pain is not normal."
+                },
+                {
+                    "title": "Wound Care and Crust Management",
+                    "items": [
+                        "Apply a thick layer of the prescribed antibiotic ointment or pure petroleum jelly (Vaseline) to the treated lesions **at least 4 times daily** to keep them moist, soft, and protected. This prevents hard scabs from forming.",
+                        "Do not let the area dry out."
+                    ]
+                },
+                {
+                    "title": "Cleansing and Moisturizing",
+                    "items": [
+                        "Gently cleanse the area 1-2 times daily with a mild, non-foaming cleanser and lukewarm water using only your fingertips.",
+                        "Pat dry with a clean paper towel (to avoid bacteria from cloth towels).",
+                        "After cleansing, reapply the healing ointment immediately.",
+                        "Once crusts have fallen off and skin is closed, switch to a fragrance-free, gentle moisturizer for the surrounding skin."
+                    ]
+                },
+                {
+                    "title": "SUN PROTECTION PROTOCOL - PARAMOUNT IMPORTANCE",
+                    "items": [
+                        "**Strict Indoor Confinement:** For the first **2 weeks**, avoid going outdoors during daylight hours as much as humanly possible. UV exposure is the #1 cause of treatment failure and paradoxical darkening.",
+                        "**Indoor/Window Vigilance:** Even indirect UV through windows can be harmful. Consider applying sunscreen indoors if you sit near a window.",
+                        "**Sunscreen Application:** Starting **Day 1**, apply a **physical/mineral sunscreen (Zinc Oxide 20% or higher)** to the entire treated area and surrounding skin every morning, and reapply every 2 hours if indoors near light, or immediately if going out. Use SPF 50+.",
+                        "**Physical Barriers:** When outdoors, wear a wide-brimmed hat, UV-protective clothing, and seek shade. This is mandatory for **at least 3 months**, and ideally a lifelong habit."
+                    ]
+                },
+                {
+                    "title": "Concurrent Topical Medication Guidance",
+                    "content": "You may have been prescribed a topical lightening agent (e.g., hydroquinone, tretinoin, azelaic acid, kojic acid). **DO NOT APPLY THESE TO OPEN WOUNDS/CRUSTS.** Wait until all crusts have naturally fallen off and the skin is fully closed (approx. 2 weeks) before starting or resuming your topical regimen, and only as directed by your practitioner. Applying too early causes severe irritation."
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "Until healing is complete (crusts gone, no pink skin), use **ONLY** the recommended gentle cleanser, healing ointment, mineral sunscreen, and any prescribed topicals (after crusts fall).",
+                        "**AVOID ABSOLUTELY for 4-6 weeks:** Any other active ingredients including Vitamin C, AHAs/BHAs, retinoids (unless prescribed), scrubs, alcohol-based toners, and fragranced products."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid sweating, strenuous exercise, saunas, steam, and hot showers for 7-10 days. Sweat can irritate healing wounds.",
+                        "Avoid swimming in pools (chlorine) and the ocean for 3 weeks."
+                    ]
+                },
+                {
+                    "title": "Understanding Paradoxical Darkening",
+                    "content": "This is a serious risk where treated spots become **darker** instead of lighter after healing. It is often triggered by: **1) Sun/UV exposure**, **2) Picking crusts**, **3) Using irritating products**, or **4) Inflammation from infection.** Following this aftercare protocol religiously is your best defense against this complication."
+                },
+                {
+                    "title": "Risk of Hypopigmentation",
+                    "content": "The opposite can also occur—treated areas may become lighter than your natural skin tone (hypopigmentation). This is often temporary but can be permanent. It is a known risk of pigment-specific lasers. Your practitioner will have discussed this with you."
+                },
+                {
+                    "title": "Infection and Scarring Awareness",
+                    "content": "Contact your practitioner immediately if you notice: Yellow/green pus, increasing redness/pain, spreading warmth, or fever. Picking crusts significantly increases the risk of permanent textural scarring."
+                },
+                {
+                    "title": "Follow-Up and Treatment Series",
+                    "items": [
+                        "Hyperpigmentation often requires **multiple laser sessions** (typically 3-6), spaced 4-8 weeks apart, for significant clearance.",
+                        "Attend all follow-ups. Your practitioner needs to assess healing and determine the timing of your next session.",
+                        "Final results for a series are assessed 1-2 months after your last treatment."
+                    ]
+                },
+                {
+                    "title": "Long-Term Maintenance",
+                    "content": "Even after successful treatment, pigmentation can recur with sun exposure, hormonal changes, or inflammation. Lifelong daily use of a high-SPF mineral sunscreen and continuation of prescribed topical lightening agents (as a maintenance regimen) are essential to maintain results."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your commitment to this rigorous aftercare, especially supreme sun avoidance, is the determining factor between successful lightening and a worsened condition.",
+            "question_opportunity": "Please ask for clarification on any point. You will be provided with your post-care products. Contact the clinic immediately with any concerns.",
+            "declaration_text": "I confirm that I have read and understood all information on this Laser Skin Bleaching Aftercare Form. I fully comprehend the severe risks of paradoxical darkening and scarring. I commit to the absolute sun protection protocol, not picking at crusts, and using only approved products as directed."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "medical_cosmetic_procedure_aftercare",
+        "treatment_type": "laser_hyperpigmentation_treatment",
+        "treatment_area": "face_body_as_needed",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "paradoxical_darkening_prevention_focus",
+            "supreme_sun_protocol",
+            "crust_management_guidance",
+            "concurrent_topical_integration"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a specific high-zinc oxide sunscreen brand recommendation.",
+            "Give written instructions on when to start/resume prescription topicals relative to crust detachment."
+        ]
+    }
+}

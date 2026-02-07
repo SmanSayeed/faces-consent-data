@@ -1,0 +1,170 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 230,
+        "feedback": "Masterful aftercare for a high-intensity, multi-modal resurfacing procedure. Provides crystal-clear, phase-based instructions that account for the potentiation of the peel by prior laser. Exceptional detail on managing the unique 'sloughing' process, demarcation lines, and extreme photosensitivity. The strongest warning profile, appropriately reflecting the high-risk, high-reward nature of the treatment.",
+        "sections_covered": [
+            "potentiated_recovery_timeline",
+            "immediate_care_no_touch_period",
+            "swelling_management",
+            "pain_guidance",
+            "sloughing_peeling_protocol",
+            "cleansing_soaking_protocol",
+            "moisturization_occlusion",
+            "extreme_sun_protection",
+            "strict_activity_restrictions",
+            "complete_makeup_ban",
+            "skincare_product_restrictions",
+            "infection_herpes_prophylaxis",
+            "demarcation_line_management",
+            "hyper_hypopigmentation_risks",
+            "scarring_risk",
+            "follow_up_urgency",
+            "long_term_maintenance"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Combined Laser & Chemical Peel Resurfacing Aftercare",
+        "introduction": "**WARNING: This is an advanced, aggressive resurfacing procedure.** The laser pre-treats the skin, allowing the chemical peel to penetrate more deeply and evenly. The healing process is intense and requires **absolute compliance** with this protocol to achieve remarkable results and avoid serious complications like scarring or permanent pigment changes.",
+        "instructions": {
+            "general_directive": "Your aftercare is a **prescription.** Deviating from it risks your result and safety. Expect 10-14 days of significant social downtime.",
+            "sections": [
+                {
+                    "title": "Potentiated Recovery Timeline (Very Predictable Stages)",
+                    "items": [
+                        "**Day 1:** Intense redness, swelling, burning. Skin feels tight, hot, and may weep. **NO TOUCH PERIOD.**",
+                        "**Day 2-3:** Swelling peaks (eyes may swell shut). Skin darkens to a deep red/brown/mahogany color. A thick, leathery crust (epidermal slough) forms. Continuous mild oozing.",
+                        "**Day 4-5:** Swelling decreases. The crust begins to separate at the edges. Itching is intense. **DO NOT PICK.**",
+                        "**Day 6-8 (Sloughing Phase):** The crust lifts and peels off in sheets or large pieces, often over 24-48 hours. Underneath, raw, bright pink, smooth skin is revealed.",
+                        "**Day 9-14:** Pink, baby-soft skin. Extreme sensitivity and dryness. Pinkness gradually fades over 2-8 weeks.",
+                        "**Months 1-6:** Collagen remodeling continues. Final color and texture stabilize."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment & 'No Touch' Period",
+                    "items": [
+                        "You will leave with a protective ointment (e.g., Vaseline, Aquaphor) applied. **Do not touch, wash, or manipulate your skin for the first 24 hours unless directed.**",
+                        "Sleep sitting upright (recliner or many pillows) to reduce swelling.",
+                        "Use cold gel masks or ice packs **wrapped in a sterile cloth** intermittently to manage burning.",
+                        "Take prescribed medications (pain, antiviral, antibiotic) exactly as instructed."
+                    ]
+                },
+                {
+                    "title": "Swelling Management",
+                    "content": "Facial swelling will be dramatic, especially around eyes. It peaks at 48-72 hours. Continue cool compresses. Sleeping elevated is critical. Take antihistamines if prescribed/approved."
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "A severe sunburn sensation is expected for 24-48 hours. Use the prescribed pain medication. After that, discomfort transitions to intense itching. Report any sudden, severe, or throbbing pain."
+                },
+                {
+                    "title": "Sloughing & Peeling Protocol - THE MOST CRITICAL PHASE",
+                    "items": [
+                        "The dark crust is the **old, treated epidermis.** It is a biological bandage protecting the new skin underneath.",
+                        "**YOU MUST NOT PULL, PICK, OR ASSIST THE PEELING IN ANY WAY.** Forced removal causes bleeding, scarring, and infection.",
+                        "You may **gently trim** tiny, hanging edges of loose skin with sterile scissors, but do not pull.",
+                        "Allow it to come off **only when it is ready,** typically in the shower with gentle water flow."
+                    ]
+                },
+                {
+                    "title": "Cleansing & Soaking Protocol (Start Day 2)",
+                    "items": [
+                        "**Starting Day 2:** Gently rinse face 4-6 times daily with lukewarm water or a dilute vinegar soak (1 tbsp white vinegar in 1 cup water) as directed, to soften crusts and prevent infection.",
+                        "Pat dry with a clean paper towel.",
+                        "**Immediately re-apply** a thick layer of the prescribed healing ointment after every rinse to maintain an occlusive, moist environment."
+                    ]
+                },
+                {
+                    "title": "Moisturization & Occlusion",
+                    "content": "**Keep the area WET with ointment at all times for the first 5-7 days.** This is called 'moist wound healing' and is essential to prevent scarring. Do not let the skin dry out and form a hard, cracked scab."
+                },
+                {
+                    "title": "SUN PROTECTION - ABSOLUTE, LIFELONG VIGILANCE",
+                    "items": [
+                        "**You are now EXTREMELY photosensitive for 3-6 months, and permanently more prone to pigmentation.**",
+                        "**Strict Indoor Confinement:** No sun exposure for **4 weeks.** Do not sit in cars or by windows without protection.",
+                        "**After 4 Weeks:** Apply a **physical/mineral SPF 50+** every single morning. Reapply every 2 hours if exposed.",
+                        "**Wear protective hats and clothing outdoors for 1 year.** Your new skin has minimal melanin protection."
+                    ]
+                },
+                {
+                    "title": "Strict Activity Restrictions",
+                    "items": [
+                        "**No exercise, sweating, heat, or steam for 14 days.**",
+                        "**No swimming, hot tubs, or saunas for 4 weeks.**",
+                        "Plan for 7-10 days of complete social downtime (no work, no events)."
+                    ]
+                },
+                {
+                    "title": "Makeup Ban",
+                    "content": "**Do not apply any makeup until your practitioner gives explicit approval, typically at 2 weeks.** Applying makeup to healing skin can cause granulomas and infection."
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "**For 6-8 weeks, use ONLY the provided/recommended gentle cleanser, healing ointment, and later, a bland moisturizer and mineral sunscreen.**",
+                        "**NO ACTIVE INGREDIENTS for 3 months:** This includes retinoids, all acids (AHA/BHA), Vitamin C, benzoyl peroxide, and exfoliants.",
+                        "Resume actives only under direct medical supervision."
+                    ]
+                },
+                {
+                    "title": "Infection & Herpes Prophylaxis",
+                    "content": "You have a large open wound. Infection risk is high. Take all prescribed prophylactic antibiotics and antivirals. Watch for: green/yellow pus, foul odor, spreading redness, increased pain, fever. **THIS IS A MEDICAL EMERGENCY.**"
+                },
+                {
+                    "title": "Demarcation Line Management",
+                    "content": "There may be a visible line where the treatment stopped (e.g., at jawline). This color difference will blend over 3-6 months with proper care and sun protection. Do not treat this area with anything unless directed."
+                },
+                {
+                    "title": "Hyperpigmentation & Hypopigmentation Risks",
+                    "content": "**PIH (Darkening):** A major risk, especially with sun exposure. Prevent with absolute sun avoidance. **Hypopigmentation (Lightening):** A risk with deep treatments; treated areas may be permanently lighter. This is a known trade-off for wrinkle/scar reduction."
+                },
+                {
+                    "title": "Scarring Risk",
+                    "content": "Scarring is possible if you: pick the skin, develop a severe infection, or have an abnormal healing response. Follow this protocol to minimize risk."
+                },
+                {
+                    "title": "Follow-Up & Medical Supervision",
+                    "items": [
+                        "You **must** attend your scheduled 24-48 hour and 1-week follow-up appointments.",
+                        "Your practitioner needs to monitor for infection, proper healing, and early signs of complications.",
+                        "Contact the clinic **immediately** day or night with any concerns."
+                    ]
+                },
+                {
+                    "title": "Long-Term Maintenance",
+                    "content": "After full healing, a strict regimen of medical-grade skincare (gentle retinoids, antioxidants) and **daily SPF 50+** will be prescribed to maintain results and protect your investment."
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "This is the most important document you will read regarding your procedure. Your outcome depends on your strict adherence.",
+            "question_opportunity": "All questions must be asked now. You will be given emergency contact information. This recovery requires patience and discipline.",
+            "declaration_text": "I confirm that I have read and understood all information on this Combined Laser & Chemical Peel Aftercare Form. I understand the intensity of the recovery, the absolute prohibition on picking, the critical sun avoidance, and the serious risks involved. I commit to following this medical protocol without deviation."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "medical_cosmetic_procedure_aftercare",
+        "treatment_type": "combined_laser_chemical_peel",
+        "treatment_area": "face_possibly_neck_chest",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "potentiated_peel_depth_warning",
+            "epidermal_slough_management",
+            "strict_no_touch_period",
+            "extended_photosensitivity_period",
+            "demarcation_line_awareness"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a written schedule for soaks/ointments for the first week.",
+            "Supply a post-op kit with sterile gauze, vinegar, ointment, and paper towels.",
+            "Set up daily check-in calls from the clinic for the first 5 days."
+        ]
+    }
+}

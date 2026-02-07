@@ -1,0 +1,140 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 200,
+        "feedback": "Detailed aftercare form for a laser procedure targeting skin structure. Excellent focus on the unique aspects of cellulite treatment: managing fibrosis, extensive massage requirements, and the long timeline for collagen remodeling. Clear guidance on managing common but potentially concerning symptoms like lumpiness and firmness.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_bruising_management",
+            "pain_guidance",
+            "compression_garment_care",
+            "massage_protocol",
+            "skin_care_hygiene",
+            "hydration_nutrition",
+            "medication_restrictions",
+            "activity_restrictions",
+            "sun_protection",
+            "fibrosis_lumpiness_management",
+            "infection_awareness",
+            "numbness_awareness",
+            "follow_up_timing",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Cellulite Treatment Aftercare",
+        "introduction": "This aftercare protocol is essential to manage your immediate recovery, minimize fibrosis (internal scarring), promote optimal skin tightening and smoothing, and achieve the best possible improvement in your cellulite appearance.",
+        "instructions": {
+            "general_directive": "Adherence to these instructions, especially regarding massage and compression, is critical to your final result.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "**First 72 Hours:** Significant swelling, bruising, tenderness, and fluid retention. The area will feel very firm and swollen. **Week 1-2:** Swelling and bruising begin to subside. The treated area will feel lumpy, hard, and may be numb. This is normal fibrosis (healing tissue). **Weeks 3-8:** Intensive massage is key to softening fibrosis. Sensation begins to return. **Months 2-6:** Continued softening and smoothing as collagen remodels. Final results become visible."
+                },
+                {
+                    "title": "Swelling and Bruising Management",
+                    "content": "Swelling can be pronounced. Wear your compression garment religiously to control swelling and support skin retraction. Sleep with legs/treated area elevated if possible. Use cold packs over the garment for 15-minute intervals during the first 48 hours. Arnica may help with bruising."
+                },
+                {
+                    "title": "Pain and Discomfort Guidance",
+                    "content": "Significant soreness, tenderness, and a feeling of tightness are expected for the first week. Prescribed pain medication should be used as directed. Pain should steadily improve after day 3. Report any sudden, severe, or throbbing pain immediately."
+                },
+                {
+                    "title": "Compression Garment Protocol",
+                    "items": [
+                        "You will be fitted with a tight compression garment. You must wear it 23 hours a day for the first 2-3 weeks, removing only to shower.",
+                        "After 3 weeks, you may reduce wear time to 12 hours (overnight) for an additional 2-3 weeks, or as directed.",
+                        "The garment helps reduce swelling, minimize seroma risk, and encourages the skin to adhere smoothly to the new underlying structure."
+                    ]
+                },
+                {
+                    "title": "MASSAGE PROTOCOL - THIS IS CRITICAL",
+                    "items": [
+                        "**Start Date:** Begin vigorous massage 3-5 days post-treatment, or as specifically instructed by your practitioner.",
+                        "**Frequency & Duration:** Massage the treated area firmly for 10-15 minutes, 2-3 times per day, for at least 8-12 weeks.",
+                        "**Technique:** Use deep, circular, and cross-friction motions with a firm massage cream or oil. The goal is to break up the palpable internal lumpiness (fibrosis). It should be firm and may be slightly uncomfortable, but not excruciating.",
+                        "**Purpose:** Prevents hardened scar tissue from forming, ensuring the treated area heals smoothly and soft. Skipping massage can lead to permanent lumpiness."
+                    ]
+                },
+                {
+                    "title": "Skin Care and Hygiene",
+                    "items": [
+                        "Keep the small incision sites clean and dry. Adhesive strips will fall off on their own.",
+                        "You may shower after 48 hours. Pat the area dry; do not rub.",
+                        "Once incisions are closed (approx. 1 week), begin applying a moisturizing cream or a practitioner-recommended topical (e.g., with Vitamin E, Centella) to keep skin supple.",
+                        "Do not submerge in baths/pools for 2 weeks."
+                    ]
+                },
+                {
+                    "title": "Hydration and Nutrition",
+                    "content": "Drink ample water to support lymphatic drainage and tissue healing. A diet high in Vitamin C, protein, and antioxidants supports collagen production and repair. Avoid excessive salt and alcohol, which promote swelling."
+                },
+                {
+                    "title": "Medication Restrictions",
+                    "content": "Avoid NSAIDs (Ibuprofen, Aspirin, Naproxen) for 72 hours unless contraindicated, as they can increase bleeding/bruising. Use Paracetamol for pain. Avoid supplements that thin blood (Fish Oil, Vitamin E, etc.) for 1 week post-op."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "**First Week:** Rest. Walk around the house to promote circulation but avoid any strenuous activity.",
+                        "**Weeks 2-4:** You may return to sedentary work. Avoid exercises that strain or impact the treated area (e.g., running, cycling, leg workouts).",
+                        "**After 1 Month:** Gradually resume exercise, but expect temporary increased swelling with vigorous activity."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "The treated skin is highly susceptible to hyperpigmentation. Avoid direct sun exposure on the area for at least 3 months. After healing, always apply broad-spectrum SPF 50+ to the area. Tanning can cause permanent dark spots."
+                },
+                {
+                    "title": "Managing Lumpiness and Firmness (Fibrosis)",
+                    "content": "The area will feel very lumpy and hard for several weeks. This is NOT the final result. Your diligent daily massage is the treatment for this. The lumps will gradually soften and dissipate over 2-6 months. Do not be alarmed by this normal healing process."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Contact your practitioner if you experience: spreading redness, warmth, pus from incision sites, or fever."
+                },
+                {
+                    "title": "Numbness and Sensation Changes",
+                    "content": "Temporary numbness, tingling, or hypersensitivity is very common and can last for several months. Sensation usually returns gradually but may be altered permanently in small patches."
+                },
+                {
+                    "title": "Follow-Up and Results Timeline",
+                    "items": [
+                        "Attend all follow-ups for your practitioner to assess healing and massage technique.",
+                        "Initial improvement may be masked by swelling. True improvement in skin texture and dimpling becomes noticeable after 3 months.",
+                        "Optimal results are typically seen at 6-12 months as new collagen matures and skin continues to tighten.",
+                        "Multiple sessions may be recommended for optimal results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your understanding and commitment to this aftercare, particularly the massage regimen, is directly linked to your satisfaction with the final outcome.",
+            "question_opportunity": "Please clarify any instructions now. Your practitioner will also guide you on massage technique before you leave.",
+            "declaration_text": "I confirm that I have read and understood all information on this Laser Cellulite Treatment Aftercare Form. I particularly understand the critical importance of the daily massage protocol and the extended timeline for final results. I commit to following these instructions fully."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "laser_cellulite_treatment",
+        "treatment_area": "thighs_buttocks_abdomen",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "aggressive_massage_protocol",
+            "fibrosis_management_focus",
+            "long_collagen_remodeling_timeline",
+            "compression_garment_essential"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a recommended massage cream or oil.",
+            "Consider demonstrating massage technique on video for patient reference.",
+            "Emphasize that lumpiness is a normal, temporary stage."
+        ]
+    }
+}

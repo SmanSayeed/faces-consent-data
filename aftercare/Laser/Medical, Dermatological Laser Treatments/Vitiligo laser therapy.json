@@ -1,0 +1,88 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for vitiligo laser therapy with comprehensive guidance on repigmentation stimulation and photoprotection. Strong emphasis on the extended treatment timeline and realistic expectations.",
+        "sections_covered": [
+            "vitiligo_laser_mechanism",
+            "immediate_post_treatment_response",
+            "repigmentation_timeline_extended",
+            "photoprotection_critical",
+            "combination_therapies_vitiligo",
+            "monitoring_repigmentation_patterns",
+            "realistic_vitiligo_expectations",
+            "maintenance_stabilization"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Vitiligo Laser Therapy Aftercare",
+        "introduction": "This aftercare is for excimer laser therapy for vitiligo (308nm UVB). Stimulates melanocyte migration and repigmentation in depigmented areas. Requires extended treatment series with careful sun protection.",
+        "instructions": {
+            "general_directive": "Follow throughout lengthy treatment series (6-24 months). Vitiligo repigmentation is slow and requires consistency.",
+            "sections": [
+                {
+                    "title": "Vitiligo Laser Mechanism",
+                    "content": "308nm excimer laser targets vitiligo patches to: 1) Stimulate residual melanocytes 2) Reduce local immune response 3) Encourage melanocyte migration from hair follicles or borders."
+                },
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "items": [
+                        "Erythema (pinkness) in treated patches.",
+                        "Mild itching/burning.",
+                        "Possible perilesional hyperpigmentation initially.",
+                        "Repigmentation begins as tiny freckles within patches."
+                    ]
+                },
+                {
+                    "title": "Repigmentation Timeline (EXTENDED)",
+                    "items": [
+                        "First signs: 10-20 treatments (2-3 months).",
+                        "Significant repigmentation: 30-50 treatments (6-12 months).",
+                        "Maximum response: 50-100+ treatments (12-24 months).",
+                        "Treatment frequency: 2-3 times weekly initially."
+                    ]
+                },
+                {
+                    "title": "Photoprotection (CRITICAL)",
+                    "content": "UV exposure can worsen vitiligo or cause burns in depigmented skin. 1) Sunscreen SPF 30-50+ on ALL exposed skin daily 2) Protective clothing 3) Avoid tanning of surrounding skin which increases contrast."
+                },
+                {
+                    "title": "Combination Therapies for Vitiligo",
+                    "items": [
+                        "Topical steroids/calcineurin inhibitors between sessions.",
+                        "Microneedling to enhance melanocyte migration.",
+                        "Pseudocatalase creams for oxidative stress.",
+                        "Oral antioxidants (vitamins C, E, polyphenols).",
+                        "Narrowband UVB for widespread disease."
+                    ]
+                },
+                {
+                    "title": "Monitoring Repigmentation Patterns",
+                    "items": [
+                        "Follicular repigmentation: Speckles around hair follicles.",
+                        "Marginal repigmentation: From borders inward.",
+                        "Diffuse repigmentation: Even darkening throughout.",
+                        "Take monthly photos to track progress.",
+                        "Some areas may not respond (lips, fingertips)."
+                    ]
+                },
+                {
+                    "title": "Realistic Vitiligo Expectations",
+                    "items": [
+                        "Face/neck: 70-80% repigmentation possible.",
+                        "Trunk/arms: 50-70% possible.",
+                        "Hands/feet: <50% response typically.",
+                        "Stable vitiligo responds better than active/spreading.",
+                        "Segmental vitiligo may respond better than generalized.",
+                        "Not a cure - maintenance may be needed."
+                    ]
+                },
+                {
+                    "title": "Maintenance & Stabilization",
+                    "content": "After repigmentation: 1) Gradually reduce treatment frequency 2) Continue photoprotection 3) Monitor for recurrence 4) Consider topical maintenance therapy. Vitiligo may reactivate with stress, illness, trauma."
+                }
+            ]
+        }
+    }
+}

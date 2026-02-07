@@ -1,0 +1,66 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Excellent aftercare form specifically for microblading removal addressing the unique characteristics of hairstroke tattoos. Strong guidance on preventing blurring, scar formation, and pigment retention in fine lines. Comprehensive coverage of the correction versus removal decision process.",
+        "sections_covered": [
+            "microblading_specific_challenges",
+            "hairstroke_preservation",
+            "blurring_prevention_critical",
+            "scar_formation_risks",
+            "partial_vs_complete_removal",
+            "realistic_microblading_expectations",
+            "post_removal_correction_options"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Microblading Removal (Laser) Aftercare",
+        "introduction": "This aftercare is specifically for laser removal of MICROBLADING (cosmetic eyebrow tattooing using manual blade to create hairstrokes). Microblading pigments are often iron oxide-based and placed superficially, creating unique removal challenges.",
+        "instructions": {
+            "general_directive": "Follow with extreme care to preserve natural brow hairs and prevent blurring of hairstrokes. Microblading removal requires different approach than traditional eyebrow tattoo removal.",
+            "sections": [
+                {
+                    "title": "Microblading Specific Challenges",
+                    "content": "1) Iron oxide pigments may oxidize and turn gray/black 2) Superficial placement increases scarring risk 3) Hairstroke pattern may blur into solid block 4) Pigment often contains titanium dioxide which whitens with laser."
+                },
+                {
+                    "title": "Hairstroke Preservation",
+                    "items": [
+                        "Lower energy settings to avoid blurring fine lines.",
+                        "Treat strokes individually if possible, not whole brow area.",
+                        "Longer intervals between sessions (12+ weeks) to assess fading.",
+                        "Consider saline removal for individual problematic strokes."
+                    ]
+                },
+                {
+                    "title": "Blurring Prevention (CRITICAL)",
+                    "content": "Microblading's fine lines may blur into solid block during removal. PREVENTION: 1) Lower fluence 2) Larger spot size 3) Fewer passes 4) Longer healing between sessions. Once blurred, difficult to correct."
+                },
+                {
+                    "title": "Scar Formation Risks",
+                    "content": "Microblading creates micro-cuts in skin. Laser removal can exacerbate scarring. Watch for: Raised strokes, texture changes, loss of hair follicles. Use silicone scar gel after healing to minimize."
+                },
+                {
+                    "title": "Partial vs. Complete Removal",
+                    "items": [
+                        "Often only partial removal desired (lightening for correction).",
+                        "Target specific areas: Too dark, wrong shape, wrong color.",
+                        "Consider fading 50-70% then new microblading over top.",
+                        "Complete removal may not be possible without scarring."
+                    ]
+                },
+                {
+                    "title": "Realistic Microblading Expectations",
+                    "items": [
+                        "3-6 sessions for significant lightening.",
+                        "Color may turn gray/black before fading.",
+                        "Complete removal rarely achieved without textural changes.",
+                        "Goal is often 'light enough to correct' not 'completely gone'.",
+                        "Consider combining with saline removal for stubborn pigment."
+                    ]
+                }
+            ]
+        }
+    }
+}

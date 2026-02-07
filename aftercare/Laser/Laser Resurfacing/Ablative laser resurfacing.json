@@ -1,0 +1,91 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for ablative laser resurfacing with comprehensive wound care guidance. Excellent coverage of the distinct healing phases (exudative, re-epithelialization, remodeling). Strong emphasis on infection prevention, prolonged sun protection, and realistic downtime expectations. Perfect for managing the significant healing process of full-face ablation.",
+        "sections_covered": [
+            "pre_treatment_preparation",
+            "phase_1_exudative_days_0_5",
+            "phase_2_re_epithelialization_days_5_14",
+            "phase_3_remodeling_months_1_6",
+            "wound_care_protocol",
+            "infection_prevention_critical",
+            "pain_management_guidance",
+            "sun_protection_absolute",
+            "social_downtime_expectations",
+            "realistic_ablative_results",
+            "herpes_prophylaxis_essential"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Ablative Laser Resurfacing Aftercare",
+        "introduction": "This aftercare protocol is for FULL ABLATIVE LASER resurfacing (traditional, non-fractional CO₂ or Er:YAG). The laser completely removes the epidermis and part of the dermis, creating an open wound. Healing is extensive with significant downtime. Strict adherence is CRITICAL for proper healing, infection prevention, and optimal results.",
+        "instructions": {
+            "general_directive": "Follow this PHASED protocol meticulously. You will have 7-14 days of complete social downtime. Full healing takes 2-6 months.",
+            "sections": [
+                {
+                    "title": "Pre-Treatment Preparation (ESSENTIAL)",
+                    "items": [
+                        "Must take antiviral medication (Valtrex) for herpes prophylaxis 2 days before and 7 days after.",
+                        "Discontinue retinoids, acids, exfoliants 2 weeks prior.",
+                        "No sun exposure/tanning for 4 weeks prior.",
+                        "Arrange 10-14 days off work/social activities."
+                    ]
+                },
+                {
+                    "title": "Phase 1: Exudative Phase (Days 0-5)",
+                    "items": [
+                        "Skin is an OPEN WOUND: Red, swollen, oozing serous fluid.",
+                        "PAIN/TIGHTNESS: Significant for first 48-72 hours.",
+                        "Wound Care: Cleanse 4-6x daily with sterile saline or recommended cleanser.",
+                        "Occlusive Ointment: Apply thick layer of petroleum jelly/Vaseline CONSTANTLY. Never let dry out.",
+                        "Sleep elevated on 2-3 pillows. Use clean pillowcases.",
+                        "Signs of Infection: Increasing pain, yellow/green pus, spreading redness, fever."
+                    ]
+                },
+                {
+                    "title": "Phase 2: Re-epithelialization (Days 5-14)",
+                    "items": [
+                        "Oozing stops. Skin forms yellow/brown crust (fibrinous exudate).",
+                        "INTENSE ITCHING begins as new skin grows.",
+                        "DO NOT PICK, PULL, OR SCRATCH. Let crusts fall off naturally.",
+                        "Continue gentle cleansing and ointment application.",
+                        "New skin underneath is PINK, delicate, shiny.",
+                        "Makeup: Absolutely NO makeup until fully healed (minimum 14 days)."
+                    ]
+                },
+                {
+                    "title": "Phase 3: Remodeling (Months 1-6+)",
+                    "items": [
+                        "Pink color gradually fades over 4-12 weeks.",
+                        "INVISIBLE collagen remodeling occurs for 3-6 months.",
+                        "SUN PROTECTION IS NON-NEGOTIABLE: SPF 30-50+ daily for 6+ months. New skin burns easily and hyperpigments.",
+                        "Gradual reintroduction of skincare: Moisturizer at 2 weeks, Vitamin C at 4 weeks, retinoids at 6-8 weeks.",
+                        "Final results assessed at 6 months."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "NO exercise/sweating for 14 days minimum.",
+                        "NO swimming, hot tubs, saunas for 4 weeks.",
+                        "NO sun exposure for 3 months minimum.",
+                        "Sleep on back only for 2 weeks.",
+                        "Avoid talking/excessive facial movement for 3-5 days."
+                    ]
+                },
+                {
+                    "title": "Realistic Expectations & Results",
+                    "items": [
+                        "Downtime: 10-14 days social, 3-6 months for redness to fade.",
+                        "Results: 50-80% improvement in wrinkles, scars, sun damage.",
+                        "One treatment often sufficient for dramatic results.",
+                        "Risks: Hypopigmentation, hyperpigmentation, scarring (rare with proper care).",
+                        "Follow-up: At 2 weeks, 6 weeks, and 3 months."
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 220,
+        "feedback": "Exceptional aftercare form for a dual-modality ablative/non-ablative treatment. Masterfully addresses the combined wounding (laser) and channel (needle) healing process. Excellent guidance on managing the 'double recovery' with specific product absorption timing. Strong emphasis on extreme sun protection and detailed infection prevention for the micro-wounds.",
+        "sections_covered": [
+            "combined_recovery_timeline",
+            "immediate_care_24h",
+            "swelling_redness_management",
+            "pain_guidance",
+            "wound_care_exudate_management",
+            "cleansing_protocol",
+            "moisturization_healing_protocol",
+            "supreme_sun_protection",
+            "activity_environmental_restrictions",
+            "skincare_product_restrictions",
+            "makeup_restrictions",
+            "infection_herpes_prevention",
+            "hyperpigmentation_risk",
+            "follow_up_timing",
+            "collagen_remodeling_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Combined Laser & Microneedling Treatment Aftercare",
+        "introduction": "This is a comprehensive aftercare protocol for a combined treatment that creates both superficial laser wounds and deeper micro-channels. Healing requires meticulous care to prevent infection, promote optimal collagen induction, and avoid complications like hyperpigmentation. Follow these instructions precisely.",
+        "instructions": {
+            "general_directive": "Your skin has undergone dual trauma and requires a dedicated, phased healing approach over the next 7-14 days.",
+            "sections": [
+                {
+                    "title": "Combined Recovery Timeline (What to Expect)",
+                    "items": [
+                        "**Hours 0-24:** Intense redness, swelling, heat, and pinpoint bleeding/oozing (serosanguinous exudate). Skin feels like a severe sunburn.",
+                        "**Days 1-3 (Exudate Phase):** Swelling peaks. Continuous oozing of clear/yellowish plasma (lymph) is NORMAL. This is the 'double weep' from laser and needle channels. Skin will feel tight, itchy, and develop a fine bronze crust as exudate dries.",
+                        "**Days 3-5 (Shedding Phase):** Oozing stops. Bronze crusts and dryness intensify. Skin begins to flake and peel in sheets. DO NOT PICK.",
+                        "**Days 5-10 (Pink Skin Phase):** Fresh, smooth, pink new skin is revealed. Highly sensitive and fragile.",
+                        "**Weeks 2-6:** Pinkness fades. Collagen remodeling is active beneath the surface."
+                    ]
+                },
+                {
+                    "title": "Immediate Post-Treatment Care (First 24 Hours)",
+                    "items": [
+                        "Apply provided cold gel masks or ice packs (wrapped) intermittently for 20 minutes on, 20 minutes off.",
+                        "Sleep elevated on 2-3 pillows.",
+                        "Take an antihistamine (e.g., Benadryl) to reduce swelling and itching, if approved.",
+                        "Do not wash or touch the face for the first 4-6 hours as directed."
+                    ]
+                },
+                {
+                    "title": "Swelling and Redness Management",
+                    "content": "Swelling can be significant, especially around eyes. Continue cold compresses for 48 hours. Arnica tablets may help. Avoid salty foods. Redness will be intense for 3-5 days and will gradually fade to pink over 2 weeks."
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "Burning and throbbing are expected. Use prescribed or OTC pain medication (Paracetamol). Avoid NSAIDs (Ibuprofen, Aspirin) for 48 hours unless otherwise directed, as they may increase bruising."
+                },
+                {
+                    "title": "Wound Care & Exudate (Oozing) Management",
+                    "items": [
+                        "**DO NOT LET EXUDATE DRY INTO A HARD CRUST.** Continual moisture is key.",
+                        "Gently blot (do not wipe) any excessive watery ooze with a clean, damp gauze or cloth.",
+                        "Reapply the provided healing ointment (e.g., Vaseline, Cicaplast) **liberally and frequently**—every 1-2 hours for the first 48 hours—to keep a constant moist barrier. This prevents hard scabbing and promotes faster healing."
+                    ]
+                },
+                {
+                    "title": "Cleansing Protocol (Start at 4-6 Hours)",
+                    "items": [
+                        "Gently cleanse with the provided ultra-mild, non-foaming cleanser and lukewarm water using fingertips only.",
+                        "Cleanse 2-3 times daily to remove built-up ointment and exudate. Pat dry with a clean paper towel.",
+                        "**Immediately after cleansing**, reapply healing ointment to a damp face to lock in moisture."
+                    ]
+                },
+                {
+                    "title": "Moisturization & Healing Protocol Transition",
+                    "items": [
+                        "**Days 1-4:** Use **only** the provided healing ointment. Do not use regular moisturizers.",
+                        "**Days 5-7 (After Peeling):** Once skin is no longer open or oozing, transition to a rich, fragrance-free, reparative moisturizer (e.g., with ceramides, peptides).",
+                        "**Microneedling Channel Note:** The healing ointment also seals the micro-channels, preventing entry of pathogens. This is why its constant use is critical."
+                    ]
+                },
+                {
+                    "title": "SUN PROTECTION - ZERO TOLERANCE",
+                    "items": [
+                        "**Strict Indoor Recovery:** Avoid all sun exposure for **14 days**. Do not sit by windows.",
+                        "**Day 1 Onwards:** Once you start leaving the house (after Day 5-7), apply a **physical/mineral (zinc/titanium) SPF 50+** every morning. Reapply every 2 hours if near light.",
+                        "**Physical Barrier:** Wear a wide-brimmed hat outdoors for 3 months. Combined treatment significantly increases hyperpigmentation risk."
+                    ]
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "**No sweating, exercise, saunas, steam, or hot showers for 7-10 days.** Sweat is full of bacteria and will sting severely.",
+                        "Avoid chlorinated pools, oceans, and jacuzzis for 2 weeks.",
+                        "Avoid dusty or dirty environments."
+                    ]
+                },
+                {
+                    "title": "Skincare Product Restrictions",
+                    "items": [
+                        "**STOP all active ingredients for 4-6 weeks:** Retinoids (Retin-A, retinol), AHAs/BHAs (glycolic, salicylic), Vitamin C (L-ascorbic), benzoyl peroxide.",
+                        "Do not use any exfoliating tools (brushes, scrubs) for 4 weeks.",
+                        "Resume actives only after practitioner approval, introducing one at a time."
+                    ]
+                },
+                {
+                    "title": "Makeup Restrictions",
+                    "content": "Do not apply any makeup until all peeling has completely stopped and skin is closed (minimum 5-7 days, often 10). When resuming, use clean brushes and non-comedogenic products."
+                },
+                {
+                    "title": "Infection & Cold Sore Prevention",
+                    "content": "You have thousands of micro-wounds. Infection risk is higher. You have likely been prescribed an oral antiviral (if prone to herpes) and possibly an antibiotic. Take as directed. Watch for signs: yellow/green pus, increased pain, spreading redness, fever."
+                },
+                {
+                    "title": "Hyperpigmentation (PIH) Risk Management",
+                    "content": "This combined treatment is a strong stimulus for PIH in susceptible individuals. Your strict adherence to sun avoidance and gentle care is the primary prevention. A topical lightening serum (e.g., hydroquinone, azelaic acid) may be prescribed after the 2-week mark; use only as directed."
+                },
+                {
+                    "title": "Follow-Up and Treatment Series",
+                    "items": [
+                        "A follow-up is typically at 2 weeks to assess healing.",
+                        "Significant collagen remodeling occurs over 3-6 months.",
+                        "Combined treatments are powerful; typically only 1-3 sessions are needed per year, spaced 3-6 months apart."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your commitment to this rigorous protocol, especially constant moisture and absolute sun avoidance, directly dictates your final result and safety.",
+            "question_opportunity": "You will be provided with a starter kit. Ensure you understand each step. Contact the clinic immediately with any concerns, especially signs of infection.",
+            "declaration_text": "I confirm that I have read and understood all information on this Combined Laser & Microneedling Aftercare Form. I understand the intense healing process, the critical importance of preventing hard scabs, and the extreme sun sensitivity. I commit to following this protocol in full."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "combined_laser_microneedling",
+        "treatment_area": "face_neck_decolletage",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "dual_trauma_healing_guidance",
+            "exudate_lymph_management",
+            "constant_moist_barrier_protocol",
+            "extended_actives_moratorium"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a post-care kit including: gentle cleanser, thick healing ointment, and mineral sunscreen.",
+            "Send daily check-in reminders via text/email for the first 3 days.",
+            "Consider providing a sterile saline spray for gentle cleansing between washes."
+        ]
+    }
+}

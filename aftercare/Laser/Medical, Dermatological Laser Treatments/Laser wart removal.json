@@ -1,0 +1,86 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Excellent aftercare form for laser wart removal with comprehensive guidance on HPV containment and recurrence prevention. Strong emphasis on the extended treatment timeline and monitoring for resolution.",
+        "sections_covered": [
+            "laser_wart_mechanism",
+            "immediate_post_laser_response",
+            "hpv_containment_protocol",
+            "recurrence_prevention",
+            "pain_management",
+            "monitoring_for_resolution",
+            "multiple_sessions_needed",
+            "immunocompromised_considerations"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Wart Removal Aftercare",
+        "introduction": "This aftercare is for laser removal of warts caused by human papillomavirus (HPV). Laser destroys wart tissue and stimulates immune response. Focus on preventing spread and recurrence.",
+        "instructions": {
+            "general_directive": "Follow for 1-2 weeks wound care, with ongoing monitoring for recurrence. Warts often require multiple treatments.",
+            "sections": [
+                {
+                    "title": "Laser Wart Mechanism",
+                    "content": "Pulsed dye laser (PDL) targets blood vessels feeding wart, OR CO₂ laser vaporizes wart tissue. Both stimulate immune response against HPV virus."
+                },
+                {
+                    "title": "Immediate Post-Laser Response",
+                    "items": [
+                        "Darkening/blackening of wart tissue.",
+                        "Possible blistering around wart.",
+                        "Pain/tenderness for 24-72 hours.",
+                        "Crater-like wound after wart tissue separates."
+                    ]
+                },
+                {
+                    "title": "HPV Containment Protocol (CRITICAL)",
+                    "items": [
+                        "Keep treated area covered with bandage for 1 week.",
+                        "Wash hands after touching area.",
+                        "Do not share towels, shoes, or personal items.",
+                        "Wear flip-flops in public showers/pools.",
+                        "Avoid shaving over area until healed."
+                    ]
+                },
+                {
+                    "title": "Recurrence Prevention",
+                    "items": [
+                        "Warts may recur in same or new locations.",
+                        "Monitor surrounding skin for new growths.",
+                        "Consider topical salicylic acid on surrounding skin as prevention.",
+                        "Boost immune system: Adequate sleep, nutrition, stress management."
+                    ]
+                },
+                {
+                    "title": "Pain Management",
+                    "items": [
+                        "More painful than other laser procedures.",
+                        "Over-the-counter pain relievers as needed.",
+                        "Cold compresses for first 48 hours.",
+                        "Elevate if on foot to reduce throbbing."
+                    ]
+                },
+                {
+                    "title": "Monitoring for Resolution",
+                    "items": [
+                        "Wart tissue sloughs off in 7-14 days.",
+                        "Skin underneath may be pink/sensitive.",
+                        "Complete resolution takes 4-6 weeks to assess.",
+                        "May require 2-4 treatments at 4-6 week intervals."
+                    ]
+                },
+                {
+                    "title": "Special Considerations",
+                    "items": [
+                        "Plantar warts (feet): May require longer healing, pressure offloading.",
+                        "Periungual warts (around nails): Risk of nail damage.",
+                        "Immunocompromised patients: Higher recurrence rate.",
+                        "Multiple warts: May spread during treatment process."
+                    ]
+                }
+            ]
+        }
+    }
+}

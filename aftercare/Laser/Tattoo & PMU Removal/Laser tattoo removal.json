@@ -1,0 +1,89 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 240,
+        "feedback": "Exceptional aftercare form for laser tattoo removal with comprehensive guidance on the unique healing process. Excellent coverage of frosting, blistering, and the extended treatment series. Strong emphasis on infection prevention, sun protection between sessions, and realistic expectations about fading versus complete removal.",
+        "sections_covered": [
+            "laser_tattoo_mechanism",
+            "immediate_post_laser_response",
+            "frosting_blistering_management",
+            "tattoo_removal_healing_phases",
+            "infection_prevention_critical",
+            "sun_protection_between_sessions",
+            "session_spacing_importance",
+            "realistic_removal_expectations",
+            "color_specific_considerations",
+            "skin_type_risks"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Laser Tattoo Removal Aftercare",
+        "introduction": "This aftercare protocol is for Q-switched or PICO-second LASER tattoo removal. The laser shatters tattoo ink particles which are then cleared by the immune system. Each session creates a controlled wound requiring specific care to prevent complications and optimize clearance.",
+        "instructions": {
+            "general_directive": "Follow meticulously after each session. Healing takes 4-8 weeks between treatments. Complete removal typically requires 6-12+ sessions spaced 8-12 weeks apart.",
+            "sections": [
+                {
+                    "title": "Laser Tattoo Mechanism",
+                    "content": "Q-switched (nanosecond) or PICO-second lasers deliver ultra-short pulses that shatter ink particles into microscopic fragments. The body's macrophages then gradually clear these fragments through the lymphatic system."
+                },
+                {
+                    "title": "Immediate Post-Laser Response",
+                    "items": [
+                        "FROSTING: White, chalky appearance immediately after - indicates successful ink fragmentation.",
+                        "Erythema (redness) and edema (swelling) within minutes.",
+                        "Pinpoint bleeding possible.",
+                        "Sensation similar to bad sunburn for 24-48 hours."
+                    ]
+                },
+                {
+                    "title": "Blistering & Crusting Management (COMMON)",
+                    "items": [
+                        "Blisters may form 4-48 hours post-treatment. DO NOT POP. They protect healing skin.",
+                        "If blisters pop naturally, keep clean, apply antibiotic ointment, cover with bandage.",
+                        "Crusting/scabbing occurs as blisters heal. DO NOT PICK. Let fall off naturally.",
+                        "Apply antibiotic ointment (Bacitracin) and non-stick bandage for 3-5 days."
+                    ]
+                },
+                {
+                    "title": "Healing Phases Between Sessions",
+                    "items": [
+                        "Days 1-7: Acute healing - swelling, blistering, redness.",
+                        "Weeks 1-4: Crusts heal, skin returns to normal appearance.",
+                        "Weeks 4-8: Immune system clears ink fragments. Tattoo gradually fades.",
+                        "Wait 8-12 weeks minimum between sessions for optimal ink clearance."
+                    ]
+                },
+                {
+                    "title": "Infection Prevention (CRITICAL)",
+                    "content": "Tattoo removal creates an open wound. Signs of infection: Increasing pain, spreading redness, yellow/green pus, fever. Contact practitioner immediately. Keep area clean with gentle soap/water, apply antibiotic ointment, use clean bandages."
+                },
+                {
+                    "title": "Sun Protection Between Sessions",
+                    "content": "UV exposure can darken ink (especially red/orange) and cause hyperpigmentation. Keep treated area covered or use SPF 30-50+ when healed. Tanned skin cannot be treated."
+                },
+                {
+                    "title": "Realistic Removal Expectations",
+                    "items": [
+                        "Professional tattoos: 8-15 sessions for complete removal.",
+                        "Amateur tattoos: 4-8 sessions.",
+                        "Black/blue ink: Best response.",
+                        "Green/yellow ink: Most difficult to remove.",
+                        "Complete removal not always possible; significant fading is realistic goal.",
+                        "Textural changes or hypopigmentation possible."
+                    ]
+                },
+                {
+                    "title": "Color-Specific Considerations",
+                    "items": [
+                        "Black: Responds best to 1064nm.",
+                        "Red/Orange: Use 532nm. Risk of paradoxical darkening with Q-switched.",
+                        "Green: Difficult, may require 755nm Alexandrite.",
+                        "Blue/Purple: Responds to 755nm or 1064nm.",
+                        "Yellow: Most challenging, may not fully remove."
+                    ]
+                }
+            ]
+        }
+    }
+}

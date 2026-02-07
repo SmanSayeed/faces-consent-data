@@ -1,0 +1,67 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Excellent aftercare form for multi-colour tattoo removal addressing the complexity of different ink responses. Strong guidance on wavelength-specific aftercare and staggered treatment approaches. Comprehensive coverage of paradoxical darkening risks and extended treatment timelines.",
+        "sections_covered": [
+            "multi_color_challenges",
+            "wavelength_specific_care",
+            "paradoxical_darkening_prevention",
+            "staggered_treatment_approach",
+            "color_fading_timelines",
+            "realistic_multi_color_expectations",
+            "combination_laser_approaches"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Multi-Colour Tattoo Removal Aftercare",
+        "introduction": "This aftercare is for removal of tattoos containing multiple ink colors requiring different laser wavelengths. Each color responds differently, and some colors (red/orange/yellow) have specific risks requiring special care between sessions.",
+        "instructions": {
+            "general_directive": "Follow specific care for each color treated. Multi-color removal requires extended timeline and may involve different lasers/wavelengths.",
+            "sections": [
+                {
+                    "title": "Multi-Color Challenges",
+                    "content": "Different inks absorb different wavelengths: Black (1064nm), Red/Orange (532nm), Green/Blue (755nm). Some colors fade faster than others, creating uneven appearance during treatment series."
+                },
+                {
+                    "title": "Wavelength-Specific Aftercare",
+                    "items": [
+                        "532nm (Red/Orange): HIGH risk of paradoxical darkening. Strict sun avoidance for 6+ weeks.",
+                        "1064nm (Black): Standard tattoo aftercare.",
+                        "755nm (Green/Blue): May cause more textural changes. Gentle scar care.",
+                        "694nm (Dark Blue/Black): Less common, similar to 1064nm care."
+                    ]
+                },
+                {
+                    "title": "Paradoxical Darkening Prevention (CRITICAL)",
+                    "content": "Red, orange, flesh-toned, white, yellow inks may oxidize and turn BLACK with Q-switched laser. PREVENTION: 1) Test patch first 2) Use PICO-second if available 3) Strict sun avoidance 4) Consider different wavelengths. If darkening occurs, it may be permanent or require additional treatments."
+                },
+                {
+                    "title": "Staggered Treatment Approach",
+                    "content": "For complex multi-color tattoos, different colors may be treated in separate sessions: Session 1: Black ink, Session 2: Red ink (8 weeks later), Session 3: Green ink (8 weeks later). This allows monitoring of each color's response."
+                },
+                {
+                    "title": "Color Fading Timelines",
+                    "items": [
+                        "Black: First to show fading (2-4 sessions).",
+                        "Red/Orange: May darken initially, then fade (4-8 sessions).",
+                        "Green: Slow to respond, may require most sessions (8-12+).",
+                        "Yellow: May not fade significantly.",
+                        "Complete removal of all colors may not be possible."
+                    ]
+                },
+                {
+                    "title": "Realistic Multi-Color Expectations",
+                    "items": [
+                        "Extended treatment series: 10-20+ sessions over 2-4 years.",
+                        "Uneven fading during process.",
+                        "Some colors may remain visible.",
+                        "Possible need for cover-up if complete removal not achieved.",
+                        "Higher cost and time commitment than single-color removal."
+                    ]
+                }
+            ]
+        }
+    }
+}

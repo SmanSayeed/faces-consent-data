@@ -1,0 +1,79 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 230,
+        "feedback": "Excellent aftercare form for Er:YAG laser resurfacing with clear differentiation from CO₂. Strong emphasis on the reduced thermal damage and faster healing. Good guidance on the precision ablation characteristics and realistic expectations.",
+        "sections_covered": [
+            "eryag_vs_co2_differences",
+            "immediate_eryag_response",
+            "eryag_healing_timeline_faster",
+            "reduced_thermal_damage_benefits",
+            "skincare_eryag_specific",
+            "realistic_eryag_expectations",
+            "combination_with_co2"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Er:YAG Laser Resurfacing Aftercare",
+        "introduction": "This aftercare is specifically for Er:YAG LASER resurfacing (2,940nm wavelength). Er:YAG is absorbed 10x more by water than CO₂, creating precise ablation with minimal thermal damage. Faster healing but less collagen stimulation than CO₂.",
+        "instructions": {
+            "general_directive": "Follow for 5-10 days of care, with faster recovery than CO₂. Er:YAG offers precision with reduced downtime.",
+            "sections": [
+                {
+                    "title": "Er:YAG vs. CO₂ Differences",
+                    "content": "Er:YAG (2,940nm) vs. CO₂ (10,600nm): 1) More precise tissue removal 2) Less thermal coagulation 3) Less collagen stimulation 4) Faster healing 5) Less prolonged redness."
+                },
+                {
+                    "title": "Immediate Er:YAG Response",
+                    "items": [
+                        "Pinpoint bleeding (more than CO₂) due to precise ablation.",
+                        "Less frosting than CO₂.",
+                        "Redness but less edema/swelling.",
+                        "Faster re-epithelialization (5-7 days vs 7-14 for CO₂)."
+                    ]
+                },
+                {
+                    "title": "Er:YAG Healing Timeline (Faster)",
+                    "items": [
+                        "Days 1-3: Pinpoint bleeding stops. Moderate redness.",
+                        "Days 3-7: Rapid re-epithelialization. Minimal crusting.",
+                        "Days 7-10: Pink, smooth skin. Makeup possible.",
+                        "Weeks 2-4: Pinkness fades quickly compared to CO₂.",
+                        "Months 1-3: Collagen remodeling (less than CO₂)."
+                    ]
+                },
+                {
+                    "title": "Reduced Thermal Damage Benefits",
+                    "items": [
+                        "Less risk of hypopigmentation.",
+                        "Reduced prolonged erythema.",
+                        "Safer for darker skin types.",
+                        "Less milia formation.",
+                        "Faster return to normal activities."
+                    ]
+                },
+                {
+                    "title": "Skincare for Er:YAG",
+                    "items": [
+                        "Healing ointment for 5-7 days.",
+                        "Gentle moisturizer after re-epithelialization.",
+                        "Sun protection critical but less prolonged than CO₂.",
+                        "Earlier reintroduction of actives (2-3 weeks)."
+                    ]
+                },
+                {
+                    "title": "Realistic Er:YAG Expectations",
+                    "items": [
+                        "Downtime: 5-10 days (shorter than CO₂).",
+                        "Results: Excellent for surface texture, mild-moderate wrinkles.",
+                        "Less dramatic for deep wrinkles/scars than CO₂.",
+                        "Often requires multiple treatments for optimal results.",
+                        "Excellent for: Perioral lines, eyelid wrinkles, delicate areas.",
+                        "Combination approach: Er:YAG for precision + CO₂ for thermal effect."
+                    ]
+                }
+            ]
+        }
+    }
+}

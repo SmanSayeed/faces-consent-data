@@ -1,0 +1,76 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 235,
+        "feedback": "Excellent aftercare form for psoriasis laser therapy with comprehensive guidance on this chronic condition management. Strong emphasis on the extended treatment series and combination with systemic therapies.",
+        "sections_covered": [
+            "psoriasis_laser_mechanism",
+            "immediate_post_treatment_response",
+            "treatment_series_importance",
+            "koebner_phenomenon_prevention",
+            "combination_with_systemic_therapies",
+            "maintenance_protocol",
+            "realistic_expectations_psoriasis"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Psoriasis Laser Therapy Aftercare",
+        "introduction": "This aftercare is for targeted UVB laser therapy (excimer laser) for psoriasis plaques. Delivers precise UVB to affected areas while sparing healthy skin. Used for localized, stubborn plaques.",
+        "instructions": {
+            "general_directive": "Follow throughout treatment series (6-12 weeks) and maintenance period. Psoriasis is chronic; laser provides control not cure.",
+            "sections": [
+                {
+                    "title": "Psoriasis Laser Mechanism",
+                    "content": "Excimer laser delivers 308nm UVB light to psoriatic plaques. Suppresses T-cell activity and slows keratinocyte proliferation. Requires multiple treatments for clearance."
+                },
+                {
+                    "title": "Immediate Post-Treatment Response",
+                    "items": [
+                        "Mild erythema (pinkness) in treated areas.",
+                        "Possible slight burning/itching.",
+                        "Plaques may initially look slightly worse.",
+                        "Gradual improvement over subsequent treatments."
+                    ]
+                },
+                {
+                    "title": "Treatment Series Importance",
+                    "items": [
+                        "Initial series: 2-3 treatments per week for 6-12 weeks.",
+                        "Maintenance: Weekly or bi-weekly after clearance.",
+                        "Response varies by: Plaque thickness, body location, individual factors.",
+                        "May require 20-30 treatments for significant clearance."
+                    ]
+                },
+                {
+                    "title": "Koebner Phenomenon Prevention",
+                    "content": "Psoriasis can develop at sites of skin injury (Koebner). After laser: 1) Avoid scratching/irritating treated areas 2) Use gentle skincare 3) Report any new plaques at treatment sites."
+                },
+                {
+                    "title": "Combination with Systemic Therapies",
+                    "content": "Laser often combined with: 1) Topical steroids between sessions 2) Vitamin D analogs 3) Systemic medications for widespread disease. Coordinate with dermatologist for comprehensive management."
+                },
+                {
+                    "title": "Maintenance Protocol",
+                    "items": [
+                        "After clearance: Gradually extend time between treatments.",
+                        "May need occasional touch-up treatments.",
+                        "Continue good skincare: Moisturize daily, avoid triggers.",
+                        "Monitor for flare-ups, especially with stress/illness."
+                    ]
+                },
+                {
+                    "title": "Realistic Psoriasis Expectations",
+                    "items": [
+                        "75-90% clearance possible with consistent treatment.",
+                        "Scalp, knees, elbows respond well.",
+                        "Thick plaques require more treatments.",
+                        "Remission duration varies (months to years).",
+                        "Not a cure - maintenance needed.",
+                        "Best for localized disease (<10% body surface)."
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 225,
+        "feedback": "Exceptionally comprehensive and sensitively written aftercare for a delicate area. Brilliantly addresses functional symptoms (discharge, odor), specific hygiene protocols (wiping, cleansing), and intimacy restrictions with clear timelines. Outstanding coverage of both common side effects and rare complications. Provides practical, discreet guidance for daily life.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "discharge_odor_management",
+            "pain_guidance",
+            "specific_hygiene_protocol",
+            "clothing_underwear_guidance",
+            "hydration_nutrition",
+            "activity_restrictions",
+            "intimacy_restrictions",
+            "bathroom_habits",
+            "tampon_menstrual_restrictions",
+            "infection_awareness",
+            "bleeding_awareness",
+            "urinary_symptom_guidance",
+            "follow_up_timing",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Intimate Area Laser Rejuvenation (Vaginal/Peri-Anal) Aftercare",
+        "introduction": "This detailed aftercare guidance is designed for your comfort, safety, and to promote optimal healing and results following your intimate laser treatment. The mucosal tissue in this area requires specific care.",
+        "instructions": {
+            "general_directive": "Please follow these instructions carefully for the next 7-14 days. Gentle, clean care is paramount.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "**First 24-72 Hours:** Expect moderate swelling, redness, and a sensation of warmth or mild burning in the treated area. Aching or tenderness is common. **Days 2-5:** Swelling subsides. A watery, pink-tinged, or light brown discharge is NORMAL as the treated tissue sheds. A mild, unusual odor may be present—this is typically healing tissue, not infection. **Days 5-14:** Discharge and odor resolve. Sensitivity decreases. Treated area may feel dry or itchy as it heals."
+                },
+                {
+                    "title": "Swelling Management",
+                    "items": [
+                        "Apply cold packs wrapped in a clean, soft cloth or towel to the external area (over underwear) for 15-minute intervals during the first 24-48 hours.",
+                        "Sleep without underwear on a towel to allow air circulation and reduce friction.",
+                        "Over-the-counter anti-inflammatories like Ibuprofen (if safe for you) can help after the first 24 hours."
+                    ]
+                },
+                {
+                    "title": "Discharge and Odor Management",
+                    "content": "A non-offensive, mild 'medical' or 'metallic' odor with a watery, pink/brown discharge is a normal part of the healing process for 3-7 days. This is the body expelling treated cellular debris. It is NOT necessarily a sign of infection unless accompanied by other symptoms listed below. Use panty liners (not tampons) for comfort."
+                },
+                {
+                    "title": "Pain and Discomfort Guidance",
+                    "content": "A mild burning or aching sensation is normal. It should be manageable with cool compresses and Paracetamol. Any severe, worsening, or one-sided pain should be reported to your practitioner."
+                },
+                {
+                    "title": "Specific Hygiene Protocol",
+                    "items": [
+                        "**Cleansing:** Gently rinse the external vaginal/peri-anal area with lukewarm water in the shower 1-2 times daily. You may use a very mild, fragrance-free, pH-balanced intimate wash (if previously tolerated) on external skin only. **Do not** insert soap or wash inside the vagina.",
+                        "**Drying:** After rinsing, pat the area gently dry with a clean, soft towel or use a hairdryer on a cool, low setting held at a distance. Do not rub.",
+                        "**Wiping:** Always wipe from front to back after using the toilet to prevent bacterial contamination."
+                    ]
+                },
+                {
+                    "title": "Clothing and Underwear Guidance",
+                    "items": [
+                        "Wear 100% cotton, loose-fitting underwear. Avoid thongs, G-strings, or tight synthetic underwear for 2 weeks.",
+                        "Wear loose-fitting skirts, dresses, or pants. Avoid tight jeans, leggings, or shapewear that creates friction and traps moisture.",
+                        "Going commando at night (sleeping without underwear on a towel) is highly recommended to promote airflow."
+                    ]
+                },
+                {
+                    "title": "Hydration and Nutrition",
+                    "content": "Drink plenty of water to stay hydrated and support tissue healing. Consider taking a probiotic or eating probiotic-rich foods (yogurt, kefir) to support healthy vaginal flora. Avoid excessive sugar, which can promote yeast overgrowth."
+                },
+                {
+                    "title": "Activity and Exercise Restrictions",
+                    "items": [
+                        "**First 48 Hours:** Rest. Avoid prolonged sitting. Use a donut cushion if you must sit.",
+                        "**First Week:** No exercise, heavy lifting (>10 lbs), cycling, horse riding, or any activity that causes friction, pressure, or sweating in the treated area.",
+                        "**Week 2:** You may resume light exercise (walking). Avoid high-impact activities (running, jumping) and swimming.",
+                        "**After 2 Weeks:** Gradually resume normal exercise, listening to your body."
+                    ]
+                },
+                {
+                    "title": "Intimacy and Sexual Intercourse Restrictions",
+                    "content": "**You must avoid all sexual activity, including penetrative intercourse, oral sex, and use of sex toys, for a minimum of 10-14 days, or until your practitioner clears you at your follow-up.** The tissue needs time to heal fully to prevent injury, pain, and infection."
+                },
+                {
+                    "title": "Bathroom Habits",
+                    "content": "Urination may cause a mild stinging sensation for the first 1-2 days. You can pour a cup of lukewarm water over the area while urinating to dilute the urine and reduce discomfort. Drink plenty of water to keep urine dilute."
+                },
+                {
+                    "title": "Tampon and Menstrual Product Restrictions",
+                    "content": "**Do not use tampons, menstrual cups, or any internal menstrual products for at least 2 weeks post-treatment, or until cleared by your practitioner.** Use sanitary pads only. If your period arrives, maintain meticulous hygiene and change pads frequently."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Contact your practitioner immediately if you experience: **Foul-smelling, green/yellow, or copious discharge;** **Increased redness, swelling, or warmth;** **Fever or chills;** **Severe or increasing pain.**"
+                },
+                {
+                    "title": "Bleeding Awareness",
+                    "content": "Minor spotting is normal. Any significant, fresh red bleeding (more than light spotting) is NOT normal and should be reported."
+                },
+                {
+                    "title": "Urinary Symptom Guidance",
+                    "content": "Temporary increased urinary frequency or a slight burning sensation is possible due to nearby swelling. If you develop severe burning, urgency, or pain with urination that persists, contact your practitioner to rule out a urinary tract infection (UTI)."
+                },
+                {
+                    "title": "Follow-Up and Results Timeline",
+                    "items": [
+                        "A follow-up appointment is typically scheduled for 2-4 weeks post-treatment to assess healing.",
+                        "Initial improvements in dryness or mild laxity may be felt within a few weeks.",
+                        "The primary collagen-building phase occurs over 1-3 months, with continued improvement in tone and sensation.",
+                        "A series of 3 treatments, spaced 4-6 weeks apart, is standard for optimal results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your careful attention to hygiene, activity restrictions, and the intimacy ban is essential for safe, effective healing in this sensitive area.",
+            "question_opportunity": "Please ask any questions you have in complete confidence. Your practitioner is here to support you through the recovery process. Contact the clinic with any concerns.",
+            "declaration_text": "I confirm that I have read and understood all information on this Intimate Area Laser Rejuvenation Aftercare Form. I understand and will adhere to the restrictions on intimacy, tampon use, and specific hygiene practices. I commit to following these instructions to ensure proper healing."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "intimate_area_laser_rejuvenation",
+        "treatment_area": "vaginal_peri_anal",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "discharge_odor_management",
+            "specific_intimate_hygiene",
+            "strict_intimacy_restrictions",
+            "tampon_menstrual_product_ban",
+            "urinary_symptom_guidance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a recommended brand of pH-balanced intimate wash.",
+            "Consider offering donut cushions for patient comfort post-procedure.",
+            "Emphasize that normal discharge/odor is a common point of concern for patients."
+        ]
+    }
+}

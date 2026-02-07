@@ -1,0 +1,120 @@
+{
+    "form_analysis": {
+        "completeness_score": 87,
+        "rewards_awarded": 190,
+        "feedback": "Solid aftercare form for non-invasive skin tightening procedures. Well-structured to address the subtle but important symptoms like deep warmth and tightness. Strong emphasis on hydration and collagen-supportive habits. Appropriately lower intensity than surgical aftercare, focusing on protection and optimizing the biological response.",
+        "sections_covered": [
+            "immediate_sensations_timeline",
+            "common_side_effects",
+            "pain_guidance",
+            "skin_care_hygiene",
+            "hydration_nutrition",
+            "activity_restrictions",
+            "massage_guidance",
+            "sun_protection",
+            "lifestyle_for_collagen",
+            "results_timeline"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Post-Fat Reduction Skin Tightening Treatment Aftercare",
+        "introduction": "This aftercare guidance is designed to protect your skin, support your body's natural collagen production process, and help you achieve the best possible skin tightening and firming results following your treatment.",
+        "instructions": {
+            "general_directive": "Please follow these recommendations to nurture your skin's response and optimize long-term results.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations",
+                    "content": "**Right After Treatment:** The skin will feel warm, similar to a mild sunburn, and may appear slightly red. This usually subsides within 2-24 hours. You may feel a deep, mild aching or tenderness in the treated area. **Days Following:** A sensation of tightness, dryness, itching, or mild swelling may occur. This is part of the healing and collagen stimulation process. **Week 1-2:** The initial sensations fade. You may notice slight dryness or flaking as treated skin cells turnover."
+                },
+                {
+                    "title": "Common Side Effects and Management",
+                    "items": [
+                        "**Redness & Warmth:** Typically resolves within hours. A cool compress can provide comfort.",
+                        "**Swelling:** Mild, temporary swelling may occur, especially if treating larger areas. It should resolve within a few days.",
+                        "**Tenderness:** The area may be tender to touch for several days. Avoid pressure or rough clothing.",
+                        "**Dryness & Itching:** The skin may become dry and itchy as it heals. Use a gentle, fragrance-free moisturizer frequently.",
+                        "**Minor Bruising:** Small bruises may appear, especially if combined with other procedures. These will fade in 5-10 days."
+                    ]
+                },
+                {
+                    "title": "Pain Guidance",
+                    "content": "You should not experience significant pain. Mild discomfort or aching is normal. Any sharp, severe, or persistent pain should be reported to your practitioner."
+                },
+                {
+                    "title": "Skin Care and Hygiene",
+                    "items": [
+                        "You may gently cleanse the treated area with a mild, non-exfoliating cleanser and lukewarm water starting immediately after treatment.",
+                        "**Moisturize Generously:** Apply a gentle, hydrating, and fragrance-free moisturizer or aloe vera gel multiple times daily to soothe the skin and combat dryness.",
+                        "**Avoid Actives:** For 1 week, avoid products containing retinoids (Retin-A, retinol), alpha-hydroxy acids (AHAs), beta-hydroxy acids (BHAs), or strong vitamin C on the treated area.",
+                        "Do not use exfoliants (scrubs, brushes) on the area for 1 week.",
+                        "You may apply makeup after 24 hours if the skin is not irritated."
+                    ]
+                },
+                {
+                    "title": "Hydration and Nutrition for Collagen Synthesis",
+                    "content": "**Internal Hydration:** Drink plenty of water. Collagen production requires adequate hydration. **Collagen-Boosting Diet:** Support your results by eating foods rich in Vitamin C (citrus, berries, peppers), zinc (nuts, seeds), and protein (lean meat, fish, legumes). Consider a hydrolyzed collagen peptide supplement if desired. Avoid smoking and limit alcohol, as they degrade collagen."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "**Exercise:** Avoid strenuous exercise, heavy sweating, and activities that significantly raise your core body temperature for 48 hours post-treatment.",
+                        "**Heat Exposure:** Avoid hot showers, saunas, steam rooms, and hot tubs for 48 hours. Use lukewarm water when showering.",
+                        "**Friction & Pressure:** Avoid tight clothing, rough fabrics, or anything that rubs against the treated area for several days."
+                    ]
+                },
+                {
+                    "title": "Gentle Massage",
+                    "content": "Light, gentle massage of the treated area with moisturizer can be beneficial for lymphatic drainage and comfort. Do not perform deep, aggressive massage unless specifically instructed by your practitioner for certain technologies."
+                },
+                {
+                    "title": "SUN PROTECTION IS NON-NEGOTIABLE",
+                    "content": "Your skin is more vulnerable to UV damage after treatment. **For at least 2 weeks, and ideally 4 weeks:** Avoid direct sun exposure on the treated area completely. **After that:** You must apply a broad-spectrum sunscreen with SPF 30 or higher to the treated area every single day, rain or shine. Sun exposure without protection can reverse results, cause hyperpigmentation, and damage new collagen."
+                },
+                {
+                    "title": "Lifestyle for Optimal and Lasting Results",
+                    "content": "Skin tightening results develop as new collagen is produced. This is a gradual process. Maintain a stable weight. Significant weight fluctuations can stretch the skin and compromise results. Continue a good skincare regimen with daily sunscreen and moisturizer. A series of treatments is almost always required for cumulative, significant tightening. Be patient; final results are typically assessed at 3-6 months post-treatment series."
+                },
+                {
+                    "title": "When to Contact Your Practitioner",
+                    "content": "Contact the clinic if you experience: severe or worsening pain; signs of infection (increasing redness, warmth, pus); blistering or crusting (unless instructed this is possible); a rash or severe itching; or any other concerning reaction."
+                },
+                {
+                    "title": "Results Timeline and Follow-Up",
+                    "items": [
+                        "You may see initial subtle improvements in skin texture within a few weeks.",
+                        "The primary collagen-building period is 1-3 months post-treatment.",
+                        "Optimal results are usually visible 2-3 months after your last session in a series.",
+                        "Attend your scheduled follow-up to assess progress and plan any additional treatments."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "Your daily habits, especially sun protection and skincare, significantly influence the success of your treatment.",
+            "question_opportunity": "Please ensure all your questions are answered before leaving. Do not hesitate to call with any concerns during your recovery.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Skin Tightening Aftercare Form. I understand the importance of sun protection, gentle skincare, and the gradual nature of results. I commit to following these instructions to support my skin's healing and collagen production."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "non_invasive_skin_tightening",
+        "treatment_area": "various_body_areas",
+        "document_length": "detailed",
+        "risk_coverage": "good",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "collagen_production_focus",
+            "strict_sun_protocol",
+            "skincare_actives_restriction",
+            "delayed_results_timeline"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Specify the recommended wait time before next treatment in a series.",
+            "Provide a list of recommended gentle moisturizer ingredients (e.g., ceramides, hyaluronic acid, shea butter)."
+        ]
+    }
+}
