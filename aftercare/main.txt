@@ -113,7 +113,7 @@ Er:YAG laser resurfacing---Not found---Completed
 Laser skin renewal---Not found---Completed
 
 (Tattoo & PMU Removal)
-Laser tattoo removal---Not found---Completed
+Laser tattoo removal---Completed
 Multi-colour tattoo removal---Not found---Completed
 Eyebrow tattoo removal---Not found---Completed
 Microblading removal (laser)---Not found---Completed
@@ -142,14 +142,14 @@ Laser skin bleaching (medical use only)---Not found---Completed
 Laser rejuvenation for intimate areas (where permitted)---Not found---Completed
 
 (Laser-Based Combination Treatments
-Laser + microneedling
-Laser + PRP
-Laser + chemical peel protocols
-Laser + skin boosters (advanced practice)
+Laser + microneedling---Not found---Completed
+Laser + PRP---Not found---Completed
+Laser + chemical peel protocols---Not found---Completed
+Laser + skin boosters (advanced practice)---Not found---Completed
 
 
 
-■Dentist 
+■Dentist ==============================================================Confused
 (General Dentistry)
 Dental examination / check-up
 Oral health assessment

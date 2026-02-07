@@ -1,89 +1,141 @@
 {
     "form_analysis": {
-        "completeness_score": 98,
-        "rewards_awarded": 240,
-        "feedback": "Exceptional aftercare form for laser tattoo removal with comprehensive guidance on the unique healing process. Excellent coverage of frosting, blistering, and the extended treatment series. Strong emphasis on infection prevention, sun protection between sessions, and realistic expectations about fading versus complete removal.",
+        "completeness_score": 97,
+        "rewards_awarded": 215,
+        "feedback": "Excellent comprehensive laser tattoo removal aftercare form. Follows standardized laser treatment format with specific adaptations for tattoo removal (blistering emphasis, bandage guidance). Includes detailed post-treatment care, clear timelines, and appropriate emergency protocols. Strong focus on scarring prevention and hyperpigmentation risks specific to tattoo removal.",
         "sections_covered": [
-            "laser_tattoo_mechanism",
-            "immediate_post_laser_response",
-            "frosting_blistering_management",
-            "tattoo_removal_healing_phases",
-            "infection_prevention_critical",
-            "sun_protection_between_sessions",
-            "session_spacing_importance",
-            "realistic_removal_expectations",
-            "color_specific_considerations",
-            "skin_type_risks"
+            "immediate_symptoms",
+            "wound_care_management",
+            "pain_management",
+            "bandage_guidance",
+            "clothing_considerations",
+            "product_avoidance",
+            "mechanical_protection",
+            "skincare_restrictions",
+            "activity_restrictions",
+            "sun_protection",
+            "infection_awareness",
+            "follow_up_importance"
         ],
-        "clarity_issues": []
+        "form_similarity_note": "This form follows the same structure as the Laser Hair Removal aftercare form with tattoo-specific adaptations (blistering emphasis, bandage guidance, scarring prevention focus)."
     },
     "form_data": {
-        "document_title": "Laser Tattoo Removal Aftercare",
-        "introduction": "This aftercare protocol is for Q-switched or PICO-second LASER tattoo removal. The laser shatters tattoo ink particles which are then cleared by the immune system. Each session creates a controlled wound requiring specific care to prevent complications and optimize clearance.",
+        "document_title": "LASER TATTOO REMOVAL AFTERCARE",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort/healing and to help achieve the best possible results from treatment.",
         "instructions": {
-            "general_directive": "Follow meticulously after each session. Healing takes 4-8 weeks between treatments. Complete removal typically requires 6-12+ sessions spaced 8-12 weeks apart.",
+            "general_directive": "Please follow the aftercare advice for laser tattoo removal.",
             "sections": [
                 {
-                    "title": "Laser Tattoo Mechanism",
-                    "content": "Q-switched (nanosecond) or PICO-second lasers deliver ultra-short pulses that shatter ink particles into microscopic fragments. The body's macrophages then gradually clear these fragments through the lymphatic system."
+                    "title": "Immediate Post-Treatment Symptoms",
+                    "content": "The treated area of skin may feel slightly tender and appear red and swollen afterwards. You may occasionally experience skin blistering and appearances may be similar to mild sunburn. These effects will resolve naturally and should be much improved after 48 hours but may take longer to settle. You may experience some minor bruising which may take 1-2 weeks to resolve in some cases. If you are concerned at any stage about the healing process you must contact your practitioner."
                 },
                 {
-                    "title": "Immediate Post-Laser Response",
+                    "title": "Wound Care and Hygiene",
+                    "content": "Keep the area clean and dry for 48 hours after treatment."
+                },
+                {
+                    "title": "Pain and Symptom Management",
                     "items": [
-                        "FROSTING: White, chalky appearance immediately after - indicates successful ink fragmentation.",
-                        "Erythema (redness) and edema (swelling) within minutes.",
-                        "Pinpoint bleeding possible.",
-                        "Sensation similar to bad sunburn for 24-48 hours."
+                        "You can apply a cold pack on the treated area to reduce pain, discomfort or irritation.",
+                        "If you experience any discomfort you can use a simple over the counter pain killer such as paracetamol.",
+                        "Your practitioner may advise you to wear a bandage over the treated area for the first 3 days.",
+                        "You can apply aloe vera gel for 3 days after the treatment to sooth the skin."
                     ]
                 },
                 {
-                    "title": "Blistering & Crusting Management (COMMON)",
+                    "title": "Clothing Considerations",
+                    "content": "Do wear loose clothes to avoid friction on the treated area for 48 hours."
+                },
+                {
+                    "title": "Product Avoidance (72 Hours)",
                     "items": [
-                        "Blisters may form 4-48 hours post-treatment. DO NOT POP. They protect healing skin.",
-                        "If blisters pop naturally, keep clean, apply antibiotic ointment, cover with bandage.",
-                        "Crusting/scabbing occurs as blisters heal. DO NOT PICK. Let fall off naturally.",
-                        "Apply antibiotic ointment (Bacitracin) and non-stick bandage for 3-5 days."
+                        "Avoid any perfumes, fake tan or other harsh chemicals for 72 hours after treatment which can irritate the skin.",
+                        "Avoid any makeup for 48 hours after treatment as this can increase the risk of infection."
                     ]
                 },
                 {
-                    "title": "Healing Phases Between Sessions",
+                    "title": "Mechanical Protection",
+                    "content": "Avoid rubbing, picking or scratching the treated area, especially if the area has crusted, scabbed or blistered because this may increase the risk of scarring."
+                },
+                {
+                    "title": "Hair Removal and Skincare Restrictions",
                     "items": [
-                        "Days 1-7: Acute healing - swelling, blistering, redness.",
-                        "Weeks 1-4: Crusts heal, skin returns to normal appearance.",
-                        "Weeks 4-8: Immune system clears ink fragments. Tattoo gradually fades.",
-                        "Wait 8-12 weeks minimum between sessions for optimal ink clearance."
+                        "Avoid shaving the treated area for 72 hours after treatment.",
+                        "Avoid any skin exfoliation or hair removal such as waxing for 72 hours following treatment.",
+                        "Avoid any products that contain alpha hydroxy acids, retinol, and glycolic acid for at least 7 days after treatment."
                     ]
                 },
                 {
-                    "title": "Infection Prevention (CRITICAL)",
-                    "content": "Tattoo removal creates an open wound. Signs of infection: Increasing pain, spreading redness, yellow/green pus, fever. Contact practitioner immediately. Keep area clean with gentle soap/water, apply antibiotic ointment, use clean bandages."
+                    "title": "Activity and Environmental Restrictions",
+                    "content": "Avoid strenuous exercise, saunas, sunbeds and exposure to heat for 72 hours after treatment. These can cause sweating which can irritate the delicate skin and slow down your ability to heal quickly. Reduction of UV light exposure will also help reduce the risk of hyperpigmentation (darkening of the skin)."
                 },
                 {
-                    "title": "Sun Protection Between Sessions",
-                    "content": "UV exposure can darken ink (especially red/orange) and cause hyperpigmentation. Keep treated area covered or use SPF 30-50+ when healed. Tanned skin cannot be treated."
-                },
-                {
-                    "title": "Realistic Removal Expectations",
+                    "title": "Additional Restrictions",
                     "items": [
-                        "Professional tattoos: 8-15 sessions for complete removal.",
-                        "Amateur tattoos: 4-8 sessions.",
-                        "Black/blue ink: Best response.",
-                        "Green/yellow ink: Most difficult to remove.",
-                        "Complete removal not always possible; significant fading is realistic goal.",
-                        "Textural changes or hypopigmentation possible."
+                        "Avoid swimming for 72 hours after treatment.",
+                        "Avoid any excess alcohol or caffeine for 48 hours after treatment."
                     ]
                 },
                 {
-                    "title": "Color-Specific Considerations",
+                    "title": "Sun Protection",
+                    "content": "Wear SPF 50 or greater sunscreen for at least 2 weeks following treatment as your skin will be more sensitive to sunlight afterwards."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "You must seek medical attention and contact your practitioner if you experience any signs or symptoms of infection after treatment. Infection can present as hot, red shiny skin, there may be pus formation and you may have a fever or feel generally unwell."
+                },
+                {
+                    "title": "General Side Effects and Follow-up",
                     "items": [
-                        "Black: Responds best to 1064nm.",
-                        "Red/Orange: Use 532nm. Risk of paradoxical darkening with Q-switched.",
-                        "Green: Difficult, may require 755nm Alexandrite.",
-                        "Blue/Purple: Responds to 755nm or 1064nm.",
-                        "Yellow: Most challenging, may not fully remove."
+                        "You must contact your practitioner as soon as possible if you notice any other unwanted side effects.",
+                        "Your practitioner will advise when further treatment appointments are required. If you are advised to attend a follow up appointment, please do make every effort to attend them. You should do this even if you believe that the recovery process is going well and you cannot see that there are any visible complications."
                     ]
                 }
             ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
         }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "laser_treatment_aftercare",
+        "treatment_type": "laser_tattoo_removal",
+        "treatment_category": "pigment_removal",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "special_features": [
+            "specific blistering warning for tattoo removal",
+            "bandage guidance (3 days)",
+            "scarring prevention emphasis",
+            "hyperpigmentation risk highlighted",
+            "higher SPF requirement (SPF 50+)",
+            "clothing guidance for friction avoidance",
+            "aloe vera gel recommendation (3 days)",
+            "cold pack application guidance",
+            "over-the-counter pain relief specified"
+        ],
+        "tattoo_removal_specifics": [
+            "Multiple treatment sessions typically required",
+            "Risk of blistering and crusting higher than other laser treatments",
+            "Scarring risk with improper care",
+            "Color-specific considerations (different wavelengths for different colors)"
+        ],
+        "form_similarities": {
+            "similar_to": "Laser Hair Removal aftercare form",
+            "differences": "Tattoo-specific: blistering emphasis, bandage guidance, scarring prevention focus",
+            "standardized_protocol": "yes, with tattoo-specific adaptations"
+        },
+        "recommendations": [
+            "Add expected healing timeline specific to tattoo removal",
+            "Include guidance on number of sessions typically required",
+            "Add expected color fading progression",
+            "Include specific aftercare for different tattoo colors",
+            "Add guidance on scab/crust care management"
+        ]
     }
 }
