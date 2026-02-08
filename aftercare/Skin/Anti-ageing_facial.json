@@ -1,0 +1,95 @@
+{
+    "form_analysis": {
+        "completeness_score": 89,
+        "rewards_awarded": 182,
+        "feedback": "Comprehensive aftercare for a multi-modal rejuvenating treatment. Good focus on protecting collagen stimulation and managing micro-trauma from devices (if used). Strong link between aftercare and long-term results.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Anti-ageing Facial Aftercare",
+        "introduction": "The following aftercare advice is designed to support your skin's natural repair and regeneration processes, protect new collagen formation, and maximise the firming, smoothing, and rejuvenating results of your treatment.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice to nurture your skin and extend the benefits of your anti-ageing facial.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin may be flushed, feel warm, tight, and look slightly swollen for 24-48 hours. If microcurrent or radiofrequency was used, you may experience a mild, sunburn-like sensation. Mild peeling or dryness may occur 2-4 days post-treatment as part of the cellular turnover process."
+                },
+                {
+                    "title": "Supporting Collagen Production",
+                    "items": [
+                        "Keep the skin well-hydrated. Use a peptide-rich, reparative moisturizer to support healing and collagen synthesis.",
+                        "Drink plenty of water and consume foods rich in antioxidants (berries, leafy greens) and Vitamin C.",
+                        "Ensure adequate sleep, as collagen repair is most active at night."
+                    ]
+                },
+                {
+                    "title": "Product Use and Restrictions",
+                    "items": [
+                        "Avoid all exfoliating agents (retinol, retinoids, glycolic acid, salicylic acid, scrubs) for 5-7 days to allow the skin barrier to recover fully.",
+                        "You may resume using growth factors, peptides, and gentle antioxidants (like Vitamin C serums) after 3 days, unless otherwise instructed.",
+                        "If LED light therapy was part of your facial, no specific restrictions apply beyond gentle care."
+                    ]
+                },
+                {
+                    "title": "Sun and Environmental Protection",
+                    "content": "Sun exposure is the primary driver of skin ageing. To protect your investment and new collagen, you MUST apply a high-SPF (30-50+) broad-spectrum sunscreen daily. Avoid direct sun exposure for 48 hours post-treatment."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, saunas, steam rooms, and hot baths for 48 hours to minimise inflammation and facial flushing.",
+                        "Avoid facial massages or aggressive manipulation of the skin for 1 week."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is advisable to avoid makeup for 24 hours. If necessary, use mineral-based makeup applied gently with clean tools."
+                },
+                {
+                    "title": "Swelling and Redness Management",
+                    "content": "Sleep with your head slightly elevated on an extra pillow for the first night or two to reduce morning swelling. A cool compress can be applied to soothe redness."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Immediate plumping and glow are often visible. The true collagen-building results develop over 4-6 weeks post-treatment.",
+                        "A course of treatments is typically recommended for cumulative, long-term anti-ageing benefits.",
+                        "Contact your therapist if you experience severe or persistent redness, pain, blistering, or signs of infection."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "anti_ageing_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "collagen_production_support",
+            "multi_modal_device_considerations"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could be more specific if the facial included needling or deeper modalities, requiring separate guidance."
+        ]
+    }
+}

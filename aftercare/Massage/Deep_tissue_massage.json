@@ -1,0 +1,90 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 192,
+        "feedback": "Excellent and necessary aftercare for a more intense modality. Clearly distinguishes between therapeutic soreness and problematic pain. Provides specific, practical protocols for inflammation management (contrast therapy, Epsom salts) and clear red flags. Manages patient expectations effectively.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "pain_guidance",
+            "swelling_management",
+            "hydration_nutrition",
+            "activity_guidance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Deep Tissue Massage Aftercare",
+        "introduction": "This aftercare advice is CRUCIAL following your deep tissue massage. This technique works on deeper muscle layers and fascia, which can lead to a therapeutic inflammatory response. Proper aftercare manages this response, reduces discomfort, and enhances the long-term benefits.",
+        "instructions": {
+            "general_directive": "Please follow these instructions carefully to support your body's healing process.",
+            "sections": [
+                {
+                    "title": "Expected Post-Treatment Sensations and Timeline",
+                    "content": "It is NORMAL to feel muscle soreness, similar to that after a rigorous workout, for 24-72 hours after treatment. This is often described as a 'good hurt' in the targeted areas. The peak of soreness is typically 24-48 hours post-massage. Stiffness is also common. This is part of the healing process as muscles release chronic tension."
+                },
+                {
+                    "title": "Managing Soreness and Inflammation",
+                    "items": [
+                        "Contrast Therapy: For areas of significant soreness, apply a cycle of heat and cold. Use a warm compress or heating pad for 3-4 minutes to increase blood flow, then a cold pack for 1-2 minutes to reduce inflammation. Repeat 2-3 times.",
+                        "Epsom Salt Bath: A warm (not hot) bath with 2 cups of Epsom salts (magnesium sulfate) can be immensely soothing and help reduce muscle aches. Soak for 15-20 minutes.",
+                        "Hydration: Drink EXTRA water for the next 48-72 hours. This is vital to flush metabolic byproducts and prevent excessive soreness.",
+                        "Gentle Movement: Do NOT remain sedentary. Light walking, gentle stretching, and range-of-motion exercises will help prevent stiffness and promote circulation. Avoid strenuous exercise for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Pain vs. Soreness - Red Flags",
+                    "content": "SORENESS is a dull, aching, generalized feeling. PAIN is sharp, acute, or shooting. You should NOT experience: Sharp nerve pain, numbness or tingling that persists, increased joint pain, or intense pain that limits normal movement. If you experience these, contact your therapist."
+                },
+                {
+                    "title": "Medication and Supplement Guidance",
+                    "content": "If you are comfortable taking them, over-the-counter anti-inflammatory medication (like Ibuprofen) can help manage soreness. Natural anti-inflammatories like turmeric or tart cherry juice may also be beneficial. Avoid alcohol for 24 hours as it increases inflammation and dehydration."
+                },
+                {
+                    "title": "Follow-Up and Integration",
+                    "content": "The benefits of deep tissue work integrate over several days. You may notice improved range of motion and decreased pain in the treated areas as soreness subsides. It may take 2-3 sessions to fully address a chronic issue."
+                },
+                {
+                    "title": "When to Contact Your Therapist",
+                    "items": [
+                        "If soreness is severe and not improving after 72 hours.",
+                        "If you experience any of the 'red flag' pain symptoms mentioned above.",
+                        "If you have bruising that is extensive or painful (some minor bruising can be normal).",
+                        "To provide feedback on pressure and areas of focus for your next session."
+                    ]
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Minor bruising is possible and will fade in 3-7 days. Arnica cream or gel can be helpful.",
+                        "The therapeutic release and alignment benefits become most apparent 2-3 days post-treatment, once initial soreness fades.",
+                        "Regular sessions (e.g., every 2-4 weeks) are often needed to break chronic holding patterns."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "bodywork_aftercare",
+        "treatment_type": "deep_tissue_massage",
+        "treatment_area": "full_body",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "contrast_therapy_instructions",
+            "pain_vs_soreness_differentiation"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could include specific gentle stretches for common treatment areas (e.g., neck, lower back)."
+        ]
+    }
+}

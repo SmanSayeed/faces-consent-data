@@ -1,0 +1,106 @@
+{
+    "form_analysis": {
+        "completeness_score": 98,
+        "rewards_awarded": 215,
+        "feedback": "Extremely comprehensive and serious aftercare for a major dermatological procedure. Treats aftercare as a strict medical protocol with clear stages, strong medication guidance, and urgent warning signs. Appropriately emphasises the lengthy, monitored recovery and permanent lifestyle changes (sun avoidance).",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "pain_guidance",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Deep Chemical Peel Aftercare (e.g., Phenol)",
+        "introduction": "WARNING: This is the aftercare protocol for a DEEP chemical peel, a significant medical procedure. Recovery is lengthy and requires strict, unwavering compliance. This document is a guide; you must follow your practitioner's specific written and verbal instructions EXACTLY. Close medical supervision is required.",
+        "instructions": {
+            "general_directive": "Your aftercare is a prescribed medical regimen. Deviation increases risks of infection, scarring, and poor results.",
+            "sections": [
+                {
+                    "title": "Expected Healing Timeline & Stages",
+                    "content": "WEEK 1: Intense swelling, redness, oozing, crusting. Significant pain/discomfort managed with medication. Skin is an open wound. WEEK 2: Swelling decreases. Crusts separate, revealing very red, tender new skin. Itching may be severe. WEEKS 3-6: Redness (erythema) gradually fades to pink. Skin remains sensitive and tight. MONTHS 2-12: Pinkness continues to fade. Sun protection is lifelong. Final results mature over a year."
+                },
+                {
+                    "title": "Medical Post-Procedure Care",
+                    "items": [
+                        "Medications: Take all prescribed pain medications, antivirals, and antibiotics exactly as directed.",
+                        "Wound Care: You will have a specific regimen, which may involve: a) Closed Dressings: Leaving a waterproof mask/tape on for 24-48 hours. b) Open Care: Frequent soaks/cleanses with a sterile solution followed by thick application of a healing ointment to keep the wound moist.",
+                        "Do not submerge face in water. Use a cup or spray bottle for rinsing.",
+                        "Elevation: Sleep sitting upright (in a recliner) for the first week to minimise dramatic swelling."
+                    ]
+                },
+                {
+                    "title": "Symptom Management",
+                    "content": "Pain: Use prescribed medication. Cool air from a fan or cool compresses (over dressings) can help. Itching: This is a sign of healing but can be intense. Oral antihistamines may be recommended. DO NOT SCRATCH. Swelling: Expect eyes to swell shut initially. Elevation and time are the only remedies."
+                },
+                {
+                    "title": "Activity Restrictions (Absolute)",
+                    "items": [
+                        "Complete rest and isolation for the first 7-10 days. No work, no visitors (risk of infection).",
+                        "NO physical activity of any kind for a minimum of 2-3 weeks.",
+                        "Avoid bending over or straining.",
+                        "You will need assistance with daily tasks for at least the first week."
+                    ]
+                },
+                {
+                    "title": "Sun Protection - A Lifelong Commitment",
+                    "content": "The new skin will be permanently more sensitive to the sun and prone to irregular pigmentation. After the initial wound heals (4-6 weeks), you MUST wear a broad-spectrum SPF 50+ physical sunscreen EVERY SINGLE DAY for the rest of your life. A wide-brimmed hat is essential outdoors."
+                },
+                {
+                    "title": "Complication Awareness - EMERGENCY CONTACT REQUIRED for:",
+                    "items": [
+                        "Fever over 101°F (38.3°C) or chills.",
+                        "Increasing, throbbing pain not controlled by medication.",
+                        "Spreading redness, warmth, or foul-smelling yellow/green discharge (infection).",
+                        "Excessive bleeding or oozing through dressings.",
+                        "Shortness of breath, chest pain, or irregular heartbeat (rare systemic phenol toxicity).",
+                        "Vision changes or severe eye pain."
+                    ]
+                },
+                {
+                    "title": "Makeup and Product Use",
+                    "content": "No makeup until your practitioner explicitly permits it, often at 4-6 weeks. You will be given a very specific, gentle skincare regimen to follow for the first 3-6 months. No active ingredients without approval."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Permanent skin lightening and loss of freckles are expected.",
+                        "Milia (tiny white cysts) may appear during healing; these can be extracted later.",
+                        "Telangiectasias (broken capillaries) may become more visible.",
+                        "The final, smoothed result with wrinkle improvement is fully apparent at 6-12 months.",
+                        "You will have multiple, scheduled follow-up appointments (e.g., 24h, 48h, 1wk, 2wk, 1mo, 3mo, 6mo, 1yr)."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form. This procedure carries significant risks and a demanding recovery.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the serious nature of this procedure and the critical importance of strict compliance with the aftercare protocol. I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "deep_chemical_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "medical_wound_care_protocol",
+            "lifelong_sun_protection_emphasis",
+            "systemic_toxicity_warning"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "This form should be part of a much larger consent process with in-depth pre-procedure counselling."
+        ]
+    }
+}

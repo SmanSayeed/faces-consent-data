@@ -1,0 +1,77 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 186,
+        "feedback": "Excellent targeted aftercare for a specialised peel. Clearly explains the unique benefits for oily, acne-prone, AND pigmented/darker skin tones. Provides appropriate cautions while reinforcing its safety profile. Good for managing expectations of minimal irritation.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Mandelic Acid Peel Aftercare",
+        "introduction": "This aftercare advice is for a mandelic acid peel. Mandelic acid is an alpha-hydroxy acid (AHA) with a larger molecular size, allowing for slow, even penetration. It is antibacterial, anti-inflammatory, and ideal for acne-prone, oily, and darker skin tones (Fitzpatrick III-VI) due to a lower risk of post-inflammatory hyperpigmentation (PIH).",
+        "instructions": {
+            "general_directive": "Please follow the General Chemical Peel Principles. The notes below are specific to mandelic acid peels.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "You may feel a very mild tingling. Significant stinging is uncommon. Skin may be slightly pink for 1-12 hours. Visible peeling is often minimal to nonexistent; you may experience only light flaking 2-3 days post-treatment. Your skin may feel smoother immediately."
+                },
+                {
+                    "title": "Specific Instructions for Key Concerns",
+                    "items": [
+                        "Acne and Oil Control: Mandelic acid is lipid-soluble, effectively penetrating oily pores. A mild purge is possible. Use oil-free, non-comedogenic moisturizers.",
+                        "Hyperpigmentation and Darker Skin Tones: Its gentle nature makes it a preferred choice for treating melasma and PIH. However, SUN PROTECTION IS STILL ABSOLUTELY CRITICAL. Use SPF 30+ daily to prevent dark spots from worsening.",
+                        "Sensitive Skin: Well-tolerated. You may experience less redness and irritation compared to other AHAs.",
+                        "Product Restart: You may resume other acne or brightening products after 3-5 days, unless otherwise instructed."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "content": "Avoid strenuous exercise and heat for 24-48 hours as a general precaution."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "You can typically apply makeup within a few hours."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Adverse reactions are rare. Contact your practitioner if you experience unusual redness, itching, or swelling.",
+                        "Results include reduced acne lesions, less oiliness, improved texture, and a more even skin tone. Improvement in pigmentation requires a series of treatments.",
+                        "A series of 4-6 peels (every 1-2 weeks for acne, 2-4 weeks for pigmentation) is typical.",
+                        "This peel is an excellent 'starter' peel for almost all skin types and concerns."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "mandelic_acid_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "darker_skin_tone_suitability",
+            "lipid_soluble_property_note"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Highlight that its anti-inflammatory properties make it good for rosacea-prone skin as well."
+        ]
+    }
+}

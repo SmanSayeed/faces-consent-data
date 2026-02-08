@@ -1,0 +1,87 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 180,
+        "feedback": "Focused aftercare form for a treatment aimed at moisture restoration. Provides clear guidance on locking in hydration and avoiding dehydrating agents. Strong emphasis on product layering and environmental protection. Appropriately low-risk with no major emergency protocols.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "hydration_nutrition",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Hydrating Facial Aftercare",
+        "introduction": "The following aftercare advice is essential to maximise and prolong the deep hydration benefits of your treatment, helping to maintain your skin's plump, dewy, and smooth appearance.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice to protect and enhance your skin's hydration levels.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin will feel immediately softer, smoother, and more supple. It may have a slight sheen from the hydrating products. Any mild redness or warmth should subside within 1-2 hours."
+                },
+                {
+                    "title": "Maximising Hydration",
+                    "items": [
+                        "Do not wash your face for at least 6-8 hours after treatment to allow the hyaluronic acid and humectants to fully penetrate.",
+                        "For the next 72 hours, focus on 'locking in' moisture. Apply your hydrating serum followed by a richer moisturizer or face oil as a final step, especially at night.",
+                        "Consider using a hydrating mist throughout the day to refresh your skin."
+                    ]
+                },
+                {
+                    "title": "Product Restrictions",
+                    "content": "Avoid using any drying or exfoliating products (such as salicylic acid, strong retinoids, physical scrubs) for at least 5-7 days. These can compromise your newly restored skin barrier and undo the hydrating effects."
+                },
+                {
+                    "title": "Environmental Protection",
+                    "items": [
+                        "Sun exposure, wind, and dry air (like air conditioning or central heating) can dehydrate skin. Apply a broad-spectrum SPF 30+ daily and consider using a humidifier, especially at night.",
+                        "Avoid saunas, steam rooms, and very long hot showers for 48 hours, as excessive heat can lead to transepidermal water loss."
+                    ]
+                },
+                {
+                    "title": "Internal Hydration",
+                    "content": "Drink plenty of water over the next few days to support your skin's hydration from within. Limit caffeine and alcohol intake as they have a diuretic effect."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "You may apply makeup after 2-3 hours if needed. Ensure it is applied gently and consider using hydrating or dewy-finish formulas to complement your skin's condition."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "It is very rare to have an adverse reaction to a hydrating facial. However, if you experience persistent itching, a rash, or increased dryness, please contact your therapist.",
+                        "The peak of hydration and plumpness is typically seen 24-48 hours post-treatment and can last for 5-7 days with proper home care.",
+                        "Regular treatments are recommended to maintain optimal hydration levels, especially in changing seasons."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "hydrating_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "humectant_absorption_period",
+            "moisture_locking_instructions"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could specify recommended ingredient types for home care (e.g., ceramides, squalane)."
+        ]
+    }
+}

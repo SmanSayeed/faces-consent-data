@@ -1,0 +1,94 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 185,
+        "feedback": "Comprehensive aftercare that addresses both the physical massage and the unique pharmacological/emotional effects of essential oils. Excellent safety warnings about photosensitivity and ingestion. Good guidance on emotional processing and oil-specific notes.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hydration_nutrition",
+            "activity_guidance",
+            "allergy_awareness",
+            "environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Aromatherapy Massage Aftercare",
+        "introduction": "This aftercare advice covers both the physical effects of the massage and the specific effects of the essential oils used in your treatment. The oils will continue to work in your system for several hours.",
+        "instructions": {
+            "general_directive": "Please follow this advice to nurture the mind-body benefits of your aromatherapy experience.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations and Timeline",
+                    "content": "You will likely feel deeply relaxed, both physically and mentally. The fragrance of the oils may linger on your skin for 12-24 hours. It is common to feel a shift in mood or emotional state (e.g., calmer, uplifted, balanced) for the rest of the day. Mild muscle tenderness is possible if deeper techniques were used."
+                },
+                {
+                    "title": "Essential Oil Specific Care",
+                    "items": [
+                        "Do not shower or bathe for at least 6-8 hours to allow the oils to be fully absorbed and continue their therapeutic work.",
+                        "Photosensitivity Warning: If the blend contained citrus oils (bergamot, lemon, lime, grapefruit, etc.), the treated skin must be protected from direct sunlight or UV rays (including sunbeds) for at least 12-24 hours to avoid a phototoxic reaction (redness, burning, blistering).",
+                        "Hydration: Drink water to help your body process the oils and flush toxins.",
+                        "Internal Use: Do NOT ingest any essential oils unless under the guidance of a qualified medical aromatherapist."
+                    ]
+                },
+                {
+                    "title": "Emotional and Energetic Awareness",
+                    "content": "Essential oils can facilitate emotional release. Be aware that you may feel more tearful, contemplative, or dreamy. Allow yourself space to process these feelings. Journaling or quiet reflection can be beneficial."
+                },
+                {
+                    "title": "Allergy and Sensitivity Awareness",
+                    "content": "While a patch test was performed or allergies discussed, a delayed reaction is possible. If you develop a rash, hives, increased redness, or itching on the treated areas, take a cool shower with a mild soap to remove oil residue and contact your therapist. If you experience any respiratory difficulty, seek medical attention."
+                },
+                {
+                    "title": "Activity Guidance",
+                    "content": "Rest is ideal. Avoid strenuous activity for the remainder of the day. Gentle walking in fresh air can be lovely. Avoid alcohol as it can interfere with the subtle effects of the oils and cause dehydration."
+                },
+                {
+                    "title": "Makeup and Clothing",
+                    "content": "The oils may stain light-coloured clothing or bedding. You may wish to wear darker colours. Avoid applying other perfumes or scented products over the area to allow the therapeutic fragrance to prevail."
+                },
+                {
+                    "title": "When to Contact Your Therapist",
+                    "items": [
+                        "If you have a skin reaction as described above.",
+                        "If you experience an unexpected emotional response you wish to discuss.",
+                        "To note which oil blend you particularly enjoyed or had a strong reaction to, for future sessions."
+                    ]
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "The sense of wellbeing and targeted benefit (e.g., eased anxiety, improved sleep) can last for several days.",
+                        "Aromatherapy massage is highly personalized. Feedback on your response helps tailor future treatments.",
+                        "Regular sessions can help manage chronic stress, anxiety, or sleep issues more effectively."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the photosensitivity warning related to citrus oils. I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "bodywork_aftercare",
+        "treatment_type": "aromatherapy_massage",
+        "treatment_area": "full_body",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "photosensitivity_warning",
+            "delayed_shower_recommendation",
+            "emotional_processing_guidance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could provide a small card noting the specific oils used in the session."
+        ]
+    }
+}

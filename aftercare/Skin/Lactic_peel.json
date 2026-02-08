@@ -1,0 +1,77 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 180,
+        "feedback": "Good aftercare for a gentle, hydrating AHA peel. Correctly positions it as an option for sensitive skin and highlights its unique moisturising benefits alongside exfoliation. Provides appropriate cautions despite its gentle nature.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Lactic Acid Peel Aftercare",
+        "introduction": "This aftercare advice is for a lactic acid peel, an alpha-hydroxy acid (AHA) derived from milk. It is known for being gentler than glycolic acid while providing effective exfoliation and notable hydration. Ideal for dry, dehydrated, or sensitive skin types.",
+        "instructions": {
+            "general_directive": "Please follow the General Chemical Peel Principles. The notes below are specific to lactic acid peels.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "You may feel a mild tingling that subsides quickly. Significant stinging is uncommon. Skin will have a healthy glow and may be slightly pink for 6-24 hours. Visible peeling is often minimal; you may experience only light, sandpaper-like flaking 2-3 days post-treatment. Your skin should feel supple, not tight."
+                },
+                {
+                    "title": "Specific Instructions",
+                    "items": [
+                        "Hydration Boost: Lactic acid is a humectant. Support this by using a good moisturizer and drinking plenty of water to enhance the plumping effect.",
+                        "Gentle Care: Even though it's gentle, avoid other exfoliants (physical or chemical) for 5-7 days.",
+                        "Sun Sensitivity: As an AHA, it increases photosensitivity. Daily SPF 30+ use is mandatory for 1 week.",
+                        "Sensitive Skin: This peel is often well-tolerated. However, if you have rosacea or extremely reactive skin, monitor for increased redness."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "content": "Avoid strenuous exercise and heat for 24-48 hours as a precaution."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "You can typically apply makeup within a few hours, once the skin feels normal."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Adverse reactions are rare. Contact your practitioner if you experience persistent redness, itching, or rash.",
+                        "Results include improved hydration, smoother texture, and a brighter, more even tone. It's excellent for treating dullness.",
+                        "A series of peels (every 2-4 weeks) will yield cumulative benefits for fine lines and hyperpigmentation.",
+                        "Lactic acid is a good introductory peel for those new to chemical exfoliation."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "lactic_acid_peel",
+        "treatment_area": "face",
+        "document_length": "standard",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "humectant_property_note",
+            "gentle_peel_for_sensitive_skin"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could mention its use in treating keratosis pilaris (KP) on the body."
+        ]
+    }
+}

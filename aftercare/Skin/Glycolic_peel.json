@@ -1,0 +1,77 @@
+{
+    "form_analysis": {
+        "completeness_score": 89,
+        "rewards_awarded": 184,
+        "feedback": "Good specific aftercare for a common AHA peel. Clearly addresses the potential for stinging and subtle flaking. Reinforces the importance of neutralising any residual acid and managing the temporary increase in sun sensitivity. Practical and straightforward.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Glycolic Acid Peel Aftercare",
+        "introduction": "This aftercare advice is for a glycolic acid (AHA) peel. Glycolic acid exfoliates the surface layers, improving texture and brightness. Your skin will be temporarily more sensitive.",
+        "instructions": {
+            "general_directive": "Please follow the General Chemical Peel Principles. The notes below are specific to glycolic acid peels.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "You will feel a tingling or mild stinging during and immediately after the peel, which should subside within minutes to an hour. Skin will be pink and may feel tight for 12-48 hours. Light flaking or 'sheet peeling' may occur 2-4 days post-treatment, depending on the strength used."
+                },
+                {
+                    "title": "Specific Instructions",
+                    "items": [
+                        "Neutralising: The peel was neutralised, but if you feel persistent burning at home, you may rinse with cool water or apply a cool compress.",
+                        "Moisturize: Glycolic acid can be drying. Use a good moisturizer to combat tightness and support barrier repair.",
+                        "Sun Sensitivity: AHAs increase photosensitivity for up to 1 week post-peel. Sun protection is non-negotiable. Use SPF 30+ daily.",
+                        "Product Restart: Avoid using any other glycolic acid or AHA products at home for 5-7 days post-peel to avoid over-exfoliation."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "content": "Avoid strenuous exercise, sweating, and heat exposure (saunas, steam) for 48 hours to minimise stinging and irritation."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is advisable to avoid makeup for 24 hours. If necessary, use a gentle, non-comedogenic formula."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "A mild breakout (purging) 3-7 days post-peel is possible as congestion is brought to the surface.",
+                        "If you experience severe redness, swelling, blistering, or crusting, contact your practitioner.",
+                        "Results include smoother texture, diminished fine lines, and a brighter complexion. A series of 4-6 peels (every 2-4 weeks) is typical for significant improvement.",
+                        "Glycolic acid is excellent for sun damage and rough texture."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "glycolic_acid_peel",
+        "treatment_area": "face",
+        "document_length": "standard",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "aha_photosensitivity_warning",
+            "potential_purging_note"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could mention that lower concentration peels may have no visible peeling, while higher concentrations will."
+        ]
+    }
+}

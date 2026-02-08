@@ -1,0 +1,91 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 188,
+        "feedback": "Clear and practical aftercare for a popular laser treatment. Effectively describes the unique process (carbon application, laser explosion) and the expected mild sandpaper-like exfoliation. Provides good guidance on managing the temporary dryness and supporting the results with proper skincare.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Carbon Laser Facial (Hollywood Peel) Aftercare",
+        "introduction": "This aftercare advice is for a Carbon Laser Facial, also known as a Hollywood Peel. This treatment uses a carbon lotion and a Q-switched laser to deeply cleanse pores, exfoliate dead skin cells, and stimulate collagen. It is a gentle, non-ablative treatment with minimal downtime.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice to soothe your skin and maximise the brightening, refining results.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin will feel warm, similar to a mild sunburn, for 1-2 hours. It will appear slightly pink/red for 4-12 hours. The carbon particles and dead skin cells will create a 'dusty' or 'charred' appearance that will wash away after your first gentle cleanse. Over the next 2-4 days, you may experience light, sandpaper-like flaking as the treated skin exfoliates. Your skin will feel tighter and drier than usual."
+                },
+                {
+                    "title": "Cleansing and Exfoliation",
+                    "items": [
+                        "Wait at least 4 hours before your first gentle cleanse to remove the residual carbon.",
+                        "Do not scrub aggressively. The flaking skin will come off naturally with gentle cleansing and moisturizing.",
+                        "DO NOT use any physical exfoliants (scrubs, brushes) or chemical exfoliants (AHA/BHA, retinol) for 5-7 days."
+                    ]
+                },
+                {
+                    "title": "Moisturizing and Soothing",
+                    "content": "Your skin will be dry. Apply a gentle, hydrating moisturizer frequently to alleviate tightness and support the skin barrier. A cool compress can be used if the skin feels hot."
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "Your skin will be more photosensitive. You MUST apply a broad-spectrum sunscreen with SPF 30 or higher every day for at least 1 week. Avoid direct sun exposure for 48 hours."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "Avoid strenuous exercise, sweating, saunas, and steam rooms for 48 hours to minimise irritation and redness.",
+                        "Avoid swimming in chlorinated pools or the sea for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is best to avoid makeup for 24 hours. You may apply makeup after that if needed, but ensure it is non-comedogenic and applied gently."
+                },
+                {
+                    "title": "Purging Possibility",
+                    "content": "As impurities are brought to the surface, a mild breakout (purging) is possible 3-7 days post-treatment. Do not pick; keep the area clean."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "If you experience significant pain, blistering, crusting, or signs of infection, contact your practitioner.",
+                        "Immediate results include a visible glow and smoother texture. Over the next week, as exfoliation completes, skin will appear brighter, pores less visible, and fine lines reduced.",
+                        "Optimal results are achieved with a series of 3-6 treatments spaced 2-4 weeks apart.",
+                        "This treatment is excellent for oily, congested skin and overall rejuvenation with no real downtime."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "carbon_laser_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "carbon_residue_management",
+            "laser_explosion_explanation"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could mention it's a good pre-event treatment due to the immediate glow."
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "form_analysis": {
+        "completeness_score": 92,
+        "rewards_awarded": 190,
+        "feedback": "Well-tailored aftercare for an acne-focused BHA peel. Excellently addresses the unique aspects: oil reduction, purging likelihood, and the importance of not over-drying the skin. Good guidance on managing the temporary dryness and tightness.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Salicylic Acid (BHA) Peel Aftercare",
+        "introduction": "This aftercare advice is for a salicylic acid peel, a beta-hydroxy acid (BHA) that penetrates oil to exfoliate inside pores. It is highly effective for acne-prone, oily, and congested skin. Proper aftercare manages dryness and supports clearing.",
+        "instructions": {
+            "general_directive": "Please follow the General Chemical Peel Principles. The notes below are specific to salicylic acid peels.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "You may feel a slight tingling or warming sensation. A 'frost' (white precipitate) is common with salicylic acid and will fade within hours. Skin will be pink and may feel tight or dry for 24-72 hours. Mild peeling, often described as 'mice noses' or fine flaking around pores, may occur 2-4 days post-peel."
+                },
+                {
+                    "title": "Specific Instructions for Acne-Prone Skin",
+                    "items": [
+                        "Purging: It is COMMON to experience a increase in breakouts (purging) 3-7 days post-peel as underlying congestion is accelerated to the surface. Do not pick. This is temporary.",
+                        "Oil Control: Your oil production may temporarily increase as the skin compensates for dryness, or it may decrease. Use a light, oil-free, non-comedogenic moisturizer to balance the skin without clogging pores.",
+                        "Avoid Over-Drying: Do not use other drying agents (benzoyl peroxide, strong acne washes) for 5-7 days post-peel. Let the peel do its work.",
+                        "Sun Protection: While BHA is less photosensitising than AHA, sun protection is still essential for healing skin. Use an oil-free SPF."
+                    ]
+                },
+                {
+                    "title": "Cleansing",
+                    "content": "Cleanse gently with a lukewarm water and a mild, sulfate-free cleanser. Avoid harsh scrubs or brushes."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "content": "Avoid sweating and heat (exercise, saunas) for 48 hours to prevent irritation and stinging."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "Avoid makeup for 24 hours if possible. When you resume, use non-comedogenic products and clean application tools to avoid introducing bacteria."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "If you experience severe erythema (redness), swelling, or crusting, contact your practitioner.",
+                        "Results include fewer blackheads/whiteheads, reduced oiliness, and clearer skin. Salicylic acid also has anti-inflammatory properties.",
+                        "A series of peels (every 2-4 weeks) is most effective for treating active acne and congestion.",
+                        "This peel is suitable for sensitive and darker skin tones when used appropriately, due to its anti-inflammatory nature."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "salicylic_acid_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "acne_purging_focus",
+            "frosting_explanation",
+            "oil_balance_guidance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Emphasize that the 'frost' is not bleaching or scarring, just a characteristic of the acid crystallizing."
+        ]
+    }
+}

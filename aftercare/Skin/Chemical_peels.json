@@ -1,0 +1,94 @@
+{
+    "form_analysis": {
+        "completeness_score": 95,
+        "rewards_awarded": 200,
+        "feedback": "Masterful general aftercare template for chemical peels. Establishes universal, critical principles: vigilant sun protection, strict moisturization, and absolute avoidance of picking. Perfectly sets the stage for more specific peel instructions. Includes clear emergency symptom recognition.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Chemical Peel Aftercare - General Principles",
+        "introduction": "This document outlines the UNIVERSAL aftercare principles for chemical peel recovery. Adhering to these instructions is NON-NEGOTIABLE for proper healing, to achieve optimal results, and to minimise risks of complications, including scarring and pigment changes.",
+        "instructions": {
+            "general_directive": "Follow these instructions precisely. Your peel aftercare is as important as the peel itself.",
+            "sections": [
+                {
+                    "title": "The Healing Timeline (General Guide)",
+                    "content": "Day 1-2: Redness, tightness, swelling. Day 2-5: Darkening, frosting (if applicable), followed by peeling/flaking. Day 5-7: Peeling completes, reveals pink, new skin. Day 7-14: Pinkness fades, hyperpigmentation may surface. Day 14+: Full results visible as skin matures. *Timeline varies by peel depth.*"
+                },
+                {
+                    "title": "The Cardinal Rules",
+                    "items": [
+                        "1. SUN PROTECTION IS MANDATORY: New skin is extremely vulnerable. Avoid all direct sun. Apply a physical/mineral sunscreen (SPF 30-50) every 90 minutes if outdoors. Wear a wide-brimmed hat.",
+                        "2. MOISTURIZE CONSTANTLY: Keep the skin lubricated with the provided/approved ointment or moisturizer. Peeling skin that is dry will crack, itch, and heal poorly. 'Slugging' (applying a thick occlusive) at night may be recommended.",
+                        "3. DO NOT PICK OR PULL: Let the skin shed NATURALLY. Forcing peel can cause bleeding, scarring, infection, and permanent dyspigmentation.",
+                        "4. USE ONLY APPROVED PRODUCTS: Do not introduce any new active ingredients (retinoids, acids, Vitamin C) until cleared by your provider."
+                    ]
+                },
+                {
+                    "title": "Cleansing",
+                    "content": "Cleanse only with a gentle, non-exfoliating wash as directed, using fingertips only. Pat dry, do not rub. You may be advised to use a diluted vinegar rinse for certain peels."
+                },
+                {
+                    "title": "Managing Discomfort",
+                    "content": "Cool compresses can soothe burning/stinging. Sleep on your back with head elevated to reduce swelling. Over-the-counter pain relief (like acetaminophen) can be used if needed. Itching is common during peeling; an oral antihistamine may help."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "items": [
+                        "No exercise, sweating, saunas, steam, or hot showers until peeling is complete and skin is no longer open or raw.",
+                        "Avoid swimming (pools, ocean) until skin is fully healed (at least 1 week)."
+                    ]
+                },
+                {
+                    "title": "Infection and Complication Awareness",
+                    "content": "Contact your provider IMMEDIATELY if you experience: Severe pain not relieved by cool compresses, signs of infection (yellow/green pus, increasing redness/warmth, fever), cold sore outbreak, or the development of large, painful blisters."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "Do not apply makeup until the initial peeling phase is completely finished (usually 5-7 days). Applying makeup over peeling skin can cause clumping and introduce bacteria."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Expect redness and sensitivity for several weeks with deeper peels.",
+                        "Hyperpigmentation (darkening) can occur post-peel, especially with sun exposure. This is why SPF is critical.",
+                        "Final results are assessed at 4-6 weeks post-peel. Multiple peels are often needed for significant concerns.",
+                        "Attend all scheduled follow-up appointments."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "chemical_peel_general",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "universal_peel_principles",
+            "cardinal_rules_emphasis"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Specific peel forms should reference this general document and then note any deviations (e.g., 'no vinegar rinse for this peel')."
+        ]
+    }
+}

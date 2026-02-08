@@ -1,0 +1,83 @@
+{
+    "form_analysis": {
+        "completeness_score": 87,
+        "rewards_awarded": 178,
+        "feedback": "Straightforward aftercare for a gentle, non-invasive treatment. Focuses on maintaining the post-facial glow, enhancing oxygenation, and protecting the skin. Appropriately simple with minimal restrictions.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Oxygen Facial Aftercare",
+        "introduction": "The following aftercare advice will help you maintain the radiant glow, improved circulation, and deep hydration achieved during your oxygen treatment.",
+        "instructions": {
+            "general_directive": "Please follow this simple aftercare to extend the benefits of your facial.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin will have an immediate glow, look plump, and feel incredibly smooth and hydrated. There is typically no downtime. Any mild pinkness will fade within an hour."
+                },
+                {
+                    "title": "Maximising the Oxygen Boost",
+                    "items": [
+                        "Do not wash your face for at least 4-6 hours to allow the nutrient-rich serums to fully absorb.",
+                        "Continue to support circulation: gentle facial massage, moderate exercise, and deep breathing are beneficial.",
+                        "Stay well-hydrated by drinking plenty of water to support cellular function and the oxygen transport system."
+                    ]
+                },
+                {
+                    "title": "Product Use",
+                    "content": "You may resume your normal skincare routine immediately. To build on the treatment, consider using antioxidant serums (like Vitamin C or E) which work synergistically with oxygen to protect the skin."
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "While your skin is not sensitised, maintaining a healthy glow requires sun protection. Apply a broad-spectrum SPF daily to prevent UV damage from undoing the brightening effects."
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "content": "There are no strict restrictions. However, to avoid clogging the freshly cleansed pores, it's advisable to avoid heavy, greasy makeup and excessively sweaty activities for the remainder of the day."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "You may apply makeup immediately if desired. Your makeup will likely apply more smoothly over your hydrated skin."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Adverse reactions are extremely rare. Contact your therapist if you experience any unusual irritation or rash.",
+                        "The intense glow and hydration can last 3-5 days. Regular treatments (monthly) are recommended for cumulative brightening and anti-ageing benefits.",
+                        "This is an excellent treatment before special events for an instant radiant effect."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "oxygen_facial",
+        "treatment_area": "face",
+        "document_length": "standard",
+        "risk_coverage": "low",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "circulation_support_advice",
+            "immediate_makeup_allowance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could mention it's a good treatment for those with rosacea or sensitive skin due to its calming, non-irritating nature."
+        ]
+    }
+}

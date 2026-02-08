@@ -1,0 +1,94 @@
+{
+    "form_analysis": {
+        "completeness_score": 89,
+        "rewards_awarded": 182,
+        "feedback": "Well-targeted aftercare for a specific, common area of tension. Provides excellent, practical advice for maintaining the results in a body area constantly under stress. Good warnings about potential headache triggers and dizziness. Focuses on ergonomics and habit change.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "pain_guidance",
+            "hydration_nutrition",
+            "activity_guidance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Head, Neck & Shoulder Massage Aftercare",
+        "introduction": "This aftercare advice is designed to help you prolong the relief from tension in your head, neck, and shoulders, and to prevent the rapid return of tightness caused by daily habits.",
+        "instructions": {
+            "general_directive": "Please follow this advice to protect the work done during your massage and integrate better posture into your day.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations and Timeline",
+                    "content": "You should feel a significant release of tension, with improved range of motion in your neck and shoulders. You may feel lightheaded or slightly spacey for a short while after rising. Mild tenderness in the treated muscles is normal for 24-48 hours, especially if knots were released. A mild, tension-type headache can sometimes occur as muscles adjust (a 'healing crisis')."
+                },
+                {
+                    "title": "Posture and Habit Integration - THE KEY TO LONG-TERM RELIEF",
+                    "items": [
+                        "Be Mindful of Posture: Check in with your posture every 30 minutes, especially if working at a desk, driving, or using a phone. Roll your shoulders back and down, keep your ears aligned over your shoulders.",
+                        "Ergonomics: Ensure your workstation is set up to support a neutral spine. Your screen should be at eye level.",
+                        "Take Micro-Breaks: Every 30-60 minutes, stand up, gently roll your neck (no forceful cracking), and do shoulder shrugs and rolls.",
+                        "Sleep Position: Try to sleep on your back or side with a supportive pillow that keeps your neck in a neutral alignment. Avoid stomach sleeping."
+                    ]
+                },
+                {
+                    "title": "Managing Potential Headaches",
+                    "content": "If you develop a mild headache after treatment, it is often due to dehydration or the release of tension. Drink plenty of water. A cool compress on the forehead or back of the neck can help. Avoid caffeine if prone to headaches. If a severe or migraine-like headache occurs, contact your therapist."
+                },
+                {
+                    "title": "Activity and Movement Guidance",
+                    "items": [
+                        "Gentle Movement: Practice slow, gentle neck stretches (ear to shoulder, chin to chest) several times a day. Do not force or 'crack' your neck.",
+                        "Avoid Strain: For 24-48 hours, avoid heavy lifting, strenuous upper body workouts, or activities that require looking up or down for prolonged periods.",
+                        "Heat Application: A warm shower or a heated neck wrap can be very soothing for any residual stiffness."
+                    ]
+                },
+                {
+                    "title": "Hydration and Diet",
+                    "content": "Drink water to help flush toxins released from the muscles. Limit caffeine and alcohol as they can contribute to muscle tension and dehydration."
+                },
+                {
+                    "title": "When to Contact Your Therapist",
+                    "items": [
+                        "If you experience severe pain, dizziness, or nausea that persists.",
+                        "If you have any numbness, tingling, or shooting pain down your arms.",
+                        "If a headache is severe or unrelenting.",
+                        "To discuss specific stretches or ergonomic advice for your situation."
+                    ]
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "The feeling of lightness and reduced tension in your upper body can last several days.",
+                        "Regular treatment (e.g., every 2-4 weeks) is often necessary to manage chronic tension caused by lifestyle factors.",
+                        "Notice which daily activities trigger your tension most, and work on modifying them."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "bodywork_aftercare",
+        "treatment_type": "head_neck_shoulder_massage",
+        "treatment_area": "upper_body",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "postural_integration_focus",
+            "ergonomics_advice",
+            "healing_crisis_headache_note"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could include a diagram of simple seated stretches for the neck and shoulders."
+        ]
+    }
+}

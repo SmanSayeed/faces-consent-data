@@ -1,0 +1,98 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 188,
+        "feedback": "Very careful and conservative aftercare protocol tailored for reactive skin. Prioritises minimalism, barrier support, and avoiding all potential triggers. Strong focus on using only familiar, trusted products and monitoring for delayed reactions.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "allergy_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Sensitive Skin Facial Aftercare",
+        "introduction": "The following aftercare advice is designed to be ultra-gentle and supportive, minimising the risk of a reactive response and helping to strengthen your skin's delicate barrier following your specialised treatment.",
+        "instructions": {
+            "general_directive": "Please follow this simplified, hypoallergenic aftercare routine. The goal is to calm and protect, not to introduce new active ingredients.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Some transient redness, warmth, and tightness are expected and should settle within a few hours. Due to the nature of sensitive skin, a delayed reaction (mild redness, tiny bumps, or itching) may occur 24-48 hours post-treatment. This is usually temporary."
+                },
+                {
+                    "title": "The Minimalist Routine",
+                    "items": [
+                        "For the next 3-5 days, use ONLY the most basic, trusted products you know your skin tolerates (often a gentle cream cleanser and a simple moisturizer with ceramides).",
+                        "Do not introduce any new skincare products, samples, or makeup for at least 1 week.",
+                        "Absolutely avoid all exfoliants (physical or chemical), masks, toners, and active serums (Vitamin C, retinol, acids) for 7 days."
+                    ]
+                },
+                {
+                    "title": "Cleansing and Water Temperature",
+                    "content": "Cleanse only once or twice daily with lukewarm water—never hot. Gently pat your skin dry with a clean, soft towel; do not rub."
+                },
+                {
+                    "title": "Soothing and Barrier Repair",
+                    "content": "If your skin feels reactive, apply a cool compress for 5-10 minutes. Use a fragrance-free, dye-free moisturizer containing calming ingredients like centella asiatica, oat, or ceramides to reinforce your skin barrier."
+                },
+                {
+                    "title": "Sun and Environmental Protection",
+                    "items": [
+                        "Use a gentle, mineral-based (zinc oxide/titanium dioxide) sunscreen with SPF 30+. Chemical sunscreens can sometimes irritate sensitive skin post-treatment.",
+                        "Avoid extreme temperatures, wind, and high pollution environments for 48 hours if possible."
+                    ]
+                },
+                {
+                    "title": "Activity and Dietary Triggers",
+                    "items": [
+                        "Avoid activities that cause significant flushing: strenuous exercise, saunas, steam rooms, hot baths, and spicy foods/alcohol for 48 hours.",
+                        "Try to manage stress levels, as emotional stress can manifest in sensitive skin."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is highly recommended to avoid all makeup for 24-48 hours. When you resume, use minimal, hypoallergenic products."
+                },
+                {
+                    "title": "Allergy and Reaction Awareness",
+                    "content": "Monitor your skin closely. Contact your therapist if you experience: increasing redness, intense itching, a raised rash (hives), swelling, or blistering. A mild, settled redness is normal; spreading irritation is not."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "The primary result of this facial should be calm, comfortable, balanced skin. Any soothing and hydrating benefits will be most apparent 2-3 days post-treatment.",
+                        "Sensitive skin requires consistent, gentle care. Note which products and steps from your facial provided the most comfort for future reference.",
+                        "If you have a history of reactions, you may wish to keep a simple diary of your skin's response."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "sensitive_skin_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "minimalist_product_approach",
+            "delayed_reaction_monitoring"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could suggest patch testing any new products on the neck before applying to the face after the 1-week period."
+        ]
+    }
+}

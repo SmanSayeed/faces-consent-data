@@ -1,0 +1,89 @@
+{
+    "form_analysis": {
+        "completeness_score": 92,
+        "rewards_awarded": 190,
+        "feedback": "Strong aftercare addressing the specific thermal effects of the treatment. Good focus on post-heat cooling, extended hydration, and clear warning signs for burns (even though rare). Appropriately emphasizes the deep relaxation component and potential for lightheadedness.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hydration_nutrition",
+            "activity_guidance",
+            "pain_guidance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Hot Stone Massage Aftercare",
+        "introduction": "This aftercare advice is designed to support your body after the deep, penetrating heat of a hot stone massage. The heat promotes profound muscle relaxation and circulation; aftercare helps your body regulate temperature and integrate the benefits.",
+        "instructions": {
+            "general_directive": "Please follow this advice to ensure your comfort and safety following the application of heat.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations and Timeline",
+                    "content": "You will feel extremely relaxed, possibly sleepy or slightly lightheaded from the vasodilation (expansion of blood vessels). Your muscles will feel deeply loose and warm. A mild, overall feeling of warmth may persist for several hours. Any redness from the stones should fade within 2-4 hours."
+                },
+                {
+                    "title": "Post-Heat Care and Hydration",
+                    "items": [
+                        "Cooling Down: Do not immediately go into a very cold environment. Allow your body temperature to normalize gradually.",
+                        "Critical Hydration: The heat causes significant fluid loss through perspiration. You MUST drink plenty of water for the next 24 hours to rehydrate and help flush toxins. Herbal tea is also good.",
+                        "Avoid Additional Heat: Do not take a hot shower, bath, sauna, or use a heating pad for at least 6 hours post-treatment. A lukewarm or cool shower is preferable.",
+                        "Avoid Alcohol and Caffeine: These are dehydrating and can counteract the relaxing effects."
+                    ]
+                },
+                {
+                    "title": "Activity Guidance",
+                    "content": "Rest is highly recommended. You may feel unsteady due to deep relaxation. Avoid driving or operating machinery until you feel fully alert. Strenuous exercise is not advised for 24 hours. Gentle walking is fine."
+                },
+                {
+                    "title": "Skin Care and Burn Awareness",
+                    "content": "The stones are carefully monitored for temperature, but sensitive skin may react. It is normal to have temporary, mild pinkness. You should NOT have: Blistering, persistent dark red patches, or pain that feels like a burn. If you notice any of these, apply a cool compress and contact your therapist immediately."
+                },
+                {
+                    "title": "Managing Lightheadedness",
+                    "content": "When rising from sitting or lying down, do so slowly. Sit on the edge of the massage table or a chair for a minute before standing. Drink water. If lightheadedness persists, inform the staff before leaving."
+                },
+                {
+                    "title": "When to Contact Your Therapist",
+                    "items": [
+                        "If you suspect a burn (blistering, severe redness, pain).",
+                        "If you feel nauseous, dizzy, or unwell after leaving.",
+                        "If you have excessive or unusual bruising (some minor bruising can occur from stone pressure)."
+                    ]
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "You may sleep more deeply than usual the night following your massage.",
+                        "The profound muscle relaxation and relief from tension can last for several days.",
+                        "This treatment is particularly beneficial for chronic muscle tension, stress, and poor circulation.",
+                        "Regular sessions (monthly or seasonally) can help manage these conditions."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the importance of hydration and the signs of a possible burn. I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "bodywork_aftercare",
+        "treatment_type": "hot_stone_massage",
+        "treatment_area": "full_body",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "post_heat_temperature_management",
+            "vasodilation_lightheadedness_warning"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could mention that it's contraindicated for those with certain medical conditions (varicose veins, diabetes) which should be screened for beforehand."
+        ]
+    }
+}

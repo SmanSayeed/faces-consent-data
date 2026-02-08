@@ -1,0 +1,91 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 178,
+        "feedback": "Standard, well-rounded aftercare for a classic relaxation massage. Focuses on hydration, gentle movement, and awareness of normal vs. abnormal reactions. Appropriately low-risk with clear self-care recommendations.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hydration_nutrition",
+            "activity_guidance",
+            "pain_guidance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Swedish Massage Aftercare",
+        "introduction": "The following aftercare advice will help you maximise the relaxing and circulatory benefits of your Swedish massage, and ensure your continued comfort.",
+        "instructions": {
+            "general_directive": "Please follow this gentle aftercare advice to extend the feeling of relaxation and wellbeing.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations and Timeline",
+                    "content": "You should feel deeply relaxed, possibly slightly sleepy or lightheaded, for several hours after your massage. It is normal to feel increased emotional awareness. Any mild muscle tenderness (like after light exercise) should resolve within 24-48 hours."
+                },
+                {
+                    "title": "Hydration is Key",
+                    "content": "Drink plenty of water for the next 24-48 hours. This helps flush metabolic waste (like lactic acid) that has been released from your muscles during the massage. Herbal tea is also acceptable; avoid excessive caffeine and alcohol as they are dehydrating."
+                },
+                {
+                    "title": "Activity Guidance",
+                    "items": [
+                        "Rest if you feel tired. Listen to your body.",
+                        "Gentle movement like walking or stretching is encouraged to maintain circulation and flexibility, but avoid strenuous exercise for 24 hours.",
+                        "A warm (not hot) bath with Epsom salts later in the day can help soothe any residual muscle tenderness."
+                    ]
+                },
+                {
+                    "title": "Pain and Discomfort Awareness",
+                    "content": "While some tenderness is normal, you should not experience sharp or acute pain. If you have significant soreness, you can apply a cool pack to the area for 10-15 minutes. Over-the-counter anti-inflammatories may be used if appropriate for you."
+                },
+                {
+                    "title": "Dietary Considerations",
+                    "content": "Try to eat a light, healthy meal after your massage. Heavy, rich foods may counteract the feeling of lightness and wellbeing."
+                },
+                {
+                    "title": "Emotional and Mental Awareness",
+                    "content": "Massage can release stored emotional tension. It's normal to feel a range of emotions or have vivid dreams in the day following your session. Be gentle with yourself and allow for processing time."
+                },
+                {
+                    "title": "When to Contact Your Therapist",
+                    "items": [
+                        "If you experience severe or increasing pain, especially with redness or heat in a specific area.",
+                        "If you develop a fever or feel generally unwell after your massage (very rare).",
+                        "If you have any other concerns about your reaction to the treatment."
+                    ]
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "The primary benefits—reduced stress, improved sleep, and a sense of wellbeing—are often felt immediately and can last for several days.",
+                        "Regular Swedish massage (e.g., monthly) is recommended for maintaining stress reduction and muscle health.",
+                        "Note any preferences (pressure, areas of focus) for your next session."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "bodywork_aftercare",
+        "treatment_type": "swedish_massage",
+        "treatment_area": "full_body",
+        "document_length": "standard",
+        "risk_coverage": "low",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "emotional_release_awareness",
+            "hydration_emphasis"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could add a reminder about scheduling follow-up sessions for cumulative stress management benefits."
+        ]
+    }
+}

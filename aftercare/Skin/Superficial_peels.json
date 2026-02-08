@@ -1,0 +1,76 @@
+{
+    "form_analysis": {
+        "completeness_score": 88,
+        "rewards_awarded": 182,
+        "feedback": "Appropriate aftercare for a light, 'lunchtime' peel. Emphasises the subtle nature of the treatment while still enforcing core chemical peel principles (sun care, no picking). Good for managing patient expectations of minimal flaking.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Superficial (Light) Chemical Peel Aftercare",
+        "introduction": "This aftercare advice is for a light chemical peel targeting the very top layer of skin (stratum corneum). Recovery is quick, but proper care ensures optimal brightening and smoothing results.",
+        "instructions": {
+            "general_directive": "Please follow the General Chemical Peel Principles, with the following specific notes for your superficial peel.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "You may experience a mild tingling or warmth for up to 20 minutes post-peel. Skin will appear slightly pink or shiny for 1-12 hours. Very light, sandpaper-like flaking or subtle peeling may occur on days 2-3, often barely visible. Your skin may feel tight."
+                },
+                {
+                    "title": "Specific Instructions",
+                    "items": [
+                        "Peeling/Frosting: You likely will not have visible 'sheets' of peeling skin. Flaking may be so light it comes off during cleansing.",
+                        "Cleansing/Moisturizing: You may cleanse gently 4-6 hours post-peel. Apply a light, non-comedogenic moisturizer as needed for tightness.",
+                        "Sun Protection: ABSOLUTELY CRITICAL. Even though visible damage is minimal, UV exposure post-peel can trigger pigmentation. Apply SPF 30+ daily.",
+                        "Product Restart: You may be able to resume your regular active products (like retinol or AHAs) after 3-5 days, or as instructed."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions",
+                    "content": "Avoid strenuous exercise and excessive heat for 24 hours. You may resume normal activities almost immediately."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "You can typically apply makeup within a few hours, once any tingling has stopped and the skin feels normal."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Adverse reactions are rare. Contact your practitioner if you experience significant redness, swelling, blistering, or itching beyond 24 hours.",
+                        "Results are subtle: a fresher, more radiant complexion with improved texture. Multiple treatments (4-6 spaced 2-4 weeks apart) yield the best outcome.",
+                        "This is a maintenance treatment, not a one-time correction."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "superficial_chemical_peel",
+        "treatment_area": "face",
+        "document_length": "standard",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "subtle_flaking_expectation",
+            "quick_product_resumption"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Remind patients that even though it's 'light,' sun protection is non-negotiable for preventing complications."
+        ]
+    }
+}

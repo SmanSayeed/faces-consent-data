@@ -1,0 +1,100 @@
+{
+    "form_analysis": {
+        "completeness_score": 97,
+        "rewards_awarded": 210,
+        "feedback": "Excellent, detailed, and cautious aftercare for a significant procedure. Provides a clear day-by-day guide, manages expectations for substantial peeling/swelling, and includes strong warnings about herpes simplex reactivation and hyperpigmentation risk. A model form for this depth of treatment.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "pain_guidance",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Medium-Depth Chemical Peel Aftercare",
+        "introduction": "This aftercare protocol is for a medium-depth peel (e.g., TCA 15-35%, modified Jessner's). This treatment creates a controlled injury to the mid-layers of skin. Strict adherence to these instructions is VITAL for safe healing, to minimise discomfort, and to prevent scarring or pigment changes.",
+        "instructions": {
+            "general_directive": "Follow the General Chemical Peel Principles WITHOUT DEVIATION. The instructions below are specific to your medium-depth peel.",
+            "sections": [
+                {
+                    "title": "Expected Healing Timeline & Symptoms",
+                    "content": "DAY 1-2: Significant redness, swelling, tightness. Skin may feel like a severe sunburn. DAY 2-4: Swelling peaks. Skin darkens (frosts), becomes taut, then begins to peel, often starting around the mouth. DAY 4-7: Intensive peeling phase. Pink, new skin is revealed underneath. DAY 7-10: Peeling completes. Skin is uniformly pink, smooth, and may be shiny. DAY 10-14+: Pinkness gradually fades. Meticulous sun care begins."
+                },
+                {
+                    "title": "Specific Post-Peel Care Protocol",
+                    "items": [
+                        "Antiviral Medication: If prescribed, take it as directed to prevent a cold sore outbreak.",
+                        "Cleansing/Frequent Soaks: You will likely be instructed to soak or gently cleanse the area 4-6 times per day with a specific solution (e.g., diluted vinegar) to prevent crusting and soothe the skin.",
+                        "Moisturizing/Ointment: Apply the provided healing ointment (e.g., petroleum jelly, specialized cream) LIBERALLY and CONSTANTLY after each cleanse/soak. The skin should never feel dry or tight.",
+                        "Cool Compresses: Use cool, soft compresses frequently in the first 48 hours to reduce swelling and burning sensation.",
+                        "Elevation: Sleep on your back with your head elevated on 2-3 pillows for the first 3-4 nights."
+                    ]
+                },
+                {
+                    "title": "Activity Restrictions (Strict)",
+                    "items": [
+                        "Absolutely NO exercise, sweating, or heat exposure until your practitioner confirms healing is complete (usually 7-10 days).",
+                        "Plan for 3-5 days of social downtime. You will be visibly peeling.",
+                        "Do not pick, scratch, or assist the peeling in any way."
+                    ]
+                },
+                {
+                    "title": "Sun Protection (Hypervigilant)",
+                    "content": "Once the initial peeling phase is over (Day 7-10), you MUST begin using a gentle physical sunscreen (zinc oxide/titanium dioxide) every day. For the first 4-6 weeks, avoid direct sun exposure entirely. This is the most critical period for preventing post-inflammatory hyperpigmentation (PIH)."
+                },
+                {
+                    "title": "Complication Awareness - Contact Us IMMEDIATELY for:",
+                    "items": [
+                        "Fever, chills, or nausea.",
+                        "Yellow/green pus or increasing pain/swelling/redness (signs of infection).",
+                        "Development of cold sores/fever blisters.",
+                        "Severe itching, hives, or a blistering rash (allergic reaction).",
+                        "Any area that is not peeling but appears dark, purple, or grey (possible necrosis)."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "Do NOT apply any makeup until all peeling has finished and your practitioner gives the okay (typically Day 7-10)."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Itching is very common during peeling. An oral antihistamine can help.",
+                        "The new skin will be pink for several weeks and is very delicate.",
+                        "Full results, including improvement in wrinkles, scars, and pigmentation, are assessed at 6-8 weeks post-peel. A series of 1-3 peels may be recommended.",
+                        "Attend ALL scheduled follow-up appointments (often at 24-48 hours, 1 week, and 1 month)."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "medium_depth_chemical_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "day_by_day_timeline",
+            "antiviral_medication_note",
+            "frequent_soaking_instructions"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide a printed day-by-day checklist for patients."
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 185,
+        "feedback": "Standard facial aftercare form with clear, practical advice. Effectively covers the essential post-treatment reactions, product use, and environmental triggers. Good emphasis on hydration and sun protection. Lacks a specific emergency protocol, which is typical and appropriate for this low-risk treatment.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "hydration_nutrition",
+            "activity_environmental_restrictions",
+            "follow_up_timing",
+            "general_side_effects"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Deep Cleansing Facial Aftercare",
+        "introduction": "The following aftercare advice is essential to help soothe your skin, prolong the benefits of your treatment, and prevent any irritation or breakouts.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice to care for your skin following your deep cleansing facial.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin may appear pink/red, feel warm, tight, or slightly sensitive immediately after your facial. This is a normal reaction and should settle within a few hours to 24 hours. You may notice some mild dryness or flaking over the next 1-2 days as your skin sheds impurities."
+                },
+                {
+                    "title": "Cleansing and Product Use",
+                    "items": [
+                        "Do not wash your face for at least 4-6 hours after treatment to allow the products to fully absorb and work.",
+                        "After this period, cleanse gently with a mild, non-abrasive cleanser recommended by your therapist.",
+                        "Avoid using any exfoliating scrubs, brushes (like Clarisonic), or acid-based products (AHA/BHA, retinol) for the next 3-5 days.",
+                        "You may resume your regular skincare routine, excluding exfoliants, after 3 days or as advised by your therapist."
+                    ]
+                },
+                {
+                    "title": "Hydration and Soothing",
+                    "content": "Apply a gentle, hydrating moisturizer liberally. If your skin feels particularly warm, a cool compress can be soothing. Drink plenty of water to help flush out toxins and keep your skin hydrated from within."
+                },
+                {
+                    "title": "Activity, Environmental and Sun Protection",
+                    "items": [
+                        "Avoid sun exposure, sunbeds, and excessive heat (saunas, steam rooms, very hot showers) for at least 48 hours as your skin will be more sensitive.",
+                        "If you must go outside, apply a broad-spectrum sunscreen with SPF 30 or higher. This is non-negotiable.",
+                        "Avoid swimming in chlorinated pools or the sea for 24-48 hours."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is best to avoid wearing makeup for 24 hours to allow your pores to breathe. If you must apply makeup, ensure it is non-comedogenic and apply it gently with clean tools."
+                },
+                {
+                    "title": "Dietary Considerations",
+                    "content": "Avoid alcohol and excessively spicy foods for 24 hours as they can cause flushing and counteract the calming effects of the facial."
+                },
+                {
+                    "title": "Breakout Response (Purging)",
+                    "content": "A deep cleansing facial can accelerate your skin's natural renewal process. It is not uncommon to experience a few small breakouts or whiteheads 1-3 days after treatment as impurities are brought to the surface. This is temporary. Do not pick or squeeze these spots; keep the area clean and allow them to heal naturally."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "While very rare with professional treatments, you must contact your therapist if you experience any signs of infection such as increasing pain, spreading redness, heat, or pus."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Contact your therapist if you experience any severe or persistent irritation, rash, or unexpected reaction.",
+                        "The full clarifying and brightening results of your facial will be visible within 2-3 days as your skin settles.",
+                        "For best results, maintain a consistent home care routine and schedule regular treatments as recommended by your therapist."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "deep_cleansing_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "product_use_restrictions",
+            "purging_guidance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Consider adding a note about avoiding waxing or hair removal on the treated area for 5-7 days."
+        ]
+    }
+}

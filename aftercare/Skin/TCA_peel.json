@@ -1,0 +1,100 @@
+{
+    "form_analysis": {
+        "completeness_score": 96,
+        "rewards_awarded": 205,
+        "feedback": "Highly detailed and cautious aftercare for a potent, versatile peel. Excellently covers the range from light to medium-depth application. Strong emphasis on the distinct frosting phenomenon, prolonged sun sensitivity, and high PIH risk. Provides clear escalation protocols for complications.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "pain_guidance",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Trichloroacetic Acid (TCA) Peel Aftercare",
+        "introduction": "This aftercare protocol is for a Trichloroacetic Acid (TCA) peel. TCA is a potent, protein-denaturing acid used for a range of depths. Healing is significant, and the risk of post-inflammatory hyperpigmentation (PIH) is high if aftercare is not followed meticulously. This is a serious treatment requiring disciplined recovery.",
+        "instructions": {
+            "general_directive": "Follow the General Chemical Peel Principles and the Medium-Depth Peel Aftercare instructions STRICTLY. TCA-specific notes are below.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "INTENSE burning/stinging for the first 5-20 minutes. A characteristic 'FROST' (white, cloudy coagulation of skin proteins) will appear and last for several hours. Significant redness, swelling, and tightness for 2-4 days. Skin darkens, then peels in sheets/sections over 5-8 days. New skin is pink and sensitive for several weeks."
+                },
+                {
+                    "title": "TCA-Specific Care Points",
+                    "items": [
+                        "The Frost: Do not be alarmed by the white appearance; it is expected. Do not try to wash it off. It will fade.",
+                        "Vinegar Soaks/Rinses: You will likely be instructed to use diluted white vinegar soaks/sprays to relieve burning, neutralise residual acid, and prevent crusting. Follow the frequency and duration exactly.",
+                        "Occlusive Ointment: After soaks/cleanses, apply a thick layer of healing ointment (e.g., petroleum jelly) to create a protective barrier. The skin must stay moist.",
+                        "Pain Management: The initial burning can be severe. Cool compresses/fanning and prescribed pain medication are essential.",
+                        "Swelling: Expect significant swelling, especially around the eyes, peaking on day 2-3. Elevate your head at all times, even when sleeping."
+                    ]
+                },
+                {
+                    "title": "Hyperpigmentation (PIH) Prevention - PARAMOUNT",
+                    "content": "TCA carries a high risk of causing dark spots if the skin is exposed to UV light during healing. 1) ABSOLUTELY NO SUN EXPOSURE for the first 4 weeks. 2) After peeling completes (Day 7-10), begin using a gentle physical sunscreen (zinc oxide) EVERY DAY without fail. 3) Consider using a tyrosinase inhibitor (like hydroquinone or kojic acid) pre- and post-peel as directed by your practitioner to further prevent PIH."
+                },
+                {
+                    "title": "Activity Restrictions (Strict)",
+                    "items": [
+                        "Complete social and physical rest for 5-7 days (until major peeling is over).",
+                        "No exercise/sweating for 10-14 days.",
+                        "Plan for downtime."
+                    ]
+                },
+                {
+                    "title": "Complication Awareness - Contact Us IMMEDIATELY for:",
+                    "items": [
+                        "Signs of infection (pus, increasing pain, fever).",
+                        "Development of cold sores.",
+                        "Any areas that appear very dark brown, black, purple, or grey after the frost subsides (possible deep necrosis).",
+                        "Severe itching or hives.",
+                        "Blistering beyond small, scattered blisters."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "Do NOT apply makeup until all peeling is complete and your practitioner approves (typically Day 8-10)."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Itching during peeling can be intense. Oral antihistamines can help.",
+                        "The new skin will be pink for 2-8 weeks, depending on depth.",
+                        "TCA is excellent for scars, wrinkles, and sun damage. Results improve over 3-6 months as new collagen forms.",
+                        "A series of lighter TCA peels or a single deeper one may be performed. Follow-up is crucial."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form. TCA peels require a serious commitment to aftercare.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the significant recovery process and the critical importance of sun avoidance to prevent complications. I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "tca_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "frosting_phenomenon",
+            "vinegar_soak_protocol",
+            "high_pih_risk_warning"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Provide specific dilution ratios and schedules for vinegar soaks in a separate handout."
+        ]
+    }
+}

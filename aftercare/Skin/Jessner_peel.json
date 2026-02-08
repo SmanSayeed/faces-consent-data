@@ -1,0 +1,91 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 198,
+        "feedback": "Strong aftercare for a combined acid peel. Effectively communicates the unique aspects: rapid frosting, potential for significant peeling, and salicylic acid's systemic caution. Good balance of managing a medium-depth peel's recovery with specific ingredient warnings.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "swelling_management",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Jessner's Peel Aftercare",
+        "introduction": "This aftercare protocol is for a Jessner's peel, a combination of salicylic acid, lactic acid, and resorcinol. It creates a rapid, even frost and is effective for acne, pigmentation, and photodamage. It is considered a medium-depth peel with a significant healing process.",
+        "instructions": {
+            "general_directive": "Follow the General Chemical Peel Principles and the Medium-Depth Peel Aftercare instructions. Jessner's-specific notes are below.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Rapid frosting (whitening) occurs within minutes. Significant redness, tightness, and a burning sensation for the first 24-48 hours. Swelling peaks on day 2. Skin darkens to a bronze/grey colour before peeling begins around day 3-4. Peeling is often pronounced and in large sheets over 4-7 days."
+                },
+                {
+                    "title": "Jessner's-Specific Care Points",
+                    "items": [
+                        "Rapid Frost: The quick frosting is normal. Do not be alarmed.",
+                        "Resorcinol Note: This component can cause a temporary grey/brown discolouration before peeling. This is not scarring.",
+                        "Salicylic Acid Systemic Effect: In high doses or over large areas, salicylic acid can be absorbed systemically. Report any symptoms of salicylism to your practitioner immediately: ringing in the ears (tinnitus), dizziness, nausea, rapid breathing, or confusion. (This is rare with facial peels).",
+                        "Aftercare Soaks: You will likely be instructed on a specific soaking/cleansing regimen to soothe the skin and facilitate peeling."
+                    ]
+                },
+                {
+                    "title": "Sun Protection and PIH Risk",
+                    "content": "The skin is highly susceptible to pigmentation changes post-peel. Strict sun avoidance for 4-6 weeks is mandatory. Daily use of a physical sunscreen (SPF 30-50) begins once peeling is complete."
+                },
+                {
+                    "title": "Activity Restrictions (Strict)",
+                    "items": [
+                        "No exercise, sweating, or heat exposure for 7-10 days.",
+                        "Plan for 5-7 days of social downtime due to visible peeling.",
+                        "Do not pick or pull the peeling skin."
+                    ]
+                },
+                {
+                    "title": "Complication Awareness",
+                    "content": "Contact your practitioner immediately for: signs of infection (pus, increasing pain, fever), cold sore outbreak, symptoms of salicylism (see above), or any areas of intense, persistent pain or dark discolouration that does not peel."
+                },
+                {
+                    "title": "Makeup",
+                    "content": "Do NOT apply makeup until all peeling is complete (typically Day 7-10)."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Itching is common during the peeling phase.",
+                        "The new skin will be pink and smooth. Redness can persist for several weeks.",
+                        "Jessner's is excellent for treating acne, melasma, and solar lentigines (sun spots).",
+                        "A series of 3-6 peels spaced 3-4 weeks apart is typical for optimal results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form. I am aware of the rare risk of salicylate toxicity and will report any concerning symptoms. I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "jessners_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "area_specific_features": [
+            "resorcinol_discoloration_note",
+            "salicylism_toxicity_warning"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Ensure patients with aspirin allergies are identified pre-treatment, as salicylic acid is related."
+        ]
+    }
+}

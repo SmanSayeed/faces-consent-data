@@ -1,0 +1,94 @@
+{
+    "form_analysis": {
+        "completeness_score": 91,
+        "rewards_awarded": 188,
+        "feedback": "Excellent aftercare that captures the holistic nature of reflexology. Clearly explains common systemic responses (healing reaction) and provides a good timeline for expected effects. Strong emphasis on hydration and rest to support the body's self-healing process. Good guidance on emotional release.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hydration_nutrition",
+            "activity_guidance",
+            "pain_guidance",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Reflexology Aftercare",
+        "introduction": "This aftercare advice supports the holistic effects of your reflexology session. Reflexology works by stimulating points on the feet (or hands) that correspond to organs and systems throughout the body, encouraging balance and self-healing.",
+        "instructions": {
+            "general_directive": "Please follow this advice to help your body process the treatment and achieve optimal balance.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Sensations and Timeline",
+                    "content": "You will likely feel deeply relaxed. Over the next 24-72 hours, you may experience a 'healing reaction' as your body responds to the stimulation. This is a positive sign that the treatment is working. Effects can be felt for 3-5 days post-session."
+                },
+                {
+                    "title": "Understanding the Healing Reaction",
+                    "content": "As energy blockages are released and circulation improves, temporary symptoms may arise as the body rebalances. These can include: increased urination or bowel movements, mild headache, fatigue, emotional release (tearfulness), vivid dreams, transient flare-up of an old symptom, or a slight cold-like feeling. These should be mild and short-lived (24-48 hours)."
+                },
+                {
+                    "title": "The Essential Aftercare Trio",
+                    "items": [
+                        "Rest: Your body is doing internal work. Honour any feelings of tiredness and get adequate sleep.",
+                        "Hydrate: Drink plenty of water and herbal teas to help flush released toxins from your system. This is the most important step to minimise healing reactions.",
+                        "Nourish: Eat light, easily digestible foods (soups, steamed vegetables). Avoid heavy, rich, or processed foods and limit alcohol and caffeine for 24 hours."
+                    ]
+                },
+                {
+                    "title": "Foot Care and Sensation",
+                    "content": "Your feet may feel more sensitive, tingling, or warm. This is normal. You can soak them in warm water with Epsom salts later in the day if they feel tender. Avoid strenuous activities that put excessive pressure on your feet (e.g., long runs) for 24 hours."
+                },
+                {
+                    "title": "Emotional and Energetic Awareness",
+                    "content": "Reflexology can release stored emotions. Be kind to yourself if you feel emotional, spacey, or need quiet time. The treatment works on a subtle energetic level; allow for integration."
+                },
+                {
+                    "title": "When to Contact Your Therapist",
+                    "items": [
+                        "If you have a severe or prolonged healing reaction that concerns you.",
+                        "If you experience significant pain in your feet that is not just tenderness.",
+                        "To provide feedback on which areas felt sensitive, as this can inform future treatments.",
+                        "If you have any questions about your symptoms."
+                    ]
+                },
+                {
+                    "title": "Activity Guidance",
+                    "content": "Gentle activities like walking are fine. Avoid intense workouts for 24 hours. Listen to your body—if you feel tired, rest."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Note any changes in your sleep, digestion, energy levels, or emotional state over the next few days.",
+                        "The primary goal is balance and improved wellbeing, not necessarily the cure of a specific ailment.",
+                        "For chronic issues, a course of treatments (e.g., 6 sessions weekly or bi-weekly) is typically recommended to restore balance, followed by maintenance sessions.",
+                        "Keep a simple journal of your reactions to track progress."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the concept of a 'healing reaction' and the importance of hydration. I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "bodywork_aftercare",
+        "treatment_type": "reflexology",
+        "treatment_area": "feet_hands",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "healing_reaction_explanation",
+            "systemic_response_focus",
+            "energetic_integration_guidance"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could provide a simple foot chart for clients to note areas of sensitivity post-treatment."
+        ]
+    }
+}

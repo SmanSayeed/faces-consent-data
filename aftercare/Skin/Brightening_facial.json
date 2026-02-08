@@ -1,0 +1,96 @@
+{
+    "form_analysis": {
+        "completeness_score": 92,
+        "rewards_awarded": 190,
+        "feedback": "Strong aftercare form for a treatment targeting pigmentation. Excellently emphasizes the critical importance of sun protection as part of the treatment outcome, not just aftercare. Clear guidance on managing potential mild peeling and avoiding pigment-triggering factors.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing",
+            "infection_awareness"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Brightening Facial Aftercare",
+        "introduction": "The following aftercare advice is crucial to protect your skin, prevent post-inflammatory hyperpigmentation, and ensure you achieve the optimal brightening and even-toned results from your treatment.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice meticulously. Sun protection is a non-negotiable part of your treatment protocol.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin may be pink, feel slightly tight, warm, or tingly for 12-48 hours. Mild flaking or peeling in areas where pigment is concentrated may occur 2-4 days post-treatment. This is a normal part of the cell renewal process."
+                },
+                {
+                    "title": "Sun Protection - THE MOST IMPORTANT STEP",
+                    "items": [
+                        "You MUST avoid direct sun exposure completely for at least 48 hours.",
+                        "You MUST apply a broad-spectrum UVA/UVB sunscreen with SPF 30 or higher (SPF 50+ is ideal) every single day, regardless of weather or indoor status, for the next 2 weeks and indefinitely thereafter.",
+                        "Reapply sunscreen every 2 hours if you are outdoors. Wear a wide-brimmed hat for added protection."
+                    ]
+                },
+                {
+                    "title": "Cleansing and Product Use",
+                    "items": [
+                        "Cleanse gently with a lukewarm water and a mild, non-exfoliating cleanser for the first 3 days.",
+                        "Do not use any other active brightening products (e.g., Vitamin C, hydroquinone, prescription retinoids) for 5-7 days unless specifically instructed by your therapist.",
+                        "Absolutely avoid any physical exfoliation (scrubs, brushes) or chemical exfoliation (AHA/BHA) for 7 days.",
+                        "Use a gentle, reparative moisturizer to soothe the skin."
+                    ]
+                },
+                {
+                    "title": "Managing Peeling and Dryness",
+                    "content": "Do not pick, peel, or scratch any flaking skin. Allow it to shed naturally. Picking can cause scarring and reverse brightening effects by triggering more pigment. Keep the skin well-moisturized to ease any tightness."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid heat-based activities (strenuous exercise, saunas, hot yoga, steam rooms) for 48 hours to minimise inflammation and flushing.",
+                        "Avoid swimming in chlorinated or salt water for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Dietary and Lifestyle Considerations",
+                    "content": "Avoid alcohol and spicy foods for 24 hours as they can cause flushing. Continue to avoid sun exposure as per above instructions."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Contact your therapist if you experience signs of infection such as increasing pain, yellow crusting, or pus. Severe itching or a blistering rash may indicate a reaction and should also be reported."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Your skin may appear slightly darker before it exfoliates and reveals brighter skin. Final, visible lightening results are typically seen 7-14 days post-treatment as the new skin surface emerges.",
+                        "Multiple treatments are almost always necessary for significant brightening. Consistency with home care (especially SPF) is paramount for success.",
+                        "Contact your therapist if you have any concerns during the healing process."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "brightening_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "pigment_prevention_emphasis",
+            "flaking_management"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could add a warning about possible temporary 'pseudo-darkening' of sun spots as they rise to the surface."
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "form_analysis": {
+        "completeness_score": 94,
+        "rewards_awarded": 195,
+        "feedback": "Excellent, detailed aftercare for a treatment that actively triggers a healing response. Provides crucial guidance on managing the expected 'purging' phase, distinguishing it from a breakout. Strong emphasis on gentle handling, product restrictions, and sun protection to prevent marks.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "infection_awareness",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Acne Control Facial Aftercare",
+        "introduction": "The following aftercare advice is critical to manage your skin's response, minimise irritation, prevent new breakouts, and reduce the risk of post-inflammatory hyperpigmentation (dark marks) following your intensive acne treatment.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice diligently. Your skin has undergone a controlled trauma to clear pores and kill bacteria; it now requires gentle, healing-focused care.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin will be red, may feel warm, tight, and look shiny/swollen for 24-72 hours. Active acne may appear temporarily more inflamed. Mild peeling or dryness is common 2-5 days post-treatment. A 'purging' phase (see below) is likely."
+                },
+                {
+                    "title": "Understanding Purging vs. Breakouts",
+                    "content": "PURGING is a normal, positive response where pre-existing microcomedones (clogged pores under the skin) are accelerated to the surface. It appears as small whiteheads or blackheads, usually in areas where you typically get acne, and clears within 1-2 weeks. A BREAKOUT (reaction) would be new cysts or inflamed pimples in unusual areas, often accompanied by significant irritation."
+                },
+                {
+                    "title": "The Golden Rule: Do Not Pick",
+                    "content": "It is imperative that you DO NOT pick, squeeze, or scratch any spots or flaking skin. This can push bacteria deeper, cause scarring, and dramatically increase the risk of dark post-acne marks (PIH)."
+                },
+                {
+                    "title": "Cleansing and Product Use",
+                    "items": [
+                        "Cleanse only with a gentle, non-foaming, soap-free cleanser, using lukewarm water and your fingertips only (no cloths or brushes) for the first 3 days.",
+                        "STOP all other acne medications (benzoyl peroxide, salicylic acid, retinoids, prescription topicals) for 3-5 days or as directed by your therapist.",
+                        "Use only the soothing, non-comedogenic products recommended by your therapist. A light, oil-free moisturizer is essential to repair the barrier.",
+                        "Do not use any physical or chemical exfoliants for 7 days."
+                    ]
+                },
+                {
+                    "title": "Sun Protection",
+                    "content": "Acne-prone skin healing from inflammation is highly susceptible to pigmentation. You MUST apply a non-comedogenic, oil-free, broad-spectrum SPF 30+ every single morning, even indoors. Sun exposure without protection will darken any red marks left by healing acne."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid sweating (strenuous exercise), saunas, steam, and hot showers for 48-72 hours to prevent further irritation and bacterial spread.",
+                        "Avoid swimming in chlorinated pools for 48 hours.",
+                        "Change your pillowcase every other night and keep phone screens clean."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "Avoid makeup for 24 hours if possible. If you must wear it, use non-comedogenic, mineral-based products and apply with clean brushes/sponges. Remove it gently."
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "Contact your therapist immediately if you notice signs of infection: increasing pain, spreading hot redness, yellow pus, or fever. Also contact them if you experience severe, widespread irritation or a blistering rash."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "Initial redness and swelling subside in 2-3 days. Purging may occur for 1-2 weeks.",
+                        "Visible clearing and reduced oiliness are typically seen 1-2 weeks post-treatment. Maximum results are achieved with a consistent course of treatments.",
+                        "Stay in touch with your therapist to monitor your progress and adjust home care."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "acne_control_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "purging_vs_breakout_guidance",
+            "pigmentation_prevention_emphasis"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could include a note about avoiding hats/helmets that cause friction on treated areas."
+        ]
+    }
+}

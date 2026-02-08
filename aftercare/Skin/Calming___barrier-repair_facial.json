@@ -1,0 +1,95 @@
+{
+    "form_analysis": {
+        "completeness_score": 93,
+        "rewards_awarded": 192,
+        "feedback": "Highly specialised aftercare form for compromised skin. Excellently frames aftercare as a direct continuation of the treatment's reparative goal. Provides clear, non-negotiable rules about avoiding all irritants and supporting the lipid barrier. Strong patient education component.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Calming / Barrier-Repair Facial Aftercare",
+        "introduction": "This aftercare protocol is a critical extension of your treatment. Your skin barrier has been supported with reparative ingredients; the goal now is to protect this fragile new foundation and allow it to strengthen without disruption.",
+        "instructions": {
+            "general_directive": "Follow this 'skin holiday' protocol strictly. The key principle is to DO LESS. Allow your skin to heal itself with minimal intervention.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin should feel immediately soothed, less tight, and more comfortable. Any pre-existing redness may be slightly pinker for 12-24 hours before improving. As your barrier recovers over 3-7 days, you will notice increased resilience, less reactivity, and better hydration retention."
+                },
+                {
+                    "title": "The Repair Phase: Product Protocol",
+                    "items": [
+                        "For the next 7-14 days, use ONLY the ultra-gentle, barrier-repair products recommended by your therapist (typically containing ceramides, cholesterol, fatty acids, and soothing agents like panthenol).",
+                        "STOP ALL ACTIVE INGREDIENTS: Absolutely no retinoids/retinol, AHAs/BHAs, Vitamin C (L-ascorbic acid), benzoyl peroxide, or physical scrubs. These will break down your new lipid barrier.",
+                        "Cleanse only once per day (in the evening) with a milky or cream cleanser, using lukewarm water. In the morning, just splash with water.",
+                        "Apply your reparative moisturizer to slightly damp skin to lock in water."
+                    ]
+                },
+                {
+                    "title": "Avoiding Barrier Disruption",
+                    "content": "Do not use washcloths, cleansing brushes, muslin cloths, or any abrasive tools. Use only your clean fingertips. Avoid tap water with high mineral content (hard water) if possible; micellar water can be a gentle alternative for cleansing."
+                },
+                {
+                    "title": "Sun and Environmental Protection",
+                    "items": [
+                        "A compromised barrier is vulnerable to UV and pollution. Use a gentle mineral sunscreen (zinc oxide is ideal) every morning.",
+                        "Avoid extreme weather, windy conditions, and heavily air-conditioned or heated environments."
+                    ]
+                },
+                {
+                    "title": "Activity and Lifestyle",
+                    "items": [
+                        "Avoid anything that causes significant facial flushing or sweating: intense exercise, hot yoga, saunas, spicy food, and alcohol for at least 72 hours.",
+                        "Manage stress and ensure adequate sleep, as these directly impact barrier function.",
+                        "Consider changing pillowcases frequently to a soft, natural fabric like silk or satin."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is strongly advised to avoid all makeup for a minimum of 48 hours, and ideally for 3-5 days to let the barrier seal. When resuming, choose minimal, non-comedogenic products."
+                },
+                {
+                    "title": "Signs of Healing",
+                    "content": "Positive signs that your barrier is repairing include: reduced sensitivity, less stinging when applying products, diminished redness, improved hydration (skin feels supple, not tight), and fewer random breakouts or dry patches."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "If you experience a temporary increase in small, flesh-colored bumps (closed comedones), it may be your skin adjusting to richer creams. This often settles. Contact your therapist if it persists.",
+                        "True barrier repair is a slow process. Initial calming is immediate, but a stronger, more resilient barrier is built over 2-4 weeks of consistent, gentle care.",
+                        "Contact your therapist if you experience any severe itching, burning, or a rash."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "calming_barrier_repair_facial",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "high",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "active_ingredient_cessation",
+            "barrier_healing_signs_monitoring"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could include a note about potential initial 'product pillage' where skin may not absorb creams well due to barrier damage, which improves with time."
+        ]
+    }
+}

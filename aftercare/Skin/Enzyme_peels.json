@@ -1,0 +1,87 @@
+{
+    "form_analysis": {
+        "completeness_score": 90,
+        "rewards_awarded": 185,
+        "feedback": "Solid aftercare for a gentle chemical exfoliation. Clearly outlines the expected mild flaking and sensitisation period. Provides good guidance on sun protection and product avoidance to prevent irritation. Bridges the gap between a mild peel and a standard facial.",
+        "sections_covered": [
+            "immediate_symptoms_timeline",
+            "hygiene_instructions",
+            "product_use_instructions",
+            "activity_environmental_restrictions",
+            "follow_up_timing"
+        ],
+        "clarity_issues": []
+    },
+    "form_data": {
+        "document_title": "Enzyme Peel Aftercare",
+        "introduction": "The following aftercare advice is important to care for your skin after its gentle exfoliation. Enzymes have worked to dissolve dead skin cells; your skin will now be slightly more sensitive and requires protective, soothing care.",
+        "instructions": {
+            "general_directive": "Please follow this aftercare advice to ensure a smooth recovery and reveal brighter, smoother skin.",
+            "sections": [
+                {
+                    "title": "Immediate Post-Treatment Symptoms and Timeline",
+                    "content": "Your skin may be pink and feel warm, tight, or slightly sensitive for 12-24 hours. Mild flaking or peeling, often described as a 'napkin peel,' may occur 2-4 days after treatment, primarily on the cheeks, forehead, and chin. This is normal and a sign the treatment is working."
+                },
+                {
+                    "title": "Cleansing and Product Use",
+                    "items": [
+                        "Cleanse gently with a lukewarm water and a mild, non-foaming cleanser for the first 48 hours.",
+                        "Do not use any other exfoliating products (retinol, AHA/BHA, scrubs) for 5-7 days.",
+                        "Apply a soothing, hydrating moisturizer frequently to alleviate tightness and support the barrier.",
+                        "If peeling occurs, DO NOT PICK OR PULL the skin. Allow it to shed naturally."
+                    ]
+                },
+                {
+                    "title": "Sun Protection - Critical",
+                    "content": "Your new skin is more vulnerable to UV damage. You MUST apply a broad-spectrum sunscreen with SPF 30 or higher every morning for at least 1 week. Avoid direct sun exposure for 48 hours."
+                },
+                {
+                    "title": "Activity and Environmental Restrictions",
+                    "items": [
+                        "Avoid heat-inducing activities (strenuous exercise, saunas, hot yoga, steam rooms) for 48 hours to minimise inflammation and flushing.",
+                        "Avoid swimming in chlorinated pools or the sea for 48 hours."
+                    ]
+                },
+                {
+                    "title": "Makeup",
+                    "content": "It is best to avoid makeup for 24 hours. When you resume, apply it gently. Flaking skin can make makeup application uneven; extra moisturizer can help create a smoother base."
+                },
+                {
+                    "title": "Hydration",
+                    "content": "Drink plenty of water and use a hydrating serum or moisturizer to help plump the new skin cells from underneath."
+                },
+                {
+                    "title": "General Side Effects and Results Assessment",
+                    "items": [
+                        "If you experience significant stinging, burning, or itching beyond 24 hours, discontinue all products and contact your therapist.",
+                        "Once any peeling has finished (around day 4-5), your skin will appear brighter, smoother, and more even-toned.",
+                        "Enzyme peels are gentle enough for regular use (e.g., every 2-4 weeks) to maintain results."
+                    ]
+                }
+            ]
+        },
+        "patient_declaration": {
+            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
+        }
+    },
+    "metadata": {
+        "processing_date": "2024-01-15",
+        "format_preserved": true,
+        "form_type": "cosmetic_procedure_aftercare",
+        "treatment_type": "enzyme_peel",
+        "treatment_area": "face",
+        "document_length": "comprehensive",
+        "risk_coverage": "standard",
+        "emergency_protocols_included": false,
+        "area_specific_features": [
+            "napkin_peel_description",
+            "gentle_exfoliation_recovery"
+        ],
+        "clarity_notes": [],
+        "recommendations": [
+            "Could specify that enzymatic peeling is often preferred for sensitive skin types over acid peels."
+        ]
+    }
+}
