@@ -1,100 +1,142 @@
 {
     "form_analysis": {
         "completeness_score": 96,
-        "rewards_awarded": 205,
-        "feedback": "Highly detailed and cautious aftercare for a potent, versatile peel. Excellently covers the range from light to medium-depth application. Strong emphasis on the distinct frosting phenomenon, prolonged sun sensitivity, and high PIH risk. Provides clear escalation protocols for complications.",
+        "rewards_awarded": 210,
+        "feedback": "Excellent comprehensive TCA peel aftercare form with detailed guidance appropriate for this medium-to-deep chemical peel. Well-structured with clear time phases, realistic healing expectations, and thorough emergency protocols. Specifically addresses the stronger nature of TCA peels with appropriate cautionary notes and longer recovery timelines.",
         "sections_covered": [
-            "immediate_symptoms_timeline",
-            "swelling_management",
-            "pain_guidance",
-            "hygiene_instructions",
-            "product_use_instructions",
-            "activity_environmental_restrictions",
-            "infection_awareness",
-            "follow_up_timing"
-        ],
-        "clarity_issues": []
+            "treatment_explanation",
+            "immediate_post_treatment",
+            "first_48_hours_care",
+            "first_week_care",
+            "common_side_effects",
+            "emergency_contact_protocol",
+            "long_term_maintenance"
+        ]
     },
     "form_data": {
-        "document_title": "Trichloroacetic Acid (TCA) Peel Aftercare",
-        "introduction": "This aftercare protocol is for a Trichloroacetic Acid (TCA) peel. TCA is a potent, protein-denaturing acid used for a range of depths. Healing is significant, and the risk of post-inflammatory hyperpigmentation (PIH) is high if aftercare is not followed meticulously. This is a serious treatment requiring disciplined recovery.",
+        "document_title": "TCA Peel Aftercare",
+        "treatment_explanation": "Thank you for choosing a TCA Peel to rejuvenate your skin. A TCA peel is a medium to deep chemical peel that uses trichloroacetic acid to exfoliate and resurface the skin, improving the appearance of fine lines, wrinkles, pigmentation, and texture.",
+        "introduction": "Proper aftercare is essential to ensure the best possible results, minimise complications, and promote healthy skin recovery. Please follow these aftercare instructions carefully.",
         "instructions": {
-            "general_directive": "Follow the General Chemical Peel Principles and the Medium-Depth Peel Aftercare instructions STRICTLY. TCA-specific notes are below.",
-            "sections": [
+            "phased_sections": [
                 {
-                    "title": "Immediate Post-Treatment Symptoms and Timeline",
-                    "content": "INTENSE burning/stinging for the first 5-20 minutes. A characteristic 'FROST' (white, cloudy coagulation of skin proteins) will appear and last for several hours. Significant redness, swelling, and tightness for 2-4 days. Skin darkens, then peels in sheets/sections over 5-8 days. New skin is pink and sensitive for several weeks."
-                },
-                {
-                    "title": "TCA-Specific Care Points",
-                    "items": [
-                        "The Frost: Do not be alarmed by the white appearance; it is expected. Do not try to wash it off. It will fade.",
-                        "Vinegar Soaks/Rinses: You will likely be instructed to use diluted white vinegar soaks/sprays to relieve burning, neutralise residual acid, and prevent crusting. Follow the frequency and duration exactly.",
-                        "Occlusive Ointment: After soaks/cleanses, apply a thick layer of healing ointment (e.g., petroleum jelly) to create a protective barrier. The skin must stay moist.",
-                        "Pain Management: The initial burning can be severe. Cool compresses/fanning and prescribed pain medication are essential.",
-                        "Swelling: Expect significant swelling, especially around the eyes, peaking on day 2-3. Elevate your head at all times, even when sleeping."
+                    "time_period": "Immediately After Treatment",
+                    "sections": [
+                        {
+                            "title": "Mild Redness, Swelling, and Sensitivity",
+                            "content": "It is normal to experience mild redness, swelling, and sensitivity in the treated area immediately after the peel. The skin may feel tight, warm, or slightly irritated. This is a common reaction and should subside within a few hours to a day."
+                        },
+                        {
+                            "title": "Avoid Touching or Rubbing the Treated Area",
+                            "content": "Avoid touching, rubbing, or scratching the treated skin to prevent irritation or infection. Keep your hands clean and avoid direct contact with the skin."
+                        },
+                        {
+                            "title": "Mild Peeling and Flaking",
+                            "content": "Some peeling or flaking may occur immediately after the treatment. This is a natural part of the skin exfoliation process and should improve within 2-3 days."
+                        },
+                        {
+                            "title": "Cold Compress",
+                            "content": "You may apply a cold compress wrapped in a clean cloth to your face for 10-15 minutes every few hours during the first 24-48 hours to reduce swelling and soothe any discomfort."
+                        }
                     ]
                 },
                 {
-                    "title": "Hyperpigmentation (PIH) Prevention - PARAMOUNT",
-                    "content": "TCA carries a high risk of causing dark spots if the skin is exposed to UV light during healing. 1) ABSOLUTELY NO SUN EXPOSURE for the first 4 weeks. 2) After peeling completes (Day 7-10), begin using a gentle physical sunscreen (zinc oxide) EVERY DAY without fail. 3) Consider using a tyrosinase inhibitor (like hydroquinone or kojic acid) pre- and post-peel as directed by your practitioner to further prevent PIH."
-                },
-                {
-                    "title": "Activity Restrictions (Strict)",
+                    "time_period": "For the First 24-48 Hours",
                     "items": [
-                        "Complete social and physical rest for 5-7 days (until major peeling is over).",
-                        "No exercise/sweating for 10-14 days.",
-                        "Plan for downtime."
+                        "Avoid Direct Sun Exposure: Your skin will be more sensitive to the sun after treatment. Avoid direct sun exposure for at least 48 hours, and always wear a broad-spectrum sunscreen (SPF 30 or higher) if you need to go outside.",
+                        "Avoid Heat: Avoid hot showers, saunas, hot tubs, or excessive heat for 48 hours, as this can irritate the treated area and hinder healing.",
+                        "Hydration: Drink plenty of water to keep your skin hydrated from the inside out. Hydration is key to supporting the healing process and achieving glowing skin.",
+                        "Gentle Skin Care: Cleanse your skin gently with a mild, non-alcoholic cleanser. Avoid using scrubs, exfoliants, or any products that could irritate the skin during the first week.",
+                        "Avoid Intense Exercise: Avoid strenuous physical activity, heavy lifting, or putting excessive strain on your body for at least 48 hours after treatment. Exercise can increase sweating and cause irritation in the treated area."
                     ]
                 },
                 {
-                    "title": "Complication Awareness - Contact Us IMMEDIATELY for:",
+                    "time_period": "For the First Week",
                     "items": [
-                        "Signs of infection (pus, increasing pain, fever).",
-                        "Development of cold sores.",
-                        "Any areas that appear very dark brown, black, purple, or grey after the frost subsides (possible deep necrosis).",
-                        "Severe itching or hives.",
-                        "Blistering beyond small, scattered blisters."
-                    ]
-                },
-                {
-                    "title": "Makeup",
-                    "content": "Do NOT apply makeup until all peeling is complete and your practitioner approves (typically Day 8-10)."
-                },
-                {
-                    "title": "General Side Effects and Results Assessment",
-                    "items": [
-                        "Itching during peeling can be intense. Oral antihistamines can help.",
-                        "The new skin will be pink for 2-8 weeks, depending on depth.",
-                        "TCA is excellent for scars, wrinkles, and sun damage. Results improve over 3-6 months as new collagen forms.",
-                        "A series of lighter TCA peels or a single deeper one may be performed. Follow-up is crucial."
+                        "Monitor for Side Effects: Redness, swelling, and peeling are common during the first week after a TCA peel. If you experience excessive redness, discomfort, or irritation, or if the peeling becomes severe, contact your provider immediately.",
+                        "Avoid Makeup for the First 24-48 Hours: Avoid applying makeup on the treated area for at least 24 hours after the peel to allow the skin to heal. After this period, you may use makeup that is non-comedogenic and gentle on your skin.",
+                        "Moisturise Regularly: Keep the skin moisturised with a gentle, fragrance-free moisturiser to prevent dryness and irritation. This helps to soothe the skin as it heals and promotes recovery.",
+                        "Avoid Sun Exposure: Keep your skin protected from direct sunlight for at least 4-6 weeks after the treatment. Use sunscreen with an SPF of 30 or higher, and avoid tanning beds to prevent pigmentation issues.",
+                        "No Scrubbing or Exfoliating: Do not exfoliate or scrub your skin in the first week. Allow your skin to naturally shed dead skin cells. Over-exfoliation can cause irritation or compromise the treatment."
                     ]
                 }
-            ]
+            ],
+            "common_side_effects": {
+                "title": "Common Side Effects",
+                "items": [
+                    "Mild Redness and Swelling: This is normal and should subside within the first 1-2 days. Cold compresses during the initial recovery phase can help alleviate swelling.",
+                    "Peeling and Flaking: Peeling is a natural part of the exfoliation process. Some people may experience more noticeable peeling, while others may have minimal flaking. This typically occurs 2-3 days after the peel and can last up to a week.",
+                    "Dryness or Tightness: The skin may feel dry or tight after the peel. Moisturising regularly will help alleviate this sensation and promote healing.",
+                    "Hyperpigmentation: In some cases, hyperpigmentation (dark spots) can occur, especially if the treated area is exposed to the sun. This can be prevented by using sunscreen daily and avoiding sun exposure."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Contact Us",
+                "content": "Please contact your provider immediately if you experience:",
+                "items": [
+                    "Severe pain, redness, or warmth in the treated area (signs of infection).",
+                    "Excessive swelling, bruising, or discomfort that doesn't improve.",
+                    "Unusual discharge, pus, or bleeding from the treated area.",
+                    "Any signs of an allergic reaction, such as itching, hives, or difficulty breathing.",
+                    "Any other symptoms that seem out of the ordinary or concerning."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care",
+                "items": [
+                    "Continue Sun Protection: After your skin has fully healed, continue to use sunscreen every day to protect your skin from sun damage. This will prevent pigmentation issues and help maintain the results of your peel.",
+                    "Hydrate and Nourish Your Skin: Use moisturisers to keep your skin hydrated and supple. Consider incorporating a gentle serum or hydrating mask to maintain skin health.",
+                    "Maintain a Healthy Skin Care Routine: Once your skin has fully healed, resume your regular skincare routine. You may want to consult your provider for recommendations on products to support your skin's rejuvenation.",
+                    "Avoid Smoking: Smoking can slow down the healing process and contribute to premature skin aging. Avoid smoking during the recovery period to ensure optimal results."
+                ]
+            }
         },
         "patient_declaration": {
-            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form. TCA peels require a serious commitment to aftercare.",
+            "reading_confirmation": "It is essential that you have read all of the information available.",
             "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
-            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the significant recovery process and the critical importance of sun avoidance to prevent complications. I have been given the opportunity to ask any questions that have come to mind throughout."
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
         }
     },
     "metadata": {
         "processing_date": "2024-01-15",
         "format_preserved": true,
-        "form_type": "cosmetic_procedure_aftercare",
+        "form_type": "chemical_peel_aftercare",
         "treatment_type": "tca_peel",
-        "treatment_area": "face",
+        "peel_depth": "medium_to_deep",
+        "peel_acid": "trichloroacetic_acid",
         "document_length": "comprehensive",
         "risk_coverage": "excellent",
         "emergency_protocols_included": true,
-        "area_specific_features": [
-            "frosting_phenomenon",
-            "vinegar_soak_protocol",
-            "high_pih_risk_warning"
+        "time_phased_structure": true,
+        "special_features": [
+            "specific TCA acid identification",
+            "depth classification (medium to deep)",
+            "longer sun avoidance (4-6 weeks)",
+            "smoking avoidance guidance",
+            "detailed peeling timeline (2-3 days onset, up to 1 week)",
+            "hydration emphasis from inside out",
+            "specific hyperpigmentation warning",
+            "serum/hydrating mask recommendations"
         ],
-        "clarity_notes": [],
+        "tca_peel_specifics": [
+            "stronger acid than glycolic or salicylic",
+            "longer recovery time required",
+            "higher risk of hyperpigmentation",
+            "more significant peeling expected",
+            "deeper skin penetration"
+        ],
+        "comparison_to_other_acid_peels": {
+            "stronger_than": "glycolic and salicylic peels",
+            "longer_recovery": "4-6 week sun protection vs 2-4 weeks",
+            "more_side_effects": "more significant peeling and downtime",
+            "more_comprehensive": "includes smoking avoidance guidance"
+        },
         "recommendations": [
-            "Provide specific dilution ratios and schedules for vinegar soaks in a separate handout."
+            "Add specific TCA concentration guidance",
+            "Include expected downtime for different depths",
+            "Add guidance for pain management if needed",
+            "Include specific product recommendations for post-TCA care",
+            "Add guidance on when to resume retinoids/active ingredients"
         ]
     }
 }

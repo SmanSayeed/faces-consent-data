@@ -48,7 +48,19 @@ const FILE_INDEX = [
                 label: 'Face',
                 kind: 'aftercare',
                 files: [
-                    { name: 'Airbrush makeup', path: 'aftercare/Face/Airbrush makeup.json', type: 'aftercare' }
+                    { name: 'Airbrush makeup', path: 'aftercare/Face/Airbrush makeup.json', type: 'aftercare' },
+                    { name: 'Brow lamination', path: 'aftercare/Face/Brow lamination.json', type: 'aftercare' },
+                    { name: 'Eyebrow shaping', path: 'aftercare/Face/Eyebrow shaping.json', type: 'aftercare' },
+                    { name: 'Eyebrow tinting', path: 'aftercare/Face/Eyebrow tinting.json', type: 'aftercare' },
+                    { name: 'Eyelash extensions', path: 'aftercare/Face/Eyelash extensions.json', type: 'aftercare' },
+                    { name: 'Eyeliner', path: 'aftercare/Face/Eyeliner.json', type: 'aftercare' },
+                    { name: 'Lash lift', path: 'aftercare/Face/Lash lift.json', type: 'aftercare' },
+                    { name: 'Lash tint', path: 'aftercare/Face/Lash tint.json', type: 'aftercare' },
+                    { name: 'Lip blush', path: 'aftercare/Face/Lip blush.json', type: 'aftercare' },
+                    { name: 'Microblading', path: 'aftercare/Face/Microblading.json', type: 'aftercare' },
+                    { name: 'Permanent makeup (PMU)', path: 'aftercare/Face/Permanent makeup (PMU).json', type: 'aftercare' },
+                    { name: 'Powder brows', path: 'aftercare/Face/Powder brows.json', type: 'aftercare' },
+                    { name: 'Under-eye treatments', path: 'aftercare/Face/Under-eye treatments.json', type: 'aftercare' }
                 ]
             },
             {
@@ -59,6 +71,193 @@ const FILE_INDEX = [
                     { name: 'Hair botox', path: 'aftercare/Hair/Hair botox.json', type: 'aftercare' },
                     { name: 'Hair treatments', path: 'aftercare/Hair/Hair treatments.json', type: 'aftercare' },
                     { name: 'Scalp detox', path: 'aftercare/Hair/Scalp detox.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Body Contouring & Fat Reduction',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Cellulite laser treatment', path: 'aftercare/Laser/Body Contouring & Fat Reduction/Cellulite laser treatment.json', type: 'aftercare' },
+                    { name: 'Laser lipolysis', path: 'aftercare/Laser/Body Contouring & Fat Reduction/Laser lipolysis.json', type: 'aftercare' },
+                    { name: 'Laser-assisted fat reduction', path: 'aftercare/Laser/Body Contouring & Fat Reduction/Laser-assisted fat reduction.json', type: 'aftercare' },
+                    { name: 'Skin tightening post-fat reduction', path: 'aftercare/Laser/Body Contouring & Fat Reduction/Skin tightening post-fat reduction.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Laser Acne Treatments',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Acne bacteria reduction (laser)', path: 'aftercare/Laser/Laser Acne Treatments/Acne bacteria reduction (laser).json', type: 'aftercare' },
+                    { name: 'Acne scar laser treatment', path: 'aftercare/Laser/Laser Acne Treatments/Acne scar laser treatment.json', type: 'aftercare' },
+                    { name: 'Active acne laser treatment', path: 'aftercare/Laser/Laser Acne Treatments/Active acne laser treatment.json', type: 'aftercare' },
+                    { name: 'Post-acne redness treatment', path: 'aftercare/Laser/Laser Acne Treatments/Post-acne redness treatment.json', type: 'aftercare' },
+                    { name: 'Sebum control laser therapy', path: 'aftercare/Laser/Laser Acne Treatments/Sebum control laser therapy.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Laser Hair Removal',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Beard shaping (laser)', path: 'aftercare/Laser/Laser Hair Removal/Beard shaping (laser).json', type: 'aftercare' },
+                    { name: 'Bikini (Brazilian) laser', path: 'aftercare/Laser/Laser Hair Removal/Bikini (Brazilian) laser.json', type: 'aftercare' },
+                    { name: 'Full-body laser hair removal', path: 'aftercare/Laser/Laser Hair Removal/Full-body laser hair removal.json', type: 'aftercare' },
+                    { name: 'Ingrown hair reduction (laser)', path: 'aftercare/Laser/Laser Hair Removal/Ingrown hair reduction (laser).json', type: 'aftercare' },
+                    { name: 'Laser hair reduction', path: 'aftercare/Laser/Laser Hair Removal/Laser hair reduction.json', type: 'aftercare' },
+                    { name: 'Laser hair removal', path: 'aftercare/Laser/Laser Hair Removal/Laser hair removal.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Laser Resurfacing',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Ablative laser resurfacing', path: 'aftercare/Laser/Laser Resurfacing/Ablative laser resurfacing.json', type: 'aftercare' },
+                    { name: 'CO₂ laser resurfacing', path: 'aftercare/Laser/Laser Resurfacing/CO₂ laser resurfacing.json', type: 'aftercare' },
+                    { name: 'Er YAG laser resurfacing', path: 'aftercare/Laser/Laser Resurfacing/Er YAG laser resurfacing.json', type: 'aftercare' },
+                    { name: 'Fractional laser resurfacing', path: 'aftercare/Laser/Laser Resurfacing/Fractional laser resurfacing.json', type: 'aftercare' },
+                    { name: 'Laser skin renewal', path: 'aftercare/Laser/Laser Resurfacing/Laser skin renewal.json', type: 'aftercare' },
+                    { name: 'Non-ablative laser resurfacing', path: 'aftercare/Laser/Laser Resurfacing/Non-ablative laser resurfacing.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Laser Skin Rejuvenation',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Collagen stimulation, laser', path: 'aftercare/Laser/Laser Skin Rejuvenation/Collagen stimulation, laser.json', type: 'aftercare' },
+                    { name: 'Fine line & wrinkle reduction', path: 'aftercare/Laser/Laser Skin Rejuvenation/Fine line & wrinkle reduction.json', type: 'aftercare' },
+                    { name: 'Laser facial', path: 'aftercare/Laser/Laser Skin Rejuvenation/Laser facial.json', type: 'aftercare' },
+                    { name: 'Laser skin rejuvenation', path: 'aftercare/Laser/Laser Skin Rejuvenation/Laser skin rejuvenation.json', type: 'aftercare' },
+                    { name: 'Pore reduction, laser', path: 'aftercare/Laser/Laser Skin Rejuvenation/Pore reduction, laser.json', type: 'aftercare' },
+                    { name: 'Skin texture refinement', path: 'aftercare/Laser/Laser Skin Rejuvenation/Skin texture refinement.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Laser Skin Tightening & Lifting',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Body skin tightening', path: 'aftercare/Laser/Laser Skin Tightening & Lifting/Body skin tightening.json', type: 'aftercare' },
+                    { name: 'Eye area tightening', path: 'aftercare/Laser/Laser Skin Tightening & Lifting/Eye area tightening.json', type: 'aftercare' },
+                    { name: 'Jawline tightening', path: 'aftercare/Laser/Laser Skin Tightening & Lifting/Jawline tightening.json', type: 'aftercare' },
+                    { name: 'Laser skin firming', path: 'aftercare/Laser/Laser Skin Tightening & Lifting/Laser skin firming.json', type: 'aftercare' },
+                    { name: 'Neck tightening', path: 'aftercare/Laser/Laser Skin Tightening & Lifting/Neck tightening.json', type: 'aftercare' },
+                    { name: 'Non-surgical skin tightening (laser)', path: 'aftercare/Laser/Laser Skin Tightening & Lifting/Non-surgical skin tightening (laser).json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Laser-Based Combination Treatments',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Laser + chemical peel protocols', path: 'aftercare/Laser/Laser-Based Combination Treatments/Laser + chemical peel protocols.json', type: 'aftercare' },
+                    { name: 'Laser + microneedling', path: 'aftercare/Laser/Laser-Based Combination Treatments/Laser + microneedling.json', type: 'aftercare' },
+                    { name: 'Laser + PRP', path: 'aftercare/Laser/Laser-Based Combination Treatments/Laser + PRP.json', type: 'aftercare' },
+                    { name: 'Laser + skin boosters', path: 'aftercare/Laser/Laser-Based Combination Treatments/Laser + skin boosters.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Medical, Dermatological Laser Treatments',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Benign lesion removal', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Benign lesion removal.json', type: 'aftercare' },
+                    { name: 'Laser mole removal', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Laser mole removal.json', type: 'aftercare' },
+                    { name: 'Laser skin tag removal', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Laser skin tag removal.json', type: 'aftercare' },
+                    { name: 'Laser wart removal', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Laser wart removal.json', type: 'aftercare' },
+                    { name: 'Nail fungus treatment (laser)', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Nail fungus treatment (laser).json', type: 'aftercare' },
+                    { name: 'Psoriasis laser therapy', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Psoriasis laser therapy.json', type: 'aftercare' },
+                    { name: 'Vitiligo laser therapy', path: 'aftercare/Laser/Medical, Dermatological Laser Treatments/Vitiligo laser therapy.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Pigmentation & Sun Damage',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Age spot removal', path: 'aftercare/Laser/Pigmentation & Sun Damage/Age spot removal.json', type: 'aftercare' },
+                    { name: 'Freckle reduction', path: 'aftercare/Laser/Pigmentation & Sun Damage/Freckle reduction.json', type: 'aftercare' },
+                    { name: 'Laser pigmentation removal', path: 'aftercare/Laser/Pigmentation & Sun Damage/Laser pigmentation removal.json', type: 'aftercare' },
+                    { name: 'Melasma management (laser-assisted)', path: 'aftercare/Laser/Pigmentation & Sun Damage/Melasma management (laser-assisted).json', type: 'aftercare' },
+                    { name: 'Sun spot treatment', path: 'aftercare/Laser/Pigmentation & Sun Damage/Sun spot treatment.json', type: 'aftercare' },
+                    { name: 'Uneven skin tone correction', path: 'aftercare/Laser/Pigmentation & Sun Damage/Uneven skin tone correction.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Scar & Stretch Mark Treatments',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Keloid scar management (laser-assisted)', path: 'aftercare/Laser/Scar & Stretch Mark Treatments/Keloid scar management (laser-assisted).json', type: 'aftercare' },
+                    { name: 'Laser scar reduction', path: 'aftercare/Laser/Scar & Stretch Mark Treatments/Laser scar reduction.json', type: 'aftercare' },
+                    { name: 'Stretch mark reduction (laser)', path: 'aftercare/Laser/Scar & Stretch Mark Treatments/Stretch mark reduction (laser).json', type: 'aftercare' },
+                    { name: 'Surgical scar treatment', path: 'aftercare/Laser/Scar & Stretch Mark Treatments/Surgical scar treatment.json', type: 'aftercare' },
+                    { name: 'Trauma scar treatment', path: 'aftercare/Laser/Scar & Stretch Mark Treatments/Trauma scar treatment.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Specialist, Advanced Laser',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Laser pore sealing', path: 'aftercare/Laser/Specialist, Advanced Laser/Laser pore sealing.json', type: 'aftercare' },
+                    { name: 'Laser rejuvenation for intimate areas', path: 'aftercare/Laser/Specialist, Advanced Laser/Laser rejuvenation for intimate areas.json', type: 'aftercare' },
+                    { name: 'Laser skin bleaching', path: 'aftercare/Laser/Specialist, Advanced Laser/Laser skin bleaching.json', type: 'aftercare' },
+                    { name: 'Laser sweat reduction (hyperhidrosis)', path: 'aftercare/Laser/Specialist, Advanced Laser/Laser sweat reduction (hyperhidrosis).json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Tattoo & PMU Removal',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Eyebrow tattoo removal', path: 'aftercare/Laser/Tattoo & PMU Removal/Eyebrow tattoo removal.json', type: 'aftercare' },
+                    { name: 'Laser tattoo removal', path: 'aftercare/Laser/Tattoo & PMU Removal/Laser tattoo removal.json', type: 'aftercare' },
+                    { name: 'Lip blush tattoo removal', path: 'aftercare/Laser/Tattoo & PMU Removal/Lip blush tattoo removal.json', type: 'aftercare' },
+                    { name: 'Microblading removal (laser)', path: 'aftercare/Laser/Tattoo & PMU Removal/Microblading removal (laser).json', type: 'aftercare' },
+                    { name: 'Multi-colour tattoo removal', path: 'aftercare/Laser/Tattoo & PMU Removal/Multi-colour tattoo removal.json', type: 'aftercare' },
+                    { name: 'Permanent makeup removal', path: 'aftercare/Laser/Tattoo & PMU Removal/Permanent makeup removal.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Laser – Vascular & Redness Treatments',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Broken capillary removal', path: 'aftercare/Laser/Vascular & Redness Treatments/Broken capillary removal.json', type: 'aftercare' },
+                    { name: 'Cherry angioma removal', path: 'aftercare/Laser/Vascular & Redness Treatments/Cherry angioma removal.json', type: 'aftercare' },
+                    { name: 'Facial redness reduction', path: 'aftercare/Laser/Vascular & Redness Treatments/Facial redness reduction.json', type: 'aftercare' },
+                    { name: 'Laser thread vein removal', path: 'aftercare/Laser/Vascular & Redness Treatments/Laser thread vein removal.json', type: 'aftercare' },
+                    { name: 'Rosacea laser treatment', path: 'aftercare/Laser/Vascular & Redness Treatments/Rosacea laser treatment.json', type: 'aftercare' },
+                    { name: 'Spider vein treatment', path: 'aftercare/Laser/Vascular & Redness Treatments/Spider vein treatment.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Massage',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Aromatherapy massage', path: 'aftercare/Massage/Aromatherapy_massage.json', type: 'aftercare' },
+                    { name: 'Deep tissue massage', path: 'aftercare/Massage/Deep_tissue_massage.json', type: 'aftercare' },
+                    { name: 'Head, neck & shoulder massage', path: 'aftercare/Massage/Head,_neck_&_shoulder_massage.json', type: 'aftercare' },
+                    { name: 'Hot stone massage', path: 'aftercare/Massage/Hot_stone_massage.json', type: 'aftercare' },
+                    { name: 'Reflexology', path: 'aftercare/Massage/Reflexology.json', type: 'aftercare' },
+                    { name: 'Swedish massage', path: 'aftercare/Massage/Swedish_massage.json', type: 'aftercare' }
+                ]
+            },
+            {
+                label: 'Skin',
+                kind: 'aftercare',
+                files: [
+                    { name: 'Acne control facial', path: 'aftercare/Skin/Acne_control_facial.json', type: 'aftercare' },
+                    { name: 'Anti-ageing facial', path: 'aftercare/Skin/Anti-ageing_facial.json', type: 'aftercare' },
+                    { name: 'Brightening facial', path: 'aftercare/Skin/Brightening_facial.json', type: 'aftercare' },
+                    { name: 'Calming / barrier-repair facial', path: 'aftercare/Skin/Calming___barrier-repair_facial.json', type: 'aftercare' },
+                    { name: 'Carbon laser facial', path: 'aftercare/Skin/Carbon_laser_facial.json', type: 'aftercare' },
+                    { name: 'Chemical peels', path: 'aftercare/Skin/Chemical_peels.json', type: 'aftercare' },
+                    { name: 'Deep cleansing facial', path: 'aftercare/Skin/Deep_cleansing_facial.json', type: 'aftercare' },
+                    { name: 'Deep peels', path: 'aftercare/Skin/Deep_peels.json', type: 'aftercare' },
+                    { name: 'Enzyme peels', path: 'aftercare/Skin/Enzyme_peels.json', type: 'aftercare' },
+                    { name: 'Glycolic peel', path: 'aftercare/Skin/Glycolic_peel.json', type: 'aftercare' },
+                    { name: 'Hydrating facial', path: 'aftercare/Skin/Hydrating_facial.json', type: 'aftercare' },
+                    { name: 'Jessner peel', path: 'aftercare/Skin/Jessner_peel.json', type: 'aftercare' },
+                    { name: 'Lactic peel', path: 'aftercare/Skin/Lactic_peel.json', type: 'aftercare' },
+                    { name: 'Mandelic peel', path: 'aftercare/Skin/Mandelic_peel.json', type: 'aftercare' },
+                    { name: 'Medium-depth peels', path: 'aftercare/Skin/Medium-depth_peels.json', type: 'aftercare' },
+                    { name: 'Oxygen facial', path: 'aftercare/Skin/Oxygen_facial.json', type: 'aftercare' },
+                    { name: 'Salicylic peel', path: 'aftercare/Skin/Salicylic_peel.json', type: 'aftercare' },
+                    { name: 'Sensitive skin facial', path: 'aftercare/Skin/Sensitive_skin_facial.json', type: 'aftercare' },
+                    { name: 'Superficial peels', path: 'aftercare/Skin/Superficial_peels.json', type: 'aftercare' },
+                    { name: 'TCA peel', path: 'aftercare/Skin/TCA_peel.json', type: 'aftercare' }
                 ]
             }
         ]

@@ -1,57 +1,98 @@
 {
     "form_analysis": {
-        "completeness_score": 89,
-        "rewards_awarded": 184,
-        "feedback": "Good specific aftercare for a common AHA peel. Clearly addresses the potential for stinging and subtle flaking. Reinforces the importance of neutralising any residual acid and managing the temporary increase in sun sensitivity. Practical and straightforward.",
+        "completeness_score": 97,
+        "rewards_awarded": 215,
+        "feedback": "Excellent comprehensive glycolic acid peel aftercare form with detailed, acid-specific guidance. Well-structured with clear time phases, specific product restrictions, and realistic expectations about healing. Includes detailed explanation of the treatment benefits and comprehensive long-term care guidance. Superior to generic chemical peel forms with specific glycolic acid considerations.",
         "sections_covered": [
-            "immediate_symptoms_timeline",
-            "hygiene_instructions",
-            "product_use_instructions",
-            "activity_environmental_restrictions",
-            "follow_up_timing"
-        ],
-        "clarity_issues": []
+            "treatment_explanation",
+            "immediate_post_treatment",
+            "first_week_care",
+            "first_month_care",
+            "common_side_effects",
+            "emergency_contact_protocol",
+            "long_term_maintenance",
+            "results_timeline"
+        ]
     },
     "form_data": {
         "document_title": "Glycolic Acid Peel Aftercare",
-        "introduction": "This aftercare advice is for a glycolic acid (AHA) peel. Glycolic acid exfoliates the surface layers, improving texture and brightness. Your skin will be temporarily more sensitive.",
+        "treatment_explanation": "Thank you for choosing a glycolic acid peel to enhance your skin's texture, tone, and overall appearance. Glycolic acid peels are a form of chemical exfoliation that helps to remove dead skin cells, improve skin clarity, reduce fine lines, and treat hyperpigmentation. Proper aftercare is essential to ensure the best results, reduce complications, and support your skin's healing process.",
+        "introduction": "Please follow these instructions carefully to optimise your recovery.",
         "instructions": {
-            "general_directive": "Please follow the General Chemical Peel Principles. The notes below are specific to glycolic acid peels.",
-            "sections": [
+            "phased_sections": [
                 {
-                    "title": "Immediate Post-Treatment Symptoms and Timeline",
-                    "content": "You will feel a tingling or mild stinging during and immediately after the peel, which should subside within minutes to an hour. Skin will be pink and may feel tight for 12-48 hours. Light flaking or 'sheet peeling' may occur 2-4 days post-treatment, depending on the strength used."
-                },
-                {
-                    "title": "Specific Instructions",
-                    "items": [
-                        "Neutralising: The peel was neutralised, but if you feel persistent burning at home, you may rinse with cool water or apply a cool compress.",
-                        "Moisturize: Glycolic acid can be drying. Use a good moisturizer to combat tightness and support barrier repair.",
-                        "Sun Sensitivity: AHAs increase photosensitivity for up to 1 week post-peel. Sun protection is non-negotiable. Use SPF 30+ daily.",
-                        "Product Restart: Avoid using any other glycolic acid or AHA products at home for 5-7 days post-peel to avoid over-exfoliation."
+                    "time_period": "Immediately After Treatment",
+                    "sections": [
+                        {
+                            "title": "Mild Redness, Swelling, and Tingling",
+                            "content": "It is normal to experience mild redness, swelling, and a tingling or warm sensation immediately after the peel. This is temporary and should subside within a few hours to a day."
+                        },
+                        {
+                            "title": "Mild Sensitivity or Discomfort",
+                            "content": "You may feel mild discomfort, tightness, or a sensation of dryness. This is common and will typically resolve within a few hours to a few days."
+                        },
+                        {
+                            "title": "Cold Compress (if necessary)",
+                            "content": "If you experience discomfort or excessive heat, applying a cold compress wrapped in a clean cloth to the treated area for 10-15 minutes can help reduce swelling and soothe the skin."
+                        },
+                        {
+                            "title": "Avoid Touching or Scratching the Treated Area",
+                            "content": "Do not touch, rub, or scratch the treated skin for at least 24-48 hours to avoid irritation, damage, or infection."
+                        }
                     ]
                 },
                 {
-                    "title": "Activity Restrictions",
-                    "content": "Avoid strenuous exercise, sweating, and heat exposure (saunas, steam) for 48 hours to minimise stinging and irritation."
-                },
-                {
-                    "title": "Makeup",
-                    "content": "It is advisable to avoid makeup for 24 hours. If necessary, use a gentle, non-comedogenic formula."
-                },
-                {
-                    "title": "General Side Effects and Results Assessment",
+                    "time_period": "For the First Week",
                     "items": [
-                        "A mild breakout (purging) 3-7 days post-peel is possible as congestion is brought to the surface.",
-                        "If you experience severe redness, swelling, blistering, or crusting, contact your practitioner.",
-                        "Results include smoother texture, diminished fine lines, and a brighter complexion. A series of 4-6 peels (every 2-4 weeks) is typical for significant improvement.",
-                        "Glycolic acid is excellent for sun damage and rough texture."
+                        "Gentle Skin Care: Cleanse the treated area gently with a mild, non-alcoholic cleanser. Avoid using scrubs, exfoliants, or any harsh products for at least 7 days after the peel to allow the skin to heal and avoid irritation.",
+                        "Moisturise Regularly: Apply a gentle, fragrance-free moisturiser to keep the treated skin hydrated. This will help soothe dryness and tightness, which is common after glycolic acid peels.",
+                        "Avoid Sun Exposure: Your skin will be more sensitive to the sun after the peel. Avoid direct sun exposure for at least 1-2 weeks after the treatment. Always apply a broad-spectrum sunscreen with SPF 30 or higher when outdoors to protect your skin from UV damage and prevent pigmentation changes.",
+                        "Avoid Excessive Heat: Avoid hot showers, saunas, or hot tubs for at least 48 hours after treatment to prevent irritation and support healing.",
+                        "Avoid Makeup for 24-48 Hours: Avoid applying makeup to the treated area for at least 24-48 hours to allow your skin to breathe and heal properly. After this period, use non-comedogenic products to avoid clogging pores.",
+                        "Hydrate and Maintain Healthy Habits: Drink plenty of water and maintain a healthy diet to support the skin's healing process and improve overall skin health."
+                    ]
+                },
+                {
+                    "time_period": "For the First Month",
+                    "items": [
+                        "Continue Gentle Skin Care and Hydration: Continue using a mild, non-alcoholic cleanser and moisturising regularly to maintain skin hydration and support healing.",
+                        "Continue Sun Protection: Always apply sunscreen with SPF 30 or higher to the treated areas. UV exposure can affect the results of the peel and cause pigmentation changes or further damage to the skin.",
+                        "Avoid Harsh Products: For at least 4 weeks after the peel, avoid using products containing alcohol, retinol, or exfoliating agents such as AHAs or BHAs, as these can irritate the skin and interfere with the healing process.",
+                        "Gradual Return to Physical Activity: After the first 48 hours, you can gradually return to light exercise. Avoid intense physical activity or anything that causes excessive strain on the treated areas for at least 1 week."
                     ]
                 }
-            ]
+            ],
+            "common_side_effects": {
+                "title": "Common Side Effects",
+                "items": [
+                    "Redness and Swelling: Redness and swelling are common after a glycolic acid peel and should subside within a few hours to a day. Cold compresses can help reduce these symptoms.",
+                    "Peeling or Flaking: Some mild flaking or peeling may occur as your skin heals. This is a normal part of the skin's renewal process and should resolve within 3-7 days. Avoid picking at the peeling skin to prevent scarring.",
+                    "Dryness or Tightness: The treated area may feel dry or tight. This is normal and can be alleviated with regular moisturising.",
+                    "Temporary Sensitivity: Your skin may be more sensitive to touch, products, and sun exposure for the first few weeks. This is normal and should improve over time."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Contact Us",
+                "content": "Please contact your provider immediately if you experience:",
+                "items": [
+                    "Severe pain, redness, or warmth in the treated area (signs of infection).",
+                    "Excessive swelling, bruising, or discomfort that does not improve after the first few days.",
+                    "Unusual discharge, pus, or bleeding from the treated area.",
+                    "Any signs of an allergic reaction, such as itching, hives, or difficulty breathing.",
+                    "Any other symptoms that seem out of the ordinary or concerning."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care",
+                "items": [
+                    "Maintain Healthy Skin Care Practices: Continue with a gentle skincare routine, including cleansing, moisturising, and sun protection. Avoid harsh treatments or exfoliating products that could disrupt the healing process.",
+                    "Healthy Lifestyle Habits: Maintaining a balanced diet, staying hydrated, and avoiding smoking will help support the long-term health of your skin and maintain the results of your glycolic acid peel.",
+                    "Monitor Results: Full results from the glycolic acid peel may take several weeks to become fully visible, as the skin continues to regenerate and improve in texture. Be patient and follow up with your provider for any necessary touch-ups or assessments."
+                ]
+            }
         },
         "patient_declaration": {
-            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "reading_confirmation": "It is essential that you have read all of the information available.",
             "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
             "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
         }
@@ -59,19 +100,40 @@
     "metadata": {
         "processing_date": "2024-01-15",
         "format_preserved": true,
-        "form_type": "cosmetic_procedure_aftercare",
+        "form_type": "chemical_peel_aftercare",
         "treatment_type": "glycolic_acid_peel",
-        "treatment_area": "face",
-        "document_length": "standard",
-        "risk_coverage": "standard",
-        "emergency_protocols_included": false,
-        "area_specific_features": [
-            "aha_photosensitivity_warning",
-            "potential_purging_note"
+        "peel_strength": "acid_specific",
+        "document_length": "comprehensive",
+        "risk_coverage": "excellent",
+        "emergency_protocols_included": true,
+        "time_phased_structure": true,
+        "special_features": [
+            "specific glycolic acid explanation",
+            "detailed benefits listed (hyperpigmentation, fine lines, texture)",
+            "non-alcoholic cleanser requirement",
+            "non-comedogenic makeup guidance",
+            "month-long product restrictions",
+            "results timeline expectations (several weeks)",
+            "lifestyle habit integration",
+            "specific peeling timeline (3-7 days)"
         ],
-        "clarity_notes": [],
+        "acid_peel_specifics": [
+            "alpha hydroxy acid (AHA) category",
+            "superficial to medium depth peel",
+            "specific sun sensitivity considerations",
+            "longer product avoidance (4 weeks for AHAs/BHAs)"
+        ],
+        "comparison_to_generic_chemical_peel": {
+            "more_detailed": "treatment explanation, hydration guidance, lifestyle factors",
+            "specific_ingredient_guidance": "non-alcoholic, non-comedogenic, fragrance-free",
+            "longer_care_period": "first month guidance included",
+            "results_timeline": "explicitly stated"
+        },
         "recommendations": [
-            "Could mention that lower concentration peels may have no visible peeling, while higher concentrations will."
+            "Add guidance for different glycolic acid concentrations",
+            "Include expected intensity based on peel strength",
+            "Add specific product recommendations",
+            "Include guidance for sensitive skin types"
         ]
     }
 }

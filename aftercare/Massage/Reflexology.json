@@ -1,94 +1,100 @@
 {
     "form_analysis": {
-        "completeness_score": 91,
-        "rewards_awarded": 188,
-        "feedback": "Excellent aftercare that captures the holistic nature of reflexology. Clearly explains common systemic responses (healing reaction) and provides a good timeline for expected effects. Strong emphasis on hydration and rest to support the body's self-healing process. Good guidance on emotional release.",
+        "completeness_score": 85,
+        "rewards_awarded": 170,
+        "feedback": "Clear, concise reflexology aftercare form with basic but appropriate guidelines for this holistic therapy. Focuses on hydration, rest, and gentle recovery. Simpler than cosmetic/medical procedure forms as reflexology has lower risk profile. Could be enhanced with more detail on expected reactions and specific hydration targets.",
         "sections_covered": [
-            "immediate_symptoms_timeline",
-            "hydration_nutrition",
-            "activity_guidance",
-            "pain_guidance",
-            "follow_up_timing"
+            "beverage_restrictions",
+            "activity_restrictions",
+            "hydration_guidance",
+            "temperature_restrictions",
+            "symptom_management",
+            "contact_guidance"
         ],
-        "clarity_issues": []
+        "missing_sections": [
+            "expected_reactions_explanation",
+            "detoxification_symptoms",
+            "specific_hydration_targets",
+            "emotional_release_guidance",
+            "multiple_session_benefits"
+        ]
     },
     "form_data": {
-        "document_title": "Reflexology Aftercare",
-        "introduction": "This aftercare advice supports the holistic effects of your reflexology session. Reflexology works by stimulating points on the feet (or hands) that correspond to organs and systems throughout the body, encouraging balance and self-healing.",
+        "document_title": "REFLEXOLOGY AFTERCARE",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort and to help achieve the best possible results from treatment.",
         "instructions": {
-            "general_directive": "Please follow this advice to help your body process the treatment and achieve optimal balance.",
+            "general_directive": "Please follow the aftercare advice for Reflexology.",
             "sections": [
                 {
-                    "title": "Immediate Post-Treatment Sensations and Timeline",
-                    "content": "You will likely feel deeply relaxed. Over the next 24-72 hours, you may experience a 'healing reaction' as your body responds to the stimulation. This is a positive sign that the treatment is working. Effects can be felt for 3-5 days post-session."
+                    "title": "Beverage Restrictions",
+                    "content": "Avoid drinks with alcohol or caffeine for 12 hours, as they may cause dehydration."
                 },
                 {
-                    "title": "Understanding the Healing Reaction",
-                    "content": "As energy blockages are released and circulation improves, temporary symptoms may arise as the body rebalances. These can include: increased urination or bowel movements, mild headache, fatigue, emotional release (tearfulness), vivid dreams, transient flare-up of an old symptom, or a slight cold-like feeling. These should be mild and short-lived (24-48 hours)."
+                    "title": "Activity Restrictions",
+                    "content": "Avoid any strenuous exercise or exhausting activity for the next 12 hours, to help your body rest, relax and de-stress further."
                 },
                 {
-                    "title": "The Essential Aftercare Trio",
+                    "title": "Hydration Guidance",
+                    "content": "Drink plenty of water to keep hydrated."
+                },
+                {
+                    "title": "Temperature and Environmental Restrictions",
                     "items": [
-                        "Rest: Your body is doing internal work. Honour any feelings of tiredness and get adequate sleep.",
-                        "Hydrate: Drink plenty of water and herbal teas to help flush released toxins from your system. This is the most important step to minimise healing reactions.",
-                        "Nourish: Eat light, easily digestible foods (soups, steamed vegetables). Avoid heavy, rich, or processed foods and limit alcohol and caffeine for 24 hours."
+                        "Avoid a hot bath for 24 hours.",
+                        "Avoid sunbeds and UV light for 48 hours."
                     ]
                 },
                 {
-                    "title": "Foot Care and Sensation",
-                    "content": "Your feet may feel more sensitive, tingling, or warm. This is normal. You can soak them in warm water with Epsom salts later in the day if they feel tender. Avoid strenuous activities that put excessive pressure on your feet (e.g., long runs) for 24 hours."
+                    "title": "Symptom Management",
+                    "content": "Any muscle aches or headache afterwards you can take simple over the counter pain killers such as paracetamol and Ibuprofen (if medically safe for you)."
                 },
                 {
-                    "title": "Emotional and Energetic Awareness",
-                    "content": "Reflexology can release stored emotions. Be kind to yourself if you feel emotional, spacey, or need quiet time. The treatment works on a subtle energetic level; allow for integration."
-                },
-                {
-                    "title": "When to Contact Your Therapist",
+                    "title": "Contact Guidance",
                     "items": [
-                        "If you have a severe or prolonged healing reaction that concerns you.",
-                        "If you experience significant pain in your feet that is not just tenderness.",
-                        "To provide feedback on which areas felt sensitive, as this can inform future treatments.",
-                        "If you have any questions about your symptoms."
-                    ]
-                },
-                {
-                    "title": "Activity Guidance",
-                    "content": "Gentle activities like walking are fine. Avoid intense workouts for 24 hours. Listen to your body—if you feel tired, rest."
-                },
-                {
-                    "title": "General Side Effects and Results Assessment",
-                    "items": [
-                        "Note any changes in your sleep, digestion, energy levels, or emotional state over the next few days.",
-                        "The primary goal is balance and improved wellbeing, not necessarily the cure of a specific ailment.",
-                        "For chronic issues, a course of treatments (e.g., 6 sessions weekly or bi-weekly) is typically recommended to restore balance, followed by maintenance sessions.",
-                        "Keep a simple journal of your reactions to track progress."
+                        "Contact your therapist if you experience any side effects.",
+                        "If you are concerned about any problems or side effects following reflexology, then you must contact your therapist for advice as soon as possible."
                     ]
                 }
             ]
         },
         "patient_declaration": {
             "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
-            "question_opportunity": "Please let your therapist know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
-            "declaration_text": "I confirm that I have read and understood all the information on this Form. I understand the concept of a 'healing reaction' and the importance of hydration. I have been given the opportunity to ask any questions that have come to mind throughout."
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
         }
     },
     "metadata": {
         "processing_date": "2024-01-15",
         "format_preserved": true,
-        "form_type": "bodywork_aftercare",
+        "form_type": "holistic_therapy_aftercare",
         "treatment_type": "reflexology",
-        "treatment_area": "feet_hands",
-        "document_length": "comprehensive",
-        "risk_coverage": "standard",
-        "emergency_protocols_included": false,
-        "area_specific_features": [
-            "healing_reaction_explanation",
-            "systemic_response_focus",
-            "energetic_integration_guidance"
+        "therapy_category": "complementary_medicine",
+        "document_length": "concise",
+        "risk_coverage": "moderate",
+        "emergency_protocols_included": true,
+        "special_features": [
+            "12-hour restriction timeframe",
+            "emphasis on rest and relaxation",
+            "simple pain management guidance",
+            "holistic approach to recovery"
         ],
-        "clarity_notes": [],
+        "reflexology_specific_considerations": [
+            "Focus on whole-body relaxation response",
+            "Possible emotional release reactions",
+            "Detoxification symptoms possible",
+            "Energy balancing effects"
+        ],
+        "comparison_to_other_forms": {
+            "simpler": "shorter restrictions, fewer precautions",
+            "holistic_focus": "rest and relaxation vs wound healing",
+            "lower_risk": "non-invasive vs surgical/cosmetic procedures"
+        },
         "recommendations": [
-            "Could provide a simple foot chart for clients to note areas of sensitivity post-treatment."
+            "Add explanation of common reflexology reactions (emotional release, fatigue, detox symptoms)",
+            "Include specific hydration target (e.g., 2+ liters of water)",
+            "Add guidance on expected benefits timeline",
+            "Include advice on multiple session frequency",
+            "Add notes about potential sleep pattern changes"
         ]
     }
 }

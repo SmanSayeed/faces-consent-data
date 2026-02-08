@@ -1,75 +1,86 @@
 {
     "form_analysis": {
-        "completeness_score": 95,
+        "completeness_score": 94,
         "rewards_awarded": 200,
-        "feedback": "Masterful general aftercare template for chemical peels. Establishes universal, critical principles: vigilant sun protection, strict moisturization, and absolute avoidance of picking. Perfectly sets the stage for more specific peel instructions. Includes clear emergency symptom recognition.",
+        "feedback": "Comprehensive chemical peel aftercare form following standardized resurfacing treatment format. Well-structured with clear timelines for restrictions, specific ingredient avoidance, and appropriate emergency protocols. Includes important coordination with other cosmetic treatments. This form matches previously processed chemical peel aftercare forms, indicating consistent clinic protocols.",
         "sections_covered": [
-            "immediate_symptoms_timeline",
-            "swelling_management",
-            "hygiene_instructions",
-            "product_use_instructions",
-            "activity_environmental_restrictions",
+            "immediate_symptoms",
+            "product_avoidance",
+            "skincare_restrictions",
+            "skincare_routine",
+            "activity_restrictions",
+            "environmental_protection",
+            "future_treatment_timing",
             "infection_awareness",
-            "follow_up_timing"
+            "follow_up_importance"
         ],
-        "clarity_issues": []
+        "form_similarity_note": "This form is identical to the previously processed Chemical Peel Aftercare form (submitted on 2024-01-15), confirming standardized clinic protocols for epidermal resurfacing treatments."
     },
     "form_data": {
-        "document_title": "Chemical Peel Aftercare - General Principles",
-        "introduction": "This document outlines the UNIVERSAL aftercare principles for chemical peel recovery. Adhering to these instructions is NON-NEGOTIABLE for proper healing, to achieve optimal results, and to minimise risks of complications, including scarring and pigment changes.",
+        "document_title": "CHEMICAL PEEL AFTERCARE",
+        "introduction": "The following aftercare advice is essential to help reduce the risk of treatment complications, to improve your comfort/healing and to help achieve the best possible results from treatment.",
         "instructions": {
-            "general_directive": "Follow these instructions precisely. Your peel aftercare is as important as the peel itself.",
+            "general_directive": "Please follow the aftercare advice for chemical peel.",
             "sections": [
                 {
-                    "title": "The Healing Timeline (General Guide)",
-                    "content": "Day 1-2: Redness, tightness, swelling. Day 2-5: Darkening, frosting (if applicable), followed by peeling/flaking. Day 5-7: Peeling completes, reveals pink, new skin. Day 7-14: Pinkness fades, hyperpigmentation may surface. Day 14+: Full results visible as skin matures. *Timeline varies by peel depth.*"
+                    "title": "Immediate Post-Treatment Symptoms",
+                    "content": "The treated area of skin may feel slightly tender and appear red and swollen afterwards. You may occasionally experience skin peeling and appearances may be similar to mild sunburn. These effects will resolve naturally and should be much improved after 48 hours but may take longer to settle. You may experience some minor bruising which may take 1-2 weeks to resolve in some cases."
                 },
                 {
-                    "title": "The Cardinal Rules",
+                    "title": "Product Avoidance (72 Hours)",
                     "items": [
-                        "1. SUN PROTECTION IS MANDATORY: New skin is extremely vulnerable. Avoid all direct sun. Apply a physical/mineral sunscreen (SPF 30-50) every 90 minutes if outdoors. Wear a wide-brimmed hat.",
-                        "2. MOISTURIZE CONSTANTLY: Keep the skin lubricated with the provided/approved ointment or moisturizer. Peeling skin that is dry will crack, itch, and heal poorly. 'Slugging' (applying a thick occlusive) at night may be recommended.",
-                        "3. DO NOT PICK OR PULL: Let the skin shed NATURALLY. Forcing peel can cause bleeding, scarring, infection, and permanent dyspigmentation.",
-                        "4. USE ONLY APPROVED PRODUCTS: Do not introduce any new active ingredients (retinoids, acids, Vitamin C) until cleared by your provider."
+                        "Avoid any perfumes, fake tan or other harsh chemicals for 72 hours after treatment.",
+                        "Avoid any makeup for 24 hours after treatment as this can increase the risk of infection.",
+                        "Avoid rubbing or picking the treated area.",
+                        "Avoid any skin exfoliation for 72 hours following treatment."
                     ]
                 },
                 {
-                    "title": "Cleansing",
-                    "content": "Cleanse only with a gentle, non-exfoliating wash as directed, using fingertips only. Pat dry, do not rub. You may be advised to use a diluted vinegar rinse for certain peels."
+                    "title": "Skincare Routine",
+                    "content": "It is important to use a regular moisturising cream around two to three times a day on the treated area. Use more regularly if you feel the skin dry or peeling."
                 },
                 {
-                    "title": "Managing Discomfort",
-                    "content": "Cool compresses can soothe burning/stinging. Sleep on your back with head elevated to reduce swelling. Over-the-counter pain relief (like acetaminophen) can be used if needed. Itching is common during peeling; an oral antihistamine may help."
+                    "title": "Active Ingredient Avoidance",
+                    "content": "Avoid any products that contain alpha hydroxy acids, retinol, and glycolic acid for at least 7 days after treatment."
                 },
                 {
-                    "title": "Activity Restrictions",
+                    "title": "Activity and Environmental Restrictions (72 Hours)",
                     "items": [
-                        "No exercise, sweating, saunas, steam, or hot showers until peeling is complete and skin is no longer open or raw.",
-                        "Avoid swimming (pools, ocean) until skin is fully healed (at least 1 week)."
+                        "Avoid strenuous exercise, saunas, sunbeds and exposure to heat for 72 hours after treatment. These can cause sweating which can irritate the delicate skin and slow down your ability to heal quickly.",
+                        "Avoid swimming for 72 hours after treatment."
                     ]
                 },
                 {
-                    "title": "Infection and Complication Awareness",
-                    "content": "Contact your provider IMMEDIATELY if you experience: Severe pain not relieved by cool compresses, signs of infection (yellow/green pus, increasing redness/warmth, fever), cold sore outbreak, or the development of large, painful blisters."
+                    "title": "Dietary Restrictions",
+                    "content": "Avoid any excess alcohol or caffeine for 48 hours after treatment."
                 },
                 {
-                    "title": "Makeup",
-                    "content": "Do not apply makeup until the initial peeling phase is completely finished (usually 5-7 days). Applying makeup over peeling skin can cause clumping and introduce bacteria."
+                    "title": "Sun Protection",
+                    "content": "Wear SPF 30 or greater sunscreen for at least 2 weeks following treatment as your skin will be more sensitive to sunlight afterwards."
                 },
                 {
-                    "title": "General Side Effects and Results Assessment",
+                    "title": "Future Treatment Timing",
                     "items": [
-                        "Expect redness and sensitivity for several weeks with deeper peels.",
-                        "Hyperpigmentation (darkening) can occur post-peel, especially with sun exposure. This is why SPF is critical.",
-                        "Final results are assessed at 4-6 weeks post-peel. Multiple peels are often needed for significant concerns.",
-                        "Attend all scheduled follow-up appointments."
+                        "Avoid any further cosmetic treatments e.g. Botox or dermal filler for 2 weeks following treatment, or ask your practitioner for advice.",
+                        "Avoid any hair removal treatments such as waxing for 2 weeks after treatment or until the initial redness and swelling has resolved."
+                    ]
+                },
+                {
+                    "title": "Infection Awareness",
+                    "content": "You must seek medical attention and contact your practitioner if you experience any signs or symptoms of infection after treatment. Infection can present as hot, red shiny skin, there may be pus formation and you may have a fever or feel generally unwell."
+                },
+                {
+                    "title": "General Side Effects and Follow-up",
+                    "items": [
+                        "You must contact your practitioner as soon as possible if you notice any other unwanted side effects.",
+                        "Your practitioner will advise when further treatment appointments are required. If you are advised to attend a follow up appointment, please do make every effort to attend them. You should do this even if you believe that the recovery process is going well and you cannot see that there are any visible complications."
                     ]
                 }
             ]
         },
         "patient_declaration": {
             "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
-            "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
+            "question_opportunity": "Please do let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
             "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
         }
     },
@@ -77,18 +88,35 @@
         "processing_date": "2024-01-15",
         "format_preserved": true,
         "form_type": "cosmetic_procedure_aftercare",
-        "treatment_type": "chemical_peel_general",
-        "treatment_area": "face",
+        "treatment_type": "chemical_peel",
         "document_length": "comprehensive",
-        "risk_coverage": "excellent",
+        "risk_coverage": "high",
         "emergency_protocols_included": true,
-        "area_specific_features": [
-            "universal_peel_principles",
-            "cardinal_rules_emphasis"
+        "time_phased_structure": true,
+        "specific_ingredient_restrictions": true,
+        "special_features": [
+            "specific ingredient avoidance (AHAs, retinol, glycolic acid)",
+            "clear differentiation of restriction timelines (24h, 48h, 72h, 2 weeks)",
+            "includes hair removal treatment restrictions",
+            "sun protection emphasized for 2-week period",
+            "follow-up compliance strongly emphasized"
         ],
-        "clarity_notes": [],
-        "recommendations": [
-            "Specific peel forms should reference this general document and then note any deviations (e.g., 'no vinegar rinse for this peel')."
-        ]
+        "form_similarities": {
+            "identical_to": [
+                "Previous Chemical Peel Aftercare",
+                "Carbon Laser Peel Aftercare",
+                "Microneedling Aftercare",
+                "Dermaplaning Aftercare"
+            ],
+            "differences": "Treatment type only",
+            "standardized_protocol": true,
+            "treatment_category": "epidermal_resurfacing"
+        },
+        "missing_sections": [
+            "allergy_emergency_protocol",
+            "specific_peel_type_guidance",
+            "expected_peeling_timeline_details"
+        ],
+        "note": "This is a duplicate submission of the Chemical Peel Aftercare form previously processed. The content is identical, indicating standardized clinic forms."
     }
 }

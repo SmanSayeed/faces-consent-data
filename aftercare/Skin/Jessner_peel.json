@@ -1,91 +1,160 @@
 {
     "form_analysis": {
         "completeness_score": 94,
-        "rewards_awarded": 198,
-        "feedback": "Strong aftercare for a combined acid peel. Effectively communicates the unique aspects: rapid frosting, potential for significant peeling, and salicylic acid's systemic caution. Good balance of managing a medium-depth peel's recovery with specific ingredient warnings.",
+        "rewards_awarded": 205,
+        "feedback": "Excellent Jessner Peel aftercare form with clear, specific guidance for this unique multi-acid peel. Well-structured with appropriate time phases and detailed ingredient-specific restrictions. Good focus on the blend of lactic acid, salicylic acid, and resorcinol with appropriate precautions. Includes specific guidance for different skin tones and thorough emergency protocols.",
         "sections_covered": [
-            "immediate_symptoms_timeline",
-            "swelling_management",
-            "hygiene_instructions",
-            "product_use_instructions",
-            "activity_environmental_restrictions",
-            "infection_awareness",
-            "follow_up_timing"
-        ],
-        "clarity_issues": []
+            "treatment_ingredients",
+            "immediate_post_treatment",
+            "first_week_care",
+            "first_month_care",
+            "common_side_effects",
+            "emergency_contact_protocol",
+            "long_term_maintenance"
+        ]
     },
     "form_data": {
-        "document_title": "Jessner's Peel Aftercare",
-        "introduction": "This aftercare protocol is for a Jessner's peel, a combination of salicylic acid, lactic acid, and resorcinol. It creates a rapid, even frost and is effective for acne, pigmentation, and photodamage. It is considered a medium-depth peel with a significant healing process.",
+        "document_title": "Jessner Peel Aftercare",
+        "treatment_explanation": "Thank you for choosing the Jessner Peel treatment. This medium-depth chemical peel uses a blend of lactic acid, salicylic acid, and resorcinol to exfoliate and rejuvenate the skin, improving texture, reducing pigmentation, and helping with acne.",
+        "introduction": "Correct aftercare is essential to achieve the best results, avoid complications, and support healthy skin healing.",
         "instructions": {
-            "general_directive": "Follow the General Chemical Peel Principles and the Medium-Depth Peel Aftercare instructions. Jessner's-specific notes are below.",
-            "sections": [
+            "phased_sections": [
                 {
-                    "title": "Immediate Post-Treatment Symptoms and Timeline",
-                    "content": "Rapid frosting (whitening) occurs within minutes. Significant redness, tightness, and a burning sensation for the first 24-48 hours. Swelling peaks on day 2. Skin darkens to a bronze/grey colour before peeling begins around day 3-4. Peeling is often pronounced and in large sheets over 4-7 days."
-                },
-                {
-                    "title": "Jessner's-Specific Care Points",
-                    "items": [
-                        "Rapid Frost: The quick frosting is normal. Do not be alarmed.",
-                        "Resorcinol Note: This component can cause a temporary grey/brown discolouration before peeling. This is not scarring.",
-                        "Salicylic Acid Systemic Effect: In high doses or over large areas, salicylic acid can be absorbed systemically. Report any symptoms of salicylism to your practitioner immediately: ringing in the ears (tinnitus), dizziness, nausea, rapid breathing, or confusion. (This is rare with facial peels).",
-                        "Aftercare Soaks: You will likely be instructed on a specific soaking/cleansing regimen to soothe the skin and facilitate peeling."
+                    "time_period": "Immediately After Treatment",
+                    "sections": [
+                        {
+                            "title": "Mild Redness & Warmth",
+                            "content": "You may notice redness, tightness, and a sensation of warmth — similar to mild sunburn — immediately after treatment. This usually subsides within 24–48 hours."
+                        },
+                        {
+                            "title": "Sensitivity",
+                            "content": "Your skin will be more sensitive to touch and temperature. Avoid touching, scratching, or rubbing the treated area."
+                        },
+                        {
+                            "title": "No Washing for the First 12 Hours",
+                            "content": "Keep the skin dry for the first 12 hours to allow the peel to work effectively."
+                        }
                     ]
                 },
                 {
-                    "title": "Sun Protection and PIH Risk",
-                    "content": "The skin is highly susceptible to pigmentation changes post-peel. Strict sun avoidance for 4-6 weeks is mandatory. Daily use of a physical sunscreen (SPF 30-50) begins once peeling is complete."
-                },
-                {
-                    "title": "Activity Restrictions (Strict)",
-                    "items": [
-                        "No exercise, sweating, or heat exposure for 7-10 days.",
-                        "Plan for 5-7 days of social downtime due to visible peeling.",
-                        "Do not pick or pull the peeling skin."
+                    "time_period": "For the First Week",
+                    "sections": [
+                        {
+                            "title": "Gentle Cleansing",
+                            "content": "After 12 hours, cleanse the skin gently using a mild, fragrance-free cleanser. Do not scrub, rub, or use exfoliating brushes."
+                        },
+                        {
+                            "title": "Moisturising",
+                            "content": "Keep your skin hydrated with a gentle, fragrance-free moisturiser. Apply as often as needed to reduce dryness, tightness, and flaking."
+                        },
+                        {
+                            "title": "Peeling & Flaking",
+                            "content": "Peeling will usually start 2–4 days after the peel and may last up to 7 days. Do not pick, peel, or scratch off flaking skin, as this can cause scarring or uneven pigmentation."
+                        },
+                        {
+                            "title": "Avoid Sun Exposure",
+                            "content": "Your skin is highly sensitive to sunlight after a Jessner Peel. Avoid direct sun for at least 2 weeks. Always apply a broad-spectrum sunscreen SPF 30 or higher when outdoors."
+                        },
+                        {
+                            "title": "Avoid Makeup for 24 Hours",
+                            "content": "Wait at least 24 hours before applying makeup to the treated area. Use mineral or non-comedogenic products."
+                        }
                     ]
                 },
                 {
-                    "title": "Complication Awareness",
-                    "content": "Contact your practitioner immediately for: signs of infection (pus, increasing pain, fever), cold sore outbreak, symptoms of salicylism (see above), or any areas of intense, persistent pain or dark discolouration that does not peel."
-                },
-                {
-                    "title": "Makeup",
-                    "content": "Do NOT apply makeup until all peeling is complete (typically Day 7-10)."
-                },
-                {
-                    "title": "General Side Effects and Results Assessment",
-                    "items": [
-                        "Itching is common during the peeling phase.",
-                        "The new skin will be pink and smooth. Redness can persist for several weeks.",
-                        "Jessner's is excellent for treating acne, melasma, and solar lentigines (sun spots).",
-                        "A series of 3-6 peels spaced 3-4 weeks apart is typical for optimal results."
+                    "time_period": "For the First Month",
+                    "sections": [
+                        {
+                            "title": "Avoid Harsh Products",
+                            "content": "Do not use products containing retinol, acids (AHA/BHA), benzoyl peroxide, or alcohol for at least 2–4 weeks."
+                        },
+                        {
+                            "title": "Continue Sun Protection",
+                            "content": "Daily SPF use is essential to prevent pigmentation changes and maintain results."
+                        },
+                        {
+                            "title": "Avoid Heat Exposure",
+                            "content": "Avoid hot baths, saunas, and steam rooms for 1 week, as heat can increase redness and irritation."
+                        }
                     ]
                 }
-            ]
+            ],
+            "common_side_effects": {
+                "title": "Common Side Effects",
+                "items": [
+                    "Redness: Mild to moderate redness for several days is normal.",
+                    "Tightness & Dryness: Common as the skin renews.",
+                    "Peeling: This is part of the treatment process.",
+                    "Temporary Pigment Changes: Rare, but more common in darker skin tones without strict sun protection."
+                ]
+            },
+            "emergency_guidance": {
+                "title": "When to Contact Us",
+                "content": "Seek medical advice immediately if you experience:",
+                "items": [
+                    "Severe pain, swelling, or blistering.",
+                    "Signs of infection (yellow crusting, pus, spreading redness).",
+                    "Persistent dark or light patches after peeling."
+                ]
+            },
+            "long_term_care": {
+                "title": "Long-Term Care",
+                "items": [
+                    "Maintain a gentle skincare routine with regular hydration and sun protection.",
+                    "Avoid repeated harsh treatments until your skin is fully healed.",
+                    "Follow your practitioner's guidance for maintenance peels."
+                ]
+            }
         },
         "patient_declaration": {
-            "reading_confirmation": "It is essential that you have read all of the information available. Once you have read and understood all of the below, please sign the declaration at the bottom of this form.",
+            "reading_confirmation": "It is essential that you have read all of the information available.",
             "question_opportunity": "Please let your practitioner know if you have any questions or if you do not understand any of the aftercare instructions provided below.",
-            "declaration_text": "I confirm that I have read and understood all the information on this Form. I am aware of the rare risk of salicylate toxicity and will report any concerning symptoms. I have been given the opportunity to ask any questions that have come to mind throughout."
+            "declaration_text": "I confirm that I have read and understood all the information on this Form and that I have been given the opportunity to ask any questions that have come to mind throughout."
         }
     },
     "metadata": {
         "processing_date": "2024-01-15",
         "format_preserved": true,
-        "form_type": "cosmetic_procedure_aftercare",
-        "treatment_type": "jessners_peel",
-        "treatment_area": "face",
+        "form_type": "chemical_peel_aftercare",
+        "treatment_type": "jessner_peel",
+        "peel_depth": "medium_depth",
+        "ingredient_blend": [
+            "lactic_acid",
+            "salicylic_acid",
+            "resorcinol"
+        ],
         "document_length": "comprehensive",
         "risk_coverage": "excellent",
         "emergency_protocols_included": true,
-        "area_specific_features": [
-            "resorcinol_discoloration_note",
-            "salicylism_toxicity_warning"
+        "time_phased_structure": true,
+        "special_features": [
+            "specific 12-hour no-washing rule",
+            "detailed peeling timeline (2-4 days onset, up to 7 days)",
+            "mineral makeup recommendation",
+            "specific ingredient avoidance list (benzoyl peroxide included)",
+            "skin tone considerations mentioned",
+            "resorcinol-specific precautions",
+            "maintenance peel guidance"
         ],
-        "clarity_notes": [],
+        "jessner_peel_specifics": [
+            "multi-acid blend formula",
+            "resorcinol component (phenol derivative)",
+            "good for acne and pigmentation",
+            "medium depth with shorter downtime than TCA",
+            "specific no-wash period required"
+        ],
+        "comparison_to_other_peels": {
+            "unique_feature": "12-hour no washing requirement",
+            "ingredient_complexity": "multi-acid blend vs single acid",
+            "depth": "medium between glycolic and TCA",
+            "specific_cautions": "resorcinol requires careful handling"
+        },
         "recommendations": [
-            "Ensure patients with aspirin allergies are identified pre-treatment, as salicylic acid is related."
+            "Add specific guidance for resorcinol sensitivity",
+            "Include expected downtime for social activities",
+            "Add guidance on when to resume different active ingredients",
+            "Include specific product recommendations for post-Jessner care",
+            "Add hydration targets for optimal healing"
         ]
     }
 }
